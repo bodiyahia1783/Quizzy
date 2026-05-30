@@ -1,0 +1,242 @@
+[
+  {
+    "question": "How has the primary purpose of zoos shifted over the last century?",
+    "options": [
+      "From conservation to public entertainment",
+      "From strictly scientific research to recreational parks",
+      "From entertainment-based collections to conservation-focused centers",
+      "From breeding centers to wild animal hospitals"
+    ],
+    "answer": "From entertainment-based collections to conservation-focused centers",
+    "explanation": {
+      "correct": "The text explains that zoos have undergone a 'radical' change. In the past, they were just collections of 'exotic animals' meant for public entertainment. Today, their primary responsibility is the conservation of animals facing extinction.",
+      "wrong_1": "This is the opposite of the truth; modern zoos have moved away from being purely for entertainment and toward conservation.",
+      "wrong_2": "While zoos do perform research, the text emphasizes that they have moved from being 'exotic collections' toward conservation, not away from science.",
+      "wrong_3": "While zoos do treat animals, the text specifically highlights their shift toward conservation and captive breeding, rather than just acting as hospitals."
+    }
+  },
+  {
+    "question": "The acronym 'CELRR' represents the five main functions of modern zoos. What does it stand for?",
+    "options": [
+      "Conservation, Education, Learning, Research, Recreation",
+      "Captivity, Ecology, Learning, Rehabilitation, Rescue",
+      "Collection, Evolution, Livestock, Reproduction, Restoration",
+      "Conservation, Environment, Life-sciences, Reintroduction, Rare-species"
+    ],
+    "answer": "Conservation, Education, Learning, Research, Recreation",
+    "explanation": {
+      "correct": "The text explicitly lists these five functions as the pillars of a modern zoo: Conservation (protecting species), Education (teaching the public), Learning (training professionals), Research (scientific study), and Recreation (leisure/funding).",
+      "wrong_1": "While some of these words are related to biology, the text specifically lists Conservation, Education, Learning, Research, and Recreation.",
+      "wrong_2": "The text mentions 'collections' as an old concept and 'reproduction' as part of breeding, but 'CELRR' refers to the specific five-function list provided.",
+      "wrong_3": "These are biological terms, but they do not match the five core functions defined in the provided text."
+    }
+  },
+  {
+    "question": "What is considered the 'main role' of zoos within the scope of conservation?",
+    "options": [
+      "Gathering as many different species as possible",
+      "Captive breeding and reintroduction into the wild",
+      "Providing affordable entertainment for families",
+      "Selling rare animals to other countries"
+    ],
+    "answer": "Captive breeding and reintroduction into the wild",
+    "explanation": {
+      "correct": "The text identifies 'captive breeding' (mating animals in a controlled environment) and 'reintroduction' (releasing them back to their natural habitats) as the primary conservation goals. This prevents extinction by boosting wild populations.",
+      "wrong_1": "Simply gathering species is the 'old' way zoos functioned (collections); the modern focus is on active conservation and breeding.",
+      "wrong_2": "Recreation (entertainment) is listed as a function, but the text calls it a 'subsidiary' activity to fund the main goal of conservation.",
+      "wrong_3": "Selling animals for profit is not mentioned; zoos act as breeding centers for 'rare animals' to ensure their survival, not for commerce."
+    }
+  },
+  {
+    "question": "What does the term 'Captive Breeding' mean in a zoo context?",
+    "options": [
+      "Training wild animals to perform for audiences",
+      "Capturing animals from the wild to keep them in cages",
+      "The process of breeding animals in controlled environments like zoos",
+      "Allowing animals to breed naturally without any human interference"
+    ],
+    "answer": "The process of breeding animals in controlled environments like zoos",
+    "explanation": {
+      "correct": "Captive breeding is a conservation strategy where humans manage the mating of endangered species in a protected environment (the zoo) to increase their numbers safely.",
+      "wrong_1": "This describes 'animal training' for entertainment, which the text suggests is an outdated or secondary focus compared to conservation.",
+      "wrong_2": "This is 'wild capture.' Captive breeding refers to the reproduction that happens *after* they are already in care.",
+      "wrong_3": "In captive breeding, humans often intervene (matching pairs, monitoring health) to ensure the best genetic outcomes for the survival of the species."
+    }
+  },
+  {
+    "question": "Why is 'Education' described as a fundamental part of conservation in the text?",
+    "options": [
+      "It helps zoos sell more tickets",
+      "It is required by law for all schools",
+      "It increases community awareness regarding the need for conservation",
+      "It teaches animals how to behave in the wild"
+    ],
+    "answer": "It increases community awareness regarding the need for conservation",
+    "explanation": {
+      "correct": "The text states that education is fundamental because it builds 'community awareness.' If the public understands why animals are endangered, they are more likely to support conservation efforts.",
+      "wrong_1": "While awareness might lead to more visitors, the text links education directly to the 'need for conservation,' not profit.",
+      "wrong_2": "The text does not mention legal requirements for schools; it focuses on the zoo's role in teaching the public.",
+      "wrong_3": "Education in this context refers to educating *humans* (the community), not the animals themselves."
+    }
+  },
+  {
+    "question": "How do zoos specifically benefit veterinary students according to the text?",
+    "options": [
+      "By providing free admission for all students",
+      "Through courses in wild and zoo animal medicine to improve practical skills",
+      "By allowing them to adopt endangered pets",
+      "By teaching them how to manage farm livestock"
+    ],
+    "answer": "Through courses in wild and zoo animal medicine to improve practical skills",
+    "explanation": {
+      "correct": "The text mentions that zoos play a key role for undergraduate and postgraduate vets by offering courses in 'wild and zoo animal medicine,' which helps them gain professional and practical skills.",
+      "wrong_1": "Admission costs are not discussed in relation to veterinary education.",
+      "wrong_2": "Endangered species are protected for conservation, not for private adoption.",
+      "wrong_3": "The text specifies 'wild and zoo animal medicine,' which is very different from 'livestock' (farm animal) medicine."
+    }
+  },
+  {
+    "question": "The text mentions research into 'Physiology.' As a vet student, what does this term refer to?",
+    "options": [
+      "The study of animal behavior and social structures",
+      "The study of how an animal's internal body systems function",
+      "The classification and naming of new species",
+      "The study of how animals interact with their environment"
+    ],
+    "answer": "The study of how an animal's internal body systems function",
+    "explanation": {
+      "correct": "Physiology is a branch of biology that deals with the normal functions of living organisms and their parts (e.g., how the heart pumps, how digestion works). Vets need this to treat sick animals.",
+      "wrong_1": "The study of behavior is specifically called 'Ethology' or 'Behavioral Science,' which the text lists as a separate research area.",
+      "wrong_2": "Classification is called 'Taxonomy.'",
+      "wrong_3": "The study of interactions with the environment is 'Ecology,' which is also listed separately in the text."
+    }
+  },
+  {
+    "question": "What is the primary purpose of 'Recreation' in the modern zoo according to the text?",
+    "options": [
+      "To provide a place for animals to play",
+      "To distract the public from conservation issues",
+      "To raise money to fund conservation activities",
+      "To replace the need for scientific research"
+    ],
+    "answer": "To raise money to fund conservation activities",
+    "explanation": {
+      "correct": "The text states that recreation is 'necessary for protection by raising money.' This means that the money people spend to visit the zoo for fun is used to pay for the expensive work of conservation and research.",
+      "wrong_1": "While animal enrichment (play) is important in zoos, 'recreation' here refers to the public's use of the zoo as a leisure destination.",
+      "wrong_2": "Recreation is intended to *support* conservation through funding, not to hide or distract from it.",
+      "wrong_3": "Recreation is 'subsidiary,' meaning it supports the other functions like research; it doesn't replace them."
+    }
+  },
+  {
+    "question": "What does the term 'Endangered Species' mean?",
+    "options": [
+      "Animals that are dangerous to humans",
+      "Animals that are common in every country",
+      "Species that are at risk of extinction",
+      "Species that have been domesticated for thousands of years"
+    ],
+    "answer": "Species that are at risk of extinction",
+    "explanation": {
+      "correct": "An endangered species is a type of organism that is in danger of disappearing from the Earth forever (extinction). The text notes that zoos focus research and breeding on these specific animals.",
+      "wrong_1": "An animal being 'dangerous' refers to its temperament, not its population count.",
+      "wrong_2": "If an animal is 'common,' it is not endangered.",
+      "wrong_3": "Domesticated animals (like cows or dogs) are usually not the focus of zoo conservation; the focus is on 'wild' and 'rare' animals."
+    }
+  },
+  {
+    "question": "Which of the following is NOT one of the research areas mentioned in the text?",
+    "options": [
+      "Physiology",
+      "Ecology",
+      "Behavior",
+      "Paleontology"
+    ],
+    "answer": "Paleontology",
+    "explanation": {
+      "correct": "Paleontology is the study of fossils and prehistoric life. The text specifically lists physiology, ecology, and behavior as the research areas for modern zoos focusing on *living* endangered species.",
+      "wrong_1": "Physiology is explicitly mentioned as a research area in the text.",
+      "wrong_2": "Ecology (the study of how organisms relate to one another and their surroundings) is explicitly mentioned.",
+      "wrong_3": "Behavior is explicitly mentioned as a research area in the text."
+    }
+  },
+  {
+    "question": "What does 'Reintroduction into the wildlife' involve?",
+    "options": [
+      "Moving an animal from one zoo to a bigger zoo",
+      "Releasing captive-bred animals back into their natural habitats",
+      "Selling zoo animals to private circuses",
+      "Bringing more wild animals into the zoo to breed"
+    ],
+    "answer": "Releasing captive-bred animals back into their natural habitats",
+    "explanation": {
+      "correct": "Reintroduction is the final step of a conservation program where animals raised in the zoo are safely returned to the wild to help restore declining populations.",
+      "wrong_1": "This is just a transfer between facilities; it does not help the population in the 'wild.'",
+      "wrong_2": "This would be the opposite of conservation and is not mentioned in the text.",
+      "wrong_3": "This is 'collection' or 'acquisition,' whereas reintroduction is about putting them *back* out into nature."
+    }
+  },
+  {
+    "question": "The text mentions that some activities are 'subsidiary.' What does this mean in this context?",
+    "options": [
+      "The activities are more important than conservation",
+      "The activities are illegal and hidden",
+      "The activities support and assist the main function (conservation)",
+      "The activities are only for children"
+    ],
+    "answer": "The activities support and assist the main function (conservation)",
+    "explanation": {
+      "correct": "The word 'subsidiary' means something that provides help or support to a primary goal. The text explains that education, research, and recreation all exist to 'improve and assist' the zoo's ability to perform conservation.",
+      "wrong_1": "The text says conservation is the 'main role,' so subsidiary activities are secondary to it.",
+      "wrong_2": "There is no mention of illegal activity; these are all legitimate functions of a modern zoo.",
+      "wrong_3": "While kids benefit from education and recreation, 'subsidiary' refers to the relationship between the zoo's goals, not the age of the visitors."
+    }
+  },
+  {
+    "question": "In the phrase 'conservation of biodiversity,' what does 'Biodiversity' most likely refer to?",
+    "options": [
+      "The different colors of animal fur",
+      "The variety of life in the world or in a particular habitat",
+      "The process of cleaning a zoo cage",
+      "The study of ancient human history"
+    ],
+    "answer": "The variety of life in the world or in a particular habitat",
+    "explanation": {
+      "correct": "Biodiversity (Biological Diversity) is the variety of all living things on Earth, including different species, their genetics, and the ecosystems they form. Zoos try to protect this variety.",
+      "wrong_1": "This is a tiny part of physical appearance, not the broad concept of 'life's variety.'",
+      "wrong_2": "This is sanitation/maintenance, not a biological concept.",
+      "wrong_3": "The study of human history is 'Anthropology' or 'History,' whereas biodiversity is a biological/environmental term."
+    }
+  },
+  {
+    "question": "What was the main problem with zoos in the past, as described by the text?",
+    "options": [
+      "They were too expensive for the public",
+      "Animals were held in cramped cages just for entertainment",
+      "They had too many scientists and not enough animals",
+      "They were located too far away from cities"
+    ],
+    "answer": "Animals were held in cramped cages just for entertainment",
+    "explanation": {
+      "correct": "The text contrasts modern zoos with those of the past, which were 'merely collections of exotic animals held in cramped cages for the entertainment of the general public.'",
+      "wrong_1": "The text doesn't mention the cost of zoos in the past.",
+      "wrong_2": "The text suggests the opposite: old zoos lacked the modern scientific and conservation focus they have now.",
+      "wrong_3": "The location of zoos is not discussed in the text."
+    }
+  },
+  {
+    "question": "What is the specific focus of the 'Learning' function for veterinarians?",
+    "options": [
+      "Learning how to manage the zoo's finances",
+      "Learning how to build better cages",
+      "Learning wild and zoo animal medicine to gain professional skills",
+      "Learning how to train animals for movies"
+    ],
+    "answer": "Learning wild and zoo animal medicine to gain professional skills",
+    "explanation": {
+      "correct": "The text specifically points out that zoos help students by offering courses in 'wild and zoo animal medicine,' which prepares them for careers as professional employees in the field.",
+      "wrong_1": "This would be a business or management degree, not a veterinary one.",
+      "wrong_2": "This would be related to engineering or architecture.",
+      "wrong_3": "The text focuses on 'medicine' and 'conservation,' not the entertainment industry or media training."
+    }
+  }
+]
