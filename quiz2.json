@@ -1,0 +1,274 @@
+[
+  {
+    "question": "The text mentions a shift in the role of zoos. What was the 'old' primary purpose of zoos a century ago?",
+    "options": [
+      "Scientific research and medicine",
+      "Entertainment of the public with exotic animals in cages",
+      "Environmental activism and legal reform",
+      "Release of domestic animals into the wild"
+    ],
+    "answer": "Entertainment of the public with exotic animals in cages",
+    "explanation": {
+      "correct": "Historically, zoos were 'menageries' where animals were kept in 'cramped cages' primarily for people to look at for fun. The text highlights that this role has 'changed radically' toward conservation.",
+      "wrong_1": "While zoos do this now, in the past, research was secondary to just showing off exotic animals.",
+      "wrong_2": "Environmental activism is a modern byproduct; historical zoos didn't focus on legal protections or biodiversity.",
+      "wrong_3": "Zoos focus on 'exotic' and 'wild' animals, not domestic pets like cats or dogs, and release programs are a modern conservation tool."
+    }
+  },
+  {
+    "question": "What does the acronym 'CELRR' stand for in the context of modern zoo functions?",
+    "options": [
+      "Collection, Ecology, Life, Reproduction, Rescue",
+      "Conservation, Education, Learning, Research, Recreation",
+      "Captivity, Evolution, Landscape, Restoration, Recovery",
+      "Climate, Environment, Laboratory, Regulation, Reintroduction"
+    ],
+    "answer": "Conservation, Education, Learning, Research, Recreation",
+    "explanation": {
+      "correct": "This acronym represents the five pillars of modern zoos. Conservation protects species, Education informs the public, Learning trains professionals (like you!), Research finds scientific answers, and Recreation provides the fun that funds the other four.",
+      "wrong_1": "While some of these words are biology-related, they aren't the five specific functions listed in the text.",
+      "wrong_2": "The text mentions recovery and restoration as part of conservation, but they aren't the main five headers of the CELRR acronym.",
+      "wrong_3": "These are environmental terms, but they do not match the specific list provided for zoo functions."
+    }
+  },
+  {
+    "question": "How do zoos specifically support the professional development of veterinary students?",
+    "options": [
+      "By hiring them to manage gift shops",
+      "By offering courses in wild and zoo animal medicine to improve practical skills",
+      "By teaching them how to treat domestic farm animals",
+      "By providing free pets for study at home"
+    ],
+    "answer": "By offering courses in wild and zoo animal medicine to improve practical skills",
+    "explanation": {
+      "correct": "The text notes that zoos serve as learning centers for undergraduate and postgraduate vets. They provide specialized training in 'wild and zoo animal medicine,' which is different from standard clinic work.",
+      "wrong_1": "Managing a shop is retail work, not professional veterinary training.",
+      "wrong_2": "The text specifies 'wild and zoo animal medicine.' Domestic farm animals (livestock) are usually studied in agricultural or standard vet settings, not zoos.",
+      "wrong_3": "Zoos protect endangered species for conservation; they do not give animals away as pets."
+    }
+  },
+  {
+    "question": "What was the significance of the 1992 UN Convention on Biological Diversity for zoos?",
+    "options": [
+      "It banned the existence of all zoos worldwide",
+      "It recognized the importance of species and habitat conservation, influencing zoo strategies",
+      "It mandated that all animals must be released by 2000",
+      "It created a global tax on zoo tickets"
+    ],
+    "answer": "It recognized the importance of species and habitat conservation, influencing zoo strategies",
+    "explanation": {
+      "correct": "This international agreement put 'biodiversity' on the global map. It led to the 'World Zoo and Aquarium Conservation Strategy,' forcing zoos to align their work with global conservation goals.",
+      "wrong_1": "The convention didn't ban zoos; it gave them a more important, science-based purpose.",
+      "wrong_2": "The text says zoos are 'conservators,' but it doesn't mention a mandate to release all animals by a specific year.",
+      "wrong_3": "While zoos raise money (recreation), the 1992 convention was about policy and conservation strategy, not ticket taxes."
+    }
+  },
+  {
+    "question": "Modern zoos are described as having 'limited space and resources.' How do they manage this limitation?",
+    "options": [
+      "By trying to save every single species on Earth",
+      "By prioritizing specific species for conservation breeding",
+      "By selling off half of their animals to private collectors",
+      "By ignoring the needs of endangered animals"
+    ],
+    "answer": "By prioritizing specific species for conservation breeding",
+    "explanation": {
+      "correct": "Because zoos cannot hold every animal in the world, they must 'prioritize.' This means they use scientific data to choose which species need help most or are most likely to be saved (salvageable).",
+      "wrong_1": "The text explicitly says they have 'limited space,' making it impossible to save every species.",
+      "wrong_2": "Zoos work with wildlife agencies to manage species, not sell them to private collectors, which would hurt conservation.",
+      "wrong_3": "Modern zoos take their role as 'conservators' seriously; ignoring endangered animals would go against their core mission."
+    }
+  },
+  {
+    "question": "The text mentions 'dynamic conservation programs.' Which of the following is an example of these programs?",
+    "options": [
+      "Animal circus performances",
+      "Recovery, reintroduction, and restocking",
+      "Building larger parking lots for visitors",
+      "Importing exotic animals for display only"
+    ],
+    "answer": "Recovery, reintroduction, and restocking",
+    "explanation": {
+      "correct": "Dynamic conservation means active management. This includes 'Recovery' (helping a species bounce back), 'Reintroduction' (putting them back in the wild), and 'Restocking' (adding individuals to an existing wild group).",
+      "wrong_1": "Circus performances are for entertainment, which is the 'old' zoo model the text says has changed.",
+      "wrong_2": "Infrastructure like parking lots is for visitors, not 'dynamic conservation' of species.",
+      "wrong_3": "Importing for 'display only' is the historical model; modern zoos import for breeding and genetic health."
+    }
+  },
+  {
+    "question": "In the context of conservation, what does 'strengthening of gene pools' mean?",
+    "options": [
+      "Teaching animals how to swim in deeper water",
+      "Ensuring genetic diversity within a species to keep the population healthy",
+      "Giving animals vitamins to make them stronger",
+      "Creating new species of animals through cross-breeding"
+    ],
+    "answer": "Ensuring genetic diversity within a species to keep the population healthy",
+    "explanation": {
+      "correct": "A 'gene pool' is the total collection of genes in a population. High genetic diversity makes a species more resistant to disease and better at adapting to changes. Zoos move animals around to ensure they don't inbreed.",
+      "wrong_1": "This is a literal interpretation of the word 'pool.' In biology, a gene pool refers to DNA, not water.",
+      "wrong_2": "While health is important, 'gene pools' refer specifically to the hereditary information (DNA) passed down through breeding.",
+      "wrong_3": "Conservation is about preserving *existing* species, not creating 'hybrids' or new species, which can actually harm biodiversity."
+    }
+  },
+  {
+    "question": "Why does the text refer to zoos as a 'living library'?",
+    "options": [
+      "Because they have a large collection of books about animals",
+      "Because they store biodiversity in the form of living organisms",
+      "Because visitors are expected to remain quiet like in a library",
+      "Because animals are kept on shelves"
+    ],
+    "answer": "Because store biodiversity in the form of living organisms",
+    "explanation": {
+      "correct": "Just as a library stores information in books for the future, zoos maintain 'living' examples of species. They preserve the 'biological heritage' of the planet that might otherwise be lost forever.",
+      "wrong_1": "The 'library' is a metaphor for the animals themselves, not a physical building full of books.",
+      "wrong_2": "While zoos can be educational, the 'living library' metaphor specifically refers to the preservation of species (the 'volumes' of life).",
+      "wrong_3": "Animals are kept in habitats, not on shelves; the metaphor refers to the 'storage' of genetic information and life forms."
+    }
+  },
+  {
+    "question": "What challenge do traditional zoos face in the 21st century according to Mason (2007)?",
+    "options": [
+      "A lack of interest in animals from the public",
+      "The emergence of many other types of day-visitor attractions in urban areas",
+      "A worldwide ban on the study of physiology",
+      "Animals becoming too intelligent to stay in zoos"
+    ],
+    "answer": "The emergence of many other types of day-visitor attractions in urban areas",
+    "explanation": {
+      "correct": "Zoos are 'urban-based attractions,' meaning they compete with cinemas, theme parks, and other modern activities. This competition 'challenges' their traditional role and forces them to be more relevant.",
+      "wrong_1": "The public is still interested in animals, but they have more options for where to go for a day trip.",
+      "wrong_2": "Physiology (the study of body functions) is encouraged and is one of the five functions of modern zoos.",
+      "wrong_3": "While we understand animal intelligence better now, the 'challenge' mentioned is related to competition with other urban attractions."
+    }
+  },
+  {
+    "question": "The text states that some argue zoo roles are 'not compatible.' What does this mean?",
+    "options": [
+      "That animals from different continents cannot live in the same zoo",
+      "That entertainment and scientific research might conflict with each other",
+      "That vets and researchers cannot work in the same building",
+      "That zoos cannot be built in cities"
+    ],
+    "answer": "That entertainment and scientific research might conflict with each other",
+    "explanation": {
+      "correct": "This is a common debate. Some believe that trying to be a 'fun park' (entertainment) might interfere with serious scientific work or the quiet needs of breeding animals (research/conservation).",
+      "wrong_1": "Zoos successfully house animals from different continents by creating different climate zones/habitats.",
+      "wrong_2": "Vets and researchers usually work closely together in zoos; the 'compatibility' issue is about the *goals* of the zoo (fun vs. science).",
+      "wrong_3": "Zoos are explicitly described as 'urban-based,' meaning they are already successfully built in cities."
+    }
+  },
+  {
+    "question": "What is meant by providing a 'temporary safe harbor' for a species?",
+    "options": [
+      "A place where animals can go to sleep at night",
+      "Protecting a species whose natural habitat has disappeared or been degraded until it can return",
+      "A specialized zoo located on a ship in the harbor",
+      "A hospital for injured domestic pets"
+    ],
+    "answer": "Protecting a species whose natural habitat has disappeared or been degraded until it can return",
+    "explanation": {
+      "correct": "Sometimes an animal's home in the wild is destroyed (deforested or polluted). Zoos act as a 'safe harbor'—a temporary home—to keep the species alive until their natural habitat can be restored.",
+      "wrong_1": "All animal enclosures provide a place to sleep, but 'safe harbor' refers to long-term species survival.",
+      "wrong_2": "This is a literal interpretation of 'harbor.' In this context, it means a place of safety or refuge.",
+      "wrong_3": "Zoos focus on wild/exotic biodiversity, not domestic pets like dogs or cats."
+    }
+  },
+  {
+    "question": "Which research area focuses on how animals interact with their environment?",
+    "options": [
+      "Physiology",
+      "Ecology",
+      "Behavior",
+      "Anatomy"
+    ],
+    "answer": "Ecology",
+    "explanation": {
+      "correct": "Ecology is the study of how living things interact with each other and their physical environment. Zoos research this to understand what an animal needs to survive if it is reintroduced to the wild.",
+      "wrong_1": "Physiology is about how the *internal* body works (organs, systems).",
+      "wrong_2": "Behavior is about the actions of the animal (how it moves, socializes, or hunts).",
+      "wrong_3": "Anatomy is the study of the physical structure of the body (bones, muscles), not environmental interactions."
+    }
+  },
+  {
+    "question": "According to the text, why is 'Recreation' (entertainment) still necessary for modern zoos?",
+    "options": [
+      "To keep the animals from getting bored",
+      "To raise money to fund conservation and research activities",
+      "Because the law requires every zoo to have a playground",
+      "To show that animals are better than humans"
+    ],
+    "answer": "To raise money to fund conservation and research activities",
+    "explanation": {
+      "correct": "Conservation and science are expensive. By providing a 'recreation' source for the public, zoos can generate the income (ticket sales, etc.) needed to pay for their vital conservation work.",
+      "wrong_1": "While animals need 'enrichment' to stay active, 'recreation' in the CELRR model refers to the human visitors' experience.",
+      "wrong_2": "The text doesn't mention specific playground laws; it focuses on the financial necessity of having visitors.",
+      "wrong_3": "The goal of zoos is to preserve 'biological heritage' and 'biodiversity,' not to rank animals against humans."
+    }
+  },
+  {
+    "question": "What does 'Restocking' involve in a conservation program?",
+    "options": [
+      "Buying more food for the zoo animals",
+      "Adding captive-bred individuals to an existing wild population of the same species",
+      "Replacing dead animals in a zoo display",
+      "Building new gift shops"
+    ],
+    "answer": "Adding captive-bred individuals to an existing wild population of the same species",
+    "explanation": {
+      "correct": "If a wild group of animals is becoming too small to survive on its own, zoos 'restock' that population by releasing healthy, captive-bred animals into the existing group to boost their numbers.",
+      "wrong_1": "This would be 'inventory management' or 'procurement,' not a conservation program for wildlife.",
+      "wrong_2": "While zoos do manage their own collections, 'restocking' as a conservation program refers to helping wild populations.",
+      "wrong_3": "This is related to the business side of recreation, not the biological side of conservation."
+    }
+  },
+  {
+    "question": "How do zoos coordinate the breeding of endangered species?",
+    "options": [
+      "Each zoo works completely alone without talking to others",
+      "They oversee breeding collectively and move animals between zoos carefully",
+      "They let the animals choose their own mates across different species",
+      "They only breed animals that are easy to take care of"
+    ],
+    "answer": "They oversee breeding collectively and move animals between zoos carefully",
+    "explanation": {
+      "correct": "To prevent inbreeding and keep the 'gene pool' strong, zoos work together. They share records and move animals from one zoo to another to ensure the best possible genetic matches.",
+      "wrong_1": "The text says this is done 'collectively,' meaning they work as a team across the nation.",
+      "wrong_2": "Breeding usually happens within the same species to preserve that specific biological heritage. Cross-species breeding is not a conservation goal.",
+      "wrong_3": "Zoos focus on 'rare' and 'endangered' species, which are often very difficult and expensive to take care of."
+    }
+  },
+  {
+    "question": "Even though zoos can only house a 'few individual animals,' why is their value still considered 'considerable'?",
+    "options": [
+      "Because those few animals are very expensive",
+      "Because of their significant educational value to the public",
+      "Because they take up a lot of space in the city",
+      "Because they are the only places where animals exist"
+    ],
+    "answer": "Because of their significant educational value to the public",
+    "explanation": {
+      "correct": "The text argues that while zoos can't hold thousands of every animal, the 'educational value' they provide to millions of visitors is huge. This education builds community support for global conservation.",
+      "wrong_1": "The value discussed is scientific and educational, not just the monetary price of the animals.",
+      "wrong_2": "Taking up space in a city is usually seen as a challenge (limited space), not a reason for high value.",
+      "wrong_3": "Animals still exist in the wild; zoos are 'conservators' and 'safe harbors' to help those wild populations survive."
+    }
+  },
+  {
+    "question": "According to Sally and Sanjay (2004), who else besides zoos needs to prioritize species?",
+    "options": [
+      "Local pet stores",
+      "Wildlife agencies",
+      "Construction companies",
+      "Individual pet owners"
+    ],
+    "answer": "Wildlife agencies",
+    "explanation": {
+      "correct": "The text notes that both zoos and wildlife agencies must prioritize. They need to focus their resources on species that need the most help or those that can only survive with 'intensive management.'",
+      "wrong_1": "Pet stores are commercial businesses and are not mentioned in the context of global conservation prioritization.",
+      "wrong_2": "Construction companies often cause habitat degradation, but the text focuses on the organizations trying to *save* species.",
+      "wrong_3": "Conservation of 'endangered species' and 'biological heritage' is a massive task handled by professional agencies, not individual pet owners."
+    }
+  }
+]
