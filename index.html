@@ -310,12 +310,9 @@
             </div>
             <p>You scored <strong id="percentage">0%</strong> in <strong id="final-time">00:00</strong>.</p>
             
-            <div class="nav-buttons" style="flex-direction: column; gap: 10px;">
-                <button id="share-btn" class="action-btn" style="background-color: #2ecc71;">🔗 Share Quiz Link</button>
-                <div style="display: flex; gap: 15px; width: 100%;">
-                    <button id="restart-btn" class="action-btn">Restart Same Quiz (Enter)</button>
-                    <button id="new-quiz-btn" class="action-btn secondary">Load New Quiz</button>
-                </div>
+            <div class="nav-buttons">
+                <button id="restart-btn" class="action-btn">Restart Same Quiz (Enter)</button>
+                <button id="new-quiz-btn" class="action-btn secondary">Load New Quiz</button>
             </div>
 
             <div class="review-list" id="review-list">
@@ -384,7 +381,6 @@
     const timerEl = document.getElementById('timer');
     const themeBtn = document.getElementById('theme-btn');
     const shuffleBtn = document.getElementById('shuffle-btn');
-    const shareBtn = document.getElementById('share-btn');
 
     // Theme Logic
     const currentTheme = localStorage.getItem('theme') ? localStorage.getItem('theme') : null;
@@ -430,7 +426,7 @@
         loadQuestion();
     }
 
-    // New: Start quiz from clipboard text
+    // Start quiz from clipboard text
     async function startQuizFromClipboard() {
         try {
             const text = await navigator.clipboard.readText();
@@ -458,7 +454,6 @@
 
     // Global Paste Listener
     document.addEventListener('paste', (e) => {
-        // Only trigger on setup block
         if (setupBlock.style.display !== 'none' && e.target.tagName !== 'TEXTAREA') {
             const pastedText = (e.clipboardData || window.clipboardData).getData('text');
             if (pastedText) {
@@ -656,48 +651,21 @@
         });
     }
 
-    // New: Share button logic to generate dynamic URL
-    shareBtn.addEventListener('click', () => {
-        playSound('click');
-        try {
-            const jsonString = JSON.stringify(quizData);
-            // تحويل النص لقاعدة Base64 عشان الرابط يكون سليم ومفهوم للمتصفح
-            const encodedData = btoa(unescape(encodeURIComponent(jsonString)));
-            const shareUrl = `${window.location.origin}${window.location.pathname}?quiz=${encodedData}`;
-            
-            navigator.clipboard.writeText(shareUrl).then(() => {
-                const originalText = shareBtn.innerText;
-                shareBtn.innerText = "✅ Link Copied to Clipboard!";
-                shareBtn.style.backgroundColor = "#27ae60";
-                setTimeout(() => {
-                    shareBtn.innerText = originalText;
-                    shareBtn.style.backgroundColor = "#2ecc71";
-                }, 2500);
-            }).catch(err => {
-                alert("Failed to copy link. Here it is: " + shareUrl);
-            });
-        } catch (e) {
-            alert("Error generating share link.");
-        }
-    });
-
     // Results screen buttons
     document.getElementById('restart-btn').addEventListener('click', () => {
         playSound('click');
-        initQuiz(quizData); // Re-initialize with the same data
+        initQuiz(quizData);
     });
 
     document.getElementById('new-quiz-btn').addEventListener('click', () => {
         playSound('click');
         resultBlock.style.display = 'none';
         setupBlock.style.display = 'block';
-        // مسح الباراميتر من الـ URL عند تحميل كويز جديد عشان نرجع للرئيسية التصفير
         window.history.pushState({}, document.title, window.location.pathname);
     });
 
     // Keyboard Support
     document.addEventListener('keydown', (e) => {
-        // Prevent keyboard shortcuts from triggering if typing in the textarea
         if (e.target.tagName === 'TEXTAREA' || e.target.tagName === 'INPUT') return;
 
         if (resultBlock.style.display === 'block') {
@@ -726,25 +694,27 @@
         }
     });
 
-    // New: تشغيل الكود تلقائياً لو الرابط يحتوي على أسئلة مبعوتة
+    // التعديل الجديد: قراءة اسم الملف من الرابط وعمل Fetch له تلقائياً
     window.addEventListener('DOMContentLoaded', () => {
         const urlParams = new URLSearchParams(window.location.search);
-        const quizParam = urlParams.get('quiz');
-        if (quizParam) {
-            try {
-                // فك التشفير وتحويل البيانات لـ Array
-                const decodedData = decodeURIComponent(escape(atob(quizParam)));
-                const parsedQuiz = JSON.parse(decodedData);
-                if (Array.isArray(parsedQuiz) && parsedQuiz.length > 0) {
-                    initQuiz(parsedQuiz);
-                }
-            } catch (e) {
-                console.error("Failed to load quiz from URL parameters.", e);
-                showError("The shared link contains invalid or corrupted quiz data.");
-            }
+        const fileParam = urlParams.get('file');
+        
+        if (fileParam) {
+            // بننظف اسم الملف عشان الأمان
+            const safeFileName = fileParam.replace(/[^a-zA-0-9_.-]/gi, '');
+            
+            fetch(`${safeFileName}.json`)
+                .then(res => {
+                    if (!res.ok) throw new Error(`Could not find ${safeFileName}.json file.`);
+                    return res.json();
+                })
+                .then(data => initQuiz(data))
+                .catch(err => {
+                    console.error(err);
+                    showError(`Failed to load quiz from link: ${err.message}`);
+                });
         }
     });
-
 </script>
 
 </body>
