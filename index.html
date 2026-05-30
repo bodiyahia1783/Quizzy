@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Fully Fledged Interactive Quiz</title>
-    <!-- Confetti Library -->
     <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
     <style>
         /* --- CSS Variables for Light/Dark Mode --- */
@@ -99,19 +98,6 @@
             gap: 15px;
             margin-top: 25px;
         }
-        textarea {
-            width: 100%;
-            box-sizing: border-box;
-            background: var(--btn-bg);
-            color: var(--text-color);
-            border: 2px solid var(--btn-border);
-            border-radius: 8px;
-            padding: 10px;
-            font-family: monospace;
-            resize: vertical;
-            margin-top: 15px;
-        }
-        textarea:focus { outline: none; border-color: var(--primary); }
 
         /* --- Progress Bar --- */
         .progress-header {
@@ -266,24 +252,12 @@
 
     <div class="quiz-container">
         
-        <!-- SETUP SECTION -->
         <div id="setup-block">
             <h2>Welcome!</h2>
-            <p style="color: var(--text-muted);">Launch your quiz instantly with your clipboard.</p>
-            
-            <div class="setup-options">
-                <button id="btn-clipboard-start" class="action-btn">🚀 Start from Clipboard (Scan & Start)</button>
-                <button id="btn-load-file" class="action-btn secondary">📁 Load from "quiz.json"</button>
-            </div>
-
-            <p style="font-size: 13px; color: var(--text-muted); margin-top: 15px;">
-                💡 <strong>Tip:</strong> Press <code>Ctrl + V</code> (Paste) anywhere to start <strong>instantly</strong> (no browser prompts).
-            </p>
-
+            <p style="color: var(--text-muted);">Loading quiz file...</p>
             <div id="setup-error" class="feedback feedback-wrong" style="margin-top: 15px;"></div>
         </div>
 
-        <!-- QUIZ SECTION -->
         <div id="quiz-block" style="display: none;">
             <div class="progress-header">
                 <span id="progress-text">Loading...</span>
@@ -302,7 +276,6 @@
             </div>
         </div>
         
-        <!-- RESULT SECTION -->
         <div id="result-block" style="display: none;">
             <h2 id="result-title">Quiz Completed!</h2>
             <div class="score-circle">
@@ -312,18 +285,15 @@
             
             <div class="nav-buttons">
                 <button id="restart-btn" class="action-btn">Restart Same Quiz (Enter)</button>
-                <button id="new-quiz-btn" class="action-btn secondary">Load New Quiz</button>
             </div>
 
             <div class="review-list" id="review-list">
-                <!-- Review items injected here -->
-            </div>
+                </div>
         </div>
     </div>
 </div>
 
 <script>
-    // --- Web Audio API for Sound Effects ---
     const AudioContext = window.AudioContext || window.webkitAudioContext;
     let audioCtx;
 
@@ -357,14 +327,12 @@
         }
     }
 
-    // App State
     let quizData = [];
     let currentQuestionIndex = 0;
     let userAnswers = []; 
     let timeElapsed = 0;
     let timerInterval = null;
 
-    // DOM Elements
     const setupBlock = document.getElementById('setup-block');
     const quizBlock = document.getElementById('quiz-block');
     const resultBlock = document.getElementById('result-block');
@@ -382,7 +350,6 @@
     const themeBtn = document.getElementById('theme-btn');
     const shuffleBtn = document.getElementById('shuffle-btn');
 
-    // Theme Logic
     const currentTheme = localStorage.getItem('theme') ? localStorage.getItem('theme') : null;
     if (currentTheme) {
         document.documentElement.setAttribute('data-theme', currentTheme);
@@ -399,7 +366,6 @@
         }
     });
 
-    // --- SETUP LOGIC ---
     function showError(msg) {
         setupError.innerHTML = `<strong>Error:</strong> ${msg}`;
         setupError.classList.add('show');
@@ -407,79 +373,20 @@
 
     function initQuiz(data) {
         if (!Array.isArray(data) || data.length === 0) {
-            showError("JSON must be a valid array containing at least one question.");
+            showError("JSON must be a valid array.");
             return;
         }
-
         quizData = data;
         userAnswers = new Array(quizData.length).fill(null);
         currentQuestionIndex = 0;
         timeElapsed = 0;
-
-        setupError.classList.remove('show');
         setupBlock.style.display = 'none';
-        resultBlock.style.display = 'none';
         quizBlock.style.display = 'block';
         gameControls.style.display = 'flex';
-
         startTimer();
         loadQuestion();
     }
 
-    // Start quiz from clipboard text
-    async function startQuizFromClipboard() {
-        try {
-            const text = await navigator.clipboard.readText();
-            if (!text.trim()) {
-                showError("Clipboard is empty. Please copy valid JSON first.");
-                return;
-            }
-            const data = JSON.parse(text);
-            initQuiz(data);
-            playSound('click');
-        } catch (err) {
-            if (err.name === 'NotAllowedError') {
-                showError("Clipboard access denied. Please allow permissions or use manual paste.");
-            } else if (err instanceof SyntaxError) {
-                showError("Clipboard doesn't contain valid quiz JSON.");
-            } else {
-                showError("Failed to read clipboard: " + err.message);
-            }
-        }
-    }
-
-    document.getElementById('btn-clipboard-start').addEventListener('click', () => {
-        startQuizFromClipboard();
-    });
-
-    // Global Paste Listener
-    document.addEventListener('paste', (e) => {
-        if (setupBlock.style.display !== 'none' && e.target.tagName !== 'TEXTAREA') {
-            const pastedText = (e.clipboardData || window.clipboardData).getData('text');
-            if (pastedText) {
-                try {
-                    const data = JSON.parse(pastedText);
-                    initQuiz(data);
-                    playSound('click');
-                } catch (err) {
-                    showError("Pasted content is not valid quiz JSON.");
-                }
-            }
-        }
-    });
-
-    document.getElementById('btn-load-file').addEventListener('click', () => {
-        playSound('click');
-        fetch('quiz.json')
-            .then(res => {
-                if (!res.ok) throw new Error("Could not load quiz.json. Are you running a local web server?");
-                return res.json();
-            })
-            .then(data => initQuiz(data))
-            .catch(err => showError(err.message));
-    });
-
-    // --- GAME LOGIC ---
     function formatTime(seconds) {
         const m = Math.floor(seconds / 60).toString().padStart(2, '0');
         const s = (seconds % 60).toString().padStart(2, '0');
@@ -541,7 +448,6 @@
         nextBtn.disabled = false;
 
         let feedbackHTML = "";
-
         if (isCorrect) {
             playSound('correct');
             selectedButton.classList.add('correct');
@@ -551,7 +457,6 @@
             playSound('wrong');
             selectedButton.classList.add('wrong');
             feedbackEl.classList.add('show', 'feedback-wrong');
-            
             allButtons.forEach(btn => { if(btn.innerText.includes(qData.answer)) btn.classList.add('correct'); });
 
             let wrongIndex = 1;
@@ -585,19 +490,11 @@
         if (currentQuestionIndex < quizData.length - 1) {
             let remainingQuestions = quizData.splice(currentQuestionIndex + 1);
             let remainingAnswers = userAnswers.splice(currentQuestionIndex + 1);
-            
             let indices = shuffleArray(remainingQuestions.map((_, i) => i));
-            let shuffledQ = indices.map(i => remainingQuestions[i]);
-            let shuffledA = indices.map(i => remainingAnswers[i]);
-            
-            shuffledQ.forEach(q => q.options = shuffleArray(q.options));
-            quizData = quizData.concat(shuffledQ);
-            userAnswers = userAnswers.concat(shuffledA);
+            quizData = quizData.concat(indices.map(i => remainingQuestions[i]));
+            userAnswers = userAnswers.concat(indices.map(i => remainingAnswers[i]));
         }
-        
         loadQuestion();
-        shuffleBtn.style.transform = "rotate(180deg)";
-        setTimeout(() => shuffleBtn.style.transform = "rotate(0deg)", 200);
     });
 
     nextBtn.addEventListener('click', () => {
@@ -629,19 +526,15 @@
         if (percent >= 70) {
             document.getElementById('result-title').innerText = "Amazing Job!";
             confetti({ particleCount: 150, spread: 70, origin: { y: 0.6 } });
-        } else {
-            document.getElementById('result-title').innerText = "Quiz Completed";
         }
 
         const reviewList = document.getElementById('review-list');
         reviewList.innerHTML = '<h3>Review Answers</h3>';
-
         quizData.forEach((q, index) => {
             const ans = userAnswers[index];
             const div = document.createElement('div');
             div.classList.add('review-item');
             div.style.borderColor = ans.isCorrect ? 'var(--correct-border)' : 'var(--wrong-border)';
-            
             div.innerHTML = `
                 <p><strong>Q${index + 1}: ${q.question}</strong></p>
                 <p style="margin:5px 0; font-size:14px;">Your Answer: <span style="color: ${ans.isCorrect ? 'var(--correct-text)' : 'var(--wrong-text)'}">${ans.selected}</span></p>
@@ -651,71 +544,36 @@
         });
     }
 
-    // Results screen buttons
     document.getElementById('restart-btn').addEventListener('click', () => {
         playSound('click');
         initQuiz(quizData);
     });
 
-    document.getElementById('new-quiz-btn').addEventListener('click', () => {
-        playSound('click');
-        resultBlock.style.display = 'none';
-        setupBlock.style.display = 'block';
-        window.history.pushState({}, document.title, window.location.pathname);
-    });
-
-    // Keyboard Support
     document.addEventListener('keydown', (e) => {
         if (e.target.tagName === 'TEXTAREA' || e.target.tagName === 'INPUT') return;
-
-        if (resultBlock.style.display === 'block') {
-            if (e.key === 'Enter') document.getElementById('restart-btn').click();
-            return;
-        }
-        
+        if (resultBlock.style.display === 'block' && e.key === 'Enter') { document.getElementById('restart-btn').click(); return; }
         if (quizBlock.style.display === 'block') {
-            if (e.key === 'Enter') {
-                if (!nextBtn.disabled) nextBtn.click();
-            } else if (e.key >= '1' && e.key <= '9') {
-                const index = parseInt(e.key) - 1;
-                const buttons = document.querySelectorAll('.option-btn');
-                if (buttons[index] && !buttons[index].disabled) {
-                    buttons[index].click();
-                }
+            if (e.key === 'Enter' && !nextBtn.disabled) nextBtn.click();
+            else if (e.key >= '1' && e.key <= '9') {
+                const btn = document.querySelectorAll('.option-btn')[parseInt(e.key) - 1];
+                if (btn && !btn.disabled) btn.click();
             }
         }
     });
 
-    // Warning before leaving
-    window.addEventListener('beforeunload', (e) => {
-        if (quizBlock.style.display === 'block' && currentQuestionIndex > 0) {
-            e.preventDefault();
-            e.returnValue = ''; 
-        }
-    });
-
-    // التعديل الجديد: قراءة اسم الملف من الرابط وعمل Fetch له تلقائياً
     window.addEventListener('DOMContentLoaded', () => {
         const urlParams = new URLSearchParams(window.location.search);
         const fileParam = urlParams.get('file');
+        const defaultFile = fileParam ? fileParam : 'New Text Document';
         
-        if (fileParam) {
-            // بننظف اسم الملف عشان الأمان
-            const safeFileName = fileParam.replace(/[^a-zA-0-9_.-]/gi, '');
-            
-            fetch(`${safeFileName}.json`)
-                .then(res => {
-                    if (!res.ok) throw new Error(`Could not find ${safeFileName}.json file.`);
-                    return res.json();
-                })
-                .then(data => initQuiz(data))
-                .catch(err => {
-                    console.error(err);
-                    showError(`Failed to load quiz from link: ${err.message}`);
-                });
-        }
+        fetch(`${defaultFile}.json`)
+            .then(res => {
+                if (!res.ok) throw new Error(`Could not find ${defaultFile}.json`);
+                return res.json();
+            })
+            .then(data => initQuiz(data))
+            .catch(err => showError(`Failed to load quiz: ${err.message}`));
     });
 </script>
-
 </body>
 </html>
