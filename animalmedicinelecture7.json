@@ -1,0 +1,562 @@
+[
+  {
+    "question": "What is the definition of a 'Home Range' in wildlife movement?",
+    "options": [
+      "The entire distance an animal travels during migration.",
+      "The area where an animal performs its normal daily activities and finds habitat needs.",
+      "A specific nesting site that animals protect from others.",
+      "The maximum distance an animal can physically run in one day."
+    ],
+    "answer": "The area where an animal performs its normal daily activities and finds habitat needs.",
+    "explanation": {
+      "correct": "In ecology, a 'Home Range' is the area an animal uses for its everyday life (eating, drinking, seeking shelter). The text specifies it is where the animal finds all habitat requirements. / في علم البيئة، 'المدى المنزلي' هو المنطقة التي يستخدمها الحيوان في حياته اليومية (الأكل، الشرب، البحث عن مأوى). يحدد النص أنها المنطقة التي يجد فيها الحيوان جميع متطلبات بيئته.",
+      "wrong_1": "Migration is a seasonal movement over long distances, whereas home range is for daily activity. / الهجرة هي حركة موسمية عبر مسافات طويلة، بينما المدى المنزلي مخصص للنشاط اليومي.",
+      "wrong_2": "Protecting a specific site is called 'Territoriality,' which is different from a general home range. / حماية موقع معين تسمى 'الإقليمية'، وهي تختلف عن المدى المنزلي العام.",
+      "wrong_3": "The maximum physical distance is related to 'cruising ability,' not the established home range area. / أقصى مسافة جسدية مرتبطة بـ 'القدرة الجوالة'، وليس بمساحة المدى المنزلي الثابتة."
+    }
+  },
+  {
+    "question": "How does the size of the home range generally differ between predators and prey?",
+    "options": [
+      "Prey have larger home ranges to escape easily.",
+      "Both have the same home range size.",
+      "Predators usually have larger home ranges than prey.",
+      "Predators have smaller home ranges to stay hidden."
+    ],
+    "answer": "Predators usually have larger home ranges than prey.",
+    "explanation": {
+      "correct": "Predators often need to cover more ground to hunt and find enough food (prey), which are often scattered. / غالبًا ما يحتاج المفترسون لتغطية مساحات أكبر للصيد والعثور على طعام كافٍ (الفريسة)، والتي غالبًا ما تكون مبعثرة.",
+      "wrong_1": "Prey usually stay in smaller, familiar areas where they know the hiding spots. / عادة ما تبقى الفرائس في مناطق أصغر ومألوفة حيث تعرف أماكن الاختباء.",
+      "wrong_2": "Ecologically, different roles in the food chain require different space needs. / بيئيًا، تتطلب الأدوار المختلفة في السلسلة الغذائية احتياجات مساحية مختلفة.",
+      "wrong_3": "Hiding is a behavior, but finding food requires a larger area for a carnivore. / الاختباء سلوك، لكن العثور على الطعام يتطلب مساحة أكبر للحيوان آكل اللحوم."
+    }
+  },
+  {
+    "question": "Regarding gender, which typically has a larger home range according to the text?",
+    "options": [
+      "Females, because they look for food for their young.",
+      "Males usually have larger home ranges.",
+      "Gender has no effect on home range size.",
+      "Juveniles always have the largest home range."
+    ],
+    "answer": "Males usually have larger home ranges.",
+    "explanation": {
+      "correct": "In many species, males roam larger areas to increase their chances of finding multiple mates or defending resources. / في العديد من الأنواع، يتجول الذكور في مناطق أكبر لزيادة فرصهم في العثور على شركاء تزاوج متعددين أو الدفاع عن الموارد.",
+      "wrong_1": "While females forage, their range is often restricted by the need to stay near a den or nest. / بينما تبحث الإناث عن الطعام، غالبًا ما يكون مداها مقيدًا بالحاجة إلى البقاء بالقرب من العرين أو العش.",
+      "wrong_2": "The text explicitly lists sex as a factor affecting home range size. / يذكر النص صراحة أن الجنس عامل يؤثر على حجم المدى المنزلي.",
+      "wrong_3": "Juveniles (young animals) often have smaller ranges until they establish their own territory. / الحيوانات الصغيرة غالبًا ما يكون لها مدى أصغر حتى تؤسس إقليمها الخاص."
+    }
+  },
+  {
+    "question": "What is the relationship between habitat quality (richness) and home range size?",
+    "options": [
+      "A rich habitat leads to a larger home range.",
+      "A poor habitat leads to a smaller home range.",
+      "A rich habitat requires a smaller home range.",
+      "Habitat quality does not affect home range."
+    ],
+    "answer": "A rich habitat requires a smaller home range.",
+    "explanation": {
+      "correct": "If a habitat is 'rich' (lots of food and water), the animal doesn't need to travel far to meet its needs. / إذا كانت البيئة 'غنية' (بها الكثير من الطعام والماء)، فلن يحتاج الحيوان للسفر بعيدًا لتلبية احتياجاته.",
+      "wrong_1": "In a rich habitat, an animal can find everything in a small area, so it doesn't expand its range. / في البيئة الغنية، يمكن للحيوان العثور على كل شيء في مساحة صغيرة، لذا لا يوسع مداه.",
+      "wrong_2": "In a poor habitat, animals must travel much further to find enough resources to survive. / في البيئة الفقيرة، يجب على الحيوانات السفر لمسافات أبعد بكثير للعثور على موارد كافية للبقاء.",
+      "wrong_3": "Habitat is one of the primary factors determining how much space an animal uses. / تعتبر البيئة أحد العوامل الأساسية التي تحدد مساحة المساحة التي يستخدمها الحيوان."
+    }
+  },
+  {
+    "question": "The Big horn ram is mentioned to have how many different home ranges?",
+    "options": [
+      "Only one for its whole life.",
+      "Two: one for summer and one for winter.",
+      "Seven: including autumn, pre-rutting, and salt lick.",
+      "It doesn't have a home range; it is purely migratory."
+    ],
+    "answer": "Seven: including autumn, pre-rutting, and salt lick.",
+    "explanation": {
+      "correct": "The text lists 7 specific ranges for the Big horn ram: autumn, pre-rutting, rutting, winter, spring, salt lick, and summer. / يدرج النص 7 نطاقات محددة لكبش 'بيغ هورن': الخريف، ما قبل التزاوج، التزاوج، الشتاء، الربيع، الملاحات، والصيف.",
+      "wrong_1": "The text explains that some animals have multiple seasonal home ranges. / يوضح النص أن بعض الحيوانات لديها عدة نطاقات منزلية موسمية.",
+      "wrong_2": "While it has summer and winter ranges, it also has several others related to breeding and minerals. / على الرغم من أن له نطاقات صيفية وشتوية، إلا أن له أيضًا عدة نطاقات أخرى متعلقة بالتكاثر والمعادن.",
+      "wrong_3": "The Big horn ram is used as an example of an animal with specific 'Home Ranges'. / يُستخدم كبش 'بيغ هورن' كمثال لحيوان ذو 'نطاقات منزلية' محددة."
+    }
+  },
+  {
+    "question": "What are 'Critical Areas' (also known as Key Areas)?",
+    "options": [
+      "Areas where predators are most likely to attack.",
+      "Parts of the home range containing essential, limiting resources like water.",
+      "The boundary lines between two different territories.",
+      "The center point of the home range where the animal sleeps."
+    ],
+    "answer": "Parts of the home range containing essential, limiting resources like water.",
+    "explanation": {
+      "correct": "Critical areas are vital because they provide resources that might be scarce but necessary, like water or nesting sites. / المناطق الحرجة حيوية لأنها توفر موارد قد تكون نادرة ولكنها ضرورية، مثل الماء أو مواقع التعشيش.",
+      "wrong_1": "While predators might be there, the definition focuses on resources like water/nesting. / في حين أن المفترسات قد تكون هناك، فإن التعريف يركز على الموارد مثل الماء/التعشيش.",
+      "wrong_2": "Boundaries are edges, but critical areas are specific functional spots within the range. / الحدود هي الأطراف، لكن المناطق الحرجة هي نقاط وظيفية محددة داخل المدى.",
+      "wrong_3": "A sleeping area (den) is a critical area, but the definition covers all limiting resources. / منطقة النوم (العرين) هي منطقة حرجة، لكن التعريف يشمل جميع الموارد المحددة."
+    }
+  },
+  {
+    "question": "Define 'Cruising Ability' as per the lecture notes.",
+    "options": [
+      "The speed at which an animal migrates.",
+      "An animal's maximum ability to traverse an area for habitat requirements.",
+      "The ability of an animal to swim across oceans.",
+      "The total distance an animal travels in its entire lifetime."
+    ],
+    "answer": "An animal's maximum ability to traverse an area for habitat requirements.",
+    "explanation": {
+      "correct": "Cruising ability represents the potential reach of an animal—how far it *can* go to find what it needs. / تمثل القدرة الجوالة الوصول المحتمل للحيوان - إلى أي مدى *يمكنه* الذهاب للعثور على ما يحتاجه.",
+      "wrong_1": "Cruising ability is about distance and coverage, not the velocity (speed) of movement. / القدرة الجوالة تتعلق بالمسافة والتغطية، وليس سرعة الحركة.",
+      "wrong_2": "This is a specific type of movement, but cruising ability is a general biological capacity. / هذا نوع محدد من الحركة، لكن القدرة الجوالة هي قدرة بيولوجية عامة.",
+      "wrong_3": "Lifetime distance is a cumulative measure, not a measure of traversal ability. / مسافة الحياة هي مقياس تراكمي، وليست مقياسًا للقدرة على العبور."
+    }
+  },
+  {
+    "question": "Which of the following is true regarding the size of the Home Range compared to Cruising Ability?",
+    "options": [
+      "The Home Range is always larger than the Cruising Ability.",
+      "They are always the exact same size.",
+      "The Home Range is smaller in size than the Cruising Ability.",
+      "Cruising Ability is only used by migratory animals."
+    ],
+    "answer": "The Home Range is smaller in size than the Cruising Ability.",
+    "explanation": {
+      "correct": "The 'Cruising Ability' is the maximum area an animal *could* cover, while the 'Home Range' is the area it *actually* uses. / 'القدرة الجوالة' هي أقصى مساحة *يمكن* للحيوان تغطيتها، بينما 'المدى المنزلي' هو المساحة التي يستخدمها *فعليًا*.",
+      "wrong_1": "An animal usually doesn't use its entire physical limit for daily activities. / عادة لا يستخدم الحيوان كامل حدوده الجسدية لنشاطاته اليومية.",
+      "wrong_2": "Biological potential (cruising) is almost always greater than the actual daily usage (home range). / الإمكانات البيولوجية (الجوالة) دائمًا ما تكون أكبر تقريبًا من الاستخدام اليومي الفعلي (المدى المنزلي).",
+      "wrong_3": "Both sedentary and migratory animals have a physical cruising ability. / كل من الحيوانات المستقرة والمهاجرة لديها قدرة جوالة جسدية."
+    }
+  },
+  {
+    "question": "Which animal is specifically mentioned for crossing the open ocean to lay eggs on ancestral beaches?",
+    "options": [
+      "Reindeer",
+      "Whales",
+      "Hawksbill turtle",
+      "Bats"
+    ],
+    "answer": "Hawksbill turtle",
+    "explanation": {
+      "correct": "The notes highlight sea turtles, specifically the Hawksbill, for their incredible navigation back to ancestral beaches. / تسلط الملاحظات الضوء على السلاحف البحرية، وتحديداً 'صقرية المنقار'، لملاحتها المذهلة للعودة إلى شواطئ الأجداد.",
+      "wrong_1": "Reindeer are terrestrial (land) migratory mammals. / الرنة هي ثدييات مهاجرة برية.",
+      "wrong_2": "Whales migrate in the ocean but do not lay eggs on beaches (they are mammals). / الحيتان تهاجر في المحيط لكنها لا تضع البيض على الشواطئ (فهي ثدييات).",
+      "wrong_3": "Bats are flying mammals; they do not cross oceans to lay eggs. / الخفافيش ثدييات طائرة؛ ولا تعبر المحيطات لتضع البيض."
+    }
+  },
+  {
+    "question": "According to the 'Northern Ancestral Home Theory', why did birds move south?",
+    "options": [
+      "They were looking for better food in the tropics.",
+      "They were forced south by the first ice sheet (Ice Age).",
+      "They were following other migratory mammals.",
+      "The northern hemisphere became too crowded."
+    ],
+    "answer": "They were forced south by the first ice sheet (Ice Age).",
+    "explanation": {
+      "correct": "This theory suggests that birds originally lived in the North, but the Ice Age pushed them away. / تشير هذه النظرية إلى أن الطيور عاشت في الأصل في الشمال، لكن العصر الجليدي دفعها بعيدًا.",
+      "wrong_1": "Looking for food in the tropics is part of the 'Southern Home Theory'. / البحث عن الطعام في المناطق الاستوائية جزء من 'نظرية الموطن الجنوبي'.",
+      "wrong_2": "The theory is based on geological changes (ice), not following other animals. / تعتمد النظرية على التغيرات الجيولوجية (الجليد)، وليس اتباع حيوانات أخرى.",
+      "wrong_3": "Crowding is a central point of the 'Southern Home Theory', not the Northern one. / الازدحام هو نقطة مركزية في 'نظرية الموطن الجنوبي'، وليس الشمالي."
+    }
+  },
+  {
+    "question": "The 'Southern Home Theory' states that birds spread north because:",
+    "options": [
+      "The tropics became crowded.",
+      "The south became too cold.",
+      "They were pushed by continental drift.",
+      "Daylight in the south became too short."
+    ],
+    "answer": "The tropics became crowded.",
+    "explanation": {
+      "correct": "This theory proposes that birds originated in the tropics but moved north to find quiet, open land and food. / تقترح هذه النظرية أن الطيور نشأت في المناطق الاستوائية لكنها انتقلت شمالاً للعثور على أرض هادئة ومفتوحة وطعام.",
+      "wrong_1": "The tropics are generally warm; the theory focuses on overpopulation/crowding. / المناطق الاستوائية دافئة بشكل عام؛ تركز النظرية على الاكتظاظ السكاني/الازدحام.",
+      "wrong_2": "Continental drift is a separate theory based on the movement of land masses. / زحزحة القارات نظرية منفصلة تعتمد على حركة كتل اليابسة.",
+      "wrong_3": "Photoperiodism deals with day length, not the Southern Home Theory. / تتعلق الاستجابة الضوئية بطول النهار، وليس بنظرية الموطن الجنوبي."
+    }
+  },
+  {
+    "question": "What does the 'Continental Drift' theory suggest about migration?",
+    "options": [
+      "Animals migrate because the continents are still moving today.",
+      "Flora and fauna were separated into different continents from one great land mass.",
+      "Birds migrate to follow the magnetic pull of the drifting continents.",
+      "Migration is caused by underwater volcanic eruptions."
+    ],
+    "answer": "Flora and fauna were separated into different continents from one great land mass.",
+    "explanation": {
+      "correct": "It suggests that as the single land mass (Pangea) split, animals were carried to new locations but retained their old habits. / تقترح أنه مع انقسام كتلة اليابسة الواحدة (بانجيا)، نُقلت الحيوانات إلى مواقع جديدة لكنها احتفظت بعاداتها القديمة.",
+      "wrong_1": "The theory focuses on the *origin* of migration due to historical separation, not current drift speed. / تركز النظرية على *أصل* الهجرة بسبب الانفصال التاريخي، وليس سرعة الزحف الحالية.",
+      "wrong_2": "While magnetism is used for navigation, this theory is about geological separation. / بينما يُستخدم المغناطيس للملاحة، فإن هذه النظرية تتعلق بالانفصال الجيولوجي.",
+      "wrong_3": "Volcanoes are not mentioned as a cause for migration in these notes. / لم يتم ذكر البراكين كسبب للهجرة في هذه الملاحظات."
+    }
+  },
+  {
+    "question": "What biological change is central to the 'Photoperiodism' theory of migration?",
+    "options": [
+      "Increase in muscle mass for flight.",
+      "Increase in size and activity of the gonads in spring.",
+      "Growth of thicker feathers for winter.",
+      "Changes in the color of the bird's eyes."
+    ],
+    "answer": "Increase in size and activity of the gonads in spring.",
+    "explanation": {
+      "correct": "Photoperiodism links the increase in daylight to hormonal changes and the growth of reproductive organs (gonads). / تربط الاستجابة الضوئية زيادة ضوء النهار بالتغيرات الهرمونية ونمو الأعضاء التناسلية (المناسل).",
+      "wrong_1": "Muscle mass is a result of preparation, but the *trigger* in this theory is hormonal/light-based. / كتلة العضلات هي نتيجة للتحضير، لكن *المحفز* في هذه النظرية هرموني/يعتمد على الضوء.",
+      "wrong_2": "Thicker feathers are an adaptation to cold, not the stimulus for migration. / الريش الأكثر سمكًا هو تكيف مع البرد، وليس المحفز للهجرة.",
+      "wrong_3": "Eye color is not related to the physiological stimulus for migration. / لون العين لا علاقة له بالمحفز الفسيولوجي للهجرة."
+    }
+  },
+  {
+    "question": "The experiment with Juncos birds showed that migration could be stimulated by:",
+    "options": [
+      "Changing the type of food they ate.",
+      "Artificial lighting that simulated spring day length.",
+      "Lowering the temperature to freezing.",
+      "Playing recordings of other birds migrating."
+    ],
+    "answer": "Artificial lighting that simulated spring day length.",
+    "explanation": {
+      "correct": "By using artificial light to mimic longer days, scientists triggered the birds' migratory instincts even in winter. / باستخدام الضوء الاصطناعي لمحاكاة الأيام الطويلة، حفز العلماء غرائز الهجرة لدى الطيور حتى في الشتاء.",
+      "wrong_1": "Food supply is a factor, but this specific experiment focused on light (photoperiod). / توفر الغذاء عامل، لكن هذه التجربة المحددة ركزت على الضوء (الفترة الضوئية).",
+      "wrong_2": "In the experiment, they were kept in winter temperatures but responded to the *light*. / في التجربة، تم الاحتفاظ بها في درجات حرارة شتوية لكنها استجابت *للضوء*.",
+      "wrong_3": "Social cues exist, but photoperiodism is a physiological response to light. / توجد إشارات اجتماعية، لكن الاستجابة الضوئية هي استجابة فسيولوجية للضوء."
+    }
+  },
+  {
+    "question": "Why does the Photoperiodism theory fail to explain migration in all birds?",
+    "options": [
+      "Some birds are blind and cannot see the light.",
+      "Tropical regions lack significant changes in day length.",
+      "Some birds migrate during the night.",
+      "Most birds migrate in the summer, not spring."
+    ],
+    "answer": "Tropical regions lack significant changes in day length.",
+    "explanation": {
+      "correct": "In the tropics, the day length is nearly constant year-round, so it cannot act as a seasonal trigger. / في المناطق الاستوائية، يكون طول النهار ثابتًا تقريبًا طوال العام، لذا لا يمكن أن يعمل كمحفز موسمي.",
+      "wrong_1": "Blindness is not the issue; the theory is about environmental light cycles. / العمى ليس هو المشكلة؛ النظرية تتعلق بدورات الضوء البيئية.",
+      "wrong_2": "Even nocturnal migrants respond to the total day length (photoperiod) before they leave. / حتى المهاجرون الليليون يستجيبون لإجمالي طول النهار قبل مغادرتهم.",
+      "wrong_3": "Migration happens in both spring and fall; the theory explains the stimulus for movement. / تحدث الهجرة في كل من الربيع والخريف؛ تشرح النظرية محفز الحركة."
+    }
+  },
+  {
+    "question": "What was the purpose of the 'cross fostering' experiment with gulls?",
+    "options": [
+      "To see if gulls could learn to fly faster.",
+      "To determine if migration is an 'educational' habit or 'hereditary' factor.",
+      "To prove that birds prefer parents of their own species.",
+      "To study the diet of different gull species."
+    ],
+    "answer": "To determine if migration is an 'educational' habit or 'hereditary' factor.",
+    "explanation": {
+      "correct": "By swapping eggs, researchers showed that birds followed the migration patterns of their genetic parents, not their foster parents. / من خلال تبديل البيض، أظهر الباحثون أن الطيور اتبعت أنماط هجرة والديها الجينيين، وليس والديها بالتبني.",
+      "wrong_1": "The experiment focused on direction and instinct, not flight speed. / ركزت التجربة على الاتجاه والغريزة، وليس سرعة الطيران.",
+      "wrong_2": "The gulls were raised by 'wrong' parents to see if they would copy them; it wasn't about preference. / تم تربية النوارس من قبل والدين 'خاطئين' لمعرفة ما إذا كانوا سيقلدونهم؛ لم يكن الأمر يتعلق بالتفضيل.",
+      "wrong_3": "Diet was not the variable being tested in this migration study. / لم يكن النظام الغذائي هو المتغير الذي تم اختباره في دراسة الهجرة هذه."
+    }
+  },
+  {
+    "question": "Which gull was 'migratory' in the cross-fostering experiment?",
+    "options": [
+      "The Herring gull.",
+      "The Lesser black-backed gull.",
+      "Both were migratory.",
+      "Neither was migratory."
+    ],
+    "answer": "The Lesser black-backed gull.",
+    "explanation": {
+      "correct": "The text identifies the Lesser black-backed gull as the migratory species in the experiment. / يحدد النص نورس 'أقل سواد الظهر' كنوع مهاجر في التجربة.",
+      "wrong_1": "The Herring gull was the non-migratory species in this specific study. / كان نورس 'الفضي' هو النوع غير المهاجر في هذه الدراسة المحددة.",
+      "wrong_2": "The experiment required one migratory and one non-migratory species to compare. / تطلبت التجربة نوعًا مهاجرًا وآخر غير مهاجر للمقارنة.",
+      "wrong_3": "If neither migrated, there would be no way to test the origin of migration. / إذا لم يهاجر أي منهما، فلن تكون هناك طريقة لاختبار أصل الهجرة."
+    }
+  },
+  {
+    "question": "What is the 'conclusion' regarding why birds migrate?",
+    "options": [
+      "It is entirely based on luck and wind direction.",
+      "Internal conditions predispose them, and external factors act as stimuli.",
+      "They only migrate because they are bored with their current habitat.",
+      "Birds only migrate when they are old enough to leave their parents."
+    ],
+    "answer": "Internal conditions predispose them, and external factors act as stimuli.",
+    "explanation": {
+      "correct": "Migration is a combination of biology (internal/genetics) and environment (external/weather/light). / الهجرة هي مزيج من البيولوجيا (داخلية/وراثية) والبيئة (خارجية/طقس/ضوء).",
+      "wrong_1": "While wind affects flight, the *decision* to migrate is biological. / بينما يؤثر الرياح على الطيران، فإن *قرار* الهجرة بيولوجي.",
+      "wrong_2": "Boredom is not a scientific driver for wildlife movement; survival is. / الملل ليس دافعًا علميًا لحركة الحياة البرية؛ البقاء هو الدافع.",
+      "wrong_3": "Migration happens across all age groups in many species, often synchronously. / تحدث الهجرة عبر جميع الفئات العمرية في العديد من الأنواع، وغالبًا ما يكون ذلك بشكل متزامن."
+    }
+  },
+  {
+    "question": "The 'Ringing' method of studying migration involves:",
+    "options": [
+      "Making loud noises to see which way birds fly.",
+      "Attaching numbered aluminum leg bands to birds.",
+      "Using a telephone to call observers in other countries.",
+      "Counting the number of rings in a bird's feathers."
+    ],
+    "answer": "Attaching numbered aluminum leg bands to birds.",
+    "explanation": {
+      "correct": "Ringing (or banding) allows scientists to identify specific individuals if they are caught again elsewhere. / التحجيل (أو وضع الأربطة) يسمح للعلماء بتحديد أفراد معينين إذا تم الإمساك بهم مرة أخرى في مكان آخر.",
+      "wrong_1": "Noises would scare birds but not help track their long-term path. / الضوضاء قد تخيف الطيور لكنها لن تساعد في تتبع مسارها على المدى الطويل.",
+      "wrong_2": "While researchers communicate, 'Ringing' refers to the physical band on the bird. / بينما يتواصل الباحثون، يشير 'التحجيل' إلى الرباط المادي على الطائر.",
+      "wrong_3": "Feathers do not have rings like trees; this is not a scientific method. / الريش لا يحتوي على حلقات مثل الأشجار؛ هذه ليست طريقة علمية."
+    }
+  },
+  {
+    "question": "What is a major disadvantage of the 'Ringing' method?",
+    "options": [
+      "It hurts the birds' ability to fly.",
+      "It requires great effort but gives minimum results (low recovery rate).",
+      "The aluminum bands are too heavy for small birds.",
+      "The bands fall off after only one day."
+    ],
+    "answer": "It requires great effort but gives minimum results (low recovery rate).",
+    "explanation": {
+      "correct": "You have to band thousands of birds just to have a few of them 'recovered' or found later. / يجب عليك تحجيل الآلاف من الطيور فقط ليتم 'استعادة' أو العثور على عدد قليل منها لاحقًا.",
+      "wrong_1": "Bands are designed to be lightweight and safe for the birds. / تم تصميم الأربطة لتكون خفيفة الوزن وآمنة للطيور.",
+      "wrong_2": "The weight is negligible for most birds if the correct size is used. / الوزن لا يكاد يذكر لمعظم الطيور إذا تم استخدام الحجم الصحيح.",
+      "wrong_3": "Bands are designed to stay on for the bird's entire life. / تم تصميم الأربطة لتبقى طوال حياة الطائر."
+    }
+  },
+  {
+    "question": "Moon watching is a method specifically used to study:",
+    "options": [
+      "Diurnal (daytime) migratory birds.",
+      "Nocturnal (nighttime) migratory birds.",
+      "The effects of gravity on bird flight.",
+      "Birds that only migrate during full solar eclipses."
+    ],
+    "answer": "Nocturnal (nighttime) migratory birds.",
+    "explanation": {
+      "correct": "Observers look at the moon and count the silhouettes of birds passing in front of it at night. / يراقب المراقبون القمر ويعدون ظلال الطيور التي تمر أمامه ليلاً.",
+      "wrong_1": "Daytime birds can be seen directly; you don't need the moon. / يمكن رؤية طيور النهار مباشرة؛ لا تحتاج إلى القمر.",
+      "wrong_2": "Gravity affects all birds, but moon watching is about tracking movement. / الجاذبية تؤثر على جميع الطيور، لكن مراقبة القمر تتعلق بتتبع الحركة.",
+      "wrong_3": "Solar eclipses are rare; the method uses the regular full moon. / كسوف الشمس نادر؛ تستخدم هذه الطريقة القمر المكتمل العادي."
+    }
+  },
+  {
+    "question": "What is the most productive (but expensive) method to determine migration pathways?",
+    "options": [
+      "Direct Observation",
+      "Ringing",
+      "Radiotelemetry",
+      "Moon watching"
+    ],
+    "answer": "Radiotelemetry.",
+    "explanation": {
+      "correct": "Radiotelemetry uses radio transmitters to give precise, real-time data on where a bird is. / يستخدم التتبع اللاسلكي أجهزة إرسال لاسلكية لإعطاء بيانات دقيقة وفي الوقت الفعلي عن مكان الطائر.",
+      "wrong_1": "Direct observation is often inaccurate and limited by human vision. / المراقبة المباشرة غالبًا ما تكون غير دقيقة ومحدودة بالرؤية البشرية.",
+      "wrong_2": "Ringing gives 'point A to point B' data, but not the path in between. / يعطي التحجيل بيانات 'من النقطة أ إلى النقطة ب'، ولكن ليس المسار بينهما.",
+      "wrong_3": "Moon watching only works at night and during clear weather with a moon. / مراقبة القمر تعمل فقط في الليل وخلال الطقس الصافي بوجود القمر."
+    }
+  },
+  {
+    "question": "In Radiotelemetry, how is the bird tracked after release?",
+    "options": [
+      "By looking through a telescope.",
+      "Using a mobile receiver in a truck or plane.",
+      "By following its footprints on the ground.",
+      "The bird returns to the lab every night."
+    ],
+    "answer": "Using a mobile receiver in a truck or plane.",
+    "explanation": {
+      "correct": "Scientists use antennas and receivers to pick up the signal from the bird's transmitter. / يستخدم العلماء الهوائيات وأجهزة الاستقبال لالتقاط الإشارة من جهاز إرسال الطائر.",
+      "wrong_1": "Telescopes can't track birds over hundreds of miles. / التلسكوبات لا يمكنها تتبع الطيور عبر مئات الأميال.",
+      "wrong_2": "Migratory birds fly; they don't leave continuous footprints across oceans. / الطيور المهاجرة تطير؛ لا تترك آثار أقدام مستمرة عبر المحيطات.",
+      "wrong_3": "Migratory birds are traveling away, not returning to the lab daily. / الطيور المهاجرة تسافر بعيدًا، ولا تعود إلى المختبر يوميًا."
+    }
+  },
+  {
+    "question": "What is a major limitation of Radar Observation in bird study?",
+    "options": [
+      "It cannot work at night.",
+      "It cannot identify the specific species of the bird.",
+      "It can only see birds within 1 kilometer.",
+      "It is affected by the bird's color."
+    ],
+    "answer": "It cannot identify the specific species of the bird.",
+    "explanation": {
+      "correct": "Radar shows 'blips' or masses moving, but it doesn't show feathers or colors to tell species apart. / يظهر الرادار 'ومضات' أو كتلًا تتحرك، لكنه لا يظهر الريش أو الألوان لتمييز الأنواع.",
+      "wrong_1": "Radar works perfectly at night; that's one of its strengths. / الرادار يعمل بشكل مثالي في الليل؛ وهذه إحدى نقاط قوته.",
+      "wrong_2": "Radar can detect birds up to 100 kilometers away. / يمكن للرادار اكتشاف الطيور على بعد يصل إلى 100 كيلومتر.",
+      "wrong_3": "Radar uses radio waves, which reflect off the bird's body regardless of color. / يستخدم الرادار موجات الراديو، التي تنعكس عن جسم الطائر بغض النظر عن لونه."
+    }
+  },
+  {
+    "question": "Direct Observation as a study method is described as:",
+    "options": [
+      "The most accurate scientific method.",
+      "Highly expensive due to technology.",
+      "Inaccurate because it depends only on vision.",
+      "Useful only for nocturnal birds."
+    ],
+    "answer": "Inaccurate because it depends only on vision.",
+    "explanation": {
+      "correct": "Humans can easily miss birds, miscount them, or misidentify them from a distance. / يمكن للبشر بسهولة أن يفوتوا رؤية الطيور، أو يخطئوا في عدها، أو يخطئوا في التعرف عليها من مسافة بعيدة.",
+      "wrong_1": "It is actually one of the least accurate methods mentioned. / هي في الواقع واحدة من أقل الطرق دقة المذكورة.",
+      "wrong_2": "It is cheap because it doesn't use much technology, just binoculars and eyes. / هي رخيصة لأنها لا تستخدم الكثير من التكنولوجيا، فقط المناظير والعيون.",
+      "wrong_3": "It is mostly useful for diurnal (daytime) birds because humans can't see well at night. / هي مفيدة في الغالب لطيور النهار لأن البشر لا يستطيعون الرؤية جيدًا في الليل."
+    }
+  },
+  {
+    "question": "How do Wind and Weather factors affect migration?",
+    "options": [
+      "They only affect the bird's color.",
+      "They can help, hinder, or even crush birds in flight.",
+      "They have no impact because birds are strong flyers.",
+      "Weather only affects mammals, not birds."
+    ],
+    "answer": "They can help, hinder, or even crush birds in flight.",
+    "explanation": {
+      "correct": "Tailwinds help birds save energy, while storms can be deadly (crushing them or blowing them off course). / تساعد الرياح الخلفية الطيور على توفير الطاقة، بينما يمكن أن تكون العواصف مميتة (تحطمها أو تدفعها بعيدًا عن مسارها).",
+      "wrong_1": "Color is genetic/environmental over time, not a direct effect of a wind gust. / اللون وراثي/بيئي بمرور الوقت، وليس تأثيرًا مباشرًا لهبة ريح.",
+      "wrong_2": "Even the strongest birds can be exhausted or killed by severe weather. / حتى أقوى الطيور يمكن أن تنهك أو تقتل بسبب الطقس القاسي.",
+      "wrong_3": "Weather is a critical factor for all migrating wildlife, especially flying ones. / الطقس عامل حاسم لجميع الحيوانات البرية المهاجرة، وخاصة الطائرة منها."
+    }
+  },
+  {
+    "question": "Which of these is a 'Mammal' that performs migratory movement?",
+    "options": [
+      "Hawksbill turtle",
+      "Swallows",
+      "Reindeer",
+      "Fly catcher"
+    ],
+    "answer": "Reindeer.",
+    "explanation": {
+      "correct": "Reindeer (caribou) are classic examples of large land mammals that migrate seasonally. / الرنة (الكاريبو) هي أمثلة كلاسيكية على الثدييات البرية الكبيرة التي تهاجر موسميًا.",
+      "wrong_1": "A turtle is a reptile, not a mammal. / السلحفاة زاحف، وليس من الثدييات.",
+      "wrong_2": "Swallows are birds, not mammals. / السنونو طيور، وليست من الثدييات.",
+      "wrong_3": "A fly catcher is a bird that eats insects, not a mammal. / صائد الذباب طائر يأكل الحشرات، وليس من الثدييات."
+    }
+  },
+  {
+    "question": "What is the main reason Fly catchers or Swallows migrate south from the north in winter?",
+    "options": [
+      "To find more salt licks.",
+      "Shortage of food supply, especially insects.",
+      "To find better nesting materials.",
+      "Because they dislike the color of snow."
+    ],
+    "answer": "Shortage of food supply, especially insects.",
+    "explanation": {
+      "correct": "Insects die or become dormant in freezing northern winters, leaving these birds with nothing to eat. / تموت الحشرات أو تدخل في حالة سكون في فصول الشتاء الشمالية القارسة، مما يترك هذه الطيور بلا شيء تأكله.",
+      "wrong_1": "Salt licks are usually for mammals like the Big horn ram. / الملاحات عادة ما تكون للثدييات مثل كبش 'بيغ هورن'.",
+      "wrong_2": "They migrate to survive; nesting happens later in the spring. / إنهم يهاجرون من أجل البقاء؛ التعشيش يحدث لاحقًا في الربيع.",
+      "wrong_3": "Animals don't migrate based on aesthetic preferences like color. / الحيوانات لا تهاجر بناءً على التفضيلات الجمالية مثل اللون."
+    }
+  },
+  {
+    "question": "The 'periodicity of sharp winter and summer' introduced what in birds, according to the Northern Ancestral Theory?",
+    "options": [
+      "A fear of the cold.",
+      "A migratory rhythm that became a hereditary habit.",
+      "The ability to hibernate.",
+      "A change in their singing patterns."
+    ],
+    "answer": "A migratory rhythm that became a hereditary habit.",
+    "explanation": {
+      "correct": "The theory suggests that repeating the cycle for generations eventually encoded it into their DNA. / تقترح النظرية أن تكرار الدورة لأجيال أدى في النهاية إلى تشفيرها في حمضهم النووي.",
+      "wrong_1": "It's not about fear, but a biological 'rhythm' or clock. / الأمر لا يتعلق بالخوف، بل بـ 'إيقاع' بيولوجي أو ساعة.",
+      "wrong_2": "Most migratory birds do not hibernate; they move to stay active. / معظم الطيور المهاجرة لا تدخل في سبات؛ بل تتحرك لتبقى نشطة.",
+      "wrong_3": "While songs change, the main point of the theory is the movement (migration). / بينما تتغير الأغاني، فإن النقطة الرئيسية للنظرية هي الحركة (الهجرة)."
+    }
+  },
+  {
+    "question": "What does the term 'Limiting habitat resources' refer to in the context of critical areas?",
+    "options": [
+      "Resources that are infinite and everywhere.",
+      "Resources that restrict population growth if they are missing (like water).",
+      "Resources that only humans use.",
+      "Resources that birds only need during migration."
+    ],
+    "answer": "Resources that restrict population growth if they are missing (like water).",
+    "explanation": {
+      "correct": "A 'limiting' resource is something the animal *must* have to survive, but it's not available everywhere. / المورد 'المحدد' هو شيء *يجب* أن يمتلكه الحيوان للبقاء على قيد الحياة، ولكنه ليس متاحًا في كل مكان.",
+      "wrong_1": "If it were everywhere, it wouldn't be 'limiting' or define a 'critical area'. / لو كان في كل مكان، لما كان 'محددًا' ولما حدد 'منطقة حرجة'.",
+      "wrong_2": "This is about wildlife ecology, not human resources. / هذا يتعلق ببيئة الحياة البرية، وليس الموارد البشرية.",
+      "wrong_3": "These resources are needed for daily survival in the home range. / هذه الموارد مطلوبة للبقاء اليومي في المدى المنزلي."
+    }
+  },
+  {
+    "question": "Why is the Northern Ancestral Home Theory criticized in the text?",
+    "options": [
+      "Because the Ice Age never happened.",
+      "Because birds cannot fly that far.",
+      "It explains how migration started but not the origin of the impulse itself.",
+      "It only applies to fish."
+    ],
+    "answer": "It explains how migration started but not the origin of the impulse itself.",
+    "explanation": {
+      "correct": "The text notes that while it describes the 'how' (ice pushing them), it doesn't explain the underlying biological 'origin'. / يشير النص إلى أنه بينما يصف 'كيفية' حدوث ذلك (دفع الجليد لهم)، فإنه لا يشرح 'الأصل' البيولوجي الكامن وراء ذلك.",
+      "wrong_1": "The Ice Age is a proven geological event. / العصر الجليدي هو حدث جيولوجي مثبت.",
+      "wrong_2": "Birds are famous for flying extremely long distances. / تشتهر الطيور بالطيران لمسافات طويلة جدًا.",
+      "wrong_3": "The theory specifically discusses birds in the northern hemisphere. / تناقش النظرية تحديدًا الطيور في نصف الكرة الشمالي."
+    }
+  },
+  {
+    "question": "In the Southern Home Theory, why did birds return to the 'ancestral home'?",
+    "options": [
+      "They missed their parents.",
+      "After finding food in the north, they return to the tropics (ancestral home).",
+      "To avoid the northern summer heat.",
+      "Because they forgot where the north was."
+    ],
+    "answer": "After finding food in the north, they return to the tropics (ancestral home).",
+    "explanation": {
+      "correct": "The theory says they go north for space/food but return to their original tropical roots. / تقول النظرية أنهم يذهبون شمالاً من أجل المساحة/الطعام ولكنهم يعودون إلى جذورهم الاستوائية الأصلية.",
+      "wrong_1": "Migration is driven by survival and instinct, not emotional 'missing'. / الهجرة مدفوعة بالبقاء والغريزة، وليس 'الافتقاد' العاطفي.",
+      "wrong_2": "Usually, the north is cooler than the tropics in summer; they return when the north gets cold. / عادة ما يكون الشمال أبرد من المناطق الاستوائية في الصيف؛ ويعودون عندما يبرد الشمال.",
+      "wrong_3": "Birds have incredible navigation systems and rarely 'forget' their route. / تمتلك الطيور أنظمة ملاحة مذهلة ونادرًا ما 'تنسى' طريقها."
+    }
+  },
+  {
+    "question": "Which of these is NOT one of the things we should know to learn about migration?",
+    "options": [
+      "Where does the bird spend its winter?",
+      "Does it migrate by day or night?",
+      "What is the bird's favorite color?",
+      "What about its speed?"
+    ],
+    "answer": "What is the bird's favorite color?",
+    "explanation": {
+      "correct": "Favorite color is not a scientific metric for studying migratory patterns. / اللون المفضل ليس مقياسًا علميًا لدراسة أنماط الهجرة.",
+      "wrong_1": "Knowing wintering grounds is essential to understanding the full cycle. / معرفة مناطق التشتية أمر ضروري لفهم الدورة الكاملة.",
+      "wrong_2": "Timing (diurnal vs. nocturnal) tells us about the bird's behavior and risks. / التوقيت (نهاري مقابل ليلي) يخبرنا عن سلوك الطائر ومخاطره.",
+      "wrong_3": "Speed helps calculate travel time and energy needs. / السرعة تساعد في حساب وقت السفر واحتياجات الطاقة."
+    }
+  },
+  {
+    "question": "A radio-transmitter used in Radiotelemetry for a bird typically weighs about:",
+    "options": [
+      "1 kilogram",
+      "2.5 grams",
+      "100 grams",
+      "500 grams"
+    ],
+    "answer": "2.5 grams.",
+    "explanation": {
+      "correct": "Transmitters must be very light (like 2.5g) so they don't interfere with the bird's ability to fly long distances. / يجب أن تكون أجهزة الإرسال خفيفة جدًا (مثل 2.5 جم) حتى لا تتداخل مع قدرة الطائر على الطيران لمسافات طويلة.",
+      "wrong_1": "1kg would be far too heavy for almost any bird to carry. / 1 كجم سيكون ثقيلاً جدًا بحيث لا يمكن لأي طائر تقريبًا حمله.",
+      "wrong_2": "100g is still quite heavy for smaller migratory songbirds. / 100 جم لا تزال ثقيلة جدًا بالنسبة للطيور المغردة المهاجرة الصغيرة.",
+      "wrong_3": "Half a kilogram (500g) would ground most migratory birds. / نصف كيلوغرام (500 جم) من شأنه أن يمنع معظم الطيور المهاجرة من الطيران."
+    }
+  },
+  {
+    "question": "In the context of population, why does a large population need more home range space?",
+    "options": [
+      "Because they like to play together.",
+      "To avoid competition and ensure enough food for everyone.",
+      "So they can find more predators.",
+      "Large populations actually need less space."
+    ],
+    "answer": "To avoid competition and ensure enough food for everyone.",
+    "explanation": {
+      "correct": "More individuals mean more demand for resources; if the area is too small, they will starve. / زيادة عدد الأفراد تعني زيادة الطلب على الموارد؛ إذا كانت المنطقة صغيرة جدًا، فسوف يتضورون جوعًا.",
+      "wrong_1": "Socializing is a behavior, but the *need* for space is resource-driven. / التنشئة الاجتماعية سلوك، لكن *الحاجة* للمساحة مدفوعة بالموارد.",
+      "wrong_2": "Animals try to avoid predators, not find them. / تحاول الحيوانات تجنب المفترسات، وليس العثور عليها.",
+      "wrong_3": "Biologically, higher density usually forces the population to spread out to find food. / بيولوجيًا، تجبر الكثافة العالية عادةً السكان على الانتشار للعثور على الطعام."
+    }
+  }
+]
