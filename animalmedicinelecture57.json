@@ -1,0 +1,803 @@
+
+[
+{
+"question": "Ataxia myoglobinuric syndrome typically appears how long after capture?",
+"options": [
+"Within 1 hour only",
+"Several hours to several days",
+"Exactly 2 weeks later",
+"Immediately during restraint"
+],
+"answer": "Several hours to several days",
+"explanation": {
+"correct_en": "This syndrome is a delayed manifestation of capture stress, occurring hours to days after the event.",
+"correct_ar": "المتلازمة دي بتظهر كأثر متأخر للإجهاد الناتج عن الصيد، وبتاخد من كام ساعة لكام يوم.",
+"wrong_1_en": "One hour is too early for the full development of myoglobinuric signs.",
+"wrong_1_ar": "ساعة واحدة وقت قليل جداً إن أعراض الميوجلوبين تظهر بالكامل.",
+"wrong_2_en": "Two weeks is too late; the acute metabolic crisis happens much sooner.",
+"wrong_2_ar": "أسبوعين وقت طويل جداً، الأزمة الأيضية الحادة بتحصل أسرع من كدة.",
+"wrong_3_en": "Immediate signs are usually 'Capture Shock', not the full myoglobinuric syndrome.",
+"wrong_3_ar": "الأعراض الفورية بتكون صدمة صيد، مش المتلازمة البولية الميوجلوبينية الكاملة."
+}
+},
+{
+"question": "Which clinical sign is characteristic of Ataxia Myoglobinuric Syndrome?",
+"options": [
+"Hyperactivity",
+"Torticollis",
+"Polyuria",
+"Bright red urine"
+],
+"answer": "Torticollis",
+"explanation": {
+"correct_en": "Torticollis (twisted neck) occurs due to severe muscle damage and necrosis in the cervical region.",
+"correct_ar": "التواء الرقبة (Torticollis) بيحصل بسبب تلف العضلات النخري في منطقة الرقبة.",
+"wrong_1_en": "Animals are usually ataxic or depressed, not hyperactive.",
+"wrong_1_ar": "الحيوانات عادة بكون عندها ترنح أو خمول، مش نشاط زايد.",
+"wrong_2_en": "Oliguria or anuria is more common due to renal failure, not polyuria.",
+"wrong_2_ar": "نقص البول أو انقطاعه هو اللي بيحصل بسبب الفشل الكلوي، مش زيادته.",
+"wrong_3_en": "The urine is typically brownish (myoglobinuria), not bright red (hematuria).",
+"wrong_3_ar": "البول بيبقى لونه بني (ميوجلوبين)، مش أحمر فاتح (دم)."
+}
+},
+{
+"question": "In Ataxia Myoglobinuric Syndrome, which enzyme elevation indicates muscle damage?",
+"options": [
+"ALT",
+"GGT",
+"CPK",
+"Amylase"
+],
+"answer": "CPK",
+"explanation": {
+"correct_en": "Creatine Phosphokinase (CPK) is a highly specific enzyme for skeletal muscle damage.",
+"correct_ar": "إنزيم الـ CPK متخصص جداً في الكشف عن تلف العضلات الهيكلية.",
+"wrong_1_en": "ALT is more specific for liver damage in many species.",
+"wrong_1_ar": "إنزيم الـ ALT متخصص أكتر في تلف الكبد.",
+"wrong_2_en": "GGT is a marker for cholestasis or liver issues.",
+"wrong_2_ar": "إنزيم الـ GGT مؤشر لمشاكل الكبد أو الصفراء.",
+"wrong_3_en": "Amylase is related to pancreatic function.",
+"wrong_3_ar": "الأميليز مرتبط بوظائف البنكرياس."
+}
+},
+{
+"question": "What causes the elevation of Blood Urea Nitrogen (BUN) in this syndrome?",
+"options": [
+"High protein diet",
+"Renal failure",
+"Liver failure",
+"Dehydration only"
+],
+"answer": "Renal failure",
+"explanation": {
+"correct_en": "Myoglobin released from damaged muscles causes tubular necrosis, leading to renal failure and azotemia (elevated BUN).",
+"correct_ar": "الميوجلوبين اللي بيخرج من العضلات بيبوظ أنابيب الكلية ويسبب فشل كلوي، وده بيرفع نسبة البولينا في الدم.",
+"wrong_1_en": "Diet is not the primary cause in this clinical context.",
+"wrong_1_ar": "الأكل مش هو السبب الأساسي في الحالة المرضية دي.",
+"wrong_2_en": "Liver failure usually causes low BUN because the liver produces urea.",
+"wrong_2_ar": "فشل الكبد بيقلل البولينا لأن الكبد هو اللي بيصنعها أصلاً.",
+"wrong_3_en": "While dehydration contributes, the primary cause here is structural renal damage.",
+"wrong_3_ar": "الجفاف ممكن يزودها، بس السبب الرئيسي هنا هو دمار أنسجة الكلية."
+}
+},
+{
+"question": "What is the characteristic gross appearance of kidneys in fatal cases?",
+"options": [
+"Pale and shrunken",
+"Swollen and dark",
+"Small and cystic",
+"Normal size with stones"
+],
+"answer": "Swollen and dark",
+"explanation": {
+"correct_en": "Kidneys become swollen due to inflammation and dark due to the accumulation of myoglobin.",
+"correct_ar": "الكلى بتبان متضخمة بسبب الالتهاب، ولونها غامق بسبب تراكم الميوجلوبين فيها.",
+"wrong_1_en": "Pale and shrunken indicates chronic renal disease, not acute capture myopathy.",
+"wrong_1_ar": "الكلى الباهتة والمنكمشة علامة مرض مزمن، مش صدمة صيد حادة.",
+"wrong_2_en": "Cystic kidneys are usually congenital or chronic.",
+"wrong_2_ar": "الكلى المتكيسة بتكون عيب خلقي أو مرض مزمن.",
+"wrong_3_en": "Size is definitely affected (swollen) in acute tubular necrosis.",
+"wrong_3_ar": "الحجم بيتأثر جداً وبتورم في حالات الموت المفاجئ للأنسجة الكلوي."
+}
+},
+{
+"question": "Muscle lesions in Ataxia Myoglobinuric Syndrome are described as:",
+"options": [
+"Hemorrhagic and firm",
+"Multifocal pale and soft",
+"Uniformly black and hard",
+"Greenish and purulent"
+],
+"answer": "Multifocal pale and soft",
+"explanation": {
+"correct_en": "Muscle necrosis appears as pale, soft areas where the tissue has lost its blood supply and structure.",
+"correct_ar": "موت أنسجة العضلات بيبان في شكل مناطق باهتة وطرية لأن الدم مش واصل لها.",
+"wrong_1_en": "Hemorrhage is more characteristic of the 'Ruptured Muscle' phase.",
+"wrong_1_ar": "النزيف بيميز أكتر مرحلة 'تمزق العضلات'.",
+"wrong_2_en": "Black color is not typical for this type of necrosis.",
+"wrong_2_ar": "اللون الأسود مش طبيعي في نوع النخر ده.",
+"wrong_3_en": "Greenish/purulent suggests infection (abscess), not capture myopathy.",
+"wrong_3_ar": "اللون الأخضر والصديد معناه عدوى بكتيرية مش إجهاد صيد."
+}
+},
+{
+"question": "The primary trigger for the pathogenesis of this syndrome is:",
+"options": [
+"Bacterial toxin",
+"Vitamin D toxicity",
+"Distress and sympathetic activation",
+"Cold weather"
+],
+"answer": "Distress and sympathetic activation",
+"explanation": {
+"correct_en": "Distress triggers the sympathetic nervous system and catecholamine release, leading to vasoconstriction.",
+"correct_ar": "التوتر بيشغل الجهاز العصبي السمبساوي ويفرز كاتيكولامين، وده بيسبب ضيق في الأوعية الدموية.",
+"wrong_1_en": "This is a metabolic/stress disorder, not an infectious disease.",
+"wrong_1_ar": "ده اضطراب أيضي وتوتر، مش مرض معدي.",
+"wrong_2_en": "Vitamin D toxicity causes calcification, not this syndrome.",
+"wrong_2_ar": "تسمم فيتامين د بيسبب تكلس مش الأعراض دي.",
+"wrong_3_en": "While environmental factors matter, distress is the fundamental cause.",
+"wrong_3_ar": "رغم إن الجو بيأثر، بس التوتر هو السبب الجذري."
+}
+},
+{
+"question": "Vasoconstriction of muscular blood supply leads directly to:",
+"options": [
+"Increased ATP production",
+"Muscular hypoxia",
+"Alkalosis",
+"Hyperthermia"
+],
+"answer": "Muscular hypoxia",
+"explanation": {
+"correct_en": "Vasoconstriction reduces blood flow, resulting in insufficient oxygen (hypoxia) for the muscles.",
+"correct_ar": "ضيق الأوعية الدموية بيقلل تدفق الدم، فمبيوصلش أكسجين كفاية للعضلات (hypoxia).",
+"wrong_1_en": "Hypoxia leads to ATP depletion, not increase.",
+"wrong_1_ar": "نقص الأكسجين بيقلل الـ ATP مش بيزوده.",
+"wrong_2_en": "Anaerobic metabolism leads to acidosis, not alkalosis.",
+"wrong_2_ar": "التمثيل الغذائي اللاهوائي بيسبب حموضة مش قلوية.",
+"wrong_3_en": "Hyperthermia is a result of exertion, not the direct result of vasoconstriction.",
+"wrong_3_ar": "ارتفاع الحرارة نتيجة المجهود، مش نتيجة مباشرة لضيق الأوعية."
+}
+},
+{
+"question": "Which substance leaks from damaged muscles and causes renal failure?",
+"options": [
+"Hemoglobin",
+"Myoglobin",
+"Bilirubin",
+"Albumin"
+],
+"answer": "Myoglobin",
+"explanation": {
+"correct_en": "Myoglobin is a muscle protein that is toxic to renal tubules in large amounts.",
+"correct_ar": "الميوجلوبين بروتين عضلي بيبقى سام لأنابيب الكلى لما بيخرج بكميات كبيرة.",
+"wrong_1_en": "Hemoglobin comes from red blood cells, not muscle cells.",
+"wrong_1_ar": "الهيموجلوبين بيخرج من كرات الدم الحمراء مش العضلات.",
+"wrong_2_en": "Bilirubin is a breakdown product of heme, associated with jaundice.",
+"wrong_2_ar": "البيليروبين ناتج تكسير كرات الدم ومرتبط بالصفراء.",
+"wrong_3_en": "Albumin is a plasma protein and doesn't cause this specific renal necrosis.",
+"wrong_3_ar": "الألبومين بروتين بلازما ومش بيسبب النخر الكلوي ده."
+}
+},
+{
+"question": "Anaerobic metabolism in the muscle during capture lead to:",
+"options": [
+"Intracellular acidosis",
+"Intracellular alkalosis",
+"Decrease in Lactate",
+"Increased blood pH"
+],
+"answer": "Intracellular acidosis",
+"explanation": {
+"correct_en": "Anaerobic metabolism produces lactic acid, which lowers the pH inside the cell (acidosis).",
+"correct_ar": "التمثيل الغذائي اللاهوائي بينتج حمض لاكتيك، وده بيقلل الـ pH جوه الخلية ويسبب حموضة.",
+"wrong_1_en": "Alkalosis is high pH; anaerobic metabolism does the opposite.",
+"wrong_1_ar": "القلوية معناها pH عالي، والتمثيل اللاهوائي بيعمل العكس.",
+"wrong_2_en": "Lactate increases, it does not decrease.",
+"wrong_2_ar": "اللاكتات بتزيد مش بتقل.",
+"wrong_3_en": "Blood pH usually drops (acidemia) due to the acid leak.",
+"wrong_3_ar": "الـ pH في الدم عادة بينزل مش بيزيد."
+}
+},
+{
+"question": "ATP depletion in muscle cells directly results in the failure of:",
+"options": [
+"DNA replication",
+"Sodium (Na) pump",
+"Protein synthesis",
+"Glucose absorption"
+],
+"answer": "Sodium (Na) pump",
+"explanation": {
+"correct_en": "The Na-K pump requires ATP; without it, sodium stays inside the cell, leading to swelling.",
+"correct_ar": "مضخة الصوديوم والبوتاسيوم محتاجة ATP، ومن غيره الصوديوم بيفضل جوه الخلية ويخليها تورم.",
+"wrong_1_en": "While DNA is affected, Na pump failure is the immediate cause of cellular swelling.",
+"wrong_1_ar": "رغم تأثر الـ DNA، بس فشل مضخة الصوديوم هو السبب المباشر لتورم الخلايا.",
+"wrong_2_en": "Protein synthesis is secondary to the immediate ionic imbalance.",
+"wrong_2_ar": "تصنيع البروتين بيتأثر بس مش هو السبب المباشر للتورم الأيوني.",
+"wrong_3_en": "Glucose transport is not the primary mechanism of cell death here.",
+"wrong_3_ar": "نقل الجلوكوز مش الميكانيكا الرئيسية لموت الخلية هنا."
+}
+},
+{
+"question": "Which intracellular electrolyte leaks into the blood during muscle necrosis?",
+"options": [
+"Sodium",
+"Calcium",
+"Potassium",
+"Chloride"
+],
+"answer": "Potassium",
+"explanation": {
+"correct_en": "Potassium (K) is the primary intracellular cation; it leaks out when cell membranes are destroyed.",
+"correct_ar": "البوتاسيوم هو العنصر الأساسي جوه الخلية، وبيخرج للدم لما غشاء الخلية بيتدمر.",
+"wrong_1_en": "Sodium is mainly extracellular and moves INTO the cell during damage.",
+"wrong_1_ar": "الصوديوم موجود بره الخلية وبيدخل جواها لما تتدمر.",
+"wrong_2_en": "Calcium moves INTO cells during necrosis, causing mineralization.",
+"wrong_2_ar": "الكالسيوم بيدخل جوه الخلايا أثناء النخر وبيسبب تكلس.",
+"wrong_3_en": "Chloride changes are secondary to sodium movement.",
+"wrong_3_ar": "تغيرات الكلوريد تابعة لحركة الصوديوم."
+}
+},
+{
+"question": "Muscle lesions in this syndrome are typically:",
+"options": [
+"Unilateral and symmetrical",
+"Bilateral but not symmetrical",
+"Bilateral and perfectly symmetrical",
+"Limited only to the heart"
+],
+"answer": "Bilateral but not symmetrical",
+"explanation": {
+"correct_en": "Lesions occur on both sides of the body but do not mirror each other perfectly in size or location.",
+"correct_ar": "الإصابات بتحصل في ناحيتين الجسم بس مش زي بعض بالظبط في الحجم أو المكان.",
+"wrong_1_en": "Unilateral means only one side, which is not typical here.",
+"wrong_1_ar": "Unilateral معناها ناحية واحدة وده مش طبيعي هنا.",
+"wrong_2_en": "Perfect symmetry is rare in biological lesions.",
+"wrong_2_ar": "التماثل التام نادر جداً في الإصابات البيولوجية.",
+"wrong_3_en": "Lesions involve skeletal muscles (cervical, lumbar, limbs), not just the heart.",
+"wrong_3_ar": "الإصابات بتشمل العضلات الهيكلية مش القلب بس."
+}
+},
+{
+"question": "If an animal with Ataxia Myoglobinuric Syndrome dies within 1-2 days, the lesions are:",
+"options": [
+"Very obvious and massive",
+"Subtle",
+"Gangrenous",
+"Absent"
+],
+"answer": "Subtle",
+"explanation": {
+"correct_en": "In very peracute or acute deaths, the lesions haven't had enough time to become gross or obvious.",
+"correct_ar": "في حالات الموت السريع جداً، الإصابات لسه ملحقتش تبقى واضحة جداً للعين المجردة.",
+"wrong_1_en": "Massive lesions usually take more time to develop.",
+"wrong_1_ar": "الإصابات الضخمة بتاخد وقت أطول عشان تتكون.",
+"wrong_2_en": "Gangrene involves secondary bacterial infection.",
+"wrong_2_ar": "الغرغرينا بتحتاج عدوى بكتيرية ثانوية.",
+"wrong_3_en": "Lesions are present but may be hard to see (subtle), not absent.",
+"wrong_3_ar": "الإصابات موجودة بس ممكن تبقى صعبة في الرؤية، مش مختفية."
+}
+},
+{
+"question": "The urinary bladder in affected animals is often:",
+"options": [
+"Distended with clear urine",
+"Empty or contains small amount of brown urine",
+"Full of blood clots",
+"Ruptured"
+],
+"answer": "Empty or contains small amount of brown urine",
+"explanation": {
+"correct_en": "Due to renal failure (oliguria) and the presence of myoglobin, the bladder has little, dark urine.",
+"correct_ar": "بسبب الفشل الكلوي ووجود الميوجلوبين، المثانة بيبقى فيها بول قليل جداً ولونه غامق.",
+"wrong_1_en": "Clear urine would imply normal renal filtration and no myoglobin.",
+"wrong_1_ar": "البول الشفاف معناه إن الكلية شغالة مفيش ميوجلوبين.",
+"wrong_2_en": "Blood clots (hematuria) are not the hallmark; myoglobinuria is.",
+"wrong_2_ar": "تجلطات الدم مش هي العلامة المميزة، الميوجلوبين هو اللي بيميزها.",
+"wrong_3_en": "Rupture is not a standard feature of this syndrome.",
+"wrong_3_ar": "انفجار المثانة مش عرض طبيعي للمتلازمة دي."
+}
+},
+{
+"question": "What is the prognosis for animals with moderate to severe signs?",
+"options": [
+"Excellent with treatment",
+"Usually die",
+"Recover within 24 hours",
+"Become chronic carriers"
+],
+"answer": "Usually die",
+"explanation": {
+"correct_en": "Moderate to severe muscle and renal damage is typically irreversible and fatal.",
+"correct_ar": "تلف العضلات والكلى المتوسط للشديد غالباً ملوش علاج وبيؤدي للوفاة.",
+"wrong_1_en": "Treatment is often unsuccessful once severe signs appear.",
+"wrong_1_ar": "العلاج غالباً مبيجبش نتيجة لو الأعراض بقت شديدة.",
+"wrong_2_en": "Recovery is unlikely for severe cases.",
+"wrong_2_ar": "الشفاء صعب جداً في الحالات الشديدة.",
+"wrong_3_en": "This is an acute metabolic crisis, not a carrier-state disease.",
+"wrong_3_ar": "دي أزمة حادة مش مرض بيخلي الحيوان حامل للمرض."
+}
+},
+{
+"question": "Which enzyme elevation is shared by BOTH Ataxia Myoglobinuric and Ruptured Muscle syndrome?",
+"options": [
+"AST and CPK",
+"Amylase and Lipase",
+"BUN and Creatinine only",
+"ALT only"
+],
+"answer": "AST and CPK",
+"explanation": {
+"correct_en": "Both syndromes involve massive skeletal muscle damage, causing elevation of AST and CPK.",
+"correct_ar": "المتلازمتين فيهم تدير للعضلات، وده بيرفع إنزيمات الـ AST والـ CPK.",
+"wrong_1_en": "Amylase/Lipase are pancreatic markers.",
+"wrong_1_ar": "دول بتوع البنكرياس.",
+"wrong_2_en": "BUN may be normal in ruptured muscle syndrome.",
+"wrong_2_ar": "البولينا (BUN) ممكن تبقى طبيعية في متلازمة تمزق العضلات.",
+"wrong_3_en": "AST is a more prominent marker for muscle than ALT in these cases.",
+"wrong_3_ar": "الـ AST أوضح بكتير من الـ ALT كدليل لتلف العضلات في الحالات دي."
+}
+},
+{
+"question": "White foci in a linear pattern in muscles indicate:",
+"options": [
+"Fat deposition",
+"Parasitic migration",
+"Areas of necrosis",
+"Normal muscle fibers"
+],
+"answer": "Areas of necrosis",
+"explanation": {
+"correct_en": "The white, linear foci are macroscopic evidence of muscle fiber death and early mineralization.",
+"correct_ar": "الخطوط البيضاء دي دليل على موت ألياف العضلات وبداية ترسب أملاح فيها.",
+"wrong_1_en": "Fat deposition looks different and isn't typically linear/focal like this.",
+"wrong_1_ar": "ترسب الدهون شكله مختلف ومش بيبقى خطوط محددة كدة.",
+"wrong_2_en": "Parasites usually cause nodules or tracts, not these specific linear foci.",
+"wrong_2_ar": "الطفيليات بتعمل عقد أو ممرات، مش الخطوط دي.",
+"wrong_3_en": "Healthy muscle is red/pink and uniform.",
+"wrong_3_ar": "العضلات السليمة لونها أحمر/وردي ومنتظم."
+}
+},
+{
+"question": "Ataxia Myoglobinuric Syndrome is considered a continuation of:",
+"options": [
+"Capture shock",
+"Vitamin A deficiency",
+"Septicemia",
+"Dehydration"
+],
+"answer": "Capture shock",
+"explanation": {
+"correct_en": "The pathogenesis is an extension of the initial shock phase experienced during capture.",
+"correct_ar": "تطور المرض ده هو تكملة لمرحلة الصدمة اللي حصلت وقت الصيد.",
+"wrong_1_en": "Vitamin A is unrelated to this muscle syndrome.",
+"wrong_1_ar": "فيتامين أ ملوش علاقة بالمتلازمة العضلية دي.",
+"wrong_2_en": "It is a non-infectious metabolic/stress condition.",
+"wrong_2_ar": "ده مرض تمثيل غذائي مش تسمم دم بكتيري.",
+"wrong_3_en": "Dehydration is a factor but not the underlying syndrome identity.",
+"wrong_3_ar": "الجفاف عامل مساعد بس مش هو أصل المتلازمة."
+}
+},
+{
+"question": "Pathways triggered by distress include vasoconstriction of:",
+"options": [
+"Renal and Muscular blood supply",
+"Only the coronary arteries",
+"Only the jugular vein",
+"The pulmonary artery only"
+],
+"answer": "Renal and Muscular blood supply",
+"explanation": {
+"correct_en": "Stress-induced catecholamines divert blood away from 'non-essential' organs like kidneys and skeletal muscles during extreme exertion.",
+"correct_ar": "الكاتيكولامينات بتقلل الدم اللي رايح للأعضاء زي الكلى والعضلات عشان توفره للهروب.",
+"wrong_1_en": "Coronary arteries are usually spared or dilated to keep the heart working.",
+"wrong_1_ar": "الشرايين التاجية عادة بتوسع عشان تخلي القلب شغال.",
+"wrong_2_en": "The jugular vein is a vessel for return, not the primary site of vasoconstriction shock.",
+"wrong_2_ar": "الوريد الوداجي ده وريد رجوع، مش هو المكان الرئيسي للانقباض.",
+"wrong_3_en": "The whole system is involved, but kidneys and muscles are the target in this syndrome.",
+"wrong_3_ar": "الجهاز كله بيتأثر، بس الكلى والعضلات هما الهدف في المتلازمة دي."
+}
+},
+{
+"question": "Ruptured Muscle Syndrome manifests how long after capture?",
+"options": [
+"1-2 hours",
+"24-43 hours",
+"5-7 days",
+"Immediately"
+],
+"answer": "24-43 hours",
+"explanation": {
+"correct_en": "Clinical signs for this specific form of capture myopathy appear between 24 and 43 hours post-capture.",
+"correct_ar": "الأعراض في النوع ده من إجهاد الصيد بتظهر ما بين 24 لـ 43 ساعة بعد الصيد.",
+"wrong_1_en": "Too early; the muscle necrosis hasn't progressed to rupture yet.",
+"wrong_1_ar": "بدري جداً؛ نخر العضلات لسه موصلش لدرجة الانفجار.",
+"wrong_2_en": "Too late; the acute rupture phase usually happens within the first two days.",
+"wrong_2_ar": "متأخر جداً؛ مرحلة التمزق الحاد بتحصل في أول يومين.",
+"wrong_3_en": "Animals often appear normal at the time of capture.",
+"wrong_3_ar": "الحيوان أصلاً بيبان طبيعي وقت الصيد."
+}
+},
+{
+"question": "A classic clinical sign of Ruptured Muscle Syndrome is:",
+"options": [
+"Hyperflexion of the hock",
+"Locked jaw",
+"Excessive salivation",
+"Star gazing"
+],
+"answer": "Hyperflexion of the hock",
+"explanation": {
+"correct_en": "Rupture of the gastrocnemius muscle leads to a drop in hindquarters and hyperflexion of the hock.",
+"correct_ar": "تمزق عضلة السمانة (gastrocnemius) بيخلي الرجل من ورا تسقط وبيعمل تني زيادة في العرقوب (hock).",
+"wrong_1_en": "Locked jaw is characteristic of Tetanus.",
+"wrong_1_ar": "تشنج الفك من علامات التيتانوس.",
+"wrong_2_en": "Salivation is not a primary sign of muscle rupture.",
+"wrong_2_ar": "اللعاب مش عرض أساسي لتمزق العضلات.",
+"wrong_3_en": "Star gazing is usually neurologic (e.g., Lead poisoning or CCN).",
+"wrong_3_ar": "النظر للسماء ده عرض عصبي غالباً."
+}
+},
+{
+"question": "Which muscle is MOST commonly ruptured in this syndrome?",
+"options": [
+"Biceps brachii",
+"Gastrocnemius",
+"Masseter",
+"Intercostal muscles"
+],
+"answer": "Gastrocnemius",
+"explanation": {
+"correct_en": "The gastrocnemius is the most frequent site of rupture, especially its proximal third.",
+"correct_ar": "عضلة الـ gastrocnemius هي أكتر واحدة بتتمزق، خصوصاً التلت اللي فوق.",
+"wrong_1_en": "Biceps is in the forelimb; while forelimbs can have lesions, gastrocnemius is more common for rupture.",
+"wrong_1_ar": "عضلة الباي في الرجل اللي قدام، وهي ممكن تتأثر بس السمانة هي الأشهر في التمزق.",
+"wrong_2_en": "Masseter is a chewing muscle, not involved in weight-bearing rupture.",
+"wrong_2_ar": "عضلة المضغ ملهاش دعوة بتمزق العضلات نتيجة الوزن.",
+"wrong_3_en": "Intercostals are for breathing, not the primary weight-bearing muscles that rupture.",
+"wrong_3_ar": "عضلات التنفس مش هي اللي بتتمزق نتيجة تحميل الوزن."
+}
+},
+{
+"question": "Laboratory findings in Ruptured Muscle Syndrome show AST and CPK levels that are:",
+"options": [
+"Slightly decreased",
+"Extremely elevated",
+"Within normal range",
+"Undetectable"
+],
+"answer": "Extremely elevated",
+"explanation": {
+"correct_en": "Massive muscle necrosis and rupture release huge amounts of these enzymes into the blood.",
+"correct_ar": "تمزق العضلات والنخر الشديد بيطلع كميات ضخمة جداً من الإنزيمات دي في الدم.",
+"wrong_1_en": "Enzymes increase, never decrease, with tissue damage.",
+"wrong_1_ar": "الإنزيمات بتزيد مع دمار الأنسجة مش بتقل.",
+"wrong_2_en": "Normal range is impossible with such massive trauma.",
+"wrong_2_ar": "مستحيل تكون طبيعية مع كل الدمار ده.",
+"wrong_3_en": "They are easily detected and very high.",
+"wrong_3_ar": "بيتم كشفها بسهولة وبتكون عالية جداً."
+}
+},
+{
+"question": "Unlike Ataxia Myoglobinuric Syndrome, BUN in Ruptured Muscle Syndrome is usually:",
+"options": [
+"Extremely high",
+"Normal or slightly elevated",
+"Zero",
+"Always low"
+],
+"answer": "Normal or slightly elevated",
+"explanation": {
+"correct_en": "In the ruptured muscle phase, renal failure might not be as severe as the primary muscle trauma initially.",
+"correct_ar": "في مرحلة تمزق العضلات، الفشل الكلوي ممكن ميكونش بنفس شدة تدير العضلات في البداية.",
+"wrong_1_en": "Extremely high BUN is more classic for the Ataxia Myoglobinuric phase.",
+"wrong_1_ar": "ارتفاع البولينا الشديد بيميز أكتر النوع الأول (Ataxia Myoglobinuric).",
+"wrong_2_en": "BUN is never zero in a living animal.",
+"wrong_2_ar": "البولينا مستحيل تكون صفر في حيوان حي.",
+"wrong_3_en": "Low BUN is rare and usually relates to liver failure.",
+"wrong_3_ar": "نقص البولينا نادر ومرتبط بفشل الكبد."
+}
+},
+{
+"question": "What is found postmortem in the rear limbs in Ruptured Muscle Syndrome?",
+"options": [
+"Massive subcutaneous hemorrhage",
+"No visible changes",
+"Bone fractures only",
+"Gas gangrene"
+],
+"answer": "Massive subcutaneous hemorrhage",
+"explanation": {
+"correct_en": "Rupture of muscles and blood vessels causes extensive bleeding under the skin of the hind limbs.",
+"correct_ar": "تمزق العضلات والأوعية الدموية بيعمل نزيف واسع تحت الجلد في الرجلين اللي ورا.",
+"wrong_1_en": "Changes are very obvious grossly.",
+"wrong_1_ar": "التغيرات بتكون واضحة جداً للعين.",
+"wrong_2_en": "Muscle rupture is the primary finding, not bone fractures.",
+"wrong_2_ar": "تمزق العضلات هو الأساس مش كسر العضم.",
+"wrong_3_en": "Gas gangrene is caused by Clostridium bacteria.",
+"wrong_3_ar": "الغرغرينا الغازية سببها بكتيريا الكلوستريديا."
+}
+},
+{
+"question": "Histological lesions in CM are similar to Vitamin E deficiency, EXCEPT for:",
+"options": [
+"Less mineralization in CM",
+"More mineralization in CM",
+"Presence of bacteria in CM",
+"Complete lack of necrosis in CM"
+],
+"answer": "Less mineralization in CM",
+"explanation": {
+"correct_en": "Capture Myopathy (CM) lesions show less calcium deposition (mineralization) compared to the 'White Muscle Disease' caused by Selenium/Vit E deficiency.",
+"correct_ar": "إصابات إجهاد الصيد بيبقى فيها ترسيب كالسيوم (mineralization) أقل من اللي بيحصل في نقص فيتامين هـ والسيلينيوم.",
+"wrong_1_en": "Vitamin E deficiency typically has MORE mineralization.",
+"wrong_1_ar": "نقص فيتامين هـ بيبقى فيه تكلس أكتر.",
+"wrong_2_en": "CM is not primarily a bacterial disease.",
+"wrong_2_ar": "إجهاد الصيد مش مرض بكتيري.",
+"wrong_3_en": "Both conditions involve significant necrosis.",
+"wrong_3_ar": "الحالتين فيهم نخر شديد في الأنسجة."
+}
+},
+{
+"question": "Where is the most common location for gastrocnemius rupture?",
+"options": [
+"Distal tendon",
+"Proximal third",
+"Middle portion",
+"Insertion on the femur"
+],
+"answer": "Proximal third",
+"explanation": {
+"correct_en": "The rupture typically occurs in the upper (proximal) third of the muscle belly.",
+"correct_ar": "التمزق غالباً بيحصل في التلت الفوقاني من العضلة.",
+"wrong_1_en": "The distal tendon is less common than the muscle belly itself.",
+"wrong_1_ar": "الوتر اللي تحت أقل عرضة للتمزق من جسم العضلة نفسها.",
+"wrong_2_en": "The proximal third is more specific than the middle.",
+"wrong_2_ar": "التلت اللي فوق هو المكان المحدد أكتر من النص.",
+"wrong_3_en": "The rupture is usually in the muscle tissue, not the origin site.",
+"wrong_3_ar": "التمزق بيبقى في نسيج العضلة مش في مكان المنشأ."
+}
+},
+{
+"question": "The pathogenesis of Ruptured Muscle Syndrome is a combination of:",
+"options": [
+"Shock and Azotemia",
+"Fever and Infection",
+"Cold and Hunger",
+"Rabies and Tetanus"
+],
+"answer": "Shock and Azotemia",
+"explanation": {
+"correct_en": "The syndrome results from a combination of the initial capture shock and the subsequent buildup of nitrogenous wastes (azotemia).",
+"correct_ar": "المتلازمة دي ميكس بين صدمة الصيد وزيادة البولينا في الدم.",
+"wrong_1_en": "It is not an infectious or febrile disease.",
+"wrong_1_ar": "ده مش مرض معدي ولا مرض بيعمل حمى.",
+"wrong_2_en": "Environmental factors may contribute but are not the definition.",
+"wrong_2_ar": "العوامل البيئية بتساعد بس مش هي دي التعريف.",
+"wrong_3_en": "These are specific viral and bacterial diseases.",
+"wrong_3_ar": "دي أمراض فيروسية وبكتيرية تانية خالص."
+}
+},
+{
+"question": "Rupture occurs when the necrotic muscles are forced to:",
+"options": [
+"Relax",
+"Bear weight",
+"Freeze",
+"Atrophy"
+],
+"answer": "Bear weight",
+"explanation": {
+"correct_en": "Weakened, necrotic muscle fibers cannot handle the stress of weight-bearing, leading to physical rupture.",
+"correct_ar": "ألياف العضلات الميتة والضعيفة مش بتستحمل ضغط شيل الوزن فبتنفجر وتتمزق.",
+"wrong_1_en": "Relaxation does not cause rupture.",
+"wrong_1_ar": "الاسترخاء مش بيسبب تمزق.",
+"wrong_2_en": "Freezing is not a physiological process here.",
+"wrong_2_ar": "التجميد ملوش علاقة بالعملية دي.",
+"wrong_3_en": "Atrophy is shrinking over time, not acute rupture.",
+"wrong_3_ar": "الضمور بياخد وقت مش تمزق حاد."
+}
+},
+{
+"question": "A primary cause of death in Ruptured Muscle Syndrome is:",
+"options": [
+"Electrolyte imbalance and Acidosis",
+"Dehydration only",
+"Skin infection",
+"Blindness"
+],
+"answer": "Electrolyte imbalance and Acidosis",
+"explanation": {
+"correct_en": "Massive necrosis leads to the release of potassium and acids, causing fatal systemic disruption.",
+"correct_ar": "النخر الواسع بيخرج بوتاسيوم وأحماض، وده بيعمل خلل مميت في الجسم.",
+"wrong_1_en": "Dehydration is only a part of the complex metabolic collapse.",
+"wrong_1_ar": "الجفاف جزء بسيط من الانهيار الأيضي الكبير.",
+"wrong_2_en": "Skin infection is not the cause of acute death here.",
+"wrong_2_ar": "عدوى الجلد مش هي سبب الموت المفاجئ هنا.",
+"wrong_3_en": "Blindness is not associated with this syndrome.",
+"wrong_3_ar": "العمى ملوش علاقة بالمتلازمة دي."
+}
+},
+{
+"question": "The 'drop in hindquarters' is due to the failure of which group?",
+"options": [
+"Extensors of the hock",
+"Flexors of the elbow",
+"Abdominal muscles",
+"Facial muscles"
+],
+"answer": "Extensors of the hock",
+"explanation": {
+"correct_en": "The gastrocnemius acts as an extensor of the hock; when it ruptures, the hock over-flexes and the rear drops.",
+"correct_ar": "عضلة السمانة هي اللي بتفرد العرقوب، فلما بتتمزق العرقوب بيتني زيادة والحيوان بيسقط من ورا.",
+"wrong_1_en": "Elbow is in the forelimb.",
+"wrong_1_ar": "الكوع في الرجل اللي قدام.",
+"wrong_2_en": "Abdominal muscles don't cause this specific gait change.",
+"wrong_2_ar": "عضلات البطن مش بتعمل المشية دي.",
+"wrong_3_en": "Facial muscles are for expression/eating.",
+"wrong_3_ar": "عضلات الوش للتعبير والأكل."
+}
+},
+{
+"question": "Most animals with Ruptured Muscle Syndrome:",
+"options": [
+"Recover fully",
+"Die",
+"Survive for years",
+"Show no clinical signs"
+],
+"answer": "Die",
+"explanation": {
+"correct_en": "While some may survive for weeks, the majority of animals with this severe form eventually die.",
+"correct_ar": "رغم إن فيه حيوانات بتعيش لأسابيع، بس الأغلبية في الآخر بتموت.",
+"wrong_1_en": "Full recovery is extremely rare for massive ruptures.",
+"wrong_1_ar": "الشفاء التام نادر جداً في حالات التمزق الكبير.",
+"wrong_2_en": "Long-term survival is not typical.",
+"wrong_2_ar": "مش طبيعي إنهم يعيشوا سنين.",
+"wrong_3_en": "Clinical signs are very obvious (drop in hindquarters).",
+"wrong_3_ar": "الأعراض واضحة جداً (سقوط الربع الخلفي)."
+}
+},
+{
+"question": "Which of these is NOT commonly ruptured in this syndrome?",
+"options": [
+"Semitendinosus",
+"Semimembranosus",
+"Deep gluteal",
+"Cardiac muscle"
+],
+"answer": "Cardiac muscle",
+"explanation": {
+"correct_en": "The syndrome involves skeletal muscles; while the heart can be affected by electrolytes, it doesn't 'rupture' like the gastrocnemius.",
+"correct_ar": "المتلازمة بتصيب العضلات الهيكلية؛ القلب بيتأثر بالأملاح بس مش 'بيتمزق' زي السمانة.",
+"wrong_1_en": "Semitendinosus is commonly affected.",
+"wrong_1_ar": "عضلة الـ Semitendinosus بتصاب كتير.",
+"wrong_2_en": "Semimembranosus is commonly affected.",
+"wrong_2_ar": "عضلة الـ Semimembranosus بتصاب كتير.",
+"wrong_3_en": "Deep gluteal is one of the muscles listed as commonly ruptured.",
+"wrong_3_ar": "عضلة الـ Deep gluteal من العضلات اللي بتتمزق عادة."
+}
+},
+{
+"question": "Muscle lesions in Ruptured Muscle Syndrome are:",
+"options": [
+"Symmetrical",
+"Nonsymmetrical bilateral",
+"Unilateral only",
+"Limited to the diaphragm"
+],
+"answer": "Nonsymmetrical bilateral",
+"explanation": {
+"correct_en": "Lesions occur on both sides (bilateral) but are not identical in severity or pattern (nonsymmetrical).",
+"correct_ar": "الإصابات في الناحيتين بس مش زي بعض بالظبط.",
+"wrong_1_en": "Symmetrical means identical, which is rare.",
+"wrong_1_ar": "التماثل التام نادر.",
+"wrong_2_en": "It usually affects both sides, not just one.",
+"wrong_2_ar": "عادة بتصيب الناحيتين مش ناحية واحدة.",
+"wrong_3_en": "Diaphragm can have lesions, but it's not the only site.",
+"wrong_3_ar": "الحجاب الحاجز ممكن يتأثر بس مش هو المكان الوحيد."
+}
+},
+{
+"question": "The extremely elevated LDH enzyme indicates damage to:",
+"options": [
+"Skeletal muscle and liver",
+"Kidneys only",
+"Bone marrow",
+"Brain tissue"
+],
+"answer": "Skeletal muscle and liver",
+"explanation": {
+"correct_en": "Lactate Dehydrogenase (LDH) is found in many tissues but is released in high amounts from damaged muscle.",
+"correct_ar": "إنزيم LDH موجود في أنسجة كتير بس بيطلع بكميات كبيرة من العضلات المتدمرة.",
+"wrong_1_en": "It's not specific to kidneys.",
+"wrong_1_ar": "مش متخصص للكلى بس.",
+"wrong_2_en": "Bone marrow is not the source of high LDH here.",
+"wrong_2_ar": "نخاع العظم مش هو مصدر الإنزيم ده هنا.",
+"wrong_3_en": "Brain damage uses different markers.",
+"wrong_3_ar": "تلف المخ ليه علامات تانية."
+}
+},
+{
+"question": "The muscle lesions in the ruptured phase are similar to the ataxic phase but:",
+"options": [
+"Less severe",
+"More severe and widespread",
+"Exactly the same",
+"They disappear"
+],
+"answer": "More severe and widespread",
+"explanation": {
+"correct_en": "The lesions have had more time to progress, leading to more extensive necrosis and physical tearing.",
+"correct_ar": "الإصابات أخدت وقت أكتر عشان تزيد، فبقت أوسع وأخطر ووصلت للقطع.",
+"wrong_1_en": "They are actually much worse because of the time factor.",
+"wrong_1_ar": "هي فعلاً أوحش بكتير بسبب عامل الوقت.",
+"wrong_2_en": "There is a clear progression in severity.",
+"wrong_2_ar": "فيه تطور واضح في الشدة.",
+"wrong_3_en": "They don't disappear; they result in death or severe lameness.",
+"wrong_3_ar": "مبتختفيش، دي بتؤدي للموت أو عرج شديد."
+}
+},
+{
+"question": "What is the primary cause of toxemia in this syndrome?",
+"options": [
+"Massive necrosis of skeletal muscle",
+"Bacterial growth in the gut",
+"Inhaled toxins",
+"Snake bite"
+],
+"answer": "Massive necrosis of skeletal muscle",
+"explanation": {
+"correct_en": "The breakdown products of massive muscle death act as toxins in the bloodstream.",
+"correct_ar": "نواتج تكسير وموت العضلات بتشتغل كسموم في مجرى الدم.",
+"wrong_1_en": "This is not an enterotoxemia.",
+"wrong_1_ar": "دي مش تسمم معوي.",
+"wrong_2_en": "Toxins are endogenous (from inside the body), not inhaled.",
+"wrong_2_ar": "السموم هنا داخلية مش مستنشقة.",
+"wrong_3_en": "It's capture-related, not from a venomous bite.",
+"wrong_3_ar": "دي متعلقة بالصيد مش عض تعبان."
+}
+},
+{
+"question": "Pale, soft lesions in the diaphragm indicate:",
+"options": [
+"Normal variation",
+"Respiratory muscle involvement",
+"Pneumonia",
+"Choke"
+],
+"answer": "Respiratory muscle involvement",
+"explanation": {
+"correct_en": "The diaphragm is a skeletal muscle; its involvement shows that CM affects muscles beyond the limbs.",
+"correct_ar": "الحجاب الحاجز عضلة هيكلية، وإصابته بتوضح إن المرض بيأثر على عضلات تانية غير الرجلين.",
+"wrong_1_en": "Pale lesions are never normal.",
+"wrong_1_ar": "الإصابات الباهتة دي عمرها ما كانت طبيعية.",
+"wrong_2_en": "Pneumonia affects the lung tissue, not the muscle of the diaphragm.",
+"wrong_2_ar": "الالتهاب الرئوي بيصيب الرئة نفسها مش عضلة الحجاب الحاجز.",
+"wrong_3_en": "Choke is an esophageal obstruction.",
+"wrong_3_ar": "الـ Choke هو انسداد في المريء."
+}
+},
+{
+"question": "Animals with this form of CM (Ruptured Muscle) may survive for:",
+"options": [
+"Several weeks",
+"Only 5 minutes",
+"Forever if rested",
+"Exactly 1 year"
+],
+"answer": "Several weeks",
+"explanation": {
+"correct_en": "Death is not always immediate; some animals linger for weeks before finally succumbing to the damage.",
+"correct_ar": "الموت مش دايماً فوري؛ فيه حيوانات بتعافر لأسابيع قبل ما تموت في الآخر.",
+"wrong_1_en": "It's not that fast; it's a subacute to chronic progression.",
+"wrong_1_ar": "مش بالسرعة دي، ده تطور بياخد شوية وقت.",
+"wrong_2_en": "Permanent recovery from massive rupture is unlikely.",
+"wrong_2_ar": "الشفاء الدائم من تمزق ضخم زي ده صعب جداً.",
+"wrong_3_en": "A year is too long for an animal with such severe metabolic and physical damage.",
+"wrong_3_ar": "سنة وقت طويل جداً على حيوان عنده دمار أيضي وجسماني كدة."
+}
+}
+]
