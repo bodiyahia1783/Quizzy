@@ -1,0 +1,302 @@
+[
+  {
+    "question": "What is the typical onset of Ataxia Myoglobinuric Syndrome following capture?",
+    "options": [
+      "Immediately upon capture",
+      "Several hours to several days",
+      "Exactly 24 to 48 hours",
+      "More than one week later"
+    ],
+    "answer": "Several hours to several days",
+    "explanation": {
+      "correct_en": "Ataxia Myoglobinuric Syndrome typically manifests within a window of several hours to a few days post-capture as muscle damage progresses.",
+      "correct_ar": "متلازمة الترنح والميوجلوبين بتظهر عادةً في خلال ساعات أو أيام قليلة بعد الصيد نتيجة تطور تلف العضلات.",
+      "wrong_1_en": "Immediate onset is characteristic of the acute shock phase, not the myoglobinuric phase.",
+      "wrong_1_ar": "الظهور الفوري ده بيبقى في مرحلة الصدمة الحادة مش في مرحلة الميوجلوبين.",
+      "wrong_2_en": "24 to 48 hours is the specific peak window for Ruptured Muscle Syndrome.",
+      "wrong_2_ar": "من ٢٤ لـ ٤٨ ساعة ده ميعاد ظهور متلازمة تمزق العضلات مش الترنح.",
+      "wrong_3_en": "One week is too late; the peak metabolic crisis occurs much sooner.",
+      "wrong_3_ar": "أسبوع ده وقت متأخر جداً، الأزمة الأيضية بتحصل بدري عن كدة.",
+    }
+  },
+  {
+    "question": "Which clinical sign is a hallmark of Ataxia Myoglobinuric Syndrome?",
+    "options": [
+      "Torticollis",
+      "Hypoflexion of the hock",
+      "Hyperactivity",
+      "Clear, dilute urine"
+    ],
+    "answer": "Torticollis",
+    "explanation": {
+      "correct_en": "Torticollis (wry neck) is a classic neurological/muscular sign of this syndrome due to cervical muscle damage.",
+      "correct_ar": "التواء الرقبة (Torticollis) عرض كلاسيكي بسبب تلف عضلات الرقبة في المرحلة دي.",
+      "wrong_1_en": "Hyperflexion of the hock is seen in Ruptured Muscle Syndrome, not Ataxia Myoglobinuric.",
+      "wrong_1_ar": "زيادة ثني العرقوب (Hock) بنشوفها في متلازمة تمزق العضلات.",
+      "wrong_2_en": "Animals are ataxic and dull, not hyperactive.",
+      "wrong_2_ar": "الحيوان بيبقى مترنح وخامل مش نشيط بزيادة.",
+      "wrong_3_en": "The urine is dark/brownish (myoglobinuria), not clear.",
+      "wrong_3_ar": "البول بيبقى لونه بني غامق نتيجة وجود الميوجلوبين مش شفاف.",
+    }
+  },
+  {
+    "question": "Regarding blood chemistry in Ataxia Myoglobinuric Syndrome, which value is typically elevated due to kidney involvement?",
+    "options": [
+      "Alanine Aminotransferase (ALT)",
+      "Blood Urea Nitrogen (BUN)",
+      "Serum Glucose",
+      "Alkaline Phosphatase (ALP)"
+    ],
+    "answer": "Blood Urea Nitrogen (BUN)",
+    "explanation": {
+      "correct_en": "BUN is elevated (azotemia) because myoglobin causes tubular necrosis and renal failure.",
+      "correct_ar": "نسبة اليوريا في الدم (BUN) بتعلى بسبب فشل الكلى الناتج عن ترسيب الميوجلوبين في الأنابيب الكلوية.",
+      "wrong_1_en": "ALT is more specific for liver in many species and isn't the primary marker here.",
+      "wrong_1_ar": "الـ ALT ده بيبقى أكتر للكبد ومش هو العلامة الأساسية هنا.",
+      "wrong_2_en": "Glucose levels are not a primary diagnostic indicator for this syndrome.",
+      "wrong_2_ar": "مستوى السكر مش مؤشر تشخيصي أساسي في المتلازمة دي.",
+      "wrong_3_en": "ALP is usually related to liver or bone, not the primary muscle/kidney markers.",
+      "wrong_3_ar": "الـ ALP غالباً له علاقة بالكبد أو العظام.",
+    }
+  },
+  {
+    "question": "What is the primary appearance of the kidneys in a postmortem exam of this syndrome?",
+    "options": [
+      "Pale and shrunken",
+      "Normal and soft",
+      "Swollen and dark",
+      "Bright red and firm"
+    ],
+    "answer": "Swollen and dark",
+    "explanation": {
+      "correct_en": "The kidneys are swollen due to inflammation and dark because of the massive accumulation of myoglobin.",
+      "correct_ar": "الكلى بتبقى متضخمة (Swollen) ولونها غامق بسبب تراكم كميات كبيرة من الميوجلوبين.",
+      "wrong_1_en": "Pale and shrunken indicates chronic fibrosis, not acute capture myopathy.",
+      "wrong_1_ar": "بهتان وانكماش الكلى ده دليل على تليف مزمن مش حالة حادة زي دي.",
+      "wrong_2_en": "The kidneys are significantly altered, not normal.",
+      "wrong_2_ar": "الكلى بتتأثر بشكل واضح ومستحيل تكون طبيعية في الحالة دي.",
+      "wrong_3_en": "Bright red suggests acute congestion/hemorrhage, but the dark brown color of myoglobin is more specific.",
+      "wrong_3_ar": "اللون الأحمر الزاهي معناه احتقان، بس الميوجلوبين بيخلي اللون بني غامق.",
+    }
+  },
+  {
+    "question": "Muscle lesions in Ataxia Myoglobinuric Syndrome are best described as:",
+    "options": [
+      "Bilateral and symmetrical",
+      "Unilateral and hemorrhagic",
+      "Bilateral but not symmetrical",
+      "Generalized and liquefactive"
+    ],
+    "answer": "Bilateral but not symmetrical",
+    "explanation": {
+      "correct_en": "The lesions occur on both sides of the body (bilateral) but the pattern of damage is not a mirror image (asymmetrical).",
+      "correct_ar": "الإصابات بتكون في ناحيتي الجسم (Bilateral) بس مش متماثلة في الشكل أو التوزيع (Asymmetrical).",
+      "wrong_1_en": "Lesions are rarely perfectly symmetrical in capture myopathy.",
+      "wrong_1_ar": "إصابات العضلات في المرض ده نادراً ما بتكون متماثلة بالظبط.",
+      "wrong_2_en": "They are typically bilateral, and the 'dry, pale' look is more common than pure hemorrhage in this phase.",
+      "wrong_2_ar": "الإصابات بتكون في الناحيتين مش ناحية واحدة، وشكلها بيبقى باهت وناشف.",
+      "wrong_3_en": "Liquefactive necrosis is not typical for skeletal muscle in this syndrome; it is usually coagulative or multifocal dry areas.",
+      "wrong_3_ar": "التحلل السائل (Liquefactive) مش هو اللي بيحصل في العضلات هنا.",
+    }
+  },
+  {
+    "question": "In the pathogenesis of this syndrome, what is the direct result of sympathetic nervous system activation on the kidneys?",
+    "options": [
+      "Vasodilation of renal vessels",
+      "Increased glomerular filtration",
+      "Vasoconstriction and hypoxia",
+      "Polyuria"
+    ],
+    "answer": "Vasoconstriction and hypoxia",
+    "explanation": {
+      "correct_en": "Distress triggers catecholamine release, leading to renal vasoconstriction, which causes hypoxia and subsequent tubular necrosis.",
+      "correct_ar": "التوتر بيفرز الكاتيكولامينات اللي بتعمل انقباض في أوعية الكلى (Vasoconstriction) ونقص أكسجين (Hypoxia).",
+      "wrong_1_en": "The sympathetic response causes vasoconstriction, not vasodilation.",
+      "wrong_1_ar": "الجهاز السمبثاوي بيعمل انقباض للأوعية مش اتساع.",
+      "wrong_2_en": "Glomerular filtration decreases due to vasoconstriction.",
+      "wrong_2_ar": "معدل الفلترة بيقل مش بيزيد بسبب ضيق الأوعية.",
+      "wrong_3_en": "The syndrome leads to oliguria (reduced urine) or an empty bladder, not polyuria.",
+      "wrong_3_ar": "المتلازمة بتؤدي لقلة البول مش زيادته.",
+    }
+  },
+  {
+    "question": "Which enzymes diffuse into the blood due to destruction of the muscle Na-pump and mitochondria?",
+    "options": [
+      "CPK, AST, and LDH",
+      "Amylase and Lipase",
+      "GGT and Bilirubin",
+      "Troponin and Myosin"
+    ],
+    "answer": "CPK, AST, and LDH",
+    "explanation": {
+      "correct_en": "Damage to cell membranes and organelles allows leakage of Creatine Phosphokinase (CPK), Aspartate Aminotransferase (AST), and Lactate Dehydrogenase (LDH) into the bloodstream.",
+      "correct_ar": "تدمير غشاء الخلية بيخلي إنزيمات العضلات زي CPK و AST و LDH تسرب للدم.",
+      "wrong_1_en": "Amylase and Lipase are markers for pancreatic damage.",
+      "wrong_1_ar": "الأميليز والليبايز دول بتوع البنكرياس.",
+      "wrong_2_en": "GGT and Bilirubin are markers for liver/bile duct issues.",
+      "wrong_2_ar": "الـ GGT والصفراء (Bilirubin) بتوع الكبد والمرارة.",
+      "wrong_3_en": "While muscle-related, they are not the triad of enzymes specifically mentioned for clinical lab diagnosis in this text.",
+      "wrong_3_ar": "رغم إن ليهم علاقة بالعضلات بس مش هما الثلاثي اللي بنستخدمه في التشخيص المعملي هنا.",
+    }
+  },
+  {
+    "question": "What happens to the intracellular environment during muscular hypoxia in Ataxia Myoglobinuric Syndrome?",
+    "options": [
+      "Intracellular alkalosis",
+      "Intracellular acidosis",
+      "Increase in ATP production",
+      "Decrease in Sodium (Na) concentration"
+    ],
+    "answer": "Intracellular acidosis",
+    "explanation": {
+      "correct_en": "Hypoxia forces anaerobic metabolism, which leads to lactic acid buildup and intracellular acidosis.",
+      "correct_ar": "نقص الأكسجين بيخلي التمثيل الغذائي لا هوائي، وده بيزود حموضة الخلية (Acidosis).",
+      "wrong_1_en": "Acidosis occurs, not alkalosis (high pH).",
+      "wrong_1_ar": "اللي بيحصل حموضة (Acidosis) مش قلوية (Alkalosis).",
+      "wrong_2_en": "ATP production is severely depleted, not increased.",
+      "wrong_2_ar": "إنتاج الطاقة (ATP) بيقل جداً مش بيزيد.",
+      "wrong_3_en": "The Na pump fails, leading to an influx (increase) of Sodium inside the cell, causing swelling.",
+      "wrong_3_ar": "مضخة الصوديوم بتبوظ فـ الصوديوم بيزيد جوه الخلية ويخليها تورم.",
+    }
+  },
+  {
+    "question": "Animals with 'moderate to severe' clinical signs of the ataxic form usually:",
+    "options": [
+      "Recover with rest",
+      "Develop chronic immunity",
+      "Die",
+      "Respond well to Vitamin E"
+    ],
+    "answer": "Die",
+    "explanation": {
+      "correct_en": "The prognosis for animals showing moderate to severe signs of Ataxia Myoglobinuric Syndrome is poor, and they usually die due to renal and muscular failure.",
+      "correct_ar": "الحيوانات اللي بتظهر عليها أعراض متوسطة لشديدة في الغالب بتموت بسبب فشل الكلى والعضلات.",
+      "wrong_1_en": "Only animals with mild signs usually survive with rest/support.",
+      "wrong_1_ar": "بس الحالات الخفيفة هي اللي ممكن تعيش.",
+      "wrong_2_en": "There is no immunity involved as this is a metabolic/physical trauma condition.",
+      "wrong_2_ar": "مفيش حاجة اسمها مناعة هنا لأن ده مرض تمثيل غذائي مش ميكروب.",
+      "wrong_3_en": "While Vit E is relevant, it doesn't change the fact that severe cases typically die in the acute phase.",
+      "wrong_3_ar": "فيتامين E ممكن يساعد بس في الحالات الشديدة مش بيلحق يعمل حاجة.",
+    }
+  },
+  {
+    "question": "At what time post-capture is Ruptured Muscle Syndrome typically manifested?",
+    "options": [
+      "6-12 hours",
+      "24-48 hours",
+      "7-10 days",
+      "Immediately during transport"
+    ],
+    "answer": "24-48 hours",
+    "explanation": {
+      "correct_en": "Ruptured Muscle Syndrome has a delayed onset of 24 to 48 hours, even if the animal appeared normal initially.",
+      "correct_ar": "متلازمة تمزق العضلات بتظهر متأخر شوية، من ٢٤ لـ ٤٨ ساعة بعد الصيد حتى لو الحيوان كان باين سليم في الأول.",
+      "wrong_1_en": "6-12 hours is usually the Ataxia Myoglobinuric phase.",
+      "wrong_1_ar": "من ٦ لـ ١٢ ساعة دي غالباً مرحلة الترنح والميوجلوبين.",
+      "wrong_2_en": "7-10 days is too long; the muscle breakdown happens faster.",
+      "wrong_2_ar": "أسبوع ده وقت طويل جداً، التمزق بيحصل أسرع من كدة.",
+      "wrong_3_en": "Animals often appear normal at the time of capture/transport.",
+      "wrong_3_ar": "الحيوانات غالباً بتبان طبيعية وقت الصيد والنقل.",
+    }
+  },
+  {
+    "question": "A classic clinical sign of Ruptured Muscle Syndrome is:",
+    "options": [
+      "Hyperextension of the carpus",
+      "Hyperflexion of the hock",
+      "Rigidity of the forelimbs",
+      "Arching of the back (Kyphosis)"
+    ],
+    "answer": "Hyperflexion of the hock",
+    "explanation": {
+      "correct_en": "Rupture of the gastrocnemius muscle removes the tension required to extend the hock, leading to its hyperflexion.",
+      "correct_ar": "لما عضلة الـ gastrocnemius بتتمزق، الحيوان مبيعرفش يفرد العرقوب فبيفضل متني زيادة (Hyperflexion).",
+      "wrong_1_en": "Hyperextension is the opposite of what happens.",
+      "wrong_1_ar": "الفرد الزيادة (Hyperextension) عكس اللي بيحصل بالظبط.",
+      "wrong_2_en": "The syndrome focuses more on the hindquarters than forelimb rigidity.",
+      "wrong_2_ar": "المتلازمة دي بتأثر أكتر على الرجلين اللي ورا مش اللي قدام.",
+      "wrong_3_en": "While the back may be affected, hyperflexion of the hock is the specific diagnostic sign.",
+      "wrong_3_ar": "ثني العرقوب هو العرض المميز والتشخيصي أكتر.",
+    }
+  },
+  {
+    "question": "Which muscle is most commonly ruptured in this syndrome?",
+    "options": [
+      "Biceps brachii",
+      "Gastrocnemius",
+      "Masseter",
+      "Intercostal muscles"
+    ],
+    "answer": "Gastrocnemius",
+    "explanation": {
+      "correct_en": "The proximal third of the gastrocnemius muscle is the most common site of rupture during weight-bearing in this syndrome.",
+      "correct_ar": "التلت الأول من عضلة الـ gastrocnemius هو أكتر مكان بيحصل فيه تمزق لما الحيوان بيحمل وزنه عليها.",
+      "wrong_1_en": "Biceps brachii is in the forelimb; the syndrome predominantly affects the hindlimbs.",
+      "wrong_1_ar": "عضلة البايسبس في الرجل اللي قدام، والمرض ده بيضرب ورا أكتر.",
+      "wrong_2_en": "The masseter (jaw muscle) is not a weight-bearing muscle prone to rupture here.",
+      "wrong_2_ar": "عضلة الماستر دي بتاعة الفك مش بتاعة وزن وحركة.",
+      "wrong_3_en": "Intercostal muscles are for breathing, not primary weight-bearing locomotion.",
+      "wrong_3_ar": "العضلات التنفسية مش هي الهدف الأساسي للتمزق هنا.",
+    }
+  },
+  {
+    "question": "What distinguishes the blood chemistry of Ruptured Muscle Syndrome from the Ataxia Myoglobinuric phase?",
+    "options": [
+      "AST is lower in Ruptured Muscle Syndrome",
+      "BUN is usually normal or only slightly elevated",
+      "CPK is not elevated in Ruptured Muscle Syndrome",
+      "LDH is only found in the Ataxia phase"
+    ],
+    "answer": "BUN is usually normal or only slightly elevated",
+    "explanation": {
+      "correct_en": "Unlike the Ataxia Myoglobinuric phase which has severe renal failure (high BUN), the Ruptured Muscle phase often has normal or near-normal BUN.",
+      "correct_ar": "الفرق الجوهري إن في مرحلة التمزق الـ BUN بيبقى طبيعي أو عالي شوية بس، عكس مرحلة الترنح اللي الكلى فيها بتبوظ خالص.",
+      "wrong_1_en": "AST is actually 'extremely elevated' in Ruptured Muscle Syndrome.",
+      "wrong_1_ar": "الـ AST بيبقى عالي جداً في حالة التمزق مش قليل.",
+      "wrong_2_en": "CPK is extremely elevated in both, but even more so in the rupture phase.",
+      "wrong_2_ar": "الـ CPK بيعلى في الحالتين جداً.",
+      "wrong_3_en": "LDH is elevated in both due to muscle damage.",
+      "wrong_3_ar": "الـ LDH بيعلى في الحالتين لأن العضلات متدمرة في الاتنين.",
+    }
+  },
+  {
+    "question": "A key postmortem finding in Ruptured Muscle Syndrome is:",
+    "options": [
+      "Massive subcutaneous hemorrhage of the rear limbs",
+      "Absence of muscle lesions in the diaphragm",
+      "Perfectly symmetrical muscle ruptures",
+      "Extensive mineralization of muscles"
+    ],
+    "answer": "Massive subcutaneous hemorrhage of the rear limbs",
+    "explanation": {
+      "correct_en": "The physical rupture of large muscle groups like the gastrocnemius leads to extensive subcutaneous bleeding in the hind legs.",
+      "correct_ar": "تمزق العضلات الكبيرة بيؤدي لنزيف حاد تحت الجلد (Subcutaneous hemorrhage) في الرجلين اللي ورا.",
+      "wrong_1_en": "Lesions are actually found in the diaphragm as well.",
+      "wrong_1_ar": "الإصابات بتوصل للحجاب الحاجز (Diaphragm) كمان.",
+      "wrong_2_en": "Lesions and ruptures are bilateral but nonsymmetrical.",
+      "wrong_2_ar": "التمزق بيبقى في الناحيتين بس مش متماثل.",
+      "wrong_3_en": "There is *less* mineralization in CM compared to Selenium-Vitamin E deficiency.",
+      "wrong_3_ar": "الترسبات الكلسية (Mineralization) بتبقى أقل من حالات نقص السيلينيوم.",
+    }
+  },
+  {
+    "question": "What is considered the primary cause of death in Ruptured Muscle Syndrome?",
+    "options": [
+      "Renal failure and uremia",
+      "Electrolyte imbalance, acidosis, and toxemia",
+      "Bacterial septicemia",
+      "Exsanguination (bleeding to death)"
+    ],
+    "answer": "Electrolyte imbalance, acidosis, and toxemia",
+    "explanation": {
+      "correct_en": "Death results from a combination of metabolic collapse (acidosis), massive release of toxins from necrotic muscle, and electrolyte shifts.",
+      "correct_ar": "الوفاة بتحصل بسبب لخبطة الأملاح (Electrolytes)، زيادة حموضة الدم، والسموم اللي بتطلع من العضلات الميتة.",
+      "wrong_1_en": "Renal failure is the primary cause in the Ataxia Myoglobinuric phase, not the Ruptured phase.",
+      "wrong_1_ar": "فشل الكلى هو السبب الرئيسي في مرحلة الترنح مش مرحلة التمزق.",
+      "wrong_2_en": "Septicemia is not the primary mechanism; it's a metabolic/toxic crisis.",
+      "wrong_2_ar": "تسمم الدم البكتيري مش هو السبب الأساسي هنا.",
+      "wrong_3_en": "While there is hemorrhage, death is usually due to the metabolic consequences of necrosis rather than simple blood loss.",
+      "wrong_3_ar": "رغم وجود نزيف، الموت بيبقى بسبب التغيرات الكيماوية والسموم مش فقد الدم نفسه.",
+    }
+  }
+]
