@@ -1,0 +1,322 @@
+[
+  {
+    "question": "How long does it typically take for an animal with Capture Shock Syndrome to die after being captured?",
+    "options": [
+      "Within 1 to 6 hours",
+      "After 24 to 48 hours",
+      "Precisely 10 minutes",
+      "Between 1 to 2 weeks"
+    ],
+    "answer": "Within 1 to 6 hours",
+    "explanation": {
+      "correct": "In English: Capture shock is a rapid and severe condition; the text states that affected animals usually die within a 1 to 6-hour window post-capture. In Arabic: صدمة الأسر هي حالة سريعة وشديدة؛ وينص النص على أن الحيوانات المصابة تموت عادةً خلال نافذة تتراوح من ساعة إلى 6 ساعات بعد الأسر.",
+      "wrong_1": "In English: 24 to 48 hours is too long; this syndrome is characterized by acute circulatory collapse that happens much faster. In Arabic: 24 إلى 48 ساعة فترة طويلة جداً؛ تتميز هذه المتلازمة بانهيار دوري حاد يحدث بشكل أسرع بكثير.",
+      "wrong_2": "In English: While shock starts quickly, death usually requires a few hours for systemic failure to complete. In Arabic: بينما تبدأ الصدمة بسرعة، فإن الموت يتطلب عادةً بضع ساعات حتى يكتمل الفشل الشامل للجسم.",
+      "wrong_3": "In English: A week or two suggests a chronic illness, not the acute 'shock' described in the text. In Arabic: أسبوع أو أسبوعان يشيران إلى مرض مزمن، وليس 'الصدمة' الحادة الموصوفة في النص."
+    }
+  },
+  {
+    "question": "Which set of laboratory enzymes would you expect to see elevated in an animal with Capture Shock?",
+    "options": [
+      "Amylase and Lipase",
+      "AST, CPK, and LDH",
+      "Bilirubin and Insulin",
+      "Thyroxine and Estrogen"
+    ],
+    "answer": "AST, CPK, and LDH",
+    "explanation": {
+      "correct": "In English: AST, CPK (Creatine Phosphokinase), and LDH (Lactate Dehydrogenase) are enzymes found inside muscle and organ cells. When these cells are damaged or destroyed during shock, the enzymes leak into the blood. In Arabic: إن إنزيمات AST و CPK و LDH هي إنزيمات توجد داخل خلايا العضلات والأعضاء. عندما تتضرر هذه الخلايا أو تتدمر أثناء الصدمة، تتسرب هذه الإنزيمات إلى الدم.",
+      "wrong_1": "In English: Amylase and Lipase are mainly used to diagnose pancreas issues, not general systemic capture shock. In Arabic: يستخدم الأميلاز والليباز بشكل أساسي لتشخيص مشاكل البنكرياس، وليس صدمة الأسر الشاملة.",
+      "wrong_2": "In English: Bilirubin relates to liver/gallbladder bile and Insulin to blood sugar; they aren't the primary markers listed for this syndrome. In Arabic: يتعلق البيليروبين بصفراء الكبد/المرارة والأنسولين بسكر الدم؛ وليسا العلامات الأساسية المذكورة لهذه المتلازمة.",
+      "wrong_3": "In English: These are hormones, not the cellular damage enzymes used for diagnosing capture shock. In Arabic: هذه هرمونات، وليست إنزيمات تلف الخلايا المستخدمة لتشخيص صدمة الأسر."
+    }
+  },
+  {
+    "question": "What is the heart rate (Pulse) characteristic of an animal suffering from Capture Shock?",
+    "options": [
+      "Strong and slow",
+      "Weak and thready pulse (Tachycardia)",
+      "Completely absent",
+      "Slow and regular (Bradycardia)"
+    ],
+    "answer": "Weak and thready pulse (Tachycardia)",
+    "explanation": {
+      "correct": "In English: The text lists 'Tachycardia' (fast heart rate) and 'Weak, thready pulse' as clinical signs. This happens because the heart is trying to pump blood, but there isn't enough pressure or volume. In Arabic: يدرج النص 'تسارع ضربات القلب' (Tachycardia) و 'نبض ضعيف وخيطي' كعلامات سريرية. يحدث هذا لأن القلب يحاول ضخ الدم، لكن لا يوجد ضغط أو حجم كافٍ.",
+      "wrong_1": "In English: A strong pulse indicates healthy blood pressure, which is absent in shock (Hypotension). In Arabic: النبض القوي يشير إلى ضغط دم صحي، وهو أمر غائب في الصدمة (انخفاض ضغط الدم).",
+      "wrong_2": "In English: If the pulse were completely absent, the animal would already be dead; in shock, the heart is still fighting. In Arabic: إذا كان النبض غائباً تماماً، فسيكون الحيوان ميتاً بالفعل؛ أما في حالة الصدمة، فلا يزال القلب يقاوم.",
+      "wrong_3": "In English: Bradycardia is a slow heart rate; shock usually triggers a fast rate (Tachycardia) to compensate for low blood pressure. In Arabic: تباطؤ ضربات القلب (Bradycardia) هو معدل ضربات قلب بطيء؛ وعادة ما تحفز الصدمة معدلاً سريعاً لتعويض انخفاض ضغط الدم."
+    }
+  },
+  {
+    "question": "Which stage of circulatory shock is defined as progressing to a point where no treatment can save the animal?",
+    "options": [
+      "Non-progressive stage",
+      "Progressive stage",
+      "Irreversible stage",
+      "Recovery stage"
+    ],
+    "answer": "Irreversible stage",
+    "explanation": {
+      "correct": "In English: 'Irreversible' means 'cannot be reversed.' At this stage, the damage to vital organs is so severe that death is certain regardless of medical help. In Arabic: 'غير قابل للانعكاس' (Irreversible) يعني 'لا يمكن الرجوع فيه'. في هذه المرحلة، يكون الضرر الذي لحق بالأعضاء الحيوية شديداً لدرجة أن الموت مؤكد بغض النظر عن المساعدة الطبية.",
+      "wrong_1": "In English: In the non-progressive stage, the body's compensation mechanisms allow for full recovery. In Arabic: في المرحلة غير التقدمية، تسمح آليات التعويض في الجسم بالشفاء التمام.",
+      "wrong_2": "In English: In the progressive stage, the animal is getting worse but hasn't necessarily reached the 'point of no return' yet. In Arabic: في المرحلة التقدمية، تزداد حالة الحيوان سوءاً ولكنه لم يصل بالضرورة بعد إلى 'نقطة اللاعودة'.",
+      "wrong_3": "In English: The recovery stage is not a stage of shock, but what happens after a non-progressive stage is successfully managed. In Arabic: مرحلة التعافي ليست مرحلة من مراحل الصدمة، ولكنها ما يحدث بعد إدارة المرحلة غير التقدمية بنجاح."
+    }
+  },
+  {
+    "question": "In the pathogenesis related to fear, what causes the 'incapability to fill the circulatory system'?",
+    "options": [
+      "The animal doesn't drink enough water.",
+      "Increased vascular capacity (vessels widen too much).",
+      "The animal is too small.",
+      "Excessive blood clotting."
+    ],
+    "answer": "Increased vascular capacity (vessels widen too much).",
+    "explanation": {
+      "correct": "In English: When the vascular capacity increases (vessels dilate/widen), the same volume of blood isn't enough to fill the 'larger' space, causing blood pressure to drop. In Arabic: عندما تزداد السعة الوعائية (تتوسع الأوعية)، لا يكون نفس حجم الدم كافياً لملء المساحة 'الأكبر'، مما يتسبب في انخفاض ضغط الدم.",
+      "wrong_1": "In English: While dehydration doesn't help, the primary mechanism here is the sudden widening of the blood vessels due to the nervous system. In Arabic: في حين أن الجفاف لا يساعد، فإن الآلية الأساسية هنا هي التوسع المفاجئ للأوعية الدموية بسبب الجهاز العصبي.",
+      "wrong_2": "In English: The size of the animal is irrelevant to the physiological mechanism of shock capacity. In Arabic: حجم الحيوان لا علاقة له بالآلية الفسيولوجية لسعة الصدمة.",
+      "wrong_3": "In English: Excessive clotting (thrombosis) happens later in the cycle, it isn't the initial reason the system can't be 'filled'. In Arabic: التجلط المفرط (التخثر) يحدث لاحقاً في الدورة، وليس السبب الأولي لعدم إمكانية 'ملء' النظام."
+    }
+  },
+  {
+    "question": "What is 'Visceral Pooling' as mentioned in the Systemic Circulatory Collapse section?",
+    "options": [
+      "Blood moving rapidly to the brain.",
+      "Blood getting stuck (pooling) in the internal organs (viscera).",
+      "Blood leaking out of the skin.",
+      "Digestion of blood in the stomach."
+    ],
+    "answer": "Blood getting stuck (pooling) in the internal organs (viscera).",
+    "explanation": {
+      "correct": "In English: 'Visceral' refers to internal organs. Pooling means blood stays there instead of returning to the heart, which leads to decreased venous return. In Arabic: كلمة 'Visceral' تشير إلى الأعضاء الداخلية. و 'Pooling' تعني بقاء الدم هناك بدلاً من العودة إلى القلب، مما يؤدي إلى انخفاض العائد الوريدي.",
+      "wrong_1": "In English: Pooling in the organs actually prevents enough blood from reaching the brain. In Arabic: التجمع في الأعضاء يمنع في الواقع وصول كمية كافية من الدم إلى الدماغ.",
+      "wrong_2": "In English: This describes internal congestion, not external bleeding (hemorrhage). In Arabic: هذا يصف احتقاناً داخلياً، وليس نزيفاً خارجياً.",
+      "wrong_3": "In English: Pooling refers to circulation issues, not the digestive process. In Arabic: التجمع يشير إلى مشاكل في الدورة الدموية، وليس إلى عملية الهضم."
+    }
+  },
+  {
+    "question": "What happens to the cellular metabolism during 'Muscular Activity' pathogenesis due to hypoxia?",
+    "options": [
+      "It switches from aerobic to anaerobic glycolysis.",
+      "It stops producing energy entirely.",
+      "It switches from glucose to fat only.",
+      "It produces more oxygen to compensate."
+    ],
+    "answer": "It switches from aerobic to anaerobic glycolysis.",
+    "explanation": {
+      "correct": "In English: When there isn't enough oxygen (hypoxia), cells cannot do aerobic metabolism. They switch to 'anaerobic' (without air) glycolysis to survive, which produces lactic acid. In Arabic: عندما لا يتوفر كمية كافية من الأكسجين (نقص الأكسجين)، لا تستطيع الخلايا القيام بالتمثيل الغذائي الهوائي. فتتحول إلى تحلل السكر 'اللاهوائي' (بدون هواء) للبقاء على قيد الحياة، مما ينتج حمض اللاكتيك.",
+      "wrong_1": "In English: The cell tries to produce energy via anaerobic means; it only stops entirely when it dies. In Arabic: تحاول الخلية إنتاج الطاقة عبر وسائل لاهوائية؛ وتتوقف تماماً فقط عندما تموت.",
+      "wrong_2": "In English: The text specifies anaerobic glycolysis (using glucose), not a switch to fat. In Arabic: يحدد النص تحلل السكر اللاهوائي (باستخدام الغلوكوز)، وليس التحول إلى الدهون.",
+      "wrong_3": "In English: Cells cannot 'produce' oxygen; they consume it. In Arabic: الخلايا لا تستطيع 'إنتاج' الأكسجين؛ بل تستهلكه."
+    }
+  },
+  {
+    "question": "The accumulation of which two substances leads to 'Acidemia' in the tissues?",
+    "options": [
+      "Oxygen and Water",
+      "Lactic acid and Carbonic acid (CO2)",
+      "Glucose and Insulin",
+      "Sodium and Potassium"
+    ],
+    "answer": "Lactic acid and Carbonic acid (CO2)",
+    "explanation": {
+      "correct": "In English: Lack of oxygen forces anaerobic metabolism (producing lactic acid) and poor blood flow prevents CO2 removal (which forms carbonic acid), making the blood acidic. In Arabic: يؤدي نقص الأكسجين إلى فرض التمثيل الغذائي اللاهوائي (إنتاج حمض اللاكتيك) كما أن ضعف تدفق الدم يمنع إزالة ثاني أكسيد الكربون (الذي يشكل حمض الكربونيك)، مما يجعل الدم حمضياً.",
+      "wrong_1": "In English: These are life-sustaining and do not cause acidity. In Arabic: هذه مواد ضرورية للحياة ولا تسبب الحموضة.",
+      "wrong_2": "In English: Glucose is a sugar and insulin is a hormone; they don't directly cause acidemia in this context. In Arabic: الغلوكوز سكر والأنسولين هرمون؛ ولا يسببان بشكل مباشر حموضة الدم في هذا السياق.",
+      "wrong_3": "In English: These are electrolytes; their imbalance is a result of the acid/pH change, not the primary cause of acidemia itself. In Arabic: هذه أملاح معدنية (إلكتروليتات)؛ واختلال توازنها هو نتيجة لتغير الحموضة/الأس الهيدروجيني، وليس السبب الرئيسي لحموضة الدم نفسها."
+    }
+  },
+  {
+    "question": "What is a common Postmortem finding in the small intestine for Capture Shock?",
+    "options": [
+      "The intestine is completely empty and dry.",
+      "Severe congestion and clear or blood-tinged contents.",
+      "Presence of large parasites.",
+      "The intestine has turned into bone."
+    ],
+    "answer": "Severe congestion and clear or blood-tinged contents.",
+    "explanation": {
+      "correct": "In English: Because of 'visceral pooling,' blood gets trapped in the intestinal walls (congestion) and may leak into the lumen (blood-tinged contents). In Arabic: بسبب 'التجمع الأحشائي'، يحتبس الدم في جدران الأمعاء (احتقان) وقد يتسرب إلى التجويف (محتويات مشوبة بالدم).",
+      "wrong_1": "In English: Congestion means the organ is full of blood, the opposite of empty and dry. In Arabic: الاحتقان يعني أن العضو مليء بالدم، وهو عكس الفراغ والجفاف.",
+      "wrong_2": "In English: While parasites can exist, they are not a specific pathological finding caused by capture shock. In Arabic: بينما قد توجد طفيليات، إلا أنها ليست نتيجة مرضية محددة ناتجة عن صدمة الأسر.",
+      "wrong_3": "In English: Soft tissues like intestines do not turn into bone during acute shock. In Arabic: الأنسجة الرخوة مثل الأمعاء لا تتحول إلى عظم أثناء الصدمة الحادة."
+    }
+  },
+  {
+    "question": "How does 'Muscular Activity' pathogenesis affect the Na & K (Sodium and Potassium) pump?",
+    "options": [
+      "It makes the pump work 10 times faster.",
+      "It decreases active transport, leading to Na/Cl accumulation in cells and K loss.",
+      "It causes the cell to only absorb Potassium.",
+      "The pump is not affected by pH changes."
+    ],
+    "answer": "It decreases active transport, leading to Na/Cl accumulation in cells and K loss.",
+    "explanation": {
+      "correct": "In English: Cells need energy (ATP) to pump Sodium (Na) out and Potassium (K) in. Low pH and low ATP stop this pump, causing Na to stay inside (drawing water in) and K to leak out. In Arabic: تحتاج الخلايا إلى طاقة (ATP) لضخ الصوديوم (Na) للخارج والبوتاسيوم (K) للداخل. انخفاض الأس الهيدروجيني ونقص ATP يوقف هذه المضخة، مما يجعل الصوديوم يبقى بالداخل (يسحب الماء للداخل) ويتسرب البوتاسيوم للخارج.",
+      "wrong_1": "In English: The pump fails or slows down due to lack of energy; it doesn't speed up. In Arabic: تفشل المضخة أو تتباطأ بسبب نقص الطاقة؛ ولا تتسارع.",
+      "wrong_2": "In English: The cell actually loses Potassium to the extracellular fluid. In Arabic: الخلية في الواقع تفقد البوتاسيوم إلى السائل خارج الخلية.",
+      "wrong_3": "In English: The pump is highly sensitive to energy levels and pH; the text states pH drop decreases transport. In Arabic: المضخة حساسة للغاية لمستويات الطاقة والأس الهيدروجيني؛ وينص النص على أن انخفاض الأس الهيدروجيني يقلل من النقل."
+    }
+  },
+  {
+    "question": "What happens when lysosomes rupture during severe cellular distress?",
+    "options": [
+      "They release enzymes that worsen intracellular damage.",
+      "They repair the cell's DNA.",
+      "They produce more glucose for the cell.",
+      "They release oxygen into the cytoplasm."
+    ],
+    "answer": "They release enzymes that worsen intracellular damage.",
+    "explanation": {
+      "correct": "In English: Lysosomes are like the cell's 'recycling bins' containing digestive enzymes. If they rupture, these enzymes start 'digesting' the cell itself from the inside. In Arabic: الليزوزومات تشبه 'سلال إعادة التدوير' في الخلية وتحتوي على إنزيمات هضمية. إذا تمزقت، تبدأ هذه الإنزيمات في 'هضم' الخلية نفسها من الداخل.",
+      "wrong_1": "In English: Lysosomes are destructive when they rupture; they do not perform repair. In Arabic: الليزوزومات تكون مدمرة عندما تمزق؛ ولا تقوم بالإصلاح.",
+      "wrong_2": "In English: Lysosomes do not have the machinery to produce glucose. In Arabic: الليزوزومات لا تملك الآلية لإنتاج الغلوكوز.",
+      "wrong_3": "In English: Lysosomes contain enzymes, not oxygen. In Arabic: تحتوي الليزوزومات على إنزيمات، وليس أكسجين."
+    }
+  },
+  {
+    "question": "What is 'Tachycardia'?",
+    "options": [
+      "Slow breathing",
+      "Fast heart rate",
+      "Low blood pressure",
+      "Muscle stiffness"
+    ],
+    "answer": "Fast heart rate",
+    "explanation": {
+      "correct": "In English: Tachycardia is the medical term for a heart rate that exceeds the normal resting rate. In Arabic: (Tachycardia) هو المصطلح الطبي لمعدل ضربات القلب الذي يتجاوز المعدل الطبيعي أثناء الراحة.",
+      "wrong_1": "In English: Slow breathing is called 'Bradypnea'. In Arabic: التنفس البطيء يسمى (Bradypnea).",
+      "wrong_2": "In English: Low blood pressure is 'Hypotension'. In Arabic: انخفاض ضغط الدم هو (Hypotension).",
+      "wrong_3": "In English: Muscle stiffness might be 'Rigidity' or 'Myotonia', not tachycardia. In Arabic: تصلب العضلات قد يكون (Rigidity) أو (Myotonia)، وليس تسرع القلب."
+    }
+  },
+  {
+    "question": "According to the 'Sympathetic Nervous and Adrenal Systems' pathogenesis, what leads to a Coma?",
+    "options": [
+      "Too much oxygen in the brain.",
+      "Decreased blood flow to the brain due to low cardiac output.",
+      "High blood pressure in the skull.",
+      "The animal falling asleep from relaxation."
+    ],
+    "answer": "Decreased blood flow to the brain due to low cardiac output.",
+    "explanation": {
+      "correct": "In English: When the heart fails (low cardiac output), it can't send enough blood to the brain. Lack of oxygen and nutrients to the brain leads to a loss of consciousness (coma). In Arabic: عندما يفشل القلب (انخفاض نتاج القلب)، لا يمكنه إرسال ما يكفي من الدم إلى الدماغ. ويؤدي نقص الأكسجين والمواد المغذية للدماغ إلى فقدان الوعي (غيبوبة).",
+      "wrong_1": "In English: The problem is a lack of oxygen (hypoxia), not too much. In Arabic: المشكلة هي نقص الأكسجين (نقص التأكسج)، وليس كثرته.",
+      "wrong_2": "In English: Shock involves 'Hypotension' (low pressure), not high blood pressure. In Arabic: تتضمن الصدمة 'انخفاض ضغط الدم'، وليس ارتفاع ضغط الدم.",
+      "wrong_3": "In English: Coma in shock is a result of brain failure, not a natural or relaxed sleep. In Arabic: الغيبوبة في الصدمة هي نتيجة فشل الدماغ، وليست نوماً طبيعياً أو مسترخياً."
+    }
+  },
+  {
+    "question": "In the context of 'Capture Shock', what does 'Hypotension' mean?",
+    "options": [
+      "High body temperature",
+      "Low blood pressure",
+      "Rapid heart rate",
+      "Excessive sweating"
+    ],
+    "answer": "Low blood pressure",
+    "explanation": {
+      "correct": "In English: 'Hypo-' means low, and '-tension' refers to pressure. Hypotension is low blood pressure, a hallmark of shock. In Arabic: 'Hypo-' تعني منخفض، و '-tension' تشير إلى الضغط. (Hypotension) هو انخفاض ضغط الدم، وهو علامة مميزة للصدمة.",
+      "wrong_1": "In English: High body temperature is 'Hyperthermia' or fever. In Arabic: ارتفاع درجة حرارة الجسم هو (Hyperthermia) أو الحمى.",
+      "wrong_2": "In English: Rapid heart rate is 'Tachycardia'. In Arabic: معدل ضربات القلب السريع هو (Tachycardia).",
+      "wrong_3": "In English: Sweating is 'Diaphoresis'. In Arabic: التعرق المفرط هو (Diaphoresis)."
+    }
+  },
+  {
+    "question": "What is the result of 'Sluggish blood flow in small vessels' during shock?",
+    "options": [
+      "Thrombosis (clotting) in capillaries and small veins.",
+      "Faster delivery of nutrients.",
+      "Vessels becoming stronger.",
+      "Blood turning into clear water."
+    ],
+    "answer": "Thrombosis (clotting) in capillaries and small veins.",
+    "explanation": {
+      "correct": "In English: When blood moves too slowly (sluggish), it tends to stick together and form tiny clots, known as thrombosis. In Arabic: عندما يتحرك الدم ببطء شديد، فإنه يميل إلى التماسك وتكوين جلطات صغيرة، تعرف باسم التخثر (thrombosis).",
+      "wrong_1": "In English: Sluggish flow slows down the delivery of nutrients, it doesn't speed it up. In Arabic: التدفق البطيء يبطئ توصيل العناصر الغذائية، ولا يسرعه.",
+      "wrong_2": "In English: Shock weakens the vessel function; it doesn't make them stronger. In Arabic: تضعف الصدمة وظيفة الأوعية؛ ولا تجعلها أقوى.",
+      "wrong_3": "In English: Blood doesn't turn into water; it remains blood but may experience clotting or congestion. In Arabic: الدم لا يتحول إلى ماء؛ بل يبقى دماً ولكنه قد يتعرض للتجلط أو الاحتقان."
+    }
+  },
+  {
+    "question": "Which of the following is an 'Initial Trigger' in the pathogenesis related to fear?",
+    "options": [
+      "Hunger",
+      "Fright and Pain",
+      "Old age",
+      "Excessive vitamins"
+    ],
+    "answer": "Fright and Pain",
+    "explanation": {
+      "correct": "In English: The text lists Distress, Fright, Neurological factors, Pain, and Trauma as the five overlapping triggers for the fear-related pathway. In Arabic: يدرج النص الضيق، والخوف، والعوامل العصبية، والألم، والصدمة (Trauma) كخمسة محفزات متداخلة للمسار المرتبط بالخوف.",
+      "wrong_1": "In English: While hungry animals might be weaker, hunger itself is not listed as a primary trigger for capture shock. In Arabic: بينما قد تكون الحيوانات الجائعة أضعف، إلا أن الجوع نفسه لم يذكر كمحفز أساسي لصدمة الأسر.",
+      "wrong_2": "In English: Capture shock can happen to animals of any age during trapping. In Arabic: صدمة الأسر يمكن أن تحدث للحيوانات في أي عمر أثناء المصيدة.",
+      "wrong_3": "In English: Vitamin levels are not related to the immediate neurological/fear triggers. In Arabic: مستويات الفيتامينات لا علاقة لها بالمحفزات العصبية/الخوف الفورية."
+    }
+  },
+  {
+    "question": "What happens to 'Insulin activity' in the muscular activity pathogenesis?",
+    "options": [
+      "It increases to lower blood sugar.",
+      "It decreases.",
+      "It stays exactly the same.",
+      "It turns into adrenaline."
+    ],
+    "answer": "It decreases.",
+    "explanation": {
+      "correct": "In English: The pathway for muscular activity shows that cellular metabolism failures lead to a decrease in the activity of insulin. In Arabic: يظهر مسار النشاط العضلي أن فشل التمثيل الغذائي الخلوي يؤدي إلى انخفاض في نشاط الأنسولين.",
+      "wrong_1": "In English: The text specifically indicates a 'down' arrow for insulin activity. In Arabic: يشير النص تحديداً إلى سهم 'للأسفل' لنشاط الأنسولين.",
+      "wrong_2": "In English: Severe metabolic distress causes massive changes; hormones like insulin do not stay the same. In Arabic: يسبب الضيق الاستقلابي الشديد تغيرات هائلة؛ الهرمونات مثل الأنسولين لا تبقى كما هي.",
+      "wrong_3": "In English: One hormone does not 'turn into' another hormone. In Arabic: هرمون واحد لا 'يتحول' إلى هرمون آخر."
+    }
+  },
+  {
+    "question": "Which organ(s) may show tiny necrotic areas infrequently during postmortem?",
+    "options": [
+      "Only the skin",
+      "Skeletal muscle, brain, liver, and heart",
+      "Just the teeth",
+      "Only the hair follicles"
+    ],
+    "answer": "Skeletal muscle, brain, liver, and heart",
+    "explanation": {
+      "correct": "In English: The text mentions that tiny necrotic (dead tissue) areas can be found in several organs, including muscle, brain, liver, heart, and others like the pancreas and spleen. In Arabic: يذكر النص أن مناطق نخرية صغيرة (أنسجة ميتة) يمكن العثور عليها في عدة أعضاء، بما في ذلك العضلات والدماغ والكبد والقلب وأعضاء أخرى مثل البنكرياس والطحال.",
+      "wrong_1": "In English: Necrosis happens in deep vital organs, not just the skin. In Arabic: يحدث النخر في الأعضاء الحيوية العميقة، وليس فقط في الجلد.",
+      "wrong_2": "In English: Teeth are bone-like and don't show the same necrotic changes as soft tissue in acute shock. In Arabic: الأسنان تشبه العظام ولا تظهر عليها نفس التغيرات النخرية مثل الأنسجة الرخوة في الصدمة الحادة.",
+      "wrong_3": "In English: Hair follicles are not a primary site for evaluating shock damage. In Arabic: بصيلات الشعر ليست موقعاً أساسياً لتقييم أضرار الصدمة."
+    }
+  },
+  {
+    "question": "What does 'Oxidative Phosphorylation' decrease lead to?",
+    "options": [
+      "Production of too much energy.",
+      "Muscle hypoxia and anaerobic metabolism.",
+      "Immediate hair growth.",
+      "Faster digestion."
+    ],
+    "answer": "Muscle hypoxia and anaerobic metabolism.",
+    "explanation": {
+      "correct": "In English: Oxidative phosphorylation is how cells use oxygen to make ATP (energy). If this decreases, the muscle lacks oxygen (hypoxia) and must switch to anaerobic methods. In Arabic: الفسفرة التأكسدية هي كيفية استخدام الخلايا للأكسجين لصنع ATP (طاقة). إذا انخفض هذا، تفتقر العضلات إلى الأكسجين (نقص التأكسج) ويجب أن تتحول إلى الطرق اللاهوائية.",
+      "wrong_1": "In English: A decrease in this process means *less* energy is produced, not more. In Arabic: انخفاض هذه العملية يعني إنتاج طاقة *أقل*، وليس أكثر.",
+      "wrong_2": "In English: Hair growth is not related to the acute failure of oxidative phosphorylation. In Arabic: نمو الشعر لا علاقة له بالفشل الحاد في الفسفرة التأكسدية.",
+      "wrong_3": "In English: Shock inhibits digestion; it doesn't speed it up. In Arabic: الصدمة تثبط الهضم؛ ولا تسرعه."
+    }
+  },
+  {
+    "question": "Why are lesions 'most obvious' if the animal has a fever in capture shock?",
+    "options": [
+      "Because the fever kills all bacteria.",
+      "High temperature accelerates tissue damage and metabolic crash.",
+      "Because the animal is cold.",
+      "The text says fever prevents lesions."
+    ],
+    "answer": "High temperature accelerates tissue damage and metabolic crash.",
+    "explanation": {
+      "correct": "In English: Fever (elevated body temperature) increases the rate of chemical reactions in the body, which during shock, speeds up the destruction of tissues and the accumulation of toxins. In Arabic: الحمى (ارتفاع درجة حرارة الجسم) تزيد من معدل التفاعلات الكيميائية في الجسم، والتي خلال الصدمة، تسرع من تدمير الأنسجة وتراكم السموم.",
+      "wrong_1": "In English: Fever here is a sign of stress/distress, not necessarily an immune response to bacteria. In Arabic: الحمى هنا هي علامة على الإجهاد/الضيق، وليس بالضرورة استجابة مناعية للبكتيريا.",
+      "wrong_2": "In English: Fever means the animal is hot, not cold. In Arabic: الحمى تعني أن الحيوان ساخن، وليس بارداً.",
+      "wrong_3": "In English: The text specifically states the lesions are *most obvious* if the animal has a fever. In Arabic: ينص النص تحديداً على أن الآفات تكون *أكثر وضوحاً* إذا كان الحيوان يعاني من الحمى."
+    }
+  }
+]
