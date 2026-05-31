@@ -1,0 +1,482 @@
+[
+  {
+    "question": "What is the typical timeframe for the onset of Ataxia Myoglobinuric Syndrome after an animal is captured?",
+    "options": [
+      "Immediately within seconds",
+      "Several hours to several days post-capture",
+      "Exactly 30 days later",
+      "Only during the winter months"
+    ],
+    "answer": "Several hours to several days post-capture",
+    "explanation": {
+      "correct": "In English: Ataxia Myoglobinuric Syndrome is a delayed response. It doesn't happen instantly like acute shock, but takes hours or days for the muscle damage to manifest. In Arabic: تظهر متلازمة الترنح والميوغلوبينوريا كاستجابة متأخرة؛ فهي لا تحدث فوراً مثل الصدمة الحادة، بل تستغرق ساعات أو أياماً حتى يظهر تلف العضلات.",
+      "wrong_1": "In English: Immediate death is usually associated with 'Capture Shock' or 'Delayed-peracute' syndromes, not the Ataxia phase. In Arabic: الموت الفوري يرتبط عادة بصدمة الأسر أو المتلازمة فوق الحادة المتأخرة، وليس بمرحلة الترنح.",
+      "wrong_2": "In English: 30 days is too long; the physiological crash of capture myopathy happens much sooner. In Arabic: 30 يوماً فترة طويلة جداً؛ فالانهيار الفسيولوجي الناتج عن اعتلال العضلات الإجهادي يحدث في وقت أقرب بكثير.",
+      "wrong_3": "In English: This syndrome is related to the stress of capture, not the season or weather. In Arabic: هذه المتلازمة مرتبطة بضغط عملية الأسر، وليس بالموسم أو الطقس."
+    }
+  },
+  {
+    "question": "An animal with Ataxia Myoglobinuric Syndrome shows 'Torticollis'. What does this clinical sign involve?",
+    "options": [
+      "Excessive tail wagging",
+      "Twisting or tilting of the neck",
+      "Loss of vision in one eye",
+      "Bleeding from the nose"
+    ],
+    "answer": "Twisting or tilting of the neck",
+    "explanation": {
+      "correct": "In English: Torticollis is a condition where the neck muscles contract involuntarily, causing the head to twist to one side. In Arabic: الالتواء العنقي (Torticollis) هو حالة تنقبض فيها عضلات الرقبة بشكل لا إرادي، مما يؤدي إلى التواء الرأس إلى أحد الجانبين.",
+      "wrong_1": "In English: Tail movement is not a diagnostic sign of this syndrome. In Arabic: حركة الذيل ليست علامة تشخيصية لهذه المتلازمة.",
+      "wrong_2": "In English: While eyes might dilate in other stages, torticollis specifically refers to the neck. In Arabic: بينما قد تتسع العينان في مراحل أخرى، فإن (torticollis) يشير تحديداً إلى الرقبة.",
+      "wrong_3": "In English: Nasal bleeding is 'Epistaxis', which is not a primary sign of this specific muscle syndrome. In Arabic: نزيف الأنف هو (Epistaxis)، وهو ليس علامة أساسية لهذه المتلازمة العضلية المحددة."
+    }
+  },
+  {
+    "question": "Why does an animal with Ataxia Myoglobinuric Syndrome produce brownish urine (Myoglobinuria)?",
+    "options": [
+      "Because it drank dirty water",
+      "Because damaged muscles release myoglobin into the blood, which then enters the urine",
+      "Because of a bacterial infection in the bladder",
+      "Because of a lack of vitamin C"
+    ],
+    "answer": "Because damaged muscles release myoglobin into the blood, which then enters the urine",
+    "explanation": {
+      "correct": "In English: Myoglobin is a protein in muscles. When muscles break down (necrosis), myoglobin leaks into the blood and is filtered by the kidneys, turning urine brown. In Arabic: الميوغلوبين هو بروتين موجود في العضلات. عندما تتحلل العضلات (النخر)، يتسرب الميوغلوبين إلى الدم وتقوم الكلى بتصفيته، مما يحول لون البول إلى البني.",
+      "wrong_1": "In English: Water quality doesn't cause this specific internal metabolic change. In Arabic: جودة الماء لا تسبب هذا التغيير الاستقلابي الداخلي المحدد.",
+      "wrong_2": "In English: While infections can change urine, the brown color here is due to muscle pigment, not bacteria. In Arabic: بينما يمكن للعدوى تغيير البول، فإن اللون البني هنا ناتج عن صبغة العضلات، وليس البكتيريا.",
+      "wrong_3": "In English: Vitamin C deficiency (Scurvy) is unrelated to the pathogenesis of capture myopathy. In Arabic: نقص فيتامين C لا علاقة له بمرض اعتلال العضلات الإجهادي."
+    }
+  },
+  {
+    "question": "In Ataxia Myoglobinuric Syndrome, what does an elevated 'BUN' (Blood Urea Nitrogen) signify?",
+    "options": [
+      "Healthy liver function",
+      "Renal failure or Azotemia",
+      "Low protein intake",
+      "Excellent hydration"
+    ],
+    "answer": "Renal failure or Azotemia",
+    "explanation": {
+      "correct": "In English: BUN is a waste product filtered by the kidneys. If the kidneys fail (due to myoglobin damage or hypoxia), BUN levels rise in the blood. In Arabic: (BUN) هو منتج نفايات تقوم الكلى بتصفيته. إذا فشلت الكلى (بسبب تلف الميوغلوبين أو نقص الأكسجين)، ترتفع مستويات BUN في الدم.",
+      "wrong_1": "In English: High BUN is a sign of pathology, not healthy function. In Arabic: ارتفاع BUN هو علامة على وجود مرض، وليس وظيفة صحية.",
+      "wrong_2": "In English: High BUN often results from *high* protein breakdown (muscle necrosis) and kidney failure, not low intake. In Arabic: غالباً ما ينتج ارتفاع BUN عن تكسر البروتين *العالي* (نخر العضلات) وفشل الكلى.",
+      "wrong_3": "In English: High BUN is often associated with dehydration or poor kidney perfusion, not excellent hydration. In Arabic: غالباً ما يرتبط ارتفاع BUN بالجفاف أو ضعف تروية الكلى، وليس بالترطيب الممتاز."
+    }
+  },
+  {
+    "question": "What is 'Azotemia' as mentioned in the pathogenesis of the Ataxia phase?",
+    "options": [
+      "An increase in red blood cells",
+      "An accumulation of nitrogenous waste products in the blood",
+      "A type of skin rash",
+      "A sudden increase in energy"
+    ],
+    "answer": "An accumulation of nitrogenous waste products in the blood",
+    "explanation": {
+      "correct": "In English: Azotemia occurs when the kidneys are unable to filter nitrogen-based wastes like urea and creatinine from the blood. In Arabic: تحدث غزارة النيتروجين في الدم (Azotemia) عندما تعجز الكلى عن تصفية النفايات النيتروجينية مثل اليوريا والكرياتينين من الدم.",
+      "wrong_1": "In English: Increase in red blood cells is called 'Polycythemia'. In Arabic: زيادة خلايا الدم الحمراء تسمى (Polycythemia).",
+      "wrong_2": "In English: It is a chemical/blood condition, not a visual skin rash. In Arabic: إنها حالة كيميائية في الدم، وليست طفحاً جلدياً ظاهراً.",
+      "wrong_3": "In English: Azotemia is a sign of severe illness and system failure, not energy. In Arabic: غزارة النيتروجين هي علامة على مرض شديد وفشل في أعضاء الجسم."
+    }
+  },
+  {
+    "question": "What causes the 'Tubular Necrosis' in the kidneys during Ataxia Myoglobinuric Syndrome?",
+    "options": [
+      "Eating too much grass",
+      "Renal hypoxia and excessive myoglobin leaking from muscles",
+      "A virus attacking the kidneys",
+      "Too much exercise before capture"
+    ],
+    "answer": "Renal hypoxia and excessive myoglobin leaking from muscles",
+    "explanation": {
+      "correct": "In English: Vasoconstriction causes lack of oxygen (hypoxia) in the kidneys, and the 'toxic' levels of myoglobin from muscles damage the kidney tubules directly. In Arabic: يسبب تضيق الأوعية نقص الأكسجين في الكلى، كما أن المستويات 'السامة' من الميوغلوبين القادم من العضلات تضر أنابيب الكلى مباشرة.",
+      "wrong_1": "In English: Diet is not the cause of this acute capture-related syndrome. In Arabic: النظام الغذائي ليس سبباً لهذه المتلازمة الحادة المرتبطة بالأسر.",
+      "wrong_2": "In English: This is a metabolic/stress condition, not a viral infection. In Arabic: هذه حالة استقلابية ناتجة عن الإجهاد، وليست عدوى فيروسية.",
+      "wrong_3": "In English: While exercise plays a role in overall muscle fatigue, the necrosis is specifically caused by the shock pathway. In Arabic: بينما تلعب التمارين دوراً في تعب العضلات، فإن النخر ناتج تحديداً عن مسار الصدمة."
+    }
+  },
+  {
+    "question": "What is the common appearance of muscle lesions in Ataxia Myoglobinuric Syndrome postmortem?",
+    "options": [
+      "Bright red and bloody",
+      "Multifocal pale, soft, dry areas in a linear pattern",
+      "The muscles look completely normal",
+      "The muscles turn into hard bone"
+    ],
+    "answer": "Multifocal pale, soft, dry areas in a linear pattern",
+    "explanation": {
+      "correct": "In English: Muscle necrosis (death) often leaves pale (lack of blood/color) and dry areas, frequently appearing in lines along the muscle fibers. In Arabic: نخر العضلات (موتها) غالباً ما يترك مناطق باهتة (نقص الدم) وجافة، وتظهر غالباً بشكل خطوط على طول الألياف العضلية.",
+      "wrong_1": "In English: Bright red indicates high blood flow; these lesions are pale due to lack of blood (hypoxia). In Arabic: اللون الأحمر الساطع يشير إلى تدفق دم عالٍ؛ أما هذه الآفات فباهتة بسبب نقص الدم.",
+      "wrong_2": "In English: Lesions are present and visible in this phase, unlike the Delayed-peracute phase. In Arabic: الآفات موجودة ومرئية في هذه المرحلة، على عكس المرحلة فوق الحادة المتأخرة.",
+      "wrong_3": "In English: Muscles soften and die (necrosis); they do not ossify (turn to bone) in this acute stage. In Arabic: العضلات تلين وتموت؛ ولا تتحول إلى عظم في هذه المرحلة الحادة."
+    }
+  },
+  {
+    "question": "How does 'Anaerobic Metabolism' in Pathway B lead to cellular swelling?",
+    "options": [
+      "It produces too much water",
+      "ATP depletion causes the Na pump to fail, leading to Sodium and water accumulation inside the cell",
+      "The cell eats itself",
+      "It causes the cell to breathe faster"
+    ],
+    "answer": "ATP depletion causes the Na pump to fail, leading to Sodium and water accumulation inside the cell",
+    "explanation": {
+      "correct": "In English: Without oxygen, cells run out of energy (ATP). The pump that keeps Sodium out stops working. Sodium enters the cell, and water follows it, causing swelling. In Arabic: بدون أكسجين، تنفد طاقة الخلايا (ATP). تتوقف المضخة التي تخرج الصوديوم عن العمل، فيدخل الصوديوم ومعه الماء، مما يسبب الانتفاخ.",
+      "wrong_1": "In English: Water accumulation is a result of pump failure, not direct production by metabolism. In Arabic: تراكم الماء هو نتيجة لفشل المضخة، وليس إنتاجاً مباشراً عن طريق الاستقلاب.",
+      "wrong_2": "In English: While 'autophagy' (cells eating parts) exists, the swelling here is purely osmotic/fluid-based. In Arabic: بينما يوجد 'البلعمة الذاتية'، فإن الانتفاخ هنا ناتج عن السوائل فقط.",
+      "wrong_3": "In English: Cells cannot 'breathe' faster without oxygen; they switch to a less efficient energy mode. In Arabic: الخلايا لا تستطيع 'التنفس' بشكل أسرع بدون أكسجين؛ بل تتحول إلى نمط طاقة أقل كفاءة."
+    }
+  },
+  {
+    "question": "In Ataxia Myoglobinuric Syndrome, what are 'Linear white foci' in the muscles actually made of?",
+    "options": [
+      "Sugar crystals",
+      "Areas of necrosis (dead tissue)",
+      "Small pockets of air",
+      "Injected medication"
+    ],
+    "answer": "Areas of necrosis (dead tissue)",
+    "explanation": {
+      "correct": "In English: White or pale spots in muscle tissue during postmortem usually indicate where the tissue has died and lost its normal protein structure. In Arabic: البقع البيضاء أو الباهتة في أنسجة العضلات أثناء التشريح تشير عادةً إلى الأماكن التي ماتت فيها الأنسجة وفقدت بنية البروتين الطبيعية.",
+      "wrong_1": "In English: Sugar does not crystallize in muscles during shock. In Arabic: السكر لا يتبلور في العضلات أثناء الصدمة.",
+      "wrong_2": "In English: These are solid areas of dead tissue, not air bubbles. In Arabic: هذه مناطق صلبة من الأنسجة الميتة، وليست فقاعات هواء.",
+      "wrong_3": "In English: These are pathological lesions caused by the disease process, not medical intervention. In Arabic: هذه آفات مرضية ناتجة عن المرض، وليست تدخلاً طبياً."
+    }
+  },
+  {
+    "question": "Which enzyme levels are 'Extremely elevated' in Ruptured Muscle Syndrome compared to the Ataxia phase?",
+    "options": [
+      "Only Insulin",
+      "AST, CPK, and LDH",
+      "Vitamin E",
+      "Adrenaline"
+    ],
+    "answer": "AST, CPK, and LDH",
+    "explanation": {
+      "correct": "In English: Because the muscle damage is massive (including physical rupture), these intracellular enzymes leak into the blood in huge quantities. In Arabic: لأن تلف العضلات هائل (بما في ذلك التمزق الجسدي)، تتسرب هذه الإنزيمات الموجودة داخل الخلايا إلى الدم بكميات ضخمة.",
+      "wrong_1": "In English: Insulin is a hormone, not a muscle damage enzyme. In Arabic: الأنسولين هرمون، وليس إنزيماً دالاً على تلف العضلات.",
+      "wrong_2": "In English: Vitamin E is a nutrient; its levels might be low, but it's not a diagnostic enzyme for rupture. In Arabic: فيتامين E هو عنصر غذائي؛ قد تكون مستوياته منخفضة، لكنه ليس إنزيماً تشخيصياً للتمزق.",
+      "wrong_3": "In English: Adrenaline is a hormone released during the stress event, not an enzyme indicating muscle destruction. In Arabic: الأدرينالين هرمون يفرز أثناء الإجهاد، وليس إنزيماً يشير إلى دمار العضلات."
+    }
+  },
+  {
+    "question": "What is a signature clinical sign of 'Ruptured Muscle Syndrome' regarding the legs?",
+    "options": [
+      "Walking on tiptoes",
+      "Marked drop in the hindquarters and hyperflexion of the hock",
+      "Growing extra legs",
+      "The legs becoming invisible"
+    ],
+    "answer": "Marked drop in the hindquarters and hyperflexion of the hock",
+    "explanation": {
+      "correct": "In English: Because the gastrocnemius (calf) muscle ruptures, the animal can no longer support its weight, leading to a dropped rear end and over-bending of the ankle (hock). In Arabic: بسبب تمزق عضلة الساق (Gastrocnemius)، لم يعد بإمكان الحيوان دعم وزنه، مما يؤدي إلى هبوط الجزء الخلفي وانثناء مفرط في الكاحل.",
+      "wrong_1": "In English: The animal cannot support itself on its toes if the main leg muscles are torn. In Arabic: لا يستطيع الحيوان دعم نفسه على أصابعه إذا تمزقت عضلات الساق الرئيسية.",
+      "wrong_2": "In English: This is a physical injury and metabolic disease, not a mutation. In Arabic: هذه إصابة جسدية ومرض استقلابي، وليست طفرة.",
+      "wrong_3": "In English: Pathological signs are physical and visible, not supernatural. In Arabic: العلامات المرضية جسدية ومرئية."
+    }
+  },
+  {
+    "question": "Which muscle is most commonly ruptured in 'Ruptured Muscle Syndrome'?",
+    "options": [
+      "The Heart muscle",
+      "The Gastrocnemius muscle (proximal third)",
+      "The Tongue",
+      "The Ear muscles"
+    ],
+    "answer": "The Gastrocnemius muscle (proximal third)",
+    "explanation": {
+      "correct": "In English: The text specifies the gastrocnemius (the large muscle at the back of the lower leg) as the most common site of rupture, usually in its upper third. In Arabic: يحدد النص عضلة الساق (العضلة الكبيرة في الجزء الخلفي من الساق السفلية) كأكثر مواقع التمزق شيوعاً، وعادة في الثلث العلوي منها.",
+      "wrong_1": "In English: While the heart can be affected by shock, the 'Ruptured Muscle Syndrome' specifically refers to skeletal muscle failure. In Arabic: بينما يمكن أن يتأثر القلب بالصدمة، فإن 'متلازمة تمزق العضلات' تشير تحديداً إلى فشل العضلات الهيكلية.",
+      "wrong_2": "In English: The tongue is not a weight-bearing muscle and is not the primary site for this syndrome. In Arabic: اللسان ليس عضلة داعمة للوزن وليس الموقع الأساسي لهذه المتلازمة.",
+      "wrong_3": "In English: Ear muscles are small and not subjected to the weight-bearing forces that cause rupture. In Arabic: عضلات الأذن صغيرة ولا تتعرض لقوى تحمل الوزن التي تسبب التمزق."
+    }
+  },
+  {
+    "question": "What is the primary cause of death in Ruptured Muscle Syndrome?",
+    "options": [
+      "Starvation",
+      "Electrolyte imbalance, acidosis, and toxemia from massive necrosis",
+      "Old age",
+      "A broken heart"
+    ],
+    "answer": "Electrolyte imbalance, acidosis, and toxemia from massive necrosis",
+    "explanation": {
+      "correct": "In English: When massive amounts of muscle die (necrosis), they release toxins and acids into the blood, causing the whole body's chemistry to fail. In Arabic: عندما تموت كميات هائلة من العضلات (النخر)، فإنها تفرز سموماً وأحماضاً في الدم، مما يؤدي إلى فشل كيمياء الجسم بالكامل.",
+      "wrong_1": "In English: Death happens too quickly (days to weeks) for starvation to be the primary cause. In Arabic: يحدث الموت بسرعة كبيرة (أيام إلى أسابيع) بحيث لا يكون الجوع هو السبب الرئيسي.",
+      "wrong_2": "In English: This syndrome affects captured animals regardless of age. In Arabic: هذه المتلازمة تصيب الحيوانات المأسورة بغض النظر عن عمرها.",
+      "wrong_3": "In English: While poetic, the actual cause is physiological and biochemical failure. In Arabic: رغم أن التعبير شاعري، إلا أن السبب الحقيقي هو فشل فسيولوجي وكيميائي حيوي."
+    }
+  },
+  {
+    "question": "How do the histological lesions of Ruptured Muscle Syndrome differ from Vitamin E/Selenium deficiency?",
+    "options": [
+      "They are exactly the same",
+      "Capture Myopathy has less mineralization",
+      "Capture Myopathy has more gold in the muscles",
+      "Selenium deficiency causes more bleeding"
+    ],
+    "answer": "Capture Myopathy has less mineralization",
+    "explanation": {
+      "correct": "In English: Both conditions cause muscle death, but Vitamin E/Selenium deficiency (White Muscle Disease) often shows calcium deposits (mineralization), which is less common in acute Capture Myopathy. In Arabic: تسبب كلتا الحالتين موت العضلات، لكن نقص فيتامين E/السيلينيوم (مرض العضلات البيضاء) غالباً ما يظهر ترسبات كالسيوم (تمعدن)، وهو أقل شيوعاً في اعتلال العضلات الإجهادي الحاد.",
+      "wrong_1": "In English: They are similar but 'less mineralization' is a specific distinguishing factor mentioned in the text. In Arabic: هما متشابهان ولكن 'التمعدن الأقل' هو عامل تمييز محدد مذكور في النص.",
+      "wrong_2": "In English: Gold is not found in muscle lesions. In Arabic: الذهب لا يوجد في آفات العضلات.",
+      "wrong_3": "In English: Capture Myopathy involves massive subcutaneous hemorrhage (bleeding). In Arabic: اعتلال العضلات الإجهادي يتضمن نزيفاً هائلاً تحت الجلد."
+    }
+  },
+  {
+    "question": "What is a 'Massive subcutaneous hemorrhage' as seen in the Ruptured Muscle phase?",
+    "options": [
+      "A large bruise under the skin",
+      "A type of skin fungus",
+      "A very long hair",
+      "A healthy pink color"
+    ],
+    "answer": "A large bruise under the skin",
+    "explanation": {
+      "correct": "In English: Subcutaneous means 'under the skin', and hemorrhage means 'bleeding'. Massive bleeding occurs when muscles and vessels rupture. In Arabic: (Subcutaneous) تعني 'تحت الجلد'، و (hemorrhage) تعني 'نزيف'. يحدث نزيف حاد عند تمزق العضلات والأوعية.",
+      "wrong_1": "In English: Hemorrhage is blood, not a fungal infection. In Arabic: النزيف هو دم، وليس عدوى فطرية.",
+      "wrong_2": "In English: This refers to blood accumulation, not hair growth. In Arabic: هذا يشير إلى تراكم الدم، وليس نمو الشعر.",
+      "wrong_3": "In English: Massive bleeding looks dark red or purple, not a healthy pink. In Arabic: النزيف الحاد يبدو أحمر داكناً أو أرجوانياً، وليس وردياً صحياً."
+    }
+  },
+  {
+    "question": "In 'Delayed-peracute Syndrome', how does the animal appear when undisturbed?",
+    "options": [
+      "Very sick and coughing",
+      "Normal",
+      "Paralyzed",
+      "Angry"
+    ],
+    "answer": "Normal",
+    "explanation": {
+      "correct": "In English: This syndrome is dangerous because the animal looks healthy until a sudden stress (like being disturbed) triggers a fatal heart event. In Arabic: هذه المتلازمة خطيرة لأن الحيوان يبدو سليماً حتى يؤدي إجهاد مفاجئ (مثل إزعاجه) إلى أزمة قلبية قاتلة.",
+      "wrong_1": "In English: The text specifically states the animal appears normal while undisturbed. In Arabic: ينص النص تحديداً على أن الحيوان يبدو طبيعياً طالما لم يتم إزعاجه.",
+      "wrong_2": "In English: Paralysis is more common in the Ataxia or Ruptured phases. In Arabic: الشلل أكثر شيوعاً في مراحل الترنح أو التمزق.",
+      "wrong_3": "In English: 'Normal' refers to physical appearance and behavior, not an emotional state like anger. In Arabic: كلمة 'طبيعي' تشير إلى المظهر الجسدي والسلوك."
+    }
+  },
+  {
+    "question": "What causes the sudden death in 'Delayed-peracute Syndrome'?",
+    "options": [
+      "Ventricular fibrillation",
+      "Starvation",
+      "Old age",
+      "A cold breeze"
+    ],
+    "answer": "Ventricular fibrillation",
+    "explanation": {
+      "correct": "In English: Ventricular fibrillation is a chaotic heart rhythm where the heart quivers instead of pumping, leading to instant cardiac arrest. In Arabic: الرجفان البطيني (Ventricular fibrillation) هو نظم قلبي فوضوي حيث يرتجف القلب بدلاً من الضخ، مما يؤدي إلى توقف القلب الفوري.",
+      "wrong_1": "In English: Death occurs in minutes; starvation takes weeks. In Arabic: الموت يحدث في دقائق؛ بينما يستغرق الجوع أسابيع.",
+      "wrong_2": "In English: This syndrome is triggered by acute stress, not the natural aging process. In Arabic: هذه المتلازمة يحفزها الإجهاد الحاد، وليس عملية الشيخوخة الطبيعية.",
+      "wrong_3": "In English: Environmental factors like a breeze are not the primary cause of this metabolic heart failure. In Arabic: العوامل البيئية ليست السبب الرئيسي لهذا الفشل القلبي الاستقلابي."
+    }
+  },
+  {
+    "question": "Why are there often 'no lesions' found in animals that die from Delayed-peracute Syndrome?",
+    "options": [
+      "Because the animal was faking it",
+      "Because death happens so fast that visible tissue damage hasn't had time to develop",
+      "Because the animal was already cured",
+      "Because the lesions are invisible to the human eye"
+    ],
+    "answer": "Because death happens so fast that visible tissue damage hasn't had time to develop",
+    "explanation": {
+      "correct": "In English: This syndrome kills the animal via electrical failure of the heart (arrhythmia) almost instantly, before physical holes or color changes can form in muscles. In Arabic: هذه المتلازمة تقتل الحيوان عبر فشل كهربائي في القلب (عدم انتظام ضربات القلب) بشكل فوري تقريباً، قبل أن تتشكل ثقوب جسدية أو تغيرات في لون العضلات.",
+      "wrong_1": "In English: Veterinary pathology deals with real physiological events, not 'faking' death. In Arabic: يتعامل علم الأمراض البيطري مع أحداث فسيولوجية حقيقية، وليس 'تظاهراً' بالموت.",
+      "wrong_2": "In English: The animal dies; it is definitely not cured. In Arabic: الحيوان يموت؛ فهو بالتأكيد ليس معافى.",
+      "wrong_3": "In English: Microscopic lesions might exist, but 'no lesions' refers to what is seen during a standard gross postmortem. In Arabic: قد توجد آفات مجهرية، ولكن عبارة 'لا توجد آفات' تشير إلى ما يُرى أثناء التشريح الظاهري القياسي."
+    }
+  },
+  {
+    "question": "In the pathogenesis of Delayed-peracute syndrome, what does 'Hyperkalemia' mean?",
+    "options": [
+      "High levels of Potassium in the blood",
+      "High levels of Sugar in the blood",
+      "Low levels of Oxygen",
+      "High blood pressure"
+    ],
+    "answer": "High levels of Potassium in the blood",
+    "explanation": {
+      "correct": "In English: Hyperkalemia (Hyper = high, Kalium = Potassium) occurs when muscle cells burst (rhabdomyolysis) and release their internal potassium into the bloodstream. In Arabic: فرط بوتاسيوم الدم (Hyperkalemia) يحدث عندما تنفجر خلايا العضلات وتطلق البوتاسيوم الداخلي في مجرى الدم.",
+      "wrong_1": "In English: High sugar is 'Hyperglycemia'. In Arabic: ارتفاع السكر هو (Hyperglycemia).",
+      "wrong_2": "In English: Low oxygen is 'Hypoxia'. In Arabic: نقص الأكسجين هو (Hypoxia).",
+      "wrong_3": "In English: High blood pressure is 'Hypertension'. In Arabic: ارتفاع ضغط الدم هو (Hypertension)."
+    }
+  },
+  {
+    "question": "How does Hyperkalemia lead to heart failure in the Delayed-peracute phase?",
+    "options": [
+      "It makes the heart too strong",
+      "It prevents the repolarization of cell membranes, stopping the heart's electrical rhythm",
+      "It causes the blood to turn into a solid",
+      "It makes the animal too happy"
+    ],
+    "answer": "It prevents the repolarization of cell membranes, stopping the heart's electrical rhythm",
+    "explanation": {
+      "correct": "In English: Potassium is vital for the heart's electrical signal. Too much potassium outside the cells prevents them from resetting (repolarizing), so the heart can't beat again. In Arabic: البوتاسيوم حيوي للإشارة الكهربائية للقلب. وجود الكثير من البوتاسيوم خارج الخلايا يمنعها من إعادة الضبط (إعادة الاستقطاب)، فلا يستطيع القلب النبض مرة أخرى.",
+      "wrong_1": "In English: It paralyzes the heart muscle; it doesn't make it stronger. In Arabic: إنه يشل عضلة القلب؛ ولا يجعلها أقوى.",
+      "wrong_2": "In English: It affects electrical potential, not the physical state of the blood. In Arabic: إنه يؤثر على الجهد الكهربائي، وليس على الحالة الفيزيائية للدم.",
+      "wrong_3": "In English: Hyperkalemia is a life-threatening medical emergency, not an emotional state. In Arabic: فرط بوتاسيوم الدم هو حالة طبية طارئة تهدد الحياة."
+    }
+  },
+  {
+    "question": "What is 'Rhabdomyolysis'?",
+    "options": [
+      "The growth of new muscle",
+      "The rapid breakdown or destruction of skeletal muscle tissue",
+      "A type of exercise",
+      "A bone fracture"
+    ],
+    "answer": "The rapid breakdown or destruction of skeletal muscle tissue",
+    "explanation": {
+      "correct": "In English: Rhabdo = striated (skeletal) muscle, Myo = muscle, Lysis = breakdown. It is the core process of Capture Myopathy. In Arabic: (Rhabdo) تعني عضلة هيكلية، (Myo) تعني عضلة، (Lysis) تعني تحلل. وهي العملية الأساسية في اعتلال العضلات الإجهادي.",
+      "wrong_1": "In English: It is the death/destruction of muscle, the opposite of growth. In Arabic: إنه موت/دمار العضلات، وهو عكس النمو.",
+      "wrong_2": "In English: It is a pathological result of extreme stress/exercise, not the exercise itself. In Arabic: إنه نتيجة مرضية للإجهاد الشديد، وليس التمرين نفسه.",
+      "wrong_3": "In English: It refers to muscle tissue, not bone tissue. In Arabic: إنه يشير إلى أنسجة العضلات، وليس أنسجة العظام."
+    }
+  },
+  {
+    "question": "What happens to the 'Electrical potential of membranes' during the Delayed-peracute phase?",
+    "options": [
+      "It increases to 1000 volts",
+      "It is decreased or disrupted by high potassium levels",
+      "It turns into light energy",
+      "It stays perfectly stable"
+    ],
+    "answer": "It is decreased or disrupted by high potassium levels",
+    "explanation": {
+      "correct": "In English: The balance of ions (like Sodium and Potassium) across a membrane creates an electrical charge. Hyperkalemia ruins this balance, causing electrical failure. In Arabic: توازن الأيونات عبر الغشاء يخلق شحنة كهربائية. فرط بوتاسيوم الدم يفسد هذا التوازن، مما يسبب فشلاً كهربائياً.",
+      "wrong_1": "In English: Biological potentials are measured in millivolts, and shock causes them to fail, not surge to dangerous heights. In Arabic: يتم قياس الجهود البيولوجية بالميلي فولت، وتسبب الصدمة فشلها وليس ارتفاعها لمستويات خطيرة.",
+      "wrong_2": "In English: Biological electricity is used for signaling, not light production. In Arabic: تستخدم الكهرباء البيولوجية للإشارات، وليس لإنتاج الضوء.",
+      "wrong_3": "In English: The whole problem is that the potential becomes unstable and fails. In Arabic: المشكلة برمتها هي أن الجهد يصبح غير مستقر ويفشل."
+    }
+  },
+  {
+    "question": "Which of these is a clinical laboratory sign shared by ALL three syndromes described (Ataxia, Ruptured, and Delayed-peracute)?",
+    "options": [
+      "Elevated AST and CPK",
+      "Blue blood",
+      "Low body temperature",
+      "Absence of a liver"
+    ],
+    "answer": "Elevated AST and CPK",
+    "explanation": {
+      "correct": "In English: AST and CPK (Creatine Phosphokinase) are standard markers for muscle damage. Since all three syndromes involve muscle necrosis (death), these enzymes will always be elevated. In Arabic: (AST) و (CPK) هما علامتان قياسيتان لتلف العضلات. وبما أن المتلازمات الثلاث تتضمن نخر العضلات، فإن هذه الإنزيمات ستكون دائماً مرتفعة.",
+      "wrong_1": "In English: Blood remains red; color changes in urine occur, but not usually in the blood itself. In Arabic: يبقى الدم أحمراً؛ تحدث تغيرات اللون في البول، ولكن ليس في الدم نفسه عادةً.",
+      "wrong_2": "In English: Capture shock often involves 'Elevated body temperature' (Hyperthermia), not low temperature. In Arabic: صدمة الأسر غالباً ما تتضمن 'ارتفاع درجة حرارة الجسم'، وليس انخفاضها.",
+      "wrong_3": "In English: The liver remains present, though it may be congested or damaged. In Arabic: الكبد يبقى موجوداً، رغم أنه قد يكون محتقناً أو متضرراً."
+    }
+  },
+  {
+    "question": "What is the result of 'ATP depletion' in muscle cells?",
+    "options": [
+      "The cell becomes very energetic",
+      "Failure of active transport (Na pump), intracellular acidosis, and cell death",
+      "The cell turns into a plant cell",
+      "The cell produces more oxygen"
+    ],
+    "answer": "Failure of active transport (Na pump), intracellular acidosis, and cell death",
+    "explanation": {
+      "correct": "In English: ATP is the 'fuel' for the cell. Without it, the cell cannot maintain its internal environment, leading to a total crash. In Arabic: (ATP) هو 'وقود' الخلية. بدونه، لا تستطيع الخلية الحفاظ على بيئتها الداخلية، مما يؤدي إلى انهيار كامل.",
+      "wrong_1": "In English: Depletion means 'emptying' or 'running out'; the cell has NO energy. In Arabic: (Depletion) تعني 'نفاد'؛ أي أن الخلية ليس لديها طاقة.",
+      "wrong_2": "In English: Animal cells do not transform into plant cells. In Arabic: الخلايا الحيوانية لا تتحول إلى خلايا نباتية.",
+      "wrong_3": "In English: ATP is produced *using* oxygen; its absence doesn't create more oxygen. In Arabic: يتم إنتاج ATP *باستخدام* الأكسجين؛ وغيابه لا يخلق المزيد من الأكسجين."
+    }
+  },
+  {
+    "question": "In 'Ruptured Muscle Syndrome', why might an animal survive for several weeks?",
+    "options": [
+      "Because the disease is not serious",
+      "Because the damage is localized enough that it takes time for systemic toxemia to kill them",
+      "Because they were given magic medicine",
+      "Because they stopped breathing"
+    ],
+    "answer": "Because the damage is localized enough that it takes time for systemic toxemia to kill them",
+    "explanation": {
+      "correct": "In English: Unlike the peracute phase which kills in minutes, Ruptured Muscle Syndrome is a sub-acute process. The animal struggles with damaged muscles until the secondary effects (toxins/acidosis) finally overwhelm the heart and kidneys. In Arabic: على عكس المرحلة فوق الحادة التي تقتل في دقائق، فإن متلازمة تمزق العضلات هي عملية دون حادة. يصارع الحيوان مع العضلات المتضررة حتى تتغلب الآثار الثانوية (السموم/الحموضة) أخيراً على القلب والكلى.",
+      "wrong_1": "In English: It is very serious; the text says 'most die'. In Arabic: إنها خطيرة جداً؛ يقول النص 'معظمهم يموتون'.",
+      "wrong_2": "In English: No such medicine is mentioned; the survival is due to the slower progression of the pathology. In Arabic: لم يذكر مثل هذا الدواء؛ فالبقاء على قيد الحياة يرجع إلى التقدم الأبطأ للمرض.",
+      "wrong_3": "In English: If they stopped breathing, they would die in minutes, not weeks. In Arabic: إذا توقفوا عن التنفس، فسيموتون في دقائق، وليس أسابيع."
+    }
+  },
+  {
+    "question": "What does 'Bilateral but not symmetrical' mean regarding muscle lesions?",
+    "options": [
+      "The lesions are only on the left side",
+      "The lesions appear on both sides of the body, but in different amounts or locations",
+      "The lesions look like butterflies",
+      "The lesions are only on the skin"
+    ],
+    "answer": "The lesions appear on both sides of the body, but in different amounts or locations",
+    "explanation": {
+      "correct": "In English: Bilateral means both sides (left and right). Non-symmetrical means they don't look exactly the same on both sides (e.g., more damage on the right leg than the left). In Arabic: (Bilateral) تعني كلا الجانبين (الأيسر والأيمن). (Non-symmetrical) تعني أنها لا تبدو متطابقة تماماً على الجانبين (مثل تلف في الساق اليمنى أكثر من اليسرى).",
+      "wrong_1": "In English: Only left side would be 'unilateral'. In Arabic: الجانب الأيسر فقط سيكون (unilateral).",
+      "wrong_2": "In English: This is a visual description, not a biological term used here. In Arabic: هذا وصف مرئي، وليس مصطلحاً بيولوجياً مستخدماً هنا.",
+      "wrong_3": "In English: These lesions are deep within the skeletal muscles, not the skin surface. In Arabic: هذه الآفات عميقة داخل العضلات الهيكلية، وليست على سطح الجلد."
+    }
+  },
+  {
+    "question": "What is the specific location of rupture in the semitendinosus and semimembranosus muscles?",
+    "options": [
+      "The tail tip",
+      "The text mentions they are 'most commonly ruptured' but specifies the proximal third for the gastrocnemius",
+      "The middle of the tongue",
+      "They never rupture"
+    ],
+    "answer": "The text mentions they are 'most commonly ruptured' but specifies the proximal third for the gastrocnemius",
+    "explanation": {
+      "correct": "In English: The text groups these (semitendinosus, etc.) as commonly ruptured muscles in the syndrome, though it gives the detailed 'proximal third' location specifically for the gastrocnemius. In Arabic: يدرج النص هذه العضلات ضمن العضلات التي تتمزق عادةً في المتلازمة، رغم أنه يعطي موقع 'الثلث العلوي' بالتفصيل لعضلة الساق (gastrocnemius) تحديداً.",
+      "wrong_1": "In English: These are large leg muscles, far from the tail. In Arabic: هذه عضلات ساق كبيرة، بعيدة عن الذيل.",
+      "wrong_2": "In English: These are hind-limb muscles, not part of the tongue. In Arabic: هذه عضلات الأطراف الخلفية، وليست جزءاً من اللسان.",
+      "wrong_3": "In English: The syndrome is named 'Ruptured Muscle Syndrome' precisely because they do rupture. In Arabic: تسمى المتلازمة 'متلازمة تمزق العضلات' لأنها تتمزق بالفعل."
+    }
+  },
+  {
+    "question": "What is 'Intracellular Acidosis'?",
+    "options": [
+      "When the inside of the cell becomes too acidic",
+      "When the cell becomes too basic (alkaline)",
+      "When the cell fills with honey",
+      "When the cell explodes from pressure"
+    ],
+    "answer": "When the inside of the cell becomes too acidic",
+    "explanation": {
+      "correct": "In English: During hypoxia, cells switch to anaerobic metabolism, which produces lactic acid. This acid builds up inside the cell, destroying enzymes and structures. In Arabic: أثناء نقص الأكسجين، تتحول الخلايا إلى الاستقلاب اللاهوائي الذي ينتج حمض اللاكتيك. يتراكم هذا الحمض داخل الخلية، مما يدمر الإنزيمات والهياكل.",
+      "wrong_1": "In English: Acidosis is the opposite of being basic/alkaline. In Arabic: الحموضة هي عكس القلوية.",
+      "wrong_2": "In English: Cells produce acid, not honey. In Arabic: الخلايا تنتج أحماضاً، وليس عسلاً.",
+      "wrong_3": "In English: While cells may swell and burst, 'acidosis' refers specifically to the chemical pH change. In Arabic: بينما قد تنتفخ الخلايا وتنفجر، فإن 'الحموضة' تشير تحديداً إلى التغير الكيميائي في الأس الهيدروجيني."
+    }
+  },
+  {
+    "question": "In 'Delayed-peracute Syndrome', what triggers the sudden ventricular fibrillation?",
+    "options": [
+      "A hormonal surge of adrenaline and noradrenaline during stress",
+      "Drinking too much milk",
+      "The animal seeing its mother",
+      "A lack of sunlight"
+    ],
+    "answer": "A hormonal surge of adrenaline and noradrenaline during stress",
+    "explanation": {
+      "correct": "In English: When an already stressed/captured animal is disturbed, it releases catecholamines (adrenaline). This surge causes a massive metabolic crash and electrical chaos in the heart. In Arabic: عندما ينزعج حيوان مجهد أو مأسور بالفعل، فإنه يفرز الكاتيكولامينات (الأدرينالين). تسبب هذه الموجة انهياراً استقلابياً هائلاً وفوضى كهربائية في القلب.",
+      "wrong_1": "In English: Diet is irrelevant to this acute adrenaline-driven event. In Arabic: النظام الغذائي لا علاقة له بهذا الحدث الحاد المدفوع بالأدرينالين.",
+      "wrong_2": "In English: The trigger is 'disturbed' or 'suddenly stressed' contact, not family recognition. In Arabic: المحفز هو 'الإزعاج' أو 'الإجهاد المفاجئ'، وليس التعرف على العائلة.",
+      "wrong_3": "In English: Sunlight has no role in the immediate pathogenesis of heart failure here. In Arabic: ضوء الشمس ليس له دور في المسببات المرضية الفورية لفشل القلب هنا."
+    }
+  },
+  {
+    "question": "What happens to 'Renal Blood Supply' during the distress-triggered sympathetic response?",
+    "options": [
+      "It increases to help the kidneys",
+      "Vasoconstriction (narrowing) of vessels leads to renal hypoxia",
+      "The blood turns into steam",
+      "It stops completely for exactly 1 hour"
+    ],
+    "answer": "Vasoconstriction (narrowing) of vessels leads to renal hypoxia",
+    "explanation": {
+      "correct": "In English: The 'Fight or Flight' response pulls blood away from the kidneys to send it to the brain and lungs. This lack of blood flow (vasoconstriction) deprives the kidneys of oxygen (hypoxia). In Arabic: استجابة 'الكر أو الفر' تسحب الدم بعيداً عن الكلى لإرساله إلى الدماغ والرئتين. نقص تدفق الدم هذا (تضيق الأوعية) يحرم الكلى من الأكسجين (نقص التأكسج).",
+      "wrong_1": "In English: The response actually *decreases* blood supply to the kidneys. In Arabic: الاستجابة في الواقع *تقلل* من إمداد الكلى بالدم.",
+      "wrong_2": "In English: Blood remains a liquid, but its flow is restricted. In Arabic: يبقى الدم سائلاً، لكن تدفقه يكون مقيداً.",
+      "wrong_3": "In English: It doesn't stop for a set time; it is a continuous physiological response to the stress level. In Arabic: لا يتوقف لوقت محدد؛ بل هو استجابة فسيولوجية مستمرة لمستوى الإجهاد."
+    }
+  }
+]
