@@ -1,0 +1,332 @@
+[
+  {
+    "question": "What is the definition of 'Eustress' in animals?",
+    "options": ["Beneficial stimulus", "Harmful stimulus", "No effect", "Lethal stimulus"],
+    "answer": "Beneficial stimulus",
+    "explanation": {
+      "correct": "Eustress refers to positive or 'good' stress that is beneficial to the animal, often helping it stay alert or motivated. / يشير الإجهاد الإيجابي (Eustress) إلى التوتر 'الجيد' الذي يكون مفيدًا للحيوان، وغالبًا ما يساعده على البقاء يقظًا أو متحفزًا.",
+      "wrong_1": "Distress is the term for harmful stress that interferes with well-being. / 'Distress' هو المصطلح المستخدم للتوتر الضار الذي يتداخل مع الصحة والرفاهية.",
+      "wrong_2": "Neutral stress is the term for stimuli that do not affect well-being or reproduction. / الإجهاد المحايد (Neutral stress) هو المصطلح للمحفزات التي لا تؤثر على الرفاهية أو التكاثر.",
+      "wrong_3": "A lethal stimulus causes death, which is far beyond the scope of beneficial eustress. / المحفز القاتل يسبب الموت، وهو أبعد بكثير من نطاق الإجهاد الإيجابي المفيد."
+    }
+  },
+  {
+    "question": "Which system is triggered first by a stressor in the primary response pathway?",
+    "options": ["Limbic system", "Digestive system", "Urinary system", "Integumentary system"],
+    "answer": "Limbic system",
+    "explanation": {
+      "correct": "The brain's limbic system and hypothalamus are the first to perceive and process a stressor to initiate a response. / الجهاز الحوفي (Limbic system) والمهاد في الدماغ هما أول من يدرك ويعالج الضغوطات لبدء الاستجابة.",
+      "wrong_1": "The digestive system is inhibited during stress rather than being the initiator of the pathway. / يتم تثبيط الجهاز الهضمي أثناء الإجهاد بدلاً من أن يكون هو البادئ في المسار.",
+      "wrong_2": "The urinary system is affected downstream (e.g., renin release) but doesn't start the stress response. / يتأثر الجهاز البولي في مراحل لاحقة (مثل إفراز الرينين) لكنه لا يبدأ استجابة الإجهاد.",
+      "wrong_3": "The integumentary system (skin) senses pressure but the processing occurs in the brain. / الجهاز اللحافي (الجلد) يشعر بالضغط ولكن المعالجة تحدث في الدماغ."
+    }
+  },
+  {
+    "question": "What hormone is released by the pituitary gland during stress?",
+    "options": ["ACTH", "Insulin", "Estrogen", "Thyroxine"],
+    "answer": "ACTH",
+    "explanation": {
+      "correct": "Adrenocorticotropic hormone (ACTH) is released by the pituitary to stimulate the adrenal cortex to produce cortisol. / يتم إفراز الهرمون الموجه لقشر الكظر (ACTH) من الغدة النخامية لتحفيز قشرة الغدة الكظرية لإنتاج الكورتيزول.",
+      "wrong_1": "Insulin is a metabolic hormone from the pancreas, not the pituitary's primary stress signal. / الأنسولين هرمون استقلابي من البنكرياس، وليس إشارة الإجهاد الأساسية للنخامية.",
+      "wrong_2": "Estrogen is a reproductive hormone, not the primary hormone of the acute stress pathway. / الاستروجين هرمون تناسلي، وليس الهرمون الأساسي لمسار الإجهاد الحاد.",
+      "wrong_3": "Thyroxine is released by the thyroid gland to regulate metabolism, not the primary pituitary stress hormone. / الثيروكسين تفرزه الغدة الدرقية لتنظيم التمثيل الغذائي، وليس هرمون الإجهاد النخامي الأساسي."
+    }
+  },
+  {
+    "question": "Which molecule causes 'Hyperglycemia' during a stress response?",
+    "options": ["Glucocorticoid", "Lipocortin", "Acetylcholine", "Melatonin"],
+    "answer": "Glucocorticoid",
+    "explanation": {
+      "correct": "Glucocorticoids (like cortisol) increase blood sugar levels (hyperglycemia) to provide energy for the body. / تزيد الهرمونات القشرية السكرية (مثل الكورتيزول) من مستويات السكر في الدم (فرط سكر الدم) لتوفير الطاقة للجسم.",
+      "wrong_1": "Lipocortins are chemicals released to limit leukocyte activity, not to regulate blood sugar. / الليبوكورتينات هي مواد كيميائية تفرز للحد من نشاط كرات الدم البيضاء، وليس لتنظيم سكر الدم.",
+      "wrong_2": "Acetylcholine is a neurotransmitter of the parasympathetic system, which is usually depressed in stress. / الأسيتيل كولين ناقل عصبي للجهاز اللارادي الودية، والذي عادة ما يتم تثبيطه في الإجهاد.",
+      "wrong_3": "Melatonin regulates sleep-wake cycles and is not responsible for hyperglycemia in the stress pathway. / ينظم الميلاتونين دورات النوم والاستيقاظ وليس مسؤولاً عن فرط سكر الدم في مسار الإجهاد."
+    }
+  },
+  {
+    "question": "What is the long-term effect of gluconeogenesis during stress?",
+    "options": ["Muscle atrophy", "Fat gain", "Stronger bones", "Better vision"],
+    "answer": "Muscle atrophy",
+    "explanation": {
+      "correct": "Constant breakdown of proteins to make sugar (gluconeogenesis) eventually leads to the wasting of muscle tissue. / يؤدي التحلل المستمر للبروتينات لصنع السكر (تخليق السكر) في النهاية إلى هزال أنسجة العضلات.",
+      "wrong_1": "Stress-induced metabolic changes typically lead to fat breakdown (lipolysis) during acute phases. / تؤدي التغيرات الأيضية الناتجة عن الإجهاد عادةً إلى تكسير الدهون (تحلل الدهون) خلال المراحل الحادة.",
+      "wrong_2": "Chronic stress and high cortisol actually weaken bone density rather than making bones stronger. / الإجهاد المزمن وارتفاع الكورتيزول يضعفان في الواقع كثافة العظام بدلاً من جعلها أقوى.",
+      "wrong_3": "There is no biological evidence that gluconeogenesis improves vision; it focuses on energy supply. / لا يوجد دليل بيولوجي على أن تخليق السكر يحسن الرؤية؛ فهو يركز على إمدادات الطاقة."
+    }
+  },
+  {
+    "question": "How does prolonged stress affect wound healing?",
+    "options": ["Delayed healing", "Faster healing", "No change", "Prevents scarring"],
+    "answer": "Delayed healing",
+    "explanation": {
+      "correct": "High levels of cortisol modify the immune system, reducing the body's ability to repair tissues quickly. / تعمل مستويات الكورتيزول العالية على تعديل الجهاز المناعي، مما يقلل من قدرة الجسم على إصلاح الأنسجة بسرعة.",
+      "wrong_1": "Stress hormones suppress the inflammatory response necessary for fast healing. / تثبط هرمونات الإجهاد الاستجابة الالتهابية اللازمة للشفاء السريع.",
+      "wrong_2": "The text explicitly states that modification of the immune system leads to clinical changes in healing. / يذكر النص صراحة أن تعديل الجهاز المناعي يؤدي إلى تغيرات سريرية في الشفاء.",
+      "wrong_3": "Stress actually makes skin thinner and less capable of proper repair, often leading to worse outcomes. / يؤدي الإجهاد في الواقع إلى جعل الجلد أرق وأقل قدرة على الإصلاح المناسب، مما يؤدي غالبًا إلى نتائج أسوأ."
+    }
+  },
+  {
+    "question": "Which of these defines a 'Stressor'?",
+    "options": ["Homeostasis alterer", "Biological test", "Genetic trait", "Internal organ"],
+    "answer": "Homeostasis alterer",
+    "explanation": {
+      "correct": "A stressor is any stimulus, internal or external, that disrupts the balanced physiological state (homeostasis) of an animal. / المجهد هو أي منبه، داخلي أو خارجي، يخل بالحالة الفسيولوجية المتوازنة (التوازن الداخلي) للحيوان.",
+      "wrong_1": "A biological test is a tool used by scientists, not the stimulus that causes the stress itself. / الاختبار البيولوجي هو أداة يستخدمها العلماء، وليس المنبه الذي يسبب الإجهاد نفسه.",
+      "wrong_2": "While genetics affect how an animal reacts, the stressor is the outside or inside trigger. / بينما تؤثر الوراثة على كيفية تفاعل الحيوان، فإن المجهد هو المحفز الخارجي أو الداخلي.",
+      "wrong_3": "An internal organ is part of the anatomy, though its failure could potentially be a stressor. / العضو الداخلي جزء من التشريح، على الرغم من أن فشله قد يكون مجهداً.",
+    }
+  },
+  {
+    "question": "Which system is depressed during the 'Flight or Fight' response?",
+    "options": ["Parasympathetic", "Sympathetic", "Cardiovascular", "Respiratory"],
+    "answer": "Parasympathetic",
+    "explanation": {
+      "correct": "During acute stress, the 'rest and digest' system (parasympathetic) is turned off to save energy for survival. / أثناء الإجهاد الحاد، يتم إيقاف نظام 'الراحة والهضم' (اللارادي الودي) لتوفير الطاقة من أجل البقاء.",
+      "wrong_1": "The sympathetic system is stimulated, not depressed, to prepare the body for action. / يتم تحفيز الجهاز الودي، وليس تثبيطه، لإعداد الجسم للعمل.",
+      "wrong_2": "The cardiovascular system is highly active during stress to pump blood to the muscles. / يكون جهاز القلب والأوعية الدموية نشطًا للغاية أثناء الإجهاد لضخ الدم إلى العضلات.",
+      "wrong_3": "The respiratory system increases its activity (breathing rate) to provide more oxygen. / يزيد الجهاز التنفسي من نشاطه (معدل التنفس) لتوفير المزيد من الأكسجين."
+    }
+  },
+  {
+    "question": "What is the effect of adrenaline on the kidney's blood vessels?",
+    "options": ["Vasoconstriction", "Vasodilation", "No effect", "Increased growth"],
+    "answer": "Vasoconstriction",
+    "explanation": {
+      "correct": "Adrenaline constricts blood vessels in the kidneys to divert blood flow toward essential organs like the heart and muscles. / يضيق الأدرينالين الأوعية الدموية في الكليتين لتحويل تدفق الدم نحو الأعضاء الأساسية مثل القلب والعضلات.",
+      "wrong_1": "Vasodilation occurs in the skeletal muscles and brain, not the kidneys, during acute stress. / يحدث توسع الأوعية في العضلات الهيكلية والدماغ، وليس الكليتين، أثناء الإجهاد الحاد.",
+      "wrong_2": "The change in blood flow is a major part of the systemic response to stress. / التغيير في تدفق الدم هو جزء رئيسي من الاستجابة الجهازية للإجهاد.",
+      "wrong_3": "Adrenaline affects function and vessel diameter, not the long-term growth of the organ tissue. / يؤثر الأدرينالين على الوظيفة وقطر الأوعية، وليس النمو طويل المدى لأنسجة العضو."
+    }
+  },
+  {
+    "question": "Where is Adrenaline (Epinephrine) synthesized?",
+    "options": ["Adrenal medulla", "Adrenal cortex", "Thyroid gland", "Pancreas"],
+    "answer": "Adrenal medulla",
+    "explanation": {
+      "correct": "Catecholamines like adrenaline are made in the medullary cells (the inner part) of the adrenal gland. / يتم تصنيع الكاتيكولامينات مثل الأدرينالين في الخلايا النخاعية (الجزء الداخلي) للغدة الكظرية.",
+      "wrong_1": "The adrenal cortex produces steroids like cortisol, not catecholamines. / تنتج قشرة الكظر الستيرويدات مثل الكورتيزول، وليس الكاتيكولامينات.",
+      "wrong_2": "The thyroid gland produces T3 and T4, which regulate general metabolism. / تنتج الغدة الدرقية T3 و T4، اللذين ينظمان التمثيل الغذائي العام.",
+      "wrong_3": "The pancreas produces insulin and glucagon for blood sugar regulation. / ينتج البنكرياس الأنسولين والجلوكاجون لتنظيم سكر الدم."
+    }
+  },
+  {
+    "question": "What happens to gastrointestinal motility during acute stress?",
+    "options": ["It is inhibited", "It is stimulated", "No change", "Speeds up"],
+    "answer": "It is inhibited",
+    "explanation": {
+      "correct": "Digestion is not a priority during a crisis, so the body stops the movement (motility) of the gut. / الهضم ليس أولوية أثناء الأزمات، لذا يوقف الجسم حركة الأمعاء.",
+      "wrong_1": "Stimulating digestion would waste energy needed for fighting or fleeing. / من شأن تحفيز الهضم أن يهدر الطاقة اللازمة للقتال أو الهروب.",
+      "wrong_2": "There is a significant decrease in both motility and secretions in the GI tract. / هناك انخفاض كبير في كل من الحركة والإفرازات في الجهاز الهضمي.",
+      "wrong_3": "Speeding up is the opposite of what happens; the system effectively shuts down. / التسريع هو عكس ما يحدث؛ النظام يتوقف فعلياً."
+    }
+  },
+  {
+    "question": "What is the function of Beta-endorphins during stress?",
+    "options": ["Induce analgesia", "Increase pain", "Lower sugar", "Digestion help"],
+    "answer": "Induce analgesia",
+    "explanation": {
+      "correct": "Beta-endorphins are natural painkillers that help the animal ignore pain during survival situations (analgesia). / الإندورفينات بيتا هي مسكنات طبيعية للألم تساعد الحيوان على تجاهل الألم أثناء مواقف البقاء (تسكين الألم).",
+      "wrong_1": "Stress responses aim to reduce the perception of pain, not increase it. / تهدف استجابات الإجهاد إلى تقليل إدراك الألم، وليس زيادته.",
+      "wrong_2": "They are neurotransmitters/hormones for pain modulation, not primary sugar regulators. / هي نواقل عصبية/هرمونات لتعديل الألم، وليست منظمات أساسية للسكر.",
+      "wrong_3": "They have no direct role in helping the digestive process. / ليس لها دور مباشر في مساعدة عملية الهضم."
+    }
+  },
+  {
+    "question": "What hormone is released by the kidney's juxtaglomerular apparatus?",
+    "options": ["Renin", "Cortisol", "Pepsin", "Gastrin"],
+    "answer": "Renin",
+    "explanation": {
+      "correct": "Renin is released during stress to help regulate blood pressure and fluid balance. / يتم إفراز الرينين أثناء الإجهاد للمساعدة في تنظيم ضغط الدم وتوازن السوائل.",
+      "wrong_1": "Cortisol comes from the adrenal gland, not the kidney itself. / يأتي الكورتيزول من الغدة الكظرية، وليس من الكلية نفسها.",
+      "wrong_2": "Pepsin is a digestive enzyme produced in the stomach. / البيبسين إنزيم هضمي ينتج في المعدة.",
+      "wrong_3": "Gastrin is a hormone that stimulates stomach acid, released by the stomach/pancreas. / الجاسترين هرمون يحفز حمض المعدة، تفرزه المعدة أو البنكرياس."
+    }
+  },
+  {
+    "question": "Vasopressin is synthesized in which part of the brain?",
+    "options": ["Hypothalamus", "Cerebellum", "Medulla oblongata", "Occipital lobe"],
+    "answer": "Hypothalamus",
+    "explanation": {
+      "correct": "Vasopressin (Antidiuretic Hormone) is produced in the paraventricular nucleus of the hypothalamus. / يتم إنتاج الفازوبريسين (الهرمون المضاد لإدرار البول) في النواة المجاورة للبطين في المهاد.",
+      "wrong_1": "The cerebellum is responsible for motor control and balance, not hormone synthesis. / المخيخ مسؤول عن التحكم الحركي والتوازن، وليس تصنيع الهرمونات.",
+      "wrong_2": "The medulla oblongata controls heart rate and breathing but not vasopressin production. / النخاع المستطيل يتحكم في معدل ضربات القلب والتنفس ولكن ليس في إنتاج الفازوبريسين.",
+      "wrong_3": "The occipital lobe is the visual processing center of the brain. / الفص القذالي هو مركز المعالجة البصرية في الدماغ."
+    }
+  },
+  {
+    "question": "What causes 'delayed wound healing' in stressed animals?",
+    "options": ["Immune modification", "Fast metabolism", "High oxygen", "Low protein"],
+    "answer": "Immune modification",
+    "explanation": {
+      "correct": "Stress steroids change how immune cells work, preventing them from cleaning and repairing wounds efficiently. / تغير ستيرويدات الإجهاد كيفية عمل الخلايا المناعية، مما يمنعها من تنظيف وإصلاح الجروح بكفاءة.",
+      "wrong_1": "While metabolism changes, the direct cause of slow healing is the suppressed immune response. / بينما يتغير التمثيل الغذائي، فإن السبب المباشر لبطء الشفاء هو الاستجابة المناعية المثبطة.",
+      "wrong_2": "Oxygen is necessary for healing; stress-induced vasoconstriction in skin actually reduces oxygen. / الأكسجين ضروري للشفاء؛ تضيق الأوعية الناتج عن الإجهاد في الجلد يقلل في الواقع من الأكسجين.",
+      "wrong_3": "While proteins are broken down, the text links healing directly to immune system modification. / بينما يتم تكسير البروتينات، يربط النص الشفاء مباشرة بتعديل الجهاز المناعي."
+    }
+  },
+  {
+    "question": "Which stress form involves responses that DO NOT affect well-being?",
+    "options": ["Neutral stress", "Eustress", "Distress", "Chronic stress"],
+    "answer": "Neutral stress",
+    "explanation": {
+      "correct": "Neutral stress creates a reaction in the body but isn't strong enough to hurt or help the animal's life or breeding. / يسبب الإجهاد المحايد رد فعل في الجسم ولكنه ليس قويًا بما يكفي لإيذاء أو مساعدة حياة الحيوان أو تكاثره.",
+      "wrong_1": "Eustress is specifically defined as being beneficial. / يتم تعريف الإجهاد الإيجابي (Eustress) تحديدًا على أنه مفيد.",
+      "wrong_2": "Distress is explicitly harmful to the animal's comfort and health. / الضيق (Distress) ضار صراحة براحة الحيوان وصحته.",
+      "wrong_3": "Chronic stress refers to duration and is almost always harmful (distress). / يشير الإجهاد المزمن إلى المدة وهو دائمًا ضار تقريبًا."
+    }
+  },
+  {
+    "question": "What behavioral response is seen in Bighorn sheep after capture?",
+    "options": ["Stops and eats", "Runs forever", "Attacks humans", "Falls asleep"],
+    "answer": "Stops and eats",
+    "explanation": {
+      "correct": "Bighorn sheep often run a short distance after release, stop, and immediately begin to eat as a prey-predator response. / غالبًا ما تجري كباش 'بيغ هورن' مسافة قصيرة بعد إطلاق سراحها، ثم تتوقف وتبدأ فورًا في الأكل كاستجابة بين الفريسة والمفترس.",
+      "wrong_1": "The animal stops quite quickly rather than running a long distance. / يتوقف الحيوان بسرعة كبيرة بدلاً من الجري لمسافة طويلة.",
+      "wrong_2": "The text mentions eating as the key observation, not aggression towards captors. / يذكر النص الأكل كأهم ملاحظة، وليس العدوان تجاه الأسر.",
+      "wrong_3": "Sleep is not the reported behavior; eating is the displacement activity noted. / النوم ليس هو السلوك المبلغ عنه؛ الأكل هو نشاط الإزاحة المذكور."
+    }
+  },
+  {
+    "question": "How does chronic stress affect zoo animal reproduction?",
+    "options": ["Decrease in libido", "Increased fertility", "Multiple births", "Faster growth"],
+    "answer": "Decrease in libido",
+    "explanation": {
+      "correct": "Chronic stress in captivity lowers sexual drive (libido) and overall fertility in many species. / يقلل الإجهاد المزمن في الأسر من الدافع الجنسي (الرغبة الجنسية) والخصوبة بشكل عام في العديد من الأنواع.",
+      "wrong_1": "Fertility is decreased, not increased, by long-term stress. / تنخفض الخصوبة، لا تزيد، بسبب الإجهاد طويل الأمد.",
+      "wrong_2": "Stress often leads to reproductive failure or small litter sizes. / غالبًا ما يؤدي الإجهاد إلى فشل تناسلي أو أحجام صغيرة للمواليد.",
+      "wrong_3": "Stress generally stunts growth and development due to high cortisol levels. / يؤدي الإجهاد عمومًا إلى تقزم النمو والتطور بسبب ارتفاع مستويات الكورتيزول."
+    }
+  },
+  {
+    "question": "What is the effect of glucocorticoids on 'Lipolysis'?",
+    "options": ["It is stimulated", "It is inhibited", "No change", "Creates new fat"],
+    "answer": "It is stimulated",
+    "explanation": {
+      "correct": "Stress triggers the breakdown of fats (lipolysis) to release fatty acids for energy. / يحفز الإجهاد تكسير الدهون (تحلل الدهون) لإطلاق الأحماض الدهنية للحصول على الطاقة.",
+      "wrong_1": "Inhibiting lipolysis would prevent the animal from accessing energy stores during a crisis. / من شأن تثبيط تحلل الدهون أن يمنع الحيوان من الوصول إلى مخازن الطاقة أثناء الأزمة.",
+      "wrong_2": "The catabolic state of stress ensures fat stores are mobilized. / تضمن الحالة الهدمية للإجهاد تعبئة مخازن الدهون.",
+      "wrong_3": "Creating new fat (lipogenesis) happens during rest, not during the 'Flight or Fight' response. / تكوين دهون جديدة يحدث أثناء الراحة، وليس أثناء استجابة 'الكر أو الفر'."
+    }
+  },
+  {
+    "question": "Which chemical limits leukocyte activity by depressing phospholipase A2?",
+    "options": ["Lipocortins", "Adrenaline", "Renin", "Enkephalin"],
+    "answer": "Lipocortins",
+    "explanation": {
+      "correct": "Lipocortins are proteins that inhibit phospholipase A2, thereby reducing inflammation and white blood cell activity. / الليبوكورتينات هي بروتينات تثبط فوسفوليباز A2، مما يقلل من الالتهاب ونشاط خلايا الدم البيضاء.",
+      "wrong_1": "Adrenaline focuses on blood flow and energy, not the specific biochemical path of phospholipase. / يركز الأدرينالين على تدفق الدم والطاقة، وليس على المسار البيوكيميائي المحدد للفوسفوليباز.",
+      "wrong_2": "Renin is involved in blood pressure via the kidney, not white blood cell suppression. / يشارك الرينين في ضغط الدم عن طريق الكلى، وليس في تثبيط خلايا الدم البيضاء.",
+      "wrong_3": "Enkephalins are primarily involved in pain suppression and mood. / تشارك الإنكيفالينات بشكل أساسي في تثبيط الألم والمزاج."
+    }
+  },
+  {
+    "question": "Prolonged distress can lead to which stomach issue?",
+    "options": ["Gastric ulceration", "Improved digestion", "Lower acid", "Faster emptying"],
+    "answer": "Gastric ulceration",
+    "explanation": {
+      "correct": "Constant stress increases stomach acid and weakens the lining, leading to painful sores or ulcers. / يؤدي الإجهاد المستمر إلى زيادة حمض المعدة وإضعاف بطانتها، مما يؤدي إلى تقرحات مؤلمة.",
+      "wrong_1": "Digestion is severely impaired and inhibited during chronic distress. / يضعف الهضم بشدة ويتم تثبيطه أثناء الضيق المزمن.",
+      "wrong_2": "Stress actually tends to increase harmful acid effects or decrease protective mucus. / يميل الإجهاد في الواقع إلى زيادة آثار الحمض الضارة أو تقليل المخاط الوقائي.",
+      "wrong_3": "Stress usually slows down gastrointestinal motility (movement). / عادة ما يبطئ الإجهاد حركة الجهاز الهضمي."
+    }
+  },
+  {
+    "question": "What is 'Neutrophilia' in the context of the stress pathway?",
+    "options": ["Increased neutrophils", "Decreased neutrophils", "No neutrophils", "Blue neutrophils"],
+    "answer": "Increased neutrophils",
+    "explanation": {
+      "correct": "Neutrophilia is an increase in the number of neutrophils (a type of white blood cell) in the blood, often seen in stress. / 'Neutrophilia' هي زيادة في عدد الخلايا المتعادلة (نوع من خلايا الدم البيضاء) في الدم، وغالبًا ما تُرى في حالات الإجهاد.",
+      "wrong_1": "A decrease would be called 'neutropenia'. / النقص يسمى 'قلة المتعادلات'.",
+      "wrong_2": "Stress causes a shift in cell populations, not a total disappearance. / يسبب الإجهاد تحولاً في مجموعات الخلايا، وليس اختفاءً كلياً.",
+      "wrong_3": "This is a quantitative change in cell count, not a change in their color. / هذا تغيير كمي في عدد الخلايا، وليس تغييراً في لونها."
+    }
+  },
+  {
+    "question": "Which sensory organ can perceive crowded conditions as a stressor?",
+    "options": ["Vision", "Taste", "Liver", "Spleen"],
+    "answer": "Vision",
+    "explanation": {
+      "correct": "Animals use vision to see other animals around them, which can trigger stress if they feel crowded. / تستخدم الحيوانات الرؤية لرؤية الحيوانات الأخرى من حولها، مما قد يثير التوتر إذا شعرت بالازدحام.",
+      "wrong_1": "Crowding is a spatial and social stressor usually perceived by sight or sound, not taste. / الازدحام هو مجهد مكاني واجتماعي يدرك عادة بالبصر أو الصوت، وليس بالتذوق.",
+      "wrong_2": "The liver is an internal organ that responds to stress hormones but doesn't 'perceive' the environment. / الكبد عضو داخلي يستجيب لهرمونات الإجهاد ولكنه لا 'يدرك' البيئة المحيطة.",
+      "wrong_3": "The spleen is part of the immune/circulatory system and lacks external sensory receptors. / الطحال جزء من الجهاز المناعي/الدوري ويفتقر إلى مستقبلات حسية خارجية."
+    }
+  },
+  {
+    "question": "The 'P' substance is released from where during acute stress?",
+    "options": ["Nerve endings", "Stomach lining", "Bone marrow", "Heart valves"],
+    "answer": "Nerve endings",
+    "explanation": {
+      "correct": "Substance P is a neurotransmitter released from nerve endings in tissues via sympathetic stimulation. / المادة P هي ناقل عصبي يتم إفرازه من النهايات العصبية في الأنسجة عبر التحفيز الودي.",
+      "wrong_1": "The stomach lining releases gastrin or acid, not specifically Substance P in this context. / تفرز بطانة المعدة الجاسترين أو الحمض، وليس المادة P تحديدًا في هذا السياق.",
+      "wrong_2": "Bone marrow produces blood cells but is not the site for Substance P release. / ينتج نخاع العظم خلايا الدم ولكنه ليس موقع إفراز المادة P.",
+      "wrong_3": "Heart valves are structural tissues and do not release neurotransmitters like Substance P. / صمامات القلب هي أنسجة هيكلية ولا تفرز نواقل عصبية مثل المادة P."
+    }
+  },
+  {
+    "question": "What happens to T-cell proliferation under steroid influence?",
+    "options": ["It decreases", "It increases", "No change", "Triples"],
+    "answer": "It decreases",
+    "explanation": {
+      "correct": "Glucocorticoids (steroids) suppress the immune system by reducing the multiplication (proliferation) of T-cells. / تعمل الهرمونات القشرية السكرية (الستيرويدات) على تثبط الجهاز المناعي عن طريق تقليل تكاثر الخلايا التائية.",
+      "wrong_1": "Increasing T-cells would happen during an active immune response, not under stress-induced suppression. / زيادة الخلايا التائية تحدث أثناء الاستجابة المناعية النشطة، وليس تحت التثبيط الناتج عن الإجهاد.",
+      "wrong_2": "There is a marked decrease in the number and activity of lymphoid cells. / هناك انخفاض ملحوظ في عدد ونشاط الخلايا الليمفاوية.",
+      "wrong_3": "Steroids are used medically to *reduce* immune activity for this very reason. / تستخدم الستيرويدات طبياً *لتقليل* النشاط المناعي لهذا السبب بالذات."
+    }
+  },
+  {
+    "question": "Which organ releases 'Vasoactive Intestinal Peptide' (VIP)?",
+    "options": ["Intestine", "Brain", "Lungs", "Skin"],
+    "answer": "Intestine",
+    "explanation": {
+      "correct": "VIP is released from the intestine following sympathetic stimulation during the stress response. / يتم إفراز VIP من الأمعاء بعد التحفيز الودي أثناء استجابة الإجهاد.",
+      "wrong_1": "While it can be found in the brain, the text specifies its release via sympathetic stimulation of the intestine. / بينما يمكن العثور عليه في الدماغ، يحدد النص إفرازه عبر التحفيز الودي للأمعاء.",
+      "wrong_2": "The lungs are involved in gas exchange and are not the primary source of VIP. / تشارك الرئتان في تبادل الغازات وليستا المصدر الأساسي لـ VIP.",
+      "wrong_3": "The skin releases heat and sweat but not vasoactive intestinal peptides. / يفرز الجلد الحرارة والعرق ولكن ليس الببتيدات المعوية الوعائية."
+    }
+  },
+  {
+    "question": "What acts as the 'link' between the brain and the immune system?",
+    "options": ["Stress response", "Blood sugar", "Bone growth", "Muscle cells"],
+    "answer": "Stress response",
+    "explanation": {
+      "correct": "The complex pathway of hormones and nerves during stress allows the brain to communicate with and control immune functions. / يسمح المسار المعقد للهرمونات والأعصاب أثناء الإجهاد للدماغ بالتواصل مع الوظائف المناعية والتحكم فيها.",
+      "wrong_1": "Blood sugar is a metabolic result, not the functional link itself. / سكر الدم هو نتيجة استقلابية، وليس الرابط الوظيفي نفسه.",
+      "wrong_2": "Bone growth is a slow developmental process and not a communication link for stress. / نمو العظام عملية تنموية بطيئة وليس رابط تواصل للإجهاد.",
+      "wrong_3": "Muscle cells are targets for energy (sugar), not the link to the immune system. / الخلايا العضلية هي أهداف للطاقة (السكر)، وليست الرابط بالجهاز المناعي."
+    }
+  },
+  {
+    "question": "Prolonged distress may result in 'Hypertension'. What is that?",
+    "options": ["High blood pressure", "Low blood pressure", "High blood sugar", "Muscle pain"],
+    "answer": "High blood pressure",
+    "explanation": {
+      "correct": "Hypertension is the medical term for abnormally high blood pressure, often caused by chronic stress. / ارتفاع ضغط الدم (Hypertension) هو المصطلح الطبي لضغط الدم المرتفع بشكل غير طبيعي، وغالبًا ما ينتج عن الإجهاد المزمن.",
+      "wrong_1": "Low blood pressure is called 'hypotension'. / يسمى ضغط الدم المنخفض 'انخفاض ضغط الدم'.",
+      "wrong_2": "High blood sugar is 'hyperglycemia'. / ارتفاع سكر الدم هو 'فرط سكر الدم'.",
+      "wrong_3": "While stress causes muscle issues, hypertension specifically refers to the circulatory system's pressure. / بينما يسبب الإجهاد مشاكل في العضلات، فإن ارتفاع ضغط الدم يشير تحديدًا إلى ضغط الجهاز الدوري."
+    }
+  },
+  {
+    "question": "What sensory input perceives 'Anxiety' or 'Fear' as a stressor?",
+    "options": ["Psychogenical", "Environmental", "Nutritional", "Genetic"],
+    "answer": "Psychogenical",
+    "explanation": {
+      "correct": "Fear and anxiety are psychological or 'psychogenical' stressors that originate in the mind or perception. / الخوف والقلق هما مجهدان نفسيان ينشآن في العقل أو الإدراك.",
+      "wrong_1": "Environmental stressors are physical factors like cold weather or loud noises. / المجهدات البيئية هي عوامل فيزيائية مثل الطقس البارد أو الضوضاء العالية.",
+      "wrong_2": "Nutritional stress comes from a lack of food or specific vitamins. / ينتج الإجهاد الغذائي عن نقص الغذاء أو فيتامينات معينة.",
+      "wrong_3": "Genetics determines the reaction, but the fear itself is a psychological event. / تحدد الوراثة رد الفعل، لكن الخوف نفسه هو حدث نفسي."
+    }
+  },
+  {
+    "question": "What is the effect of acute stress on vessels of the 'Heart'?",
+    "options": ["Vasodilation", "Vasoconstriction", "No effect", "Closure"],
+    "answer": "Vasodilation",
+    "explanation": {
+      "correct": "The heart needs more blood and oxygen during stress, so its vessels expand (dilate) to increase flow. / يحتاج القلب إلى المزيد من الدم والأكسجين أثناء الإجهاد، لذا تتوسع أوعيته لزيادة التدفق.",
+      "wrong_1": "Vasoconstriction happens in non-essential areas like the skin or digestive system. / يحدث تضيق الأوعية في المناطق غير الأساسية مثل الجلد أو الجهاز الهضمي.",
+      "wrong_2": "The heart is one of the most affected organs in the systemic stress response. / القلب هو أحد أكثر الأعضاء تأثراً في استجابة الإجهاد الجهازية.",
+      "wrong_3": "Closure would cause a heart attack; the body aims to increase supply, not stop it. / الإغلاق من شأنه أن يسبب نوبة قلبية؛ يهدف الجسم إلى زيادة الإمداد، وليس إيقافه."
+    }
+  }
+]
