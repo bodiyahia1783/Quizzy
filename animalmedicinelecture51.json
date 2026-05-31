@@ -1,0 +1,482 @@
+[
+  {
+    "question": "What unusual behavior is observed in bighorn sheep immediately after being captured and released?",
+    "options": [
+      "They run for miles without stopping.",
+      "They immediately attack the predator.",
+      "They run a short distance, stop, and start eating.",
+      "They hide in thick bushes for days."
+    ],
+    "answer": "They run a short distance, stop, and start eating.",
+    "explanation": {
+      "correct": "In English: The text notes that bighorn sheep exhibit a specific mechanism where they run briefly after release but then stop to eat. In Arabic: يشير النص إلى أن خراف بقهورن تظهر آلية محددة حيث تجري لفترة وجيزة بعد إطلاق سراحها ولكنها تتوقف بعد ذلك لتأكل.",
+      "wrong_1": "In English: While prey usually run, this specific observation highlights their premature stopping. In Arabic: بينما تجري الفرائس عادة، يسلط هذا الملاحظة الضوء على توقفها المفاجئ.",
+      "wrong_2": "In English: Bighorn sheep are prey; the text describes a poor response to predators, not an attack. In Arabic: خراف بقهورن هي فرائس؛ يصف النص استجابة ضعيفة للمفترسات، وليس هجوماً.",
+      "wrong_3": "In English: The text specifically mentions eating behavior, not hiding. In Arabic: يذكر النص تحديداً سلوك الأكل، وليس الاختباء."
+    }
+  },
+  {
+    "question": "Why is the post-release behavior of bighorn sheep considered a 'poor response' for the prey?",
+    "options": [
+      "Because eating makes them run faster later.",
+      "Because stopping to eat makes them easy targets for the predator again.",
+      "Because the food they eat is poisonous.",
+      "Because it helps them hide better."
+    ],
+    "answer": "Because stopping to eat makes them easy targets for the predator again.",
+    "explanation": {
+      "correct": "In English: Stopping so soon after an escape attempt is a 'poor response' because the predator might still be nearby. In Arabic: التوقف فوراً بعد محاولة الهروب يعتبر 'استجابة سيئة' لأن المفترس قد يكون لا يزال قريباً.",
+      "wrong_1": "In English: Eating during a chase does not provide an immediate speed boost; it wastes time. In Arabic: الأكل أثناء المطاردة لا يوفر دفعة فورية للسرعة؛ بل يضيع الوقت.",
+      "wrong_2": "In English: There is no mention of poisonous food; the issue is the timing of the behavior. In Arabic: لا يوجد ذكر لطعام سام؛ المشكلة تكمن في توقيت السلوك.",
+      "wrong_3": "In English: Stopping in the open to eat makes them more visible, not hidden. In Arabic: التوقف في العراء للأكل يجعلهم أكثر وضوحاً، وليس مختبئين."
+    }
+  },
+  {
+    "question": "Which of the following is a recognized effect of chronic stress on zoo animals regarding reproduction?",
+    "options": [
+      "Increased frequency of twins.",
+      "Earlier onset of puberty.",
+      "Decrease in libido and fertility.",
+      "Better implantation of the ovum."
+    ],
+    "answer": "Decrease in libido and fertility.",
+    "explanation": {
+      "correct": "In English: Chronic stress leads to hormonal imbalances that reduce sexual desire (libido) and the ability to produce offspring (fertility). In Arabic: يؤدي الإجهاد المزمن إلى خلل هرموني يقلل من الرغبة الجنسية (الليبيدو) والقدرة على إنتاج النسل (الخصوبة).",
+      "wrong_1": "In English: Stress generally decreases reproductive success, it doesn't increase twinning. In Arabic: الإجهاد عموماً يقلل من نجاح التكاثر، ولا يزيد من فرص التوائم.",
+      "wrong_2": "In English: Stress usually delays physiological development rather than accelerating it. In Arabic: الإجهاد عادة ما يؤخر التطور الفسيولوجي بدلاً من تسريعه.",
+      "wrong_3": "In English: The text specifically states there is a 'decrease' in the implantation of the fed ovum. In Arabic: ينص النص تحديداً على وجود 'انخفاض' في انغراس البويضة الملقحة."
+    }
+  },
+  {
+    "question": "In the 'Stress Response Pathway', what is the first part of the brain to trigger the activation after a stressor?",
+    "options": [
+      "The Cerebellum",
+      "The Limbic system / Hypothalamus",
+      "The Occipital lobe",
+      "The Medulla Oblongata"
+    ],
+    "answer": "The Limbic system / Hypothalamus",
+    "explanation": {
+      "correct": "In English: The Hypothalamus acts as the control center that initiates the hormonal cascade in response to stress. In Arabic: يعمل 시لاموس (Hypothalamus) كمركز تحكم يبدأ السلسلة الهرمونية استجابة للإجهاد.",
+      "wrong_1": "In English: The cerebellum is mainly for motor control and balance, not the primary stress initiator. In Arabic: المخيخ مسؤول بشكل أساسي عن التحكم الحركي والتوازن، وليس المحفز الرئيسي للإجهاد.",
+      "wrong_2": "In English: The occipital lobe is responsible for vision. In Arabic: الفص القذالي مسؤول عن الرؤية.",
+      "wrong_3": "In English: While the medulla is involved in autonomic functions, the 'Stress Response Pathway' (HPA axis) starts higher up in the Hypothalamus. In Arabic: بينما يشارك النخاع المستطيل في الوظائف اللاإرادية، فإن مسار استجابة الإجهاد يبدأ من مستوى أعلى في 시لاموس."
+    }
+  },
+  {
+    "question": "What substance is released by the Hypothalamus to stimulate the Pituitary gland?",
+    "options": [
+      "Insulin",
+      "Adrenaline",
+      "ACTH releasing factor (CRH)",
+      "Thyroxine"
+    ],
+    "answer": "ACTH releasing factor (CRH)",
+    "explanation": {
+      "correct": "In English: The Hypothalamus releases ACTH Releasing Factor (also known as Corticotropin-Releasing Hormone) to signal the pituitary. In Arabic: يفرز 시لاموس عامل إطلاق ACTH (المعروف أيضاً بالهرمون المطلق لموجهة القشرة) لإرسال إشارة إلى الغدة النخامية.",
+      "wrong_1": "In English: Insulin is released by the pancreas to manage blood sugar. In Arabic: يفرز البنكرياس الأنسولين لإدارة سكر الدم.",
+      "wrong_2": "In English: Adrenaline is released by the adrenal medulla during acute stress, not by the hypothalamus for the pituitary. In Arabic: يفرز لب الكظر الأدرينالين أثناء الإجهاد الحاد، وليس 시لاموس للنخامية.",
+      "wrong_3": "In English: Thyroxine is produced by the thyroid gland. In Arabic: يتم إنتاج الثيروكسين بواسطة الغدة الدرقية."
+    }
+  },
+  {
+    "question": "The Pituitary gland releases which hormone in response to the Hypothalamus?",
+    "options": [
+      "Growth Hormone",
+      "ACTH (Adrenocorticotropic Hormone)",
+      "Estrogen",
+      "Melatonin"
+    ],
+    "answer": "ACTH (Adrenocorticotropic Hormone)",
+    "explanation": {
+      "correct": "In English: ACTH travels through the blood to the adrenal glands to stimulate cortisol production. In Arabic: ينتقل هرمون ACTH عبر الدم إلى الغدد الكظرية لتحفيز إنتاج الكورتيزول.",
+      "wrong_1": "In English: Growth hormone is for development, not the specific pathway for chronic stress response. In Arabic: هرمون النمو مخصص للتطور، وليس المسار المحدد لاستجابة الإجهاد المزمن.",
+      "wrong_2": "In English: Estrogen is a sex hormone produced mainly in the ovaries. In Arabic: الإستروجين هو هرمون جنسي ينتج بشكل أساسي في المبيضين.",
+      "wrong_3": "In English: Melatonin is produced by the pineal gland to regulate sleep. In Arabic: يتم إنتاج الميلاتونين بواسطة الغدة الصنوبرية لتنظيم النوم."
+    }
+  },
+  {
+    "question": "What is the primary Glucocorticoid released by the adrenal gland during chronic stress?",
+    "options": [
+      "Cortisol",
+      "Aldosterone",
+      "Dopamine",
+      "Serotonin"
+    ],
+    "answer": "Cortisol",
+    "explanation": {
+      "correct": "In English: Cortisol is the 'stress hormone' that causes metabolic changes like hyperglycemia. In Arabic: الكورتيزول هو 'هرمون الإجهاد' الذي يسبب تغيرات استقلابية مثل ارتفاع سكر الدم.",
+      "wrong_1": "In English: Aldosterone is a mineralocorticoid involved in salt balance, not the main stress glucocorticoid. In Arabic: الألدوستيرون هو هرمون معدني يشارك في توازن الأملاح، وليس الغلوكوكورتيكويد الرئيسي للإجهاد.",
+      "wrong_2": "In English: Dopamine is a neurotransmitter involved in reward and movement. In Arabic: الدوبامين هو ناقل عصبي يشارك في المكافأة والحركة.",
+      "wrong_3": "In English: Serotonin is a neurotransmitter involved in mood regulation. In Arabic: السيروتونين هو ناقل عصبي يشارك في تنظيم المزاج."
+    }
+  },
+  {
+    "question": "What metabolic alteration does Cortisol primarily cause?",
+    "options": [
+      "Hypoglycemia (Low blood sugar)",
+      "Hyperglycemia (High blood sugar)",
+      "Decrease in blood pressure",
+      "Storage of fat in muscles"
+    ],
+    "answer": "Hyperglycemia (High blood sugar)",
+    "explanation": {
+      "correct": "In English: Cortisol increases glucose levels in the blood (Hyperglycemia) to provide energy to the body during stress. In Arabic: يزيد الكورتيزول من مستويات الغلوكوز في الدم (فرط سكر الدم) لتوفير الطاقة للجسم أثناء الإجهاد.",
+      "wrong_1": "In English: Hypoglycemia is the opposite of what cortisol does during the stress response. In Arabic: نقص سكر الدم هو عكس ما يفعله الكورتيزول أثناء استجابة الإجهاد.",
+      "wrong_2": "In English: Stress hormones generally increase blood pressure, not decrease it. In Arabic: هرمونات الإجهاد تزيد بشكل عام من ضغط الدم، ولا تخفضه.",
+      "wrong_3": "In English: Cortisol promotes the breakdown of fats (lipolysis) rather than storing them in muscle. In Arabic: يعزز الكورتيزول تكسير الدهون (تحلل الدهون) بدلاً من تخزينها في العضلات."
+    }
+  },
+  {
+    "question": "What is the result of 'Gluconeogenesis' in the chronic stress pathway?",
+    "options": [
+      "Muscle growth",
+      "Muscle atrophy (wasting)",
+      "Enhanced immune response",
+      "Faster bone healing"
+    ],
+    "answer": "Muscle atrophy (wasting)",
+    "explanation": {
+      "correct": "In English: Gluconeogenesis breaks down proteins (from muscles) to create new glucose, leading to muscle wasting or atrophy. In Arabic: استحداث السكر (Gluconeogenesis) يكسر البروتينات (من العضلات) لتكوين غلوكوز جديد، مما يؤدي إلى ضمور العضلات.",
+      "wrong_1": "In English: Gluconeogenesis breaks down muscle; it does not build it. In Arabic: استحداث السكر يكسر العضلات؛ ولا يبنيها.",
+      "wrong_2": "In English: This process is part of the stress response that actually suppresses the immune system. In Arabic: هذه العملية هي جزء من استجابة الإجهاد التي تثبط في الواقع جهاز المناعة.",
+      "wrong_3": "In English: Chronic stress and cortisol usually delay healing processes. In Arabic: الإجهاد المزمن والكورتيزول عادة ما يؤخران عمليات الشفاء."
+    }
+  },
+  {
+    "question": "How does the modification of the immune system by cortisol affect physical recovery?",
+    "options": [
+      "It speeds up recovery from surgery.",
+      "It leads to delayed wound healing.",
+      "It makes the skin tougher.",
+      "It prevents all bacterial infections."
+    ],
+    "answer": "It leads to delayed wound healing.",
+    "explanation": {
+      "correct": "In English: Cortisol suppresses the inflammatory response and cell proliferation needed for repair, thus delaying wound healing. In Arabic: يثبط الكورتيزول الاستجابة الالتهابية وتكاثر الخلايا اللازمة للإصلاح، مما يؤخر التئام الجروح.",
+      "wrong_1": "In English: Stress hormones slow down recovery rather than speeding it up. In Arabic: هرمونات الإجهاد تبطئ التعافي بدلاً من تسريعه.",
+      "wrong_2": "In English: Cortisol can actually cause thinning of the skin over time. In Arabic: يمكن أن يسبب الكورتيزول في الواقع ترقق الجلد بمرور الوقت.",
+      "wrong_3": "In English: Cortisol weakens the immune system, making infections more likely, not less. In Arabic: يضعف الكورتيزول جهاز المناعة، مما يجعل العدوى أكثر احتمالاً، وليس أقل."
+    }
+  },
+  {
+    "question": "What digestive complication is specifically linked to chronic stress in the text?",
+    "options": [
+      "Improved digestion",
+      "Increased appetite",
+      "Gastric ulcers",
+      "Vitamin absorption increase"
+    ],
+    "answer": "Gastric ulcers",
+    "explanation": {
+      "correct": "In English: The pathway shows that chronic stress leads to gastric and duodenal ulceration. In Arabic: يظهر المسار أن الإجهاد المزمن يؤدي إلى تقرحات في المعدة والاثني عشر.",
+      "wrong_1": "In English: Stress inhibits digestion; it doesn't improve it. In Arabic: الإجهاد يثبط الهضم؛ ولا يحسنه.",
+      "wrong_2": "In English: While some individuals eat more, the physiological pathway listed focuses on the damage to the stomach lining. In Arabic: بينما يأكل البعض أكثر، يركز المسار الفسيولوجي المذكور على تلف بطانة المعدة.",
+      "wrong_3": "In English: Stress usually interferes with proper nutrient absorption. In Arabic: عادة ما يتداخل الإجهاد مع الامتصاص السليم للمواد المغذية."
+    }
+  },
+  {
+    "question": "What is 'Neutrophilia' as mentioned in the steroid pathway?",
+    "options": [
+      "A decrease in all white blood cells.",
+      "An increase in the number of neutrophils in the blood.",
+      "The death of all red blood cells.",
+      "A type of stomach virus."
+    ],
+    "answer": "An increase in the number of neutrophils in the blood.",
+    "explanation": {
+      "correct": "In English: Neutrophilia is a condition where there is an abnormally high number of neutrophils (a type of white blood cell). In Arabic: كثرة العدلات (Neutrophilia) هي حالة يكون فيها عدد العدلات (نوع من خلايا الدم البيضاء) مرتفعاً بشكل غير طبيعي.",
+      "wrong_1": "In English: Only neutrophils increase; other cells like lymphocytes actually decrease (lysis). In Arabic: العدلات فقط هي التي تزيد؛ أما الخلايا الأخرى مثل اللمفاويات فتنقص في الواقع (تحلل).",
+      "wrong_2": "In English: Neutrophilia affects white blood cells, not red blood cells. In Arabic: كثرة العدلات تؤثر على خلايا الدم البيضاء، وليس خلايا الدم الحمراء.",
+      "wrong_3": "In English: It is a hematological (blood) change, not a virus. In Arabic: إنه تغير في الدم، وليس فيروساً."
+    }
+  },
+  {
+    "question": "How do 'Lipocortins' affect the body's inflammatory response?",
+    "options": [
+      "They increase inflammation.",
+      "They stimulate white blood cells to attack.",
+      "They limit leukocyte activity by depressing phospholipase A2.",
+      "They help in the production of prostaglandins."
+    ],
+    "answer": "They limit leukocyte activity by depressing phospholipase A2.",
+    "explanation": {
+      "correct": "In English: Lipocortins are anti-inflammatory proteins that inhibit the enzyme phospholipase A2, which is needed to start the inflammatory process. In Arabic: الليبوكورتينات هي بروتينات مضادة للالتهابات تثبط إنزيم فوسفوليباز A2، وهو ضروري لبدء العملية الالتهابية.",
+      "wrong_1": "In English: Lipocortins are part of the mechanism that *reduces* inflammation. In Arabic: الليبوكورتينات جزء من الآلية التي *تقلل* الالتهاب.",
+      "wrong_2": "In English: They 'limit' or depress leukocyte activity rather than stimulating it. In Arabic: إنها 'تحد' أو تثبط نشاط كرات الدم البيضاء بدلاً من تحفيزها.",
+      "wrong_3": "In English: By depressing phospholipase A2, they actually *decrease* prostaglandins. In Arabic: من خلال تثبيط فوسفوليباز A2، فإنها في الواقع *تقلل* من البروستاغلاندينات."
+    }
+  },
+  {
+    "question": "What happens to the proliferation of lymphoid cells under the influence of stress steroids?",
+    "options": [
+      "It increases significantly.",
+      "It stays the same.",
+      "It decreases.",
+      "They turn into red blood cells."
+    ],
+    "answer": "It decreases.",
+    "explanation": {
+      "correct": "In English: Steroids released during stress decrease the production and multiplication (proliferation) of lymphoid cells (immune cells). In Arabic: الستيرويدات التي تفرز أثناء الإجهاد تقلل من إنتاج وتكاثر الخلايا اللمفاوية (خلايا مناعية).",
+      "wrong_1": "In English: The text specifically mentions a 'decrease' in proliferation. In Arabic: يذكر النص تحديداً 'انخفاضاً' في التكاثر.",
+      "wrong_2": "In English: Stress causes major changes; cell counts do not stay the same. In Arabic: يسبب الإجهاد تغيرات كبيرة؛ أعداد الخلايا لا تبقى كما هي.",
+      "wrong_3": "In English: One cell type does not transform into another in this context. In Arabic: نوع واحد من الخلايا لا يتحول إلى نوع آخر في هذا السياق."
+    }
+  },
+  {
+    "question": "The 'Flight or Fight' response is part of which pathway?",
+    "options": [
+      "Chronic Stress Pathway",
+      "Acute Stress Activation Pathway",
+      "Digestive Pathway",
+      "Sleep Cycle Pathway"
+    ],
+    "answer": "Acute Stress Activation Pathway",
+    "explanation": {
+      "correct": "In English: The Flight or Fight response is the immediate, 'acute' reaction to a perceived threat. In Arabic: استجابة 'الكر أو الفر' هي التفاعل الفوري 'الحاد' لتهديد مدرك.",
+      "wrong_1": "In English: Chronic stress relates to long-term exposure, whereas Flight or Fight is for immediate survival. In Arabic: يتعلق الإجهاد المزمن بالتعرض طويل الأمد، بينما 'الكر أو الفر' مخصص للبقاء الفوري.",
+      "wrong_2": "In English: While it affects the digestive system, its primary purpose is survival, not digestion. In Arabic: بينما تؤثر على الجهاز الهضمي، فإن غرضها الأساسي هو البقاء، وليس الهضم.",
+      "wrong_3": "In English: Flight or Fight increases alertness and would interfere with sleep. In Arabic: الكر أو الفر يزيد من اليقظة ويتداخل مع النوم."
+    }
+  },
+  {
+    "question": "In Acute Stress, which arm of the autonomic nervous system is stimulated?",
+    "options": [
+      "Parasympathetic arm",
+      "Sympathetic arm",
+      "Somatic nervous system",
+      "Enteric nervous system"
+    ],
+    "answer": "Sympathetic arm",
+    "explanation": {
+      "correct": "In English: The sympathetic nervous system is responsible for the 'fight or flight' actions like increased heart rate. In Arabic: الجهاز العصبي السمبتاوي مسؤول عن أفعال 'الكر أو الفر' مثل زيادة ضربات القلب.",
+      "wrong_1": "In English: The parasympathetic arm is 'rest and digest'; it is *depressed* during acute stress. In Arabic: الذراع الباراسمبتاوي هو 'للراحة والهضم'؛ ويتم *تثبيطه* أثناء الإجهاد الحاد.",
+      "wrong_2": "In English: The somatic nervous system controls voluntary movements, not the involuntary stress response. In Arabic: الجهاز العصبي الجسدي يتحكم في الحركات الإرادية، وليس استجابة الإجهاد اللاإرادية.",
+      "wrong_3": "In English: The enteric nervous system governs the gut; while affected, the main driver is the sympathetic arm. In Arabic: الجهاز العصبي المعوي يحكم الأمعاء؛ وبالرغم من تأثره، فإن المحرك الرئيسي هو الذراع السمبتاوي."
+    }
+  },
+  {
+    "question": "Which gland releases Adrenaline and Noradrenaline during acute stress?",
+    "options": [
+      "Thyroid gland",
+      "Pancreas",
+      "Adrenal gland (medullary cells)",
+      "Pituitary gland"
+    ],
+    "answer": "Adrenal gland (medullary cells)",
+    "explanation": {
+      "correct": "In English: The medullary (inner) cells of the adrenal gland synthesize and release catecholamines (adrenaline/noradrenaline). In Arabic: تقوم الخلايا اللبية (الداخلية) للغدة الكظرية بتصنيع وإفراز الكاتيكولامينات (الأدرينالين/النورأدرينالين).",
+      "wrong_1": "In English: The thyroid produces metabolic hormones like T3 and T4. In Arabic: تنتج الغدة الدرقية هرمونات التمثيل الغذائي مثل T3 و T4.",
+      "wrong_2": "In English: The pancreas produces insulin and glucagon. In Arabic: ينتج البنكرياس الأنسولين والغلوكاغون.",
+      "wrong_3": "In English: The pituitary releases ACTH, but not adrenaline. In Arabic: تفرز الغدة النخامية ACTH، ولكن ليس الأدرينالين."
+    }
+  },
+  {
+    "question": "During acute stress, where does 'Vasoconstriction' primarily occur?",
+    "options": [
+      "Brain and Heart",
+      "Skeletal muscles and Lungs",
+      "Kidneys, digestive system, and skin",
+      "Liver and Eyes"
+    ],
+    "answer": "Kidneys, digestive system, and skin",
+    "explanation": {
+      "correct": "In English: The body constricts blood vessels in 'non-essential' areas like the skin and kidneys to redirect blood to muscles. In Arabic: يقوم الجسم بتضييق الأوعية الدموية في المناطق 'غير الضرورية' مثل الجلد والكلى لإعادة توجيه الدم إلى العضلات.",
+      "wrong_1": "In English: The brain and heart need *more* blood, so vessels there dilate (widen). In Arabic: يحتاج الدماغ والقلب إلى دم *أكثر*، لذا تتوسع الأوعية هناك.",
+      "wrong_2": "In English: Skeletal muscles and lungs require more oxygen during a fight, so they undergo vasodilation. In Arabic: تتطلب العضلات الهيكلية والرئتين المزيد من الأكسجين أثناء القتال، لذا يحدث لها توسع وعائي.",
+      "wrong_3": "In English: While the liver is involved in metabolism, the text specifically lists kidneys, GI system, and skin for constriction. In Arabic: بينما يشارك الكبد في الاستقلاب، يدرج النص تحديداً الكلى والجهاز الهضمي والجلد للتضيق."
+    }
+  },
+  {
+    "question": "Where does 'Vasodilation' (widening of vessels) occur during the Flight or Fight response?",
+    "options": [
+      "Skin and connective tissue",
+      "Brain, skeletal muscle, heart, and lungs",
+      "Digestive system",
+      "Kidneys"
+    ],
+    "answer": "Brain, skeletal muscle, heart, and lungs",
+    "explanation": {
+      "correct": "In English: These organs are vital for immediate survival and physical action, so they receive increased blood flow. In Arabic: هذه الأعضاء حيوية للبقاء الفوري والعمل البدني، لذا تتلقى تدفقاً متزايداً للدم.",
+      "wrong_1": "In English: Skin vessels constrict (get narrower) to prevent bleeding and divert blood. In Arabic: تضيق أوعية الجلد لمنع النزيف وتحويل الدم.",
+      "wrong_2": "In English: Digestion is slowed down, and blood flow to it is decreased via vasoconstriction. In Arabic: يتباطأ الهضم، وينخفض تدفق الدم إليه عبر تضيق الأوعية.",
+      "wrong_3": "In English: Blood flow to the kidneys is reduced during acute stress. In Arabic: ينخفض تدفق الدم إلى الكلى أثناء الإجهاد الحاد."
+    }
+  },
+  {
+    "question": "What is the effect of acute stress on gastrointestinal (GI) motility?",
+    "options": [
+      "It stimulates motility for faster digestion.",
+      "It inhibits motility and secretions.",
+      "It has no effect on the GI system.",
+      "It increases stomach acid production only."
+    ],
+    "answer": "It inhibits motility and secretions.",
+    "explanation": {
+      "correct": "In English: The body pauses digestion ('inhibits motility') to save energy for the physical demands of fighting or fleeing. In Arabic: يوقف الجسم الهضم ('يثبط الحركة') لتوفير الطاقة للمتطلبات البدنية للقتال أو الهروب.",
+      "wrong_1": "In English: Stimulating digestion would be a waste of energy during an emergency. In Arabic: تحفيز الهضم سيكون إهداراً للطاقة أثناء الطوارئ.",
+      "wrong_2": "In English: The GI system is significantly affected by the sympathetic nervous system. In Arabic: يتأثر الجهاز الهضمي بشكل كبير بالجهاز العصبي السمبتاوي.",
+      "wrong_3": "In English: Both motility (movement) and secretions (enzymes/acid) are inhibited. In Arabic: يتم تثبيط كل من الحركة والإفرازات (الإنزيمات/الأحماض)."
+    }
+  },
+  {
+    "question": "What metabolic state is triggered during acute stress to provide immediate energy?",
+    "options": [
+      "Anabolic state (building tissue)",
+      "Catabolic state (breaking down molecules)",
+      "Hibernation state",
+      "Photosynthetic state"
+    ],
+    "answer": "Catabolic state (breaking down molecules)",
+    "explanation": {
+      "correct": "In English: A catabolic state involves breaking down fats (lipolysis) and proteins to create energy quickly. In Arabic: الحالة الهدمية (Catabolic) تتضمن تكسير الدهون والبروتينات لتوليد الطاقة بسرعة.",
+      "wrong_1": "In English: Anabolism is for building and repairing, which happens during rest. In Arabic: البناء (Anabolism) مخصص للنمو والإصلاح، وهو ما يحدث أثناء الراحة.",
+      "wrong_2": "In English: Hibernation is a state of minimal activity, the opposite of acute stress. In Arabic: السبات هو حالة من النشاط الأدنى، وهو عكس الإجهاد الحاد.",
+      "wrong_3": "In English: Photosynthesis is how plants make food from light. In Arabic: البناء الضوئي هو كيفية صنع النباتات للطعام من الضوء."
+    }
+  },
+  {
+    "question": "Which enzyme is released from the kidneys during the acute stress response?",
+    "options": [
+      "Pepsin",
+      "Renin",
+      "Amylase",
+      "Lipase"
+    ],
+    "answer": "Renin",
+    "explanation": {
+      "correct": "In English: Renin is released from the juxtaglomerular apparatus of the kidney to help regulate blood pressure during stress. In Arabic: يفرز الرينين من الجهاز الجوار كلوي للكلى للمساعدة في تنظيم ضغط الدم أثناء الإجهاد.",
+      "wrong_1": "In English: Pepsin is a digestive enzyme in the stomach. In Arabic: الببسين هو إنزيم هضمي في المعدة.",
+      "wrong_2": "In English: Amylase breaks down starch and is found in saliva and the pancreas. In Arabic: الأميلاز يكسر النشا ويوجد في اللعاب والبنكرياس.",
+      "wrong_3": "In English: Lipase breaks down fats during digestion. In Arabic: الليباز يكسر الدهون أثناء الهضم."
+    }
+  },
+  {
+    "question": "Where is 'Vasopressin' synthesized in response to stress?",
+    "options": [
+      "The Liver",
+      "The Paraventricular nucleus of the hypothalamus",
+      "The Adrenal Cortex",
+      "The Thyroid"
+    ],
+    "answer": "The Paraventricular nucleus of the hypothalamus",
+    "explanation": {
+      "correct": "In English: Vasopressin (Anti-diuretic hormone) is synthesized in the hypothalamus to help conserve water and maintain blood pressure. In Arabic: يتم تصنيع الفازوبريسين (الهرمون المضاد لإدرار البول) في 시لاموس للمساعدة في الحفاظ على الماء والحفاظ على ضغط الدم.",
+      "wrong_1": "In English: The liver does not synthesize vasopressin. In Arabic: الكبد لا يصنع الفازوبريسين.",
+      "wrong_2": "In English: The adrenal cortex produces cortisol and aldosterone, not vasopressin. In Arabic: قشرة الكظر تنتج الكورتيزول والألدوستيرون، وليس الفازوبريسين.",
+      "wrong_3": "In English: The thyroid is not involved in vasopressin production. In Arabic: الغدة الدرقية لا تشارك في إنتاج الفازوبريسين."
+    }
+  },
+  {
+    "question": "What causes the release of 'Vasoactive Intestinal Peptide' (VIP) during stress?",
+    "options": [
+      "Eating a large meal",
+      "Sympathetic stimulation of the intestine",
+      "Sleeping",
+      "Drinking water"
+    ],
+    "answer": "Sympathetic stimulation of the intestine",
+    "explanation": {
+      "correct": "In English: During the acute stress phase, the sympathetic nerves stimulate the intestine to release VIP. In Arabic: خلال مرحلة الإجهاد الحاد، تحفز الأعصاب السمبتاوية الأمعاء لإفراز VIP.",
+      "wrong_1": "In English: While VIP is involved in digestion, the text links its release here to sympathetic stress stimulation. In Arabic: بينما يشارك VIP في الهضم، يربط النص إفرازه هنا بتحفيز الإجهاد السمبتاوي.",
+      "wrong_2": "In English: Stress is the opposite of the sleep state. In Arabic: الإجهاد هو عكس حالة النوم.",
+      "wrong_3": "In English: Drinking water does not trigger this specific stress-related VIP release. In Arabic: شرب الماء لا يحفز هذا الإفراز المحدد لـ VIP المرتبط بالإجهاد."
+    }
+  },
+  {
+    "question": "What is the role of 'beta-endorphins' (β-endorphins) mentioned at the end of the text?",
+    "options": [
+      "To cause pain",
+      "To cause infection-induced analgesia (pain relief)",
+      "To increase the heart rate",
+      "To help with digestion"
+    ],
+    "answer": "To cause infection-induced analgesia (pain relief)",
+    "explanation": {
+      "correct": "In English: Endorphins are natural painkillers. The text mentions they cause analgesia (inability to feel pain) during stress or infection. In Arabic: الإندورفين هي مسكنات ألم طبيعية. يذكر النص أنها تسبب التسكين (عدم القدرة على الشعور بالألم) أثناء الإجهاد أو العدوى.",
+      "wrong_1": "In English: Endorphins reduce pain; they do not cause it. In Arabic: الإندورفين يقلل الألم؛ ولا يسببه.",
+      "wrong_2": "In English: Adrenaline increases heart rate, not endorphins. In Arabic: الأدرينالين يزيد من معدل ضربات القلب، وليس الإندورفين.",
+      "wrong_3": "In English: Endorphins are primarily involved in the nervous system and pain modulation, not digestion. In Arabic: يشارك الإندورفين بشكل أساسي في الجهاز العصبي وتعديل الألم، وليس الهضم."
+    }
+  },
+  {
+    "question": "How does acute stress impact Natural Killer (NK) cells?",
+    "options": [
+      "It makes them larger.",
+      "It modulates their activity/proliferation.",
+      "It turns them into T-cells.",
+      "It has no impact on immune cells."
+    ],
+    "answer": "It modulates their activity/proliferation.",
+    "explanation": {
+      "correct": "In English: The physiological changes during acute stress act to modulate (adjust or regulate) lymphocyte and NK cell proliferation. In Arabic: التغيرات الفسيولوجية أثناء الإجهاد الحاد تعمل على تعديل (ضبط أو تنظيم) تكاثر الخلايا اللمفاوية والخلايا القاتلة الطبيعية.",
+      "wrong_1": "In English: Stress affects their function and numbers, not necessarily their individual physical size. In Arabic: يؤثر الإجهاد على وظيفتها وأعدادها، وليس بالضرورة على حجمها الفيزيائي الفردي.",
+      "wrong_2": "In English: NK cells and T-cells are different types of lymphocytes; one does not turn into the other. In Arabic: الخلايا القاتلة الطبيعية والخلايا التائية أنواع مختلفة من اللمفاويات؛ ولا تتحول إحداهما للأخرى.",
+      "wrong_3": "In English: The text clearly states that stress provides a link between the brain and the immune system. In Arabic: ينص النص بوضوح على أن الإجهاد يوفر صلة بين الدماغ وجهاز المناعة."
+    }
+  },
+  {
+    "question": "What is the source of 'Substance P' during the acute stress response?",
+    "options": [
+      "The Brain",
+      "Sympathetic stimulation of nerve endings in tissue",
+      "The Gallbladder",
+      "The Bones"
+    ],
+    "answer": "Sympathetic stimulation of nerve endings in tissue",
+    "explanation": {
+      "correct": "In English: The text states that 'P' substance is released via sympathetic stimulation of nerve endings in the tissues. In Arabic: ينص النص على أن المادة 'P' تفرز عبر التحفيز السمبتاوي للنهايات العصبية في الأنسجة.",
+      "wrong_1": "In English: While Substance P exists in the brain, the text specifically identifies tissue nerve endings in this context. In Arabic: بينما توجد المادة P في الدماغ، يحدد النص تحديداً النهايات العصبية في الأنسجة في هذا السياق.",
+      "wrong_2": "In English: The gallbladder is not mentioned as a source of Substance P. In Arabic: لم يتم ذكر المرارة كمصدر للمادة P.",
+      "wrong_3": "In English: Bones are structural; they are not the source of this neurotransmitter in the stress pathway. In Arabic: العظام هيكلية؛ وليست مصدراً لهذا الناقل العصبي في مسار الإجهاد."
+    }
+  },
+  {
+    "question": "Which of these is NOT a catecholamine released from the adrenal medulla?",
+    "options": [
+      "Adrenaline",
+      "Noradrenaline",
+      "Enkephalin",
+      "Cortisol"
+    ],
+    "answer": "Cortisol",
+    "explanation": {
+      "correct": "In English: Cortisol is a steroid hormone from the adrenal *cortex*, not a catecholamine from the medulla. In Arabic: الكورتيزول هو هرمون ستيرويدي من *قشرة* الكظر، وليس كاتيكولامين من اللب.",
+      "wrong_1": "In English: Adrenaline is a primary catecholamine released during acute stress. In Arabic: الأدرينالين هو كاتيكولامين رئيسي يفرز أثناء الإجهاد الحاد.",
+      "wrong_2": "In English: Noradrenaline is a primary catecholamine released from the adrenal medulla. In Arabic: النورأدرينالين هو كاتيكولامين رئيسي يفرز من لب الكظر.",
+      "wrong_3": "In English: Enkephalin is co-released with adrenaline/noradrenaline from the medullary cells. In Arabic: يفرز الإنكيفالين بالتزامن مع الأدرينالين/النورأدرينالين من خلايا اللب."
+    }
+  },
+  {
+    "question": "In the context of stress, what does 'Lysis of T cells' mean?",
+    "options": [
+      "Growth of T cells",
+      "Strengthening of T cells",
+      "Breakdown or destruction of T cells",
+      "Movement of T cells to the brain"
+    ],
+    "answer": "Breakdown or destruction of T cells",
+    "explanation": {
+      "correct": "In English: 'Lysis' refers to the breaking down or destruction of the cell membrane, leading to cell death. In Arabic: 'Lysis' (التحلل) يشير إلى تكسير أو تدمير غشاء الخلية، مما يؤدي إلى موت الخلية.",
+      "wrong_1": "In English: Lysis is the opposite of growth. In Arabic: التحلل هو عكس النمو.",
+      "wrong_2": "In English: Destruction of immune cells weakens the immune system, it doesn't strengthen it. In Arabic: تدمير الخلايا المناعية يضعف جهاز المناعة، ولا يقويه.",
+      "wrong_3": "In English: Lysis results in the cell being destroyed, not moving to another location. In Arabic: التحلل يؤدي إلى تدمير الخلية، وليس انتقالها إلى موقع آخر."
+    }
+  },
+  {
+    "question": "What overall link does the acute stress response provide for the body?",
+    "options": [
+      "A link between the brain and the immune system.",
+      "A link between the lungs and the skin.",
+      "A link between the stomach and the eyes.",
+      "A link between the hair and the nails."
+    ],
+    "answer": "A link between the brain and the immune system.",
+    "explanation": {
+      "correct": "In English: The text explicitly mentions that these physiological changes provide a link between the brain and the immune system (Neuroimmunology). In Arabic: يذكر النص صراحة أن هذه التغيرات الفسيولوجية توفر صلة بين الدماغ وجهاز المناعة (علم المناعة العصبي).",
+      "wrong_1": "In English: While both are involved, the text emphasizes the Brain-Immune connection. In Arabic: بينما يشارك كلاهما، يركز النص على الاتصال بين الدماغ والمناعة.",
+      "wrong_2": "In English: There is no functional 'link' described between the stomach and eyes in this stress context. In Arabic: لا توجد 'صلة' وظيفية موصوفة بين المعدة والعينين في سياق الإجهاد هذا.",
+      "wrong_3": "In English: Hair and nails are not part of the core stress response pathways described. In Arabic: الشعر والأظافر ليست جزءاً من مسارات استجابة الإجهاد الأساسية الموصوفة."
+    }
+  }
+]
