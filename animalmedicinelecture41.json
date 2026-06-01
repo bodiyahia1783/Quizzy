@@ -1,0 +1,562 @@
+[
+  {
+    "question": "What is the specific gestation period for the Maned wolf?",
+    "options": [
+      "49-51 days",
+      "51-52 days",
+      "62-66 days",
+      "99-130 days"
+    ],
+    "answer": "62-66 days",
+    "explanation": {
+      "correct": {
+        "en": "According to the physiological data table, the Maned wolf has a gestation period of 62-66 days.",
+        "ar": "حسب جدول البيانات الفسيولوجية، مدة الحمل في الذئب ذو العرف (Maned wolf) من 62 لـ 66 يوم."
+      },
+      "wrong_1": {
+        "en": "49-51 days is the gestation period for the Fennec fox.",
+        "ar": "49-51 يوم دي فترة حمل الفنك (Fennec fox)."
+      },
+      "wrong_2": {
+        "en": "51-52 days is the gestation period for the Red fox.",
+        "ar": "51-52 يوم دي فترة حمل الثعلب الأحمر (Red fox)."
+      },
+      "wrong_3": {
+        "en": "99-130 days is the gestation period for the Spotted hyena.",
+        "ar": "99-130 يوم دي فترة حمل الضبع المخطط (Spotted hyena)."
+      }
+    }
+  },
+  {
+    "question": "Which canine species is uniquely known as a ground dweller that is also a good climber?",
+    "options": [
+      "Gray fox",
+      "Red fox",
+      "Wolf",
+      "Fennec"
+    ],
+    "answer": "Gray fox",
+    "explanation": {
+      "correct": {
+        "en": "The gray fox (Urocyon sp.) is the only exception among canines, as others are poor climbers.",
+        "ar": "الثعلب الرمادي هو العضو الوحيد في عائلة الكلبيات اللي بيعرف يتسلق، الباقي كلهم حركتهم على الأرض بس."
+      },
+      "wrong_1": {
+        "en": "Red foxes are ground dwellers and poor climbers.",
+        "ar": "الثعلب الأحمر بيعيش على الأرض ومش بيعرف يتسلق كويس."
+      },
+      "wrong_2": {
+        "en": "Wolves are strictly ground dwellers and cannot climb trees.",
+        "ar": "الذئاب بتعيش على الأرض بس ومستحيل تتسلق شجر."
+      },
+      "wrong_3": {
+        "en": "Fennecs are ground dwellers adapted to desert environments.",
+        "ar": "ثعلب الفنك بيعيش في الصحراء وعلى الأرض بس."
+      }
+    }
+  },
+  {
+    "question": "What is the recommended dose of Rompun for immobilization of canines?",
+    "options": [
+      "1-2 mg/kg",
+      "5-10 mg/kg",
+      "20-30 mg/kg",
+      "0.1-0.2 mg/kg"
+    ],
+    "answer": "1-2 mg/kg",
+    "explanation": {
+      "correct": {
+        "en": "Rompun (Xylazine) is used at a dose of 1-2 mg/kg for canine immobilization.",
+        "ar": "جرعة الرومبون (الزيلازين) الموصى بها لتثبيت الكلبيات هي 1-2 مجم لكل كجم."
+      },
+      "wrong_1": {
+        "en": "5-10 mg/kg is much higher than the standard Rompun dose for canines.",
+        "ar": "5-10 مجم دي جرعة عالية جداً وممكن تعمل مشاكل."
+      },
+      "wrong_2": {
+        "en": "20-30 mg/kg is the dose for Ketamine, not Rompun.",
+        "ar": "20-30 مجم دي جرعة الكيتامين مش الرومبون."
+      },
+      "wrong_3": {
+        "en": "0.1-0.2 mg/kg is too low for effective immobilization with Rompun.",
+        "ar": "0.1-0.2 مجم دي جرعة ضعيفة جداً مش هتعمل تأثير."
+      }
+    }
+  },
+  {
+    "question": "At what dose is Ketamine HCl used for canine immobilization?",
+    "options": [
+      "1-2 mg/kg",
+      "10-15 mg/kg",
+      "20-30 mg/kg",
+      "40-50 mg/kg"
+    ],
+    "answer": "20-30 mg/kg",
+    "explanation": {
+      "correct": {
+        "en": "Ketamine HCl is successfully used for immobilization at 20-30 mg/kg body weight.",
+        "ar": "الكيتامين بيستخدم بجرعة من 20 لـ 30 مجم لكل كجم لتثبيت الكلبيات."
+      },
+      "wrong_1": {
+        "en": "1-2 mg/kg is the dose for Rompun.",
+        "ar": "1-2 مجم دي جرعة الرومبون."
+      },
+      "wrong_2": {
+        "en": "10-15 mg/kg is sub-therapeutic for single-agent immobilization in wild canines.",
+        "ar": "10-15 مجم جرعة مش كافية للتثبيت في الكلبيات البرية."
+      },
+      "wrong_3": {
+        "en": "40-50 mg/kg is excessive and potentially toxic.",
+        "ar": "40-50 مجم جرعة زيادة وممكن تسبب تسمم."
+      }
+    }
+  },
+  {
+    "question": "How long after Combelens/Polamivers injection is surgical anesthesia reached?",
+    "options": [
+      "2-5 minutes",
+      "10-20 minutes",
+      "30-40 minutes",
+      "60 minutes"
+    ],
+    "answer": "10-20 minutes",
+    "explanation": {
+      "correct": {
+        "en": "Surgical anesthesia is achieved 10-20 minutes after the intramuscular combination of Combelens and Polamivers.",
+        "ar": "التخدير الجراحي بيوصل لمستواه بعد 10 لـ 20 دقيقة من حقن المادتين دول مع بعض."
+      },
+      "wrong_1": {
+        "en": "2-5 minutes is too quick for these intramuscular drugs to reach surgical levels.",
+        "ar": "2-5 دقايق وقت قليل جداً على إن الحقن العضلي يوصل لمرحلة الجراحة."
+      },
+      "wrong_2": {
+        "en": "30-40 minutes is longer than the typical onset time mentioned.",
+        "ar": "30-40 دقيقة ده وقت أطول من المعتاد للبداية."
+      },
+      "wrong_3": {
+        "en": "60 minutes would represent a delayed response or failure of the drug.",
+        "ar": "ساعة كاملة ده معناه إن مفعول الدوا إتأخر جداً أو مش شغال."
+      }
+    }
+  },
+  {
+    "question": "Which parasite is the causative agent of lung parenchyma inflammation in the bronchi?",
+    "options": [
+      "Crenosoma vulpis",
+      "Capillaria aerophila",
+      "Toxocara canis",
+      "Ancylostoma sp."
+    ],
+    "answer": "Capillaria aerophila",
+    "explanation": {
+      "correct": {
+        "en": "Capillaria aerophila is located in the bronchi and trachea, causing pneumonia and chronic bronchitis.",
+        "ar": "طفيليات (Capillaria aerophila) بتسكن في الشعب الهوائية والقصبة وبتعمل التهاب رئوي."
+      },
+      "wrong_1": {
+        "en": "Crenosoma vulpis causes Crenosomatosis, often treated with Lugol's solution.",
+        "ar": "(Crenosoma) ده طفيل تاني بيعمل مرض الـ Crenosomatosis."
+      },
+      "wrong_2": {
+        "en": "Toxocara canis is an intestinal roundworm, not primary in lungs.",
+        "ar": "(Toxocara) دي ديدان اسطوانية بتصيب الأمعاء مش الرئة بشكل أساسي."
+      },
+      "wrong_3": {
+        "en": "Ancylostoma is a hookworm found in the digestive tract.",
+        "ar": "الإنكلستوما دي ديدان خطافية مكانها الجهاز الهضمي."
+      }
+    }
+  },
+  {
+    "question": "Piperazine salts must be avoided in feral felidae due to the risk of:",
+    "options": [
+      "Severe hypocalcaemia",
+      "Acute renal failure",
+      "Liver degeneration",
+      "Hemorrhagic enteritis"
+    ],
+    "answer": "Severe hypocalcaemia",
+    "explanation": {
+      "correct": {
+        "en": "Piperazine can cause severe hypocalcaemia in feral felidae, making it dangerous for them.",
+        "ar": "البيبرازين ممكن يسبب نقص حاد في كالسيوم الدم (hypocalcaemia) في القطط البرية عشان كده لازم نتجنبه."
+      },
+      "wrong_1": {
+        "en": "Acute renal failure is not the specific toxicity mentioned for Piperazine in felids.",
+        "ar": "الفشل الكلوي مش هو العرض الجانبي المحدد للبيبرازين في القطط."
+      },
+      "wrong_2": {
+        "en": "Liver degeneration is a digestive disease but not linked specifically to Piperazine toxicity.",
+        "ar": "تدهور الكبد مرض بيحصل بس ملوش علاقة مباشرة بسمية البيبرازين."
+      },
+      "wrong_3": {
+        "en": "Hemorrhagic enteritis is a clinical sign of other diseases like Salmon poisoning.",
+        "ar": "التهاب الأمعاء النزفي عرض لأمراض تانية زي التسمم بالسلمون."
+      }
+    }
+  },
+  {
+    "question": "What is the recommended treatment for Crenosomatosis in canines?",
+    "options": [
+      "Oral Piperazine",
+      "S.C. Citarins",
+      "Intratracheal diluted Lugol's solution",
+      "Oral Mebendazole"
+    ],
+    "answer": "Intratracheal diluted Lugol's solution",
+    "explanation": {
+      "correct": {
+        "en": "Injection of diluted Lugol's solution intratracheally is the specified treatment for Crenosomatosis.",
+        "ar": "حقن محلول لوجول المخفف داخل القصبة الهوائية هو العلاج المستخدم لمرض الـ Crenosomatosis."
+      },
+      "wrong_1": {
+        "en": "Oral Piperazine is used for Ascarids but not the primary treatment for Crenosomatosis.",
+        "ar": "البيبرازين بيستخدم للديدان الاسطوانية مش هو الأساسي هنا."
+      },
+      "wrong_2": {
+        "en": "S.C. Citarins is used for Capillaria and Ascarids.",
+        "ar": "السيارين (Citarins) بيستخدم لحالات تانية زي الكابيلاريا."
+      },
+      "wrong_3": {
+        "en": "Oral Mebendazole is effective for intestinal worms and Capillaria.",
+        "ar": "الميبندازول فعال للديدان المعوية والكابيلاريا."
+      }
+    }
+  },
+  {
+    "question": "Which clinical sign is characteristic of liver lobe torsion in canines?",
+    "options": [
+      "Chronic coughing",
+      "Yellow-greenish vomit",
+      "Iron deficiency",
+      "Slow heart rate"
+    ],
+    "answer": "Yellow-greenish vomit",
+    "explanation": {
+      "correct": {
+        "en": "Animals with torsion of the liver lobe vomit yellow-greenish fluid containing undigested meat.",
+        "ar": "الحيوانات اللي عندها التواء في فص الكبد بترجع سائل لونه أصفر مخضر وفيه لحم مش مهضوم."
+      },
+      "wrong_1": {
+        "en": "Chronic coughing is a sign of respiratory disease (e.g., Capillaria).",
+        "ar": "الكحة المزمنة دي علامة لأمراض الجهاز التنفسي."
+      },
+      "wrong_2": {
+        "en": "Iron deficiency is associated with chronic diarrhea/parasitism.",
+        "ar": "نقص الحديد بيحصل مع الإسهال المزمن أو الطفيليات."
+      },
+      "wrong_3": {
+        "en": "Irregular (not necessarily slow) pulse is seen in Salmon poisoning.",
+        "ar": "نبض القلب غير المنتظم بيظهر في حالات التسمم بالسلمون."
+      }
+    }
+  },
+  {
+    "question": "What is a major cause of 'Salmon poisoning' in wild canines?",
+    "options": [
+      "Eating raw fish",
+      "Distemper virus",
+      "Protozoal infestation",
+      "Genetic malformation"
+    ],
+    "answer": "Eating raw fish",
+    "explanation": {
+      "correct": {
+        "en": "Salmon poisoning occurs from eating raw fish, leading to bloody diarrhea and vomiting.",
+        "ar": "تسمم السلمون بيحصل لما الحيوان ياكل سمك ني، وده بيعمل إسهال مدمم وترجيع."
+      },
+      "wrong_1": {
+        "en": "Distemper virus causes diarrhea but is a separate viral etiology.",
+        "ar": "فيروس الديستمبر بيعمل إسهال فعلاً بس ده سبب فيروسي مختلف."
+      },
+      "wrong_2": {
+        "en": "Protozoal infestation causes diarrhea but not 'Salmon poisoning' specifically.",
+        "ar": "البروتوزوا بتعمل إسهال بس مش هي السبب في تسمم السلمون."
+      },
+      "wrong_3": {
+        "en": "Genetic malformation usually refers to teeth or organs, not acute poisoning.",
+        "ar": "العيوب الخلقية بتكون في الأسنان أو الأعضاء، مش تسمم حاد."
+      }
+    }
+  },
+  {
+    "question": "What is the drug of choice for treating Salmonellosis in canines?",
+    "options": [
+      "Sulphamethazine",
+      "Chloramphenicol",
+      "Mebendazole",
+      "Ivermectin"
+    ],
+    "answer": "Chloramphenicol",
+    "explanation": {
+      "correct": {
+        "en": "Chloramphenicol at a dose of 30-50 mg/kg BW is the drug of choice for Salmonellosis.",
+        "ar": "الكلورامفينيكول هو الخيار الأول لعلاج السالمونيلا بجرعة 30-50 مجم لكل كجم."
+      },
+      "wrong_1": {
+        "en": "Sulphamethazine is primarily used for protozoal infections like Coccidia.",
+        "ar": "السلفا ميثازين بتستخدم أكتر للكوكسيديا والبروتوزوا."
+      },
+      "wrong_2": {
+        "en": "Mebendazole is an anthelmintic, not an antibiotic for Salmonella.",
+        "ar": "الميبندازول ده طارد ديدان مش مضاد حيوي للسالمونيلا."
+      },
+      "wrong_3": {
+        "en": "Ivermectin is an antiparasitic for nematodes and arthropods.",
+        "ar": "الإيفيرمكتين مضاد للطفيليات مش للبكتيريا."
+      }
+    }
+  },
+  {
+    "question": "At what age should canine pups be first dewormed?",
+    "options": [
+      "At birth",
+      "1 week of age",
+      "2-4 weeks of age",
+      "6-8 weeks of age"
+    ],
+    "answer": "2-4 weeks of age",
+    "explanation": {
+      "correct": {
+        "en": "Pups should be dewormed between 2-4 weeks of age regardless of fecal examination results.",
+        "ar": "الجراوي لازم تتجّرع لأول مرة من عمر أسبوعين لـ 4 أسابيع، بغض النظر عن نتيجة فحص البراز."
+      },
+      "wrong_1": {
+        "en": "Deworming at birth is not standard practice and may be unsafe.",
+        "ar": "التجرير وقت الولادة مش إجراء قياسي وممكن يكون خطر."
+      },
+      "wrong_2": {
+        "en": "1 week is slightly earlier than the recommended 2-4 week window.",
+        "ar": "أسبوع واحد بدري شوية عن المعاد الموصى بيه."
+      },
+      "wrong_3": {
+        "en": "6-8 weeks is when the repeat treatment occurs if results are positive, not the first dose.",
+        "ar": "6-8 أسابيع ده ميعاد الجرعة التانية لو التحليل إيجابي، مش الجرعة الأولى."
+      }
+    }
+  },
+  {
+    "question": "What is the recommended dose of Mebendazole for treating Ancylostoma?",
+    "options": [
+      "5 mg/kg for 5 days",
+      "15 mg/kg for 2 days",
+      "100 mg/kg once",
+      "200 mg/kg for 2 days"
+    ],
+    "answer": "15 mg/kg for 2 days",
+    "explanation": {
+      "correct": {
+        "en": "For Ancylostoma, Mebendazole is given at 15 mg/kg orally for two consecutive days.",
+        "ar": "لعلاج الإنكلستوما، الميبندازول بيتاخد بجرعة 15 مجم لكل كجم لمدة يومين ورا بعض."
+      },
+      "wrong_1": {
+        "en": "5 mg/kg is too low for Mebendazole effectiveness against Ancylostoma.",
+        "ar": "5 مجم جرعة قليلة جداً مش هتموت الإنكلستوما."
+      },
+      "wrong_2": {
+        "en": "100 mg/kg is the dose for Mansonil or Niclosamide for tapeworms.",
+        "ar": "100 مجم دي جرعة المانسونيل أو النيكلوزاميد للديدان الشريطية."
+      },
+      "wrong_3": {
+        "en": "200 mg/kg is the dose for Piperazine salts.",
+        "ar": "200 مجم دي جرعة أملاح البيبرازين."
+      }
+    }
+  },
+  {
+    "question": "Which drug and dose are used to treat Tapeworms (Taenia) in canines?",
+    "options": [
+      "Mansonil at 100-150 mg/kg",
+      "Piperazine at 200 mg/kg",
+      "Sulphamethazine at 100 mg/kg",
+      "Citarin at 0.1 ml/kg"
+    ],
+    "answer": "Mansonil at 100-150 mg/kg",
+    "explanation": {
+      "correct": {
+        "en": "Mansonil (Niclosamide) is used at 100-150 mg/kg orally to treat tapeworms like Taenia.",
+        "ar": "المانسونيل بيستخدم بجرعة 100-150 مجم لعلاج الديدان الشريطية زي التينيا."
+      },
+      "wrong_1": {
+        "en": "Piperazine is for Ascarids (roundworms), not tapeworms.",
+        "ar": "البيبرازين للديدان الاسطوانية مش الشريطية."
+      },
+      "wrong_2": {
+        "en": "Sulphamethazine is for protozoa (Coccidia).",
+        "ar": "السلفاميثازين للبروتوزوا (الكوكسيديا)."
+      },
+      "wrong_3": {
+        "en": "Citarin is used for Ascarids and Capillaria.",
+        "ar": "السيارين بيستخدم للديدان الاسطوانية والكابيلاريا."
+      }
+    }
+  },
+  {
+    "question": "What is the normal body temperature of a Wolf?",
+    "options": [
+      "37.5 °C",
+      "38.0 °C",
+      "38.5 °C",
+      "39.0 °C"
+    ],
+    "answer": "38.5 °C",
+    "explanation": {
+      "correct": {
+        "en": "The physiological data table lists the wolf's body temperature as 38.5 °C.",
+        "ar": "درجة حرارة جسم الذئب الطبيعية هي 38.5 درجة مئوية حسب الجدول."
+      },
+      "wrong_1": {
+        "en": "37.5 °C is below the normal range for a wolf.",
+        "ar": "37.5 درجة دي أقل من الطبيعي للذئب."
+      },
+      "wrong_2": {
+        "en": "38.0 °C is the body temperature of a Red fox.",
+        "ar": "38.0 درجة دي حرارة الثعلب الأحمر."
+      },
+      "wrong_3": {
+        "en": "39.0 °C is considered a fever for a wolf based on the provided data.",
+        "ar": "39.0 درجة تعتبر حرارة عالية (حمى) للذئب بناءً على البيانات."
+      }
+    }
+  },
+  {
+    "question": "What is the expected longevity of a Spotted hyena?",
+    "options": [
+      "10-12 years",
+      "13-17 years",
+      "25 years",
+      "40 years"
+    ],
+    "answer": "40 years",
+    "explanation": {
+      "correct": {
+        "en": "The Spotted hyena has a significantly longer lifespan of up to 40 years.",
+        "ar": "الضبع المخطط بيعيش فترة طويلة جداً بتوصل لـ 40 سنة."
+      },
+      "wrong_1": {
+        "en": "10-12 years is the longevity of Red foxes and Maned wolves.",
+        "ar": "10-12 سنة ده عمر الثعلب الأحمر والذئب ذو العرف."
+      },
+      "wrong_2": {
+        "en": "13-17 years is the longevity of a Wolf.",
+        "ar": "13-17 سنة ده متوسط عمر الذئب."
+      },
+      "wrong_3": {
+        "en": "25 years is not the specified longevity for any of the listed species.",
+        "ar": "25 سنة مش هو الرقم المذكور لأي من الأنواع دي."
+      }
+    }
+  },
+  {
+    "question": "Which of the following is NOT a sign of chronic diarrhea/Salmon poisoning?",
+    "options": [
+      "Anemia",
+      "Abortion",
+      "Irregular pulse",
+      "Surgical level of anesthesia"
+    ],
+    "answer": "Surgical level of anesthesia",
+    "explanation": {
+      "correct": {
+        "en": "Surgical anesthesia is a result of chemical restraint, not a symptom of disease.",
+        "ar": "التخدير الجراحي ده نتيجة حقن الأدوية المخدرة، مش عرض مرضي."
+      },
+      "wrong_1": {
+        "en": "Anemia is a prime symptom of the disease described.",
+        "ar": "الأنيميا عرض أساسي للمرض ده."
+      },
+      "wrong_2": {
+        "en": "Abortion of pregnant females is a recorded clinical sign.",
+        "ar": "الإجهاض في الإناث العشار عرض مسجل للمرض."
+      },
+      "wrong_3": {
+        "en": "Irregular pulse rate is a clinical sign of the condition.",
+        "ar": "عدم انتظام ضربات القلب من العلامات الإكلينيكية."
+      }
+    }
+  },
+  {
+    "question": "What is the secondary dose of Sulphamethazine after the initial 100 mg/kg?",
+    "options": [
+      "Full dose (100 mg/kg)",
+      "Half dose (50 mg/kg)",
+      "Double dose (200 mg/kg)",
+      "0.1 ml/kg"
+    ],
+    "answer": "Half dose (50 mg/kg)",
+    "explanation": {
+      "correct": {
+        "en": "The treatment protocol for protozoa is 100 mg/kg followed by a half dose (50 mg/kg) for 5-6 days.",
+        "ar": "بروتوكول السلفا ميثازين هو جرعة 100 مجم في الأول، وبعدين نص الجرعة (50 مجم) لمدة 5-6 أيام."
+      },
+      "wrong_1": {
+        "en": "Giving a full dose repeatedly is not the instruction for Sulphamethazine.",
+        "ar": "تكرار الجرعة كاملة مش هو المكتوب في البروتوكول."
+      },
+      "wrong_2": {
+        "en": "Double dose (200 mg/kg) would be toxic.",
+        "ar": "مضاعفة الجرعة لـ 200 ممكن تسبب تسمم."
+      },
+      "wrong_3": {
+        "en": "0.1 ml/kg is the volume dose for Citarin, not Sulphamethazine.",
+        "ar": "0.1 مل ده جرعة السيارين مش السلفا."
+      }
+    }
+  },
+  {
+    "question": "Ivermectin injection for Capillaria treatment should be administered at what dose?",
+    "options": [
+      "200 mg/kg",
+      "200 µg/kg",
+      "15 mg/kg",
+      "0.1 ml/kg"
+    ],
+    "answer": "200 µg/kg",
+    "explanation": {
+      "correct": {
+        "en": "Ivermectin is dosed at 200 µg/kg (micrograms) subcutaneously.",
+        "ar": "الإيفيرمكتين بيتحقن بجرعة 200 ميكروجرام لكل كجم تحت الجلد."
+      },
+      "wrong_1": {
+        "en": "200 mg/kg is the dose for Piperazine, which is 1000 times higher than Ivermectin's dose.",
+        "ar": "200 مجم دي جرعة البيبرازين، وهي أكبر بـ 1000 مرة من جرعة الإيفيرمكتين."
+      },
+      "wrong_2": {
+        "en": "15 mg/kg is the dose for Mebendazole.",
+        "ar": "15 مجم دي جرعة الميبندازول."
+      },
+      "wrong_3": {
+        "en": "0.1 ml/kg is the dose for Citarin solution.",
+        "ar": "0.1 مل دي جرعة محلول السيارين."
+      }
+    }
+  },
+  {
+    "question": "Which PM lesion is associated with torsion of the liver lobe?",
+    "options": [
+      "Lung hepatization",
+      "Ischemic necrosis of the liver lobe",
+      "Iron deposits in the spleen",
+      "Tracheal obstruction"
+    ],
+    "answer": "Ischemic necrosis of the liver lobe",
+    "explanation": {
+      "correct": {
+        "en": "Torsion of the liver lobe causes the blood supply to be cut off, leading to ischemic necrosis.",
+        "ar": "التواء فص الكبد بيقطع إمداد الدم عنه، وده بيعمل موت في الأنسجة بسبب نقص الأكسجين (Ischemic necrosis)."
+      },
+      "wrong_1": {
+        "en": "Lung hepatization is a sign of pneumonia, not liver torsion.",
+        "ar": "تليف الرئة (Hepatization) علامة للالتهاب الرئوي مش لالتواء الكبد."
+      },
+      "wrong_2": {
+        "en": "Iron deficiency is seen, not iron deposits.",
+        "ar": "الحالات دي بيكون عندها نقص حديد مش ترسبات حديد."
+      },
+      "wrong_3": {
+        "en": "Tracheal obstruction is related to respiratory issues or Capillaria.",
+        "ar": "انسداد القصبة الهوائية ملوش علاقة بالكبد."
+      }
+    }
+  }
+]
