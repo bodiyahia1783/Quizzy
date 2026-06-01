@@ -1,0 +1,982 @@
+[
+  {
+    "question": "Which statement best describes winter dormancy in bears?",
+    "options": [
+      "True hibernation with dropped temperature",
+      "Lethargic state with maintained temperature",
+      "State of continuous urination and defecation",
+      "Complete metabolic shutdown"
+    ],
+    "answer": "Lethargic state with maintained temperature",
+    "explanation": {
+      "correct": {
+        "en": "Bears do not undergo true hibernation; they enter a lethargic 'winter sleep' where body temperature is maintained while metabolic rate decreases.",
+        "ar": "الدببة مش بتدخل في بيات شتوي حقيقي، هي بتدخل في حالة خمول (winter sleep) درجة حرارة الجسم بتفضل ثابتة لكن معدل التمثيل الغذائي بيقل."
+      },
+      "wrong_1": {
+        "en": "True hibernation involves a significant drop in core body temperature, which does not happen in bears.",
+        "ar": "البيات الشتوي الحقيقي بيشمل انخفاض كبير في درجة حرارة الجسم، وده مش بيحصل في الدببة."
+      },
+      "wrong_2": {
+        "en": "Bears specifically do not urinate or defecate during their winter dormancy.",
+        "ar": "الدببة تحديداً مش بتتبول ولا بتتبرز خلال فترة السكون الشتوي."
+      },
+      "wrong_3": {
+        "en": "The metabolic rate decreases, but it does not completely shut down.",
+        "ar": "معدل التمثيل الغذائي بيقل بس مش بيتوقف تماماً."
+      }
+    }
+  },
+  {
+    "question": "During winter sleep, bears are uniquely capable of converting urea into:",
+    "options": [
+      "Utilizable protein",
+      "Stored glucose",
+      "Essential fatty acids",
+      "High-energy ketones"
+    ],
+    "answer": "Utilizable protein",
+    "explanation": {
+      "correct": {
+        "en": "Bears have a unique metabolic pathway to convert accumulated urea back into protein during dormancy.",
+        "ar": "الدببة عندها قدرة فريدة على تحويل اليوريا المتراكمة لبروتين يقدر الجسم يستخدمه تاني وقت السكون."
+      },
+      "wrong_1": {
+        "en": "Urea is processed into protein, not glucose, in dormant bears.",
+        "ar": "اليوريا بتتحول لبروتين مش جلوكوز في الدببة الخاملة."
+      },
+      "wrong_2": {
+        "en": "Fatty acids are not the byproduct of urea conversion.",
+        "ar": "الأحماض الدهنية مش ناتجة عن تحويل اليوريا."
+      },
+      "wrong_3": {
+        "en": "Ketones are produced from fat breakdown, not urea recycling.",
+        "ar": "الكيتونات بتنتج من تكسير الدهون مش من إعادة تدوير اليوريا."
+      }
+    }
+  },
+  {
+    "question": "What is the normal rectal temperature range for all bear species?",
+    "options": [
+      "36.0 - 37.0 °C",
+      "37.5 - 38.0 °C",
+      "38.5 - 39.5 °C",
+      "39.0 - 40.0 °C"
+    ],
+    "answer": "37.5 - 38.0 °C",
+    "explanation": {
+      "correct": {
+        "en": "The physiological standard for rectal temperature in bears is 37.5 to 38 degrees Celsius.",
+        "ar": "درجة الحرارة الطبيعية للدببة هي من 37.5 لـ 38 درجة مئوية."
+      },
+      "wrong_1": {
+        "en": "This range is too low for a healthy bear.",
+        "ar": "المدى ده قليل جداً على دب سليم."
+      },
+      "wrong_2": {
+        "en": "This range is slightly high and closer to domestic ruminant temperatures.",
+        "ar": "المدى ده عالي شوية وقريب من درجات حرارة المجترات."
+      },
+      "wrong_3": {
+        "en": "This would indicate a significant fever in a bear.",
+        "ar": "ده يعتبر حمى شديدة في الدب."
+      }
+    }
+  },
+  {
+    "question": "Which bear species has a gestation period of approximately 245 days?",
+    "options": [
+      "Black bear",
+      "Polar bear",
+      "Brown bear",
+      "Sun bear"
+    ],
+    "answer": "Brown bear",
+    "explanation": {
+      "correct": {
+        "en": "Brown bears specifically have a gestation period recorded around 245 days.",
+        "ar": "الدب البني فترة الحمل عنده بتوصل لـ 245 يوم."
+      },
+      "wrong_1": {
+        "en": "Black bears have a shorter gestation, usually 207-229 days.",
+        "ar": "الدب الأسود فترة حمله أقصر، من 207 لـ 229 يوم."
+      },
+      "wrong_2": {
+        "en": "Polar bears have a gestation of approximately 240 days.",
+        "ar": "الدب القطبي فترة حمله حوالي 240 يوم."
+      },
+      "wrong_3": {
+        "en": "Sun bears have different physiological data not matching 245 days.",
+        "ar": "الدب الشمسي ليه بيانات فسيولوجية مختلفة مش 245 يوم."
+      }
+    }
+  },
+  {
+    "question": "The parturition season for polar bears typically falls between:",
+    "options": [
+      "March and May",
+      "June and August",
+      "September and October",
+      "November and January"
+    ],
+    "answer": "November and January",
+    "explanation": {
+      "correct": {
+        "en": "Polar bears give birth during the winter months, specifically between November and January.",
+        "ar": "موسم الولادة في الدببة القطبية بيبقى في الشتا، بين نوفمبر ويناير."
+      },
+      "wrong_1": {
+        "en": "This is spring, which is not the primary parturition time for polar bears.",
+        "ar": "ده فصل الربيع، مش ده وقت الولادة الأساسي للقطبي."
+      },
+      "wrong_2": {
+        "en": "This is summer, polar bears birth in winter.",
+        "ar": "ده الصيف، والدببة القطبية بتولد في الشتا."
+      },
+      "wrong_3": {
+        "en": "This is autumn, just before the typical birthing season.",
+        "ar": "ده الخريف، قبل موسم الولادة المعتاد مباشرة."
+      }
+    }
+  },
+  {
+    "question": "What is the expected longevity of a Brown bear in captivity?",
+    "options": [
+      "20 - 30 years",
+      "37 - 40 years",
+      "10 - 15 years",
+      "50 - 60 years"
+    ],
+    "answer": "37 - 40 years",
+    "explanation": {
+      "correct": {
+        "en": "In captivity, Brown bears can live significantly longer than in the wild, reaching 37-40 years.",
+        "ar": "في الأسر، الدب البني بيعيش فترة أطول وبيرحم لـ 37-40 سنة."
+      },
+      "wrong_1": {
+        "en": "This is the typical longevity of bears in the wild.",
+        "ar": "ده العمر الافتراضي للدببة في البرية."
+      },
+      "wrong_2": {
+        "en": "This is too short for a captive bear's lifespan.",
+        "ar": "ده عمر قصير جداً على دب في حديقة حيوان."
+      },
+      "wrong_3": {
+        "en": "This is an overestimation of typical bear longevity.",
+        "ar": "ده تقدير مبالغ فيه جداً لعمر الدب."
+      }
+    }
+  },
+  {
+    "question": "Which vein is the most accessible for blood collection on a bear's forelimb?",
+    "options": [
+      "Jugular vein",
+      "Saphenous vein",
+      "Cephalic vein",
+      "Femoral vein"
+    ],
+    "answer": "Cephalic vein",
+    "explanation": {
+      "correct": {
+        "en": "The cephalic vein on the forelimb can be readily traced when compressed, making it ideal for venipuncture.",
+        "ar": "الوريد الرأسي (Cephalic) في الطرف الأمامي ممكن نحدده بسهولة لما نضغط عليه وده بيخليه مثالي لسحب العينات."
+      },
+      "wrong_1": {
+        "en": "The jugular is in the neck and harder to access due to thick skin/hair/fat in bears.",
+        "ar": "الوريد الوداجي في الرقبة وصعب الوصول ليه بسبب الجلد السميك والشعر والدهون."
+      },
+      "wrong_2": {
+        "en": "The saphenous vein is located on the hind limb.",
+        "ar": "وريد السافينوس موجود في الطرف الخلفي."
+      },
+      "wrong_3": {
+        "en": "The femoral vein is deep in the groin and not the primary site for routine tracing.",
+        "ar": "الوريد الفخذي عميق وصعب تتبعه روتينياً."
+      }
+    }
+  },
+  {
+    "question": "Which anesthetic combination is considered unsatisfactory for bears?",
+    "options": [
+      "Phencyclidine",
+      "Chloral hydrate, morphine, and ether",
+      "Ketamine (Vetalar)",
+      "Pentobarbital"
+    ],
+    "answer": "Chloral hydrate, morphine, and ether",
+    "explanation": {
+      "correct": {
+        "en": "Historical records show that Chloral hydrate combined with morphine and ether proved unsatisfactory for bear anesthesia.",
+        "ar": "السجلات بتقول إن خلطة الكلورال هيدرات والمورفين والايثير أثبتت إنها غير مرضية لتخدير الدببة."
+      },
+      "wrong_1": {
+        "en": "Phencyclidine at 2-3 mg/kg is actually reported to give good results.",
+        "ar": "الفينسيكليدين بجرعة 2-3 مجم بيدي نتائج كويسة."
+      },
+      "wrong_2": {
+        "en": "Ketamine is used effectively at surgical levels in some bears.",
+        "ar": "الكيتامين بيستخدم بفعالية في العمليات الجراحية لبعض الدببة."
+      },
+      "wrong_3": {
+        "en": "Pentobarbital can achieve good anesthesia, though it requires IV administration.",
+        "ar": "البنتوباربيتال بيدي تخدير كويس بس بيحتاج حقن وريدي."
+      }
+    }
+  },
+  {
+    "question": "A 125 kg Sun bear requires sedation. What is the appropriate initial dose of Chlorpromazine IM?",
+    "options": [
+      "50 mg",
+      "125 mg",
+      "250 mg",
+      "500 mg"
+    ],
+    "answer": "125 mg",
+    "explanation": {
+      "correct": {
+        "en": "According to clinical data, 125 mg of Chlorpromazine is used for a 125 kg Sun bear (approx 1mg/kg).",
+        "ar": "حسب البيانات الطبية، 125 مجم كلوربرومازين بتستخدم لدب شمسي وزنه 125 كجم (بمعدل 1 مجم/كجم)."
+      },
+      "wrong_1": {
+        "en": "50 mg would be an underdose for a bear of this weight.",
+        "ar": "50 مجم جرعة قليلة جداً على الوزن ده."
+      },
+      "wrong_2": {
+        "en": "250 mg is double the recommended sedation dose for this specific case.",
+        "ar": "250 مجم ضعف الجرعة المطلوبة للهدوء في الحالة دي."
+      },
+      "wrong_3": {
+        "en": "500 mg is far too high for sedation and could be toxic.",
+        "ar": "500 مجم عالية جداً وممكن تسبب تسمم."
+      }
+    }
+  },
+  {
+    "question": "What dose of Phencyclidine IM is recommended for Brown and Polar bears?",
+    "options": [
+      "0.5 - 1 mg/kg",
+      "2 - 3 mg/kg",
+      "5 - 10 mg/kg",
+      "15 - 20 mg/kg"
+    ],
+    "answer": "2 - 3 mg/kg",
+    "explanation": {
+      "correct": {
+        "en": "A dose of 2-3 mg/kg of Phencyclidine IM provides good anesthesia results in large bears.",
+        "ar": "جرعة 2-3 مجم/كجم فينسيكليدين عضل بتدي نتائج تخدير كويسة في الدببة الكبيرة."
+      },
+      "wrong_1": {
+        "en": "This dose is too low to achieve effective anesthesia.",
+        "ar": "الجرعة دي قليلة جداً عشان توصل لتخدير فعال."
+      },
+      "wrong_2": {
+        "en": "This dose range is more typical for Ketamine, not Phencyclidine.",
+        "ar": "المدى ده بيستخدم أكتر مع الكيتامين مش الفينسيكليدين."
+      },
+      "wrong_3": {
+        "en": "15-20 mg/kg is an overdose and highly dangerous.",
+        "ar": "15-20 مجم جرعة زائدة وخطيرة جداً."
+      }
+    }
+  },
+  {
+    "question": "To produce surgical levels of anesthesia in Sun bears using Ketamine (Vetalar), the dose is:",
+    "options": [
+      "2 mg/kg",
+      "5 mg/kg",
+      "10 mg/kg",
+      "20 mg/kg"
+    ],
+    "answer": "10 mg/kg",
+    "explanation": {
+      "correct": {
+        "en": "Surgical anesthesia levels in Sun and Polar bears are achieved with 10 mg/kg of Vetalar (Ketamine).",
+        "ar": "مستويات التخدير الجراحي في الدب الشمسي والقطبي بتتحقق بجرعة 10 مجم/كجم كيتامين."
+      },
+      "wrong_1": {
+        "en": "2 mg/kg is more suitable for Phencyclidine, not surgical Ketamine levels.",
+        "ar": "2 مجم جرعة مناسبة للفينسيكليدين مش للكيتامين الجراحي."
+      },
+      "wrong_2": {
+        "en": "5 mg/kg might provide sedation but not surgical depth.",
+        "ar": "5 مجم ممكن تعمل تهدئة بس مش تخدير جراحي عميق."
+      },
+      "wrong_3": {
+        "en": "20 mg/kg is unnecessarily high for a surgical plane.",
+        "ar": "20 مجم جرعة عالية زيادة عن اللزوم للمستوى الجراحي."
+      }
+    }
+  },
+  {
+    "question": "What is the primary barrier to accurate cardiac and pulmonary auscultation in bears?",
+    "options": [
+      "Small heart size",
+      "Low respiratory rate",
+      "Dense hair coat",
+      "Constant growling"
+    ],
+    "answer": "Dense hair coat",
+    "explanation": {
+      "correct": {
+        "en": "The thick and dense hair coat of bears acts as a significant barrier to hearing heart and lung sounds clearly.",
+        "ar": "غطاء الشعر الكثيف جداً في الدببة بيعتبر عائق كبير لسماع أصوات القلب والرئة بوضوح."
+      },
+      "wrong_1": {
+        "en": "Bears have large hearts proportional to their massive body size.",
+        "ar": "الدببة عندها قلب كبير متناسب مع حجم جسمها الضخم."
+      },
+      "wrong_2": {
+        "en": "While the rate might be low, the physical barrier of the hair is the main problem.",
+        "ar": "حتى لو المعدل بطيء، المشكلة الأساسية هي الحاجز الجسدي اللي هو الشعر."
+      },
+      "wrong_3": {
+        "en": "Under anesthesia/sedation (when exam occurs), growling is not the issue.",
+        "ar": "تحت التخدير (وقت الفحص)، الزمجرة مش بتبقى هي المشكلة."
+      }
+    }
+  },
+  {
+    "question": "Why are newly born bear cubs particularly prone to bronchopneumonia?",
+    "options": [
+      "Congenital heart defects",
+      "Maternal rejection and exposure",
+      "Inherent lack of surfactant",
+      "High susceptibility to Candida"
+    ],
+    "answer": "Maternal rejection and exposure",
+    "explanation": {
+      "correct": {
+        "en": "When a mother rejects a cub, several hours of exposure to cold before discovery lead to respiratory issues like pneumonia.",
+        "ar": "لما الأم ترفض المولود، بيقعد كذا ساعة معرض للبرد قبل ما الحارس يكتشفه، وده بيؤدي لمشاكل تنفسية زي الالتهاب الرئوي."
+      },
+      "wrong_1": {
+        "en": "Congenital defects are not the primary cause of environmental pneumonia described.",
+        "ar": "العيوب الخلقية مش هي السبب الأساسي للالتهاب الرئوي البيئي المذكور."
+      },
+      "wrong_2": {
+        "en": "While newborns are fragile, the text emphasizes exposure due to rejection.",
+        "ar": "رغم إن المواليد ضعيفة، النص بيركز على التعرض للبرد بسبب رفض الأم."
+      },
+      "wrong_3": {
+        "en": "Candida is a fungal issue, not the primary cause of pneumonia in rejected cubs.",
+        "ar": "الكانديدا فطر، مش هي السبب الرئيسي للالتهاب الرئوي في المواليد المرفوضة."
+      }
+    }
+  },
+  {
+    "question": "Which of the following is a clinical sign of pneumonia in a bear cub?",
+    "options": [
+      "Increased appetite",
+      "Snoring respiratory noises",
+      "Excessive defecation",
+      "Clear, dry muzzle"
+    ],
+    "answer": "Snoring respiratory noises",
+    "explanation": {
+      "correct": {
+        "en": "Pneumonia in cubs is characterized by snoring sounds, restlessness, and nasal discharge.",
+        "ar": "الالتهاب الرئوي في الدياسم (صغار الدببة) بيتميز بأصوات شخير تنفسية وقلق وإفرازات أنفية."
+      },
+      "wrong_1": {
+        "en": "Pneumonia usually causes dysphagia and lack of appetite.",
+        "ar": "الالتهاب الرئوي عادة بيعمل صعوبة في البلع وفقدان شهية."
+      },
+      "wrong_2": {
+        "en": "Respiratory disease does not typically cause excessive defecation.",
+        "ar": "أمراض الجهاز التنفسي مش بتعمل إسهال أو تبرز زيادة."
+      },
+      "wrong_3": {
+        "en": "Advanced cases display serous and turbid nasal discharges, not a dry muzzle.",
+        "ar": "الحالات المتقدمة بيبقى فيها إفرازات أنفية عكرة مش خطم جاف."
+      }
+    }
+  },
+  {
+    "question": "What is the typical prognosis for advanced bronchopneumonia in bear cubs?",
+    "options": [
+      "Favorable",
+      "Guarded to Good",
+      "Unfavorable",
+      "Excellent with fluids"
+    ],
+    "answer": "Unfavorable",
+    "explanation": {
+      "correct": {
+        "en": "The text states the prognosis for pneumonia in unprotected, rejected cubs is unfavorable.",
+        "ar": "النص بيقول إن التوقعات (prognosis) للالتهاب الرئوي في المواليد المرفوضة غير مبشرة (unfavorable)."
+      },
+      "wrong_1": {
+        "en": "Favorable means a likely recovery, which is not the case here.",
+        "ar": "Favorable يعني احتمال الشفاء كبير، وده عكس الواقع في الحالة دي."
+      },
+      "wrong_2": {
+        "en": "The condition is severe and usually results in high mortality.",
+        "ar": "الحالة خطيرة وغالباً بتنتهي بنسب نفوق عالية."
+      },
+      "wrong_3": {
+        "en": "Antibiotics are used for 4-5 days, but the prognosis remains poor regardless.",
+        "ar": "المضادات الحيوية بتستخدم 4-5 أيام، بس التوقعات بتفضل وحشة برضه."
+      }
+    }
+  },
+  {
+    "question": "Strangulation of the tongue in a Sun bear is usually caused by:",
+    "options": [
+      "Bacterial infection",
+      "Ingestion of a foreign body",
+      "Vitamin B deficiency",
+      "Self-trauma"
+    ],
+    "answer": "Ingestion of a foreign body",
+    "explanation": {
+      "correct": {
+        "en": "Tongue strangulation in bears is typically caused by ingesting foreign bodies which restrict blood flow.",
+        "ar": "اختناق اللسان في الدببة بيحصل بسبب بلع جسم غريب بيعطل الدورة الدموية فيه."
+      },
+      "wrong_1": {
+        "en": "While infection may follow, the primary cause is mechanical (foreign body).",
+        "ar": "العدوى ممكن تحصل بعدين، بس السبب الأساسي ميكانيكي (جسم غريب)."
+      },
+      "wrong_2": {
+        "en": "Vitamin deficiencies don't cause acute strangulation of the tongue.",
+        "ar": "نقص الفيتامينات مش بيعمل اختناق حاد في اللسان."
+      },
+      "wrong_3": {
+        "en": "Self-trauma results in wounds, not generalized strangulation/swelling of the whole tongue.",
+        "ar": "إصابة الحيوان لنفسه بتعمل جروح، مش اختناق وتورم للسان كله."
+      }
+    }
+  },
+  {
+    "question": "A bear presents with a protruding, flabby, blue-red tongue. What is the most likely diagnosis?",
+    "options": [
+      "Stomatitis",
+      "Strangulation of the tongue",
+      "Glossitis",
+      "Cyanosis due to heart failure"
+    ],
+    "answer": "Strangulation of the tongue",
+    "explanation": {
+      "correct": {
+        "en": "A protruding, flabby, swollen, and red-blue tongue is a classic symptom of tongue strangulation.",
+        "ar": "اللسان المدلدل والمترهل والمتورم ولونه أحمر مزرق ده عرض كلاسيكي لاختناق اللسان."
+      },
+      "wrong_1": {
+        "en": "Stomatitis is inflammation of the mouth, not specific to the tongue's physical strangulation.",
+        "ar": "التهاب الفم (Stomatitis) بيبقى التهاب عام مش اختناق للسان."
+      },
+      "wrong_2": {
+        "en": "Glossitis is inflammation of the tongue, but it doesn't always involve strangulation/flabbiness.",
+        "ar": "التهاب اللسان (Glossitis) مش شرط يكون معاه اختناق وترهل."
+      },
+      "wrong_3": {
+        "en": "While blue color (cyanosis) occurs, the localized swelling and protrusion point to strangulation.",
+        "ar": "رغم إن اللون الأزرق موجود، بس التورم الموضعي والبروز بيأكدوا إنها حالة اختناق لسان."
+      }
+    }
+  },
+  {
+    "question": "Esophageal obstruction (choke) in bears is often caused by chunks of meat and can lead to:",
+    "options": [
+      "Gradual weight loss",
+      "Sudden death",
+      "Chronic vomiting",
+      "Increased vocalization"
+    ],
+    "answer": "Sudden death",
+    "explanation": {
+      "correct": {
+        "en": "Large pieces of food can block the throat completely, leading to sudden death.",
+        "ar": "قطع الأكل الكبيرة ممكن تسد الحلق تماماً وتؤدي للموت المفاجئ."
+      },
+      "wrong_1": {
+        "en": "The condition is acute and leads to death, not gradual weight loss.",
+        "ar": "الحالة حادة جداً وبتؤدي للوفاة، مش فقدان وزن تدريجي."
+      },
+      "wrong_2": {
+        "en": "Choke prevents swallowing and causes respiratory distress, rather than chronic vomiting.",
+        "ar": "الشرقة بتمنع البلع وبتعمل ضيق تنفس، مش قيء مزمن."
+      },
+      "wrong_3": {
+        "en": "The animal is usually unable to vocalize effectively due to the total blockage.",
+        "ar": "الحيوان مش بيعرف يطلع صوت غالباً بسبب الانسداد الكلي."
+      }
+    }
+  },
+  {
+    "question": "Which of these are signs of esophageal choke in a bear?",
+    "options": [
+      "Pale mucous membranes and diarrhea",
+      "Cyanotic conjunctiva and frothy discharge from the nose",
+      "Icteric skin and dark urine",
+      "Normal breathing with excessive thirst"
+    ],
+    "answer": "Cyanotic conjunctiva and frothy discharge from the nose",
+    "explanation": {
+      "correct": {
+        "en": "Cyanosis (due to lack of oxygen) and frothy discharge from the nose/mouth are clinical signs of choke.",
+        "ar": "الزرقة (بسبب نقص الأكسجين) والرغاوي اللي نازلة من المناخير والبق من علامات الشرقة أو انسداد المريء."
+      },
+      "wrong_1": {
+        "en": "Pale membranes suggest anemia, not acute obstruction.",
+        "ar": "الأغشية الباهتة بتدل على أنيميا مش انسداد حاد."
+      },
+      "wrong_2": {
+        "en": "Icterus (jaundice) indicates liver issues, not choke.",
+        "ar": "الصفراء (Icterus) بتدل على مشاكل في الكبد مش شرقة."
+      },
+      "wrong_3": {
+        "en": "Choke causes severe respiratory distress, not normal breathing.",
+        "ar": "الشرقة بتعمل ضيق تنفس شديد، مش تنفس طبيعي."
+      }
+    }
+  },
+  {
+    "question": "What is the primary cause of diarrhea in bears mentioned in the text?",
+    "options": [
+      "Salmonella",
+      "Toxascaris transfuga",
+      "Escherichia coli",
+      "Giardia"
+    ],
+    "answer": "Toxascaris transfuga",
+    "explanation": {
+      "correct": {
+        "en": "Toxascaris transfuga is the specific ascarid mentioned as a cause of diarrhea in bears.",
+        "ar": "توكساسكارس ترانسفيوجا (Toxascaris transfuga) هي الديدان الأسكارس اللي اتذكرت كسبب للإسهال في الدببة."
+      },
+      "wrong_1": {
+        "en": "Salmonellosis is listed as an infectious disease but not the primary cause of parasitic diarrhea.",
+        "ar": "السالمونيلا مرض معدي بس مش هي السبب الأساسي للإسهال الطفيلي المذكور."
+      },
+      "wrong_2": {
+        "en": "E. coli is not highlighted as the main cause in the provided text.",
+        "ar": "الإيكولاي مش مذكورة كسبب رئيسي في النص."
+      },
+      "wrong_3": {
+        "en": "Giardia is a protozoan not mentioned as the primary ascarid-related cause.",
+        "ar": "الجيارديا طفيل أولي ومش هي السبب المرتبط بالأسكارس المذكور."
+      }
+    }
+  },
+  {
+    "question": "Severe pruritus specifically around the eyes and upper lips in a bear suggests:",
+    "options": [
+      "Psoroptes mange",
+      "Trichinella infection",
+      "Aujeszky disease",
+      "Fungal mycosis"
+    ],
+    "answer": "Aujeszky disease",
+    "explanation": {
+      "correct": {
+        "en": "In bears, Aujeszky disease causes intense itching specifically localized around the eyes and lips.",
+        "ar": "في الدببة، مرض أوجيسكي بيعمل هرش شديد جداً ومتركز حوالين العين والشفايف."
+      },
+      "wrong_1": {
+        "en": "Psoroptes mange typically causes pruritus all over the body.",
+        "ar": "جرب السوروبرتس بيعمل هرش في الجسم كله."
+      },
+      "wrong_2": {
+        "en": "Trichinella causes pruritus but is not specifically localized to the eyes/lips in this way.",
+        "ar": "التريكينيلا بتعمل هرش بس مش محدد في منطقة العين والشفايف بالشكل ده."
+      },
+      "wrong_3": {
+        "en": "Mycosis (Candida) starts at the nose but doesn't primarily manifest as intense pruritus like Aujeszky.",
+        "ar": "الفطريات بتبدأ عند المناخير بس مش بتعمل الهرش الرهيب اللي بيعمله الأوجيسكي."
+      }
+    }
+  },
+  {
+    "question": "A bear develops Aujeszky disease. This is most likely due to feeding on:",
+    "options": [
+      "Raw fish",
+      "Unwashed vegetables",
+      "Raw porcine tracheas",
+      "Contaminated water"
+    ],
+    "answer": "Raw porcine tracheas",
+    "explanation": {
+      "correct": {
+        "en": "Feeding raw porcine (pig) tracheas or meat is the route for Aujeszky disease (Pseudorabies) transmission to bears.",
+        "ar": "تغذية الدببة على قصبات هوائية (tracheas) أو لحمة خنزير نية هي السبب في نقل مرض أوجيسكي."
+      },
+      "wrong_1": {
+        "en": "Raw fish may carry other parasites but not Aujeszky virus.",
+        "ar": "السمك الني ممكن ينقل طفيليات تانية بس مش فيروس أوجيسكي."
+      },
+      "wrong_2": {
+        "en": "Vegetables are not the source for this porcine viral disease.",
+        "ar": "الخضروات مش مصدر لمرض فيروسي بيصيب الخنازير."
+      },
+      "wrong_3": {
+        "en": "While water can be a vector for many things, raw pig meat is the specific risk here.",
+        "ar": "المية ممكن تنقل حاجات كتير، بس لحمة الخنزير النية هي الخطر المحدد هنا."
+      }
+    }
+  },
+  {
+    "question": "What is the recommended treatment for Psoroptes mange in bears?",
+    "options": [
+      "Penicillin injection",
+      "Sulfur ointment",
+      "Mebendazole",
+      "Oral Methadone"
+    ],
+    "answer": "Sulfur ointment",
+    "explanation": {
+      "correct": {
+        "en": "Sulfur ointment is the traditional effective treatment mentioned for managing mange in bears.",
+        "ar": "مرهم الكبريت (Sulfur ointment) هو العلاج التقليدي الفعال المذكور لعلاج الجرب في الدببة."
+      },
+      "wrong_1": {
+        "en": "Penicillin is an antibiotic and ineffective against mange mites.",
+        "ar": "البنسلين مضاد حيوي ومش بياثر على حشرات الجرب."
+      },
+      "wrong_2": {
+        "en": "Mebendazole is an anthelmintic for worms, not for external mange.",
+        "ar": "الميبندازول طارد للديدان مش لعلاج الجرب الخارجي."
+      },
+      "wrong_3": {
+        "en": "Methadone is an analgesic/sedative, not a parasitic treatment.",
+        "ar": "الميثادون مسكن ومهدئ مش علاج للطفيليات."
+      }
+    }
+  },
+  {
+    "question": "Which of the following is true regarding Trichinella infection in bears?",
+    "options": [
+      "It causes mild diarrhea",
+      "It can be treated with high-dose penicillin",
+      "Effective treatment is not available",
+      "It only affects the liver"
+    ],
+    "answer": "Effective treatment is not available",
+    "explanation": {
+      "correct": {
+        "en": "The text states that an effective treatment for Trichinella in bears is not available.",
+        "ar": "النص بيوضح إن مفيش علاج فعال متاح لعدوى التريكينيلا في الدببة."
+      },
+      "wrong_1": {
+        "en": "Trichinella primarily affects muscles and causes severe pruritus, not just mild diarrhea.",
+        "ar": "التريكينيلا بتصيب العضلات وبتعمل هرش شديد مش مجرد إسهال بسيط."
+      },
+      "wrong_2": {
+        "en": "Penicillin has no effect on Trichinella (a parasite).",
+        "ar": "البنسلين ملوش أي تأثير على طفيل التريكينيلا."
+      },
+      "wrong_3": {
+        "en": "It is a muscle parasite, not limited to the liver.",
+        "ar": "ده طفيل بيسكن العضلات مش الكبد بس."
+      }
+    }
+  },
+  {
+    "question": "A milk replacer for hand-rearing bear cubs consists of cow's milk diluted with:",
+    "options": [
+      "Orange juice",
+      "Tea",
+      "Coffee",
+      "Honey"
+    ],
+    "answer": "Tea",
+    "explanation": {
+      "correct": {
+        "en": "Cow's milk diluted with tea has been proven useful as a milk replacer for orphan bear cubs.",
+        "ar": "لبن البقر المخفف بالشاي أثبت إنه مفيد كبديل للبن الأم في تربية صغار الدببة اليتامى."
+      },
+      "wrong_1": {
+        "en": "Orange juice is too acidic and not used for dilution.",
+        "ar": "عصير البرتقال حمضي جداً ومش بيستخدم للتخفيف."
+      },
+      "wrong_2": {
+        "en": "Coffee is not appropriate for cub rearing.",
+        "ar": "القهوة مش مناسبة لتربية صغار الدببة."
+      },
+      "wrong_3": {
+        "en": "While honey is sometimes used in diets, tea is the specific diluent mentioned for the milk.",
+        "ar": "رغم إن العسل بيستخدم أحياناً، بس الشاي هو اللي اتذكر لتخفيف اللبن."
+      }
+    }
+  },
+  {
+    "question": "If a bear cub on milk replacer develops diarrhea without affecting general health, you should:",
+    "options": [
+      "Stop all milk feeding",
+      "Enrich milk with cream (milk powder)",
+      "Switch to pure goat milk",
+      "Administer aggressive antibiotics"
+    ],
+    "answer": "Enrich milk with cream (milk powder)",
+    "explanation": {
+      "correct": {
+        "en": "When diarrhea occurs in healthy-looking cubs, enriching the milk with cream/powder helps manage it.",
+        "ar": "لما يحصل إسهال والمولود صحته كويسة، بنزود دسامة اللبن بكريم أو لبن بودرة عشان نعالج الحالة."
+      },
+      "wrong_1": {
+        "en": "Stopping milk would lead to starvation and dehydration.",
+        "ar": "توقيف اللبن هيخلي الحيوان يجوع ويجيله جفاف."
+      },
+      "wrong_2": {
+        "en": "Goat milk isn't specified in the protocol for this situation.",
+        "ar": "لبن الماعز مش مذكور في البروتوكول للحالة دي."
+      },
+      "wrong_3": {
+        "en": "Antibiotics aren't the first step if general health is not affected.",
+        "ar": "المضادات الحيوية مش أول خطوة طالما الصحة العامة كويسة."
+      }
+    }
+  },
+  {
+    "question": "Influenza outbreaks in bears have been linked to which specific virus strain?",
+    "options": [
+      "H1N1 Swine flu",
+      "A2/Hong Kong/1/68-like virus",
+      "H5N1 Avian flu",
+      "B/Victoria lineage"
+    ],
+    "answer": "A2/Hong Kong/1/68-like virus",
+    "explanation": {
+      "correct": {
+        "en": "Influenza outbreaks in bears are specifically attributed to the A2/Hong Kong/1/68-like virus strain.",
+        "ar": "تفشي الإنفلونزا في الدببة بيسببه سلالة فيروس A2/Hong Kong/1/68."
+      },
+      "wrong_1": {
+        "en": "H1N1 is common in humans/pigs but not the specific one mentioned here.",
+        "ar": "H1N1 منتشر في البشر والخنازير بس مش هو اللي اتذكر هنا."
+      },
+      "wrong_2": {
+        "en": "H5N1 is avian flu, which is different from the Hong Kong 1968 strain.",
+        "ar": "H5N1 ده إنفلونزا الطيور وده مختلف عن سلالة هونج كونج 68."
+      },
+      "wrong_3": {
+        "en": "B/Victoria is a different lineage of Influenza B.",
+        "ar": "B/Victoria سلالة تانية خالص من إنفلونزا B."
+      }
+    }
+  },
+  {
+    "question": "The fungal disease Mycosis in bears is caused by Candida albicans and first appears at the:",
+    "options": [
+      "Paws",
+      "Nose",
+      "Ears",
+      "Tail"
+    ],
+    "answer": "Nose",
+    "explanation": {
+      "correct": {
+        "en": "Candida albicans infection (Mycosis) typically manifests its first signs at the nose area in bears.",
+        "ar": "عدوى الكانديدا (الفطريات) في الدببة بتبدأ تظهر علاماتها الأولى في منطقة المناخير."
+      },
+      "wrong_1": {
+        "en": "While it can spread, the paws are not the initial site mentioned.",
+        "ar": "ممكن تنتشر، بس كفوف الرجل مش هي المكان الأول اللي بتبدأ فيه."
+      },
+      "wrong_2": {
+        "en": "The ears are common for mange but not the primary starting point for Candida.",
+        "ar": "الودان مشهورة بالجرب بس مش هي نقطة البداية للكانديدا."
+      },
+      "wrong_3": {
+        "en": "The tail is not the primary site for Candida onset.",
+        "ar": "الديل مش المكان الأساسي لبداية الكانديدا."
+      }
+    }
+  },
+  {
+    "question": "Which protozoal infection is reported sporadically in black bears with no clinical significance?",
+    "options": [
+      "Toxoplasmosis",
+      "Coccidiosis (Eimeria)",
+      "Piroplasmosis",
+      "Babesiosis"
+    ],
+    "answer": "Coccidiosis (Eimeria)",
+    "explanation": {
+      "correct": {
+        "en": "Coccidiosis caused by Eimeria and Isospora is common but usually has no clinical significance in black bears.",
+        "ar": "الكوكسيديا اللي بتسببها الإيميريا والأيزوسبورا منتشرة بس غالباً ملهاش أهمية إكلينيكية في الدب الأسود."
+      },
+      "wrong_1": {
+        "en": "Toxoplasmosis is listed as a serious infectious disease.",
+        "ar": "التوكسوبلازما متصنفة كمرض معدي خطير."
+      },
+      "wrong_2": {
+        "en": "A mild case of Piroplasmosis was reported, but Coccidiosis is the one noted for having 'no clinical significance'.",
+        "ar": "اتسجلت حالة بسيطة من البيرو بلازما، بس الكوكسيديا هي اللي اتقال إن ملهاش أهمية طبية."
+      },
+      "wrong_3": {
+        "en": "Babesiosis is not the primary protozoan highlighted as clinically insignificant.",
+        "ar": "البابيزيا مش هي الطفيل الأساسي اللي اتقال عليه مش مهم إكلينيكياً."
+      }
+    }
+  },
+  {
+    "question": "Ascarid infestation is prevalent in bears. What is necessary for effective treatment?",
+    "options": [
+      "Single dose of ivermectin",
+      "Simultaneous daily cleaning and disinfecting",
+      "High protein diet only",
+      "Blood transfusion"
+    ],
+    "answer": "Simultaneous daily cleaning and disinfecting",
+    "explanation": {
+      "correct": {
+        "en": "Treatment for ascarids is only truly effective if accompanied by strict daily cleaning and disinfection of the environment.",
+        "ar": "علاج الديدان مش بيبقى فعال بجد إلا لو كان معاه تنضيف وتطهير يومي للمكان."
+      },
+      "wrong_1": {
+        "en": "Medication alone often fails due to re-infection from the environment.",
+        "ar": "العلاج لوحده غالباً بيفشل بسبب تكرار العدوى من البيئة المحيطة."
+      },
+      "wrong_2": {
+        "en": "Diet helps general health but doesn't eliminate ascarid eggs from the cage.",
+        "ar": "النظام الغذائي بيساعد الصحة العامة بس مش بيقضي على بيض الديدان في القفص."
+      },
+      "wrong_3": {
+        "en": "Blood transfusion is not a treatment for standard ascarid infestation.",
+        "ar": "نقل الدم مش علاج لعدوى الأسكارس العادية."
+      }
+    }
+  },
+  {
+    "question": "The gestation period for Black bears is typically:",
+    "options": [
+      "150 - 180 days",
+      "207 - 229 days",
+      "240 - 250 days",
+      "280 - 300 days"
+    ],
+    "answer": "207 - 229 days",
+    "explanation": {
+      "correct": {
+        "en": "Black bears have a gestation period ranging from 207 to 229 days.",
+        "ar": "الدب الأسود فترة حمله بتبقى من 207 لـ 229 يوم."
+      },
+      "wrong_1": {
+        "en": "This is too short for a black bear's gestation.",
+        "ar": "فترة قصيرة جداً على حمل الدب الأسود."
+      },
+      "wrong_2": {
+        "en": "This range matches Polar and Brown bears more closely.",
+        "ar": "المدى ده أقرب للدب القطبي والبني."
+      },
+      "wrong_3": {
+        "en": "This is too long and exceeds the typical 6-9 month range for bears.",
+        "ar": "دي فترة طويلة جداً وبتعدي المدى الطبيعي (6-9 شهور)."
+      }
+    }
+  },
+  {
+    "question": "Which of these is a listed viral disease affecting bears?",
+    "options": [
+      "Leptospirosis",
+      "Brucellosis",
+      "Acute canine contagious hepatitis",
+      "Salmonellosis"
+    ],
+    "answer": "Acute canine contagious hepatitis",
+    "explanation": {
+      "correct": {
+        "en": "Acute canine contagious hepatitis is one of the specific viral diseases mentioned in bears.",
+        "ar": "التهاب الكبد المعدي في الكلاب (Canine hepatitis) من الأمراض الفيروسية اللي بتصيب الدببة."
+      },
+      "wrong_1": {
+        "en": "Leptospirosis is a bacterial disease.",
+        "ar": "الليبتوسبيرا مرض بكتيري."
+      },
+      "wrong_2": {
+        "en": "Brucellosis is a bacterial disease.",
+        "ar": "البروسيلا مرض بكتيري."
+      },
+      "wrong_3": {
+        "en": "Salmonellosis is a bacterial disease.",
+        "ar": "السالمونيلا مرض بكتيري."
+      }
+    }
+  },
+  {
+    "question": "The total body weight of adult bears generally ranges from:",
+    "options": [
+      "100 - 200 kg",
+      "250 - 750 kg",
+      "800 - 1200 kg",
+      "50 - 150 kg"
+    ],
+    "answer": "250 - 750 kg",
+    "explanation": {
+      "correct": {
+        "en": "Adult bears are large mammals with weights usually ranging between 250 and 750 kg.",
+        "ar": "الدببة البالغة وزنها بيتراوح غالباً بين 250 و 750 كجم."
+      },
+      "wrong_1": {
+        "en": "This range is more typical for smaller bear species or sub-adults.",
+        "ar": "المدى ده للدببة الصغيرة أو اللي لسه مابلغتش."
+      },
+      "wrong_2": {
+        "en": "While some polar bears reach these weights, the general range is lower.",
+        "ar": "رغم إن بعض الدببة القطبية بتوصل للأوزان دي، بس المدى العام أقل."
+      },
+      "wrong_3": {
+        "en": "This is much too light for typical adult large bear species.",
+        "ar": "ده وزن خفيف جداً على أنواع الدببة الكبيرة البالغة."
+      }
+    }
+  },
+  {
+    "question": "What symptom is common to late summer and fall in bears with skin issues?",
+    "options": [
+      "Hibernation",
+      "Increased rigidity of forelimbs and neck",
+      "Decreased appetite",
+      "Excessive sleeping"
+    ],
+    "answer": "Increased rigidity of forelimbs and neck",
+    "explanation": {
+      "correct": {
+        "en": "Clinical signs like rigidity of the neck and forelimbs are often observed during late summer and fall.",
+        "ar": "علامات زي تيبس الرقبة والأطراف الأمامية بتلاحظ غالباً في أواخر الصيف والخريف."
+      },
+      "wrong_1": {
+        "en": "Hibernation/Dormancy happens in winter, not late summer.",
+        "ar": "البيات أو السكون بيبقى في الشتا مش أواخر الصيف."
+      },
+      "wrong_2": {
+        "en": "Inappetence can happen, but neck rigidity is a specific physical sign noted.",
+        "ar": "فقدان الشهية ممكن يحصل، بس تيبس الرقبة عرض جسدي محدد اتذكر."
+      },
+      "wrong_3": {
+        "en": "Excessive sleeping is a sign of winter dormancy, not a fall skin issue symptom.",
+        "ar": "النوم الكتير ده تبع السكون الشتوي مش من أعراض مشاكل الجلد في الخريف."
+      }
+    }
+  },
+  {
+    "question": "Bears can tolerate high levels of which substance during dormancy?",
+    "options": [
+      "Glucose",
+      "Cholesterol",
+      "Calcium",
+      "Magnesium"
+    ],
+    "answer": "Cholesterol",
+    "explanation": {
+      "correct": {
+        "en": "Bears are known to tolerate remarkably high levels of cholesterol during their winter sleep.",
+        "ar": "الدببة معروف إنها بتتحمل مستويات عالية جداً من الكوليسترول خلال نوم الشتا."
+      },
+      "wrong_1": {
+        "en": "Glucose levels are managed, but high cholesterol is the remarkable tolerance feature.",
+        "ar": "مستويات الجلوكوز بيتم التحكم فيها، بس الكوليسترول هو اللي بيوصل لمستويات عالية وبتحمله."
+      },
+      "wrong_2": {
+        "en": "Calcium levels are not the primary metabolic highlight mentioned.",
+        "ar": "مستويات الكالسيوم مش هي النقطة الأساسية في التمثيل الغذائي المذكورة."
+      },
+      "wrong_3": {
+        "en": "Magnesium is not cited as a substance with high tolerance levels during sleep.",
+        "ar": "الماغنسيوم مش مذكور كمادة الحيوان بيتحملها بنسب عالية وقت النوم."
+      }
+    }
+  }
+]
