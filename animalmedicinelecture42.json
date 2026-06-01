@@ -1,0 +1,702 @@
+[
+  {
+    "question": "Which intermediate host is associated with Giant Kidney Worm in the Maned wolf?",
+    "options": [
+      "Raw fish",
+      "Raw crayfish",
+      "Snail",
+      "Earthworm"
+    ],
+    "answer": "Raw crayfish",
+    "explanation": {
+      "correct": {
+        "en": "Giant Kidney Worm (Dioctophyme renale) is transmitted through the ingestion of raw crayfish which act as intermediate hosts.",
+        "ar": "دودة الكلى العملاقة بتنتقل للذئب ذو العرف لما بياكل استاكوزا المياه العذبة (crayfish) النية لأنها العائل الوسيط."
+      },
+      "wrong_1": {
+        "en": "Eating raw fish is associated with Salmon poisoning, not Kidney worm.",
+        "ar": "أكل السمك الني مرتبط بتسمم السلمون مش بدودة الكلى."
+      },
+      "wrong_2": {
+        "en": "Snails are common intermediate hosts for liver or lung flukes, not Dioctophyme renale.",
+        "ar": "القواقع عائل وسيط لديدان الكبد أو الرئة مش الدودة دي."
+      },
+      "wrong_3": {
+        "en": "Earthworms are not the specified intermediate host in the provided text for this disease.",
+        "ar": "ديدان الأرض مش هي العائل الوسيط المذكور في النص للمرض ده."
+      }
+    }
+  },
+  {
+    "question": "What is the recommended Streptomycin dose for treating Leptospirosis in canines?",
+    "options": [
+      "10 mg/kg BW",
+      "30 mg/kg BW",
+      "50 mg/kg BW",
+      "100 mg/kg BW"
+    ],
+    "answer": "50 mg/kg BW",
+    "explanation": {
+      "correct": {
+        "en": "Streptomycin is injected at 50 mg/kg BW for 3-6 successive days to treat Leptospirosis.",
+        "ar": "الستربتومايسين بيتحقن بجرعة 50 مجم لكل كيلو لمدة 3 لـ 6 أيام ورا بعض لعلاج اللبتوسبيرا."
+      },
+      "wrong_1": {
+        "en": "10 mg/kg BW is the dose for Chloramphenicol or Tetracycline in this context.",
+        "ar": "جرعة الـ 10 مجم دي بتاعة الكلورامفينيكول أو التتراسيكلين."
+      },
+      "wrong_2": {
+        "en": "30 mg/kg BW is the lower range for Chloramphenicol in Salmonellosis, not Leptospirosis.",
+        "ar": "30 مجم دي جرعة الكلورامفينيكول في حالات السالمونيلا مش اللبتوسبيرا."
+      },
+      "wrong_3": {
+        "en": "100 mg/kg BW is excessive and not mentioned for Streptomycin treatment.",
+        "ar": "جرعة 100 مجم دي عالية جداً ومش مذكورة للستربتومايسين."
+      }
+    }
+  },
+  {
+    "question": "The prognosis for Giant Kidney Worm Disease is considered poor because:",
+    "options": [
+      "It causes immediate heart failure",
+      "There is no effective treatment",
+      "It only affects the lungs",
+      "It causes chronic constipation"
+    ],
+    "answer": "There is no effective treatment",
+    "explanation": {
+      "correct": {
+        "en": "The prognosis is poor specifically because there is no known effective medical treatment for the kidney worm.",
+        "ar": "التوقعات للمرض ده سيئة (Poor) عشان مفيش علاج طبي فعال للقضاء على دودة الكلى دي."
+      },
+      "wrong_1": {
+        "en": "Heart failure is not the primary reason for the poor prognosis mentioned.",
+        "ar": "فشل القلب مش هو السبب الأساسي المذكور لسوء الحالة."
+      },
+      "wrong_2": {
+        "en": "The disease affects the urinary system (kidneys), not the lungs.",
+        "ar": "المرض بيصيب الجهاز البولي (الكلى) مش الرئة."
+      },
+      "wrong_3": {
+        "en": "While constipation may occur, it is not the reason the prognosis is poor.",
+        "ar": "الإمساك عرض ممكن يحصل بس مش هو السبب في إن الحالة ميؤوس منها."
+      }
+    }
+  },
+  {
+    "question": "How is Leptospira demonstrated in a laboratory diagnosis?",
+    "options": [
+      "Standard Gram stain",
+      "Dark field microscopy of fresh urine",
+      "Fecal flotation",
+      "Skin scraping"
+    ],
+    "answer": "Dark field microscopy of fresh urine",
+    "explanation": {
+      "correct": {
+        "en": "Leptospira organisms are best demonstrated under a dark field microscope using a fresh urine sample.",
+        "ar": "بكتيريا اللبتوسبيرا بتتشاف أحسن تحت ميكروسكوب الحقل المظلم (Dark field) في عينة بول طازة."
+      },
+      "wrong_1": {
+        "en": "Gram stain is not effective for visualizing Leptospira due to their thin spiral shape.",
+        "ar": "صبغة جرام مش فعالة مع اللبتوسبيرا عشان شكلها الحلزوني الرفيع."
+      },
+      "wrong_2": {
+        "en": "Fecal flotation is used for intestinal parasites, not Leptospirosis.",
+        "ar": "فحص البراز للطفيليات المعوية مش للبتوسبيرا."
+      },
+      "wrong_3": {
+        "en": "Skin scraping is used for mange mites, not urinary infections.",
+        "ar": "كشطة الجلد بنعملها للجرب مش لعدوى البول."
+      }
+    }
+  },
+  {
+    "question": "What is the recommended dose of Mebendazole for Capillaria plica (Bladder worm)?",
+    "options": [
+      "5 mg/kg BW",
+      "15 mg/kg BW",
+      "50 mg/kg BW",
+      "100 mg/kg BW"
+    ],
+    "answer": "15 mg/kg BW",
+    "explanation": {
+      "correct": {
+        "en": "Capillaria plica is treated with Mebendazole at a dose of 15 mg/kg BW.",
+        "ar": "دودة المثانة (Capillaria plica) بتتعالج بالميبندازول بجرعة 15 مجم لكل كيلو."
+      },
+      "wrong_1": {
+        "en": "5 mg/kg BW is insufficient for treating Capillaria.",
+        "ar": "جرعة 5 مجم مش كفاية لعلاج الكابيلاريا."
+      },
+      "wrong_2": {
+        "en": "50 mg/kg BW is the dose for Griseofulvin, not Mebendazole.",
+        "ar": "50 مجم دي جرعة الجريزيوفولفين مش الميبندازول."
+      },
+      "wrong_3": {
+        "en": "100 mg/kg BW is the dose for Mansonil for tapeworms.",
+        "ar": "100 مجم دي جرعة المانسونيل للديدان الشريطية."
+      }
+    }
+  },
+  {
+    "question": "Non-specific dermatitis in flea-infested canines is primarily caused by:",
+    "options": [
+      "Bacterial secondary infection",
+      "Allergens in flea saliva",
+      "Physical movement of the flea",
+      "Vitamin deficiency"
+    ],
+    "answer": "Allergens in flea saliva",
+    "explanation": {
+      "correct": {
+        "en": "Flea saliva contains allergens that cause hypersensitivity, resulting in acute or chronic dermatitis.",
+        "ar": "لعاب البراغيث فيه مواد بتسبب حساسية (allergens) وده اللي بيعمل التهاب الجلد."
+      },
+      "wrong_1": {
+        "en": "Secondary infection may follow, but the primary cause of the dermatitis is hypersensitivity.",
+        "ar": "العدوى الثانوية ممكن تحصل بعدين، بس السبب الأساسي هو الحساسية."
+      },
+      "wrong_2": {
+        "en": "Physical movement causes itching but not the non-specific dermatitis described.",
+        "ar": "حركة البرغوث بتعمل هرش بس مش هي السبب في التهاب الجلد النوعي ده."
+      },
+      "wrong_3": {
+        "en": "Vitamin deficiency is a separate issue and not the direct cause of flea dermatitis.",
+        "ar": "نقص الفيتامينات مش هو السبب المباشر لالتهاب الجلد بسبب البراغيث."
+      }
+    }
+  },
+  {
+    "question": "What concentration of DDT is used for washing or spraying to treat Tick infestation?",
+    "options": [
+      "0.5%",
+      "5%",
+      "10%",
+      "25%"
+    ],
+    "answer": "5%",
+    "explanation": {
+      "correct": {
+        "en": "For ticks, DDT is used at a 5% concentration as a wash, spray, or dust.",
+        "ar": "لعلاج القراد، بنستخدم الـ DDT بتركيز 5% غسول أو رش."
+      },
+      "wrong_1": {
+        "en": "0.5% is the concentration for Malathion or Lindane in some applications.",
+        "ar": "0.5% ده تركيز المالاثيون أو الليندان في بعض الاستخدامات."
+      },
+      "wrong_2": {
+        "en": "10% is the concentration of DDT used for general treatment of Lice.",
+        "ar": "10% ده تركيز الـ DDT المستخدم لعلاج القمل."
+      },
+      "wrong_3": {
+        "en": "25% is the concentration of Benzyl benzoate for mange, not DDT for ticks.",
+        "ar": "25% ده تركيز البنزيل بنزوات للجرب مش الـ DDT للقراد."
+      }
+    }
+  },
+  {
+    "question": "Which concentration of Diazinon is used for dipping or spraying against ectoparasites?",
+    "options": [
+      "0.03%",
+      "0.3%",
+      "3.0%",
+      "5.0%"
+    ],
+    "answer": "0.03%",
+    "explanation": {
+      "correct": {
+        "en": "Diazinon is used as a suspension for spraying or dipping at a concentration of 0.03%.",
+        "ar": "الديازينون بيستخدم للرش أو التغطيس بتركيز 0.03%."
+      },
+      "wrong_1": {
+        "en": "0.3% is 10 times higher than the recommended concentration.",
+        "ar": "0.3% ده تركيز أعلى بـ 10 مرات من المطلوب وممكن يكون سام."
+      },
+      "wrong_2": {
+        "en": "3.0% is far beyond the safe therapeutic limit for Diazinon dip.",
+        "ar": "3% تركيز عالي جداً وخطر في التغطيس."
+      },
+      "wrong_3": {
+        "en": "5.0% is the concentration for Malathion dust, not Diazinon suspension.",
+        "ar": "5% ده تركيز بودرة المالاثيون مش معلق الديازينون."
+      }
+    }
+  },
+  {
+    "question": "To avoid toxicity during mange treatment, what is the maximum body surface area to be treated at one time?",
+    "options": [
+      "10%",
+      "30%",
+      "50%",
+      "75%"
+    ],
+    "answer": "30%",
+    "explanation": {
+      "correct": {
+        "en": "No more than 30% of the body surface should be treated at once to prevent systemic toxicity from topical agents.",
+        "ar": "ممنوع ندهن أكتر من 30% من جسم الحيوان في المرة الواحدة عشان نتجنب حدوث تسمم من امتصاص الدوا."
+      },
+      "wrong_1": {
+        "en": "10% is too small for efficient treatment of extensive lesions.",
+        "ar": "10% مساحة صغيرة جداً فالعلاج هياخد وقت طويل."
+      },
+      "wrong_2": {
+        "en": "50% increases the risk of toxic absorption significantly.",
+        "ar": "50% ده نص الجسم وده بيزود خطر التسمم جداً."
+      },
+      "wrong_3": {
+        "en": "75% is dangerous and likely to cause acute poisoning.",
+        "ar": "75% ده خطر جداً وممكن يموت الحيوان بالتسمم."
+      }
+    }
+  },
+  {
+    "question": "What is the recommended oral dose of Griseofulvin for systemic supportive therapy in mange?",
+    "options": [
+      "15 mg/kg BW",
+      "30 mg/kg BW",
+      "50 mg/kg BW",
+      "100 mg/kg BW"
+    ],
+    "answer": "50 mg/kg BW",
+    "explanation": {
+      "correct": {
+        "en": "Griseofulvin is given orally at 50 mg/kg BW for about four weeks.",
+        "ar": "الجريزيوفولفين بيتاخد بالفم بجرعة 50 مجم لكل كيلو لمدة 4 أسابيع."
+      },
+      "wrong_1": {
+        "en": "15 mg/kg BW is the dose for Mebendazole.",
+        "ar": "15 مجم دي جرعة الميبندازول."
+      },
+      "wrong_2": {
+        "en": "30 mg/kg BW is the dose for Thiophenicol or Chloramphenicol.",
+        "ar": "30 مجم دي جرعة الثيوفينيكول أو الكلورامفينيكول."
+      },
+      "wrong_3": {
+        "en": "100 mg/kg BW is not the standard dose for Griseofulvin in canines.",
+        "ar": "100 مجم مش هي الجرعة القياسية للجريزيوفولفين."
+      }
+    }
+  },
+  {
+    "question": "Haemobartonella canis becomes pathogenic to the host only under which condition?",
+    "options": [
+      "Cold weather",
+      "High protein diet",
+      "Stress conditions",
+      "Excessive exercise"
+    ],
+    "answer": "Stress conditions",
+    "explanation": {
+      "correct": {
+        "en": "Haemobartonella canis is usually non-pathogenic but becomes harmful when the animal is under stress.",
+        "ar": "ميكروب الهيموبارتونيلا موجود عادي بس بيبقى ممرض بس لما الحيوان يتعرض لظروف إجهاد (Stress)."
+      },
+      "wrong_1": {
+        "en": "Cold weather alone does not trigger pathogenicity unless it causes stress.",
+        "ar": "البرد لوحده مش سبب إلا لو عمل إجهاد شديد للحيوان."
+      },
+      "wrong_2": {
+        "en": "A high protein diet is actually beneficial, not a trigger for disease.",
+        "ar": "الأكل العالي في البروتين مفيد مش بيزود المرض."
+      },
+      "wrong_3": {
+        "en": "Normal exercise is fine; only extreme stress triggers the organism.",
+        "ar": "التمارين العادية مفيهاش مشكلة، الإجهاد الشديد بس هو اللي بيطلعه."
+      }
+    }
+  },
+  {
+    "question": "What typical finding is seen in a Giemsa-stained blood film for Haemobartonellosis?",
+    "options": [
+      "Large pear-shaped organisms in pairs",
+      "Coccoid reddish structures on erythrocytes",
+      "Rod-shaped bacteria in the plasma",
+      "White crystals inside leukocytes"
+    ],
+    "answer": "Coccoid reddish structures on erythrocytes",
+    "explanation": {
+      "correct": {
+        "en": "Giemsa stain reveals coccoid, reddish structures situated singly or in chains on the surface of erythrocytes.",
+        "ar": "صبغة جيما بتبين تراكيب كروية (coccoid) لونها محمر موجودة لوحدها أو في سلاسل على سطح كرات الدم الحمراء."
+      },
+      "wrong_1": {
+        "en": "Large pear-shaped organisms in pairs describe Babesia, not Haemobartonella.",
+        "ar": "الأجسام اللي شكل الكمثرى وفي أزواج دي بتاعة البابيزيا."
+      },
+      "wrong_2": {
+        "en": "The organism is attached to the cells, not floating freely as rods in the plasma.",
+        "ar": "الميكروب بيكون لازق في الخلايا مش عايم في البلازما كعصويات."
+      },
+      "wrong_3": {
+        "en": "Haemobartonella affects erythrocytes (RBCs), not leukocytes (WBCs).",
+        "ar": "الهيموبارتونيلا بتصيب كرات الدم الحمراء مش البيضاء."
+      }
+    }
+  },
+  {
+    "question": "What is the specific dose of Thiophenicol for treating Hemolytic anemia in canines?",
+    "options": [
+      "10-20 mg/kg BW",
+      "30-50 mg/kg BW",
+      "60-80 mg/kg BW",
+      "100 mg/kg BW"
+    ],
+    "answer": "30-50 mg/kg BW",
+    "explanation": {
+      "correct": {
+        "en": "Thiophenicol is injected intramuscularly at a dose rate of 30-50 mg/kg BW for treatment.",
+        "ar": "الثيوفينيكول بيتحقن في العضل بجرعة 30-50 مجم لكل كيلو للعلاج."
+      },
+      "wrong_1": {
+        "en": "10-20 mg/kg BW is too low for effective treatment of Haemobartonellosis.",
+        "ar": "10-20 مجم جرعة ضعيفة مش هتقضي على العدوى."
+      },
+      "wrong_2": {
+        "en": "60-80 mg/kg BW is higher than the recommended therapeutic range.",
+        "ar": "60-80 مجم أعلى من الجرعة الموصى بيها."
+      },
+      "wrong_3": {
+        "en": "100 mg/kg BW is not the standard dose for Thiophenicol.",
+        "ar": "100 مجم مش هي الجرعة المذكورة للثيوفينيكول."
+      }
+    }
+  },
+  {
+    "question": "Orphan pups must be bottle-fed at what interval during the first 10 days?",
+    "options": [
+      "Every hour",
+      "Every 2-3 hours",
+      "Every 5-6 hours",
+      "Twice daily"
+    ],
+    "answer": "Every 2-3 hours",
+    "explanation": {
+      "correct": {
+        "en": "Solely hand-reared orphan pups require bottle-feeding every 2-3 hours for the first 10 days of life.",
+        "ar": "الجراوي اليتيمة اللي بتتربى يدوي لازم ترضع بالببرونة كل ساعتين لـ 3 ساعات في أول 10 أيام."
+      },
+      "wrong_1": {
+        "en": "Feeding every hour is excessive and may lead to digestive upset.",
+        "ar": "الرضاعة كل ساعة كتير جداً وممكن تعمل مشاكل في الهضم."
+      },
+      "wrong_2": {
+        "en": "Every 5-6 hours is too long an interval for a neonatal canine.",
+        "ar": "كل 5 لـ 6 ساعات وقت طويل جداً على جرو لسه مولود."
+      },
+      "wrong_3": {
+        "en": "Twice daily is insufficient for neonatal survival.",
+        "ar": "مرتين في اليوم مش كفاية أبداً والجرو ممكن يموت."
+      }
+    }
+  },
+  {
+    "question": "What is the normal protein content range in canine milk?",
+    "options": [
+      "3-4.6%",
+      "6.2-12.2%",
+      "6.3-11.8%",
+      "15-20%"
+    ],
+    "answer": "6.2-12.2%",
+    "explanation": {
+      "correct": {
+        "en": "Canine milk is rich in protein, with a concentration ranging from 6.2% to 12.2%.",
+        "ar": "لبن الكلاب غني بالبروتين ونسبته من 6.2% لـ 12.2%."
+      },
+      "wrong_1": {
+        "en": "3-4.6% is the sugar (lactose) content in canine milk.",
+        "ar": "3-4.6% دي نسبة السكر (اللاكتوز) في لبن الكلاب."
+      },
+      "wrong_2": {
+        "en": "6.3-11.8% is the fat content in canine milk.",
+        "ar": "6.3-11.8% دي نسبة الدهون في لبن الكلاب."
+      },
+      "wrong_3": {
+        "en": "15-20% is higher than the natural protein levels found in canine milk.",
+        "ar": "15-20% أعلى بكتير من نسبة البروتين الطبيعية في اللبن."
+      }
+    }
+  },
+  {
+    "question": "To prevent rickets, UV radiation should be provided how often starting from the 6th day?",
+    "options": [
+      "Once daily",
+      "3 times daily",
+      "Every 2 hours",
+      "Once weekly"
+    ],
+    "answer": "3 times daily",
+    "explanation": {
+      "correct": {
+        "en": "It is advisable to provide UV radiation 3 times daily from the sixth day onwards to prevent rickets.",
+        "ar": "عشان نمنع الكساح (الركتس)، لازم نعرض الجراوي للأشعة فوق البنفسجية 3 مرات في اليوم من اليوم السادس."
+      },
+      "wrong_1": {
+        "en": "Once daily may not provide sufficient Vitamin D activation.",
+        "ar": "مرة واحدة في اليوم ممكن متكونش كفاية لتنشيط فيتامين د."
+      },
+      "wrong_2": {
+        "en": "Every 2 hours is excessive and could cause skin or eye damage.",
+        "ar": "كل ساعتين كتير جداً وممكن يضر الجلد والعين."
+      },
+      "wrong_3": {
+        "en": "Once weekly is far too infrequent to prevent metabolic bone disease.",
+        "ar": "مرة في الأسبوع قليلة جداً ومش هتمنع لين العظام."
+      }
+    }
+  },
+  {
+    "question": "From which day can deworming be initiated in hand-reared pups?",
+    "options": [
+      "1st day",
+      "8th day",
+      "14th day",
+      "30th day"
+    ],
+    "answer": "8th day",
+    "explanation": {
+      "correct": {
+        "en": "In hand-reared orphans, deworming can be initiated as early as the eighth day of life.",
+        "ar": "في الجراوي اللي بتتربى يدوي، ممكن نبدأ نجرعهم ضد الديدان من اليوم التامن."
+      },
+      "wrong_1": {
+        "en": "The 1st day is too early and the pup's system is too fragile.",
+        "ar": "اليوم الأول بدري جداً وجسم الجرو لسه ضعيف."
+      },
+      "wrong_2": {
+        "en": "The 14th day (2 weeks) is the standard for normal pups, but orphans can start at the 8th.",
+        "ar": "اليوم الـ 14 ده المعتاد للجراوي العادية، بس اليتامى ممكن يبدأوا من التامن."
+      },
+      "wrong_3": {
+        "en": "The 30th day is later than the recommended starting point.",
+        "ar": "اليوم الـ 30 متأخر عن المعاد الموصى بيه للبداية."
+      }
+    }
+  },
+  {
+    "question": "What is the recommended dose for Penicillin when combined with Streptomycin for Leptospirosis?",
+    "options": [
+      "5,000 IU/kg BW",
+      "10,000 IU/kg BW",
+      "20,000 IU/kg BW",
+      "50,000 IU/kg BW"
+    ],
+    "answer": "20,000 IU/kg BW",
+    "explanation": {
+      "correct": {
+        "en": "Penicillin is combined with Streptomycin at a dose rate of 20,000 IU/kg BW intramuscularly.",
+        "ar": "البنسلين بيتحقن مع الستربتومايسين بجرعة 20,000 وحدة دولية لكل كيلو."
+      },
+      "wrong_1": {
+        "en": "5,000 IU/kg is sub-therapeutic for systemic Leptospirosis.",
+        "ar": "5,000 وحدة جرعة ضعيفة جداً على اللبتوسبيرا."
+      },
+      "wrong_2": {
+        "en": "10,000 IU/kg is lower than the specifically mentioned protocol dose.",
+        "ar": "10,000 وحدة أقل من الجرعة المذكورة في البروتوكول ده."
+      },
+      "wrong_3": {
+        "en": "50,000 IU/kg is higher than the dose specified in the text.",
+        "ar": "50,000 وحدة أعلى من الجرعة المحددة في النص."
+      }
+    }
+  },
+  {
+    "question": "Which of these is a common clinical sign of Giant Kidney Worm infestation?",
+    "options": [
+      "Dry skin",
+      "Hematuria",
+      "Increased appetite",
+      "Clear urine"
+    ],
+    "answer": "Hematuria",
+    "explanation": {
+      "correct": {
+        "en": "Hematuria (blood in urine) is a key clinical sign of Dioctophyme renale infection.",
+        "ar": "وجود دم في البول (Hematuria) علامة أساسية للإصابة بدودة الكلى."
+      },
+      "wrong_1": {
+        "en": "Dry skin is not a primary sign of kidney worm infestation.",
+        "ar": "جفاف الجلد مش عرض أساسي للدودة دي."
+      },
+      "wrong_2": {
+        "en": "Inappetence (loss of appetite), not increased appetite, is a sign of the disease.",
+        "ar": "الحيوان بيفقد الشهية مش شهيته بتزيد."
+      },
+      "wrong_3": {
+        "en": "Urine would not be clear; it would contain blood and potentially parasite eggs.",
+        "ar": "البول مش هيكون صافي، ده هيكون فيه دم وممكن بويضات الدودة."
+      }
+    }
+  },
+  {
+    "question": "What concentration of Malathion dust is used for lice treatment?",
+    "options": [
+      "0.5%",
+      "2%",
+      "5%",
+      "10%"
+    ],
+    "answer": "5%",
+    "explanation": {
+      "correct": {
+        "en": "Malathion is used as a 5% dust in talc powder for general treatment of lice.",
+        "ar": "المالاثيون بيستخدم كبودرة بتركيز 5% مخلوط ببودرة تلك لعلاج القمل."
+      },
+      "wrong_1": {
+        "en": "0.5% is the concentration for Malathion emulsion, not the dust.",
+        "ar": "0.5% ده تركيز مستحلب المالاثيون مش البودرة."
+      },
+      "wrong_2": {
+        "en": "2% is the concentration of Malathion spray used for treating enclosures.",
+        "ar": "2% ده تركيز رش المالاثيون للمكان (الأقفاص)."
+      },
+      "wrong_3": {
+        "en": "10% is the concentration for DDT dust, not Malathion.",
+        "ar": "10% ده تركيز بودرة الـ DDT مش المالاثيون."
+      }
+    }
+  },
+  {
+    "question": "The 'Red Mange' species in canines refers to:",
+    "options": [
+      "Sarcoptic mange",
+      "Demodectic mange",
+      "Otodectic mange",
+      "Notoedric mange"
+    ],
+    "answer": "Demodectic mange",
+    "explanation": {
+      "correct": {
+        "en": "Demodectic mange is commonly referred to as 'Red mange' in the clinical text.",
+        "ar": "جرب الديموديكس (Demodectic mange) هو اللي بيسموه الجرب الأحمر (Red mange)."
+      },
+      "wrong_1": {
+        "en": "Sarcoptic mange is caused by Sarcoptes scabei and is not called Red mange here.",
+        "ar": "جرب الساركوبتيك ملوش اسم الجرب الأحمر في النص ده."
+      },
+      "wrong_2": {
+        "en": "Otodectic mange refers specifically to ear mites.",
+        "ar": "الأوتوديكتيك ده جرب الودن."
+      },
+      "wrong_3": {
+        "en": "Notoedric mange is more common in cats and not the focus of this canine text.",
+        "ar": "النوع ده مشهور أكتر في القطط مش في موضوعنا هنا."
+      }
+    }
+  },
+  {
+    "question": "What is the agent used in skin scrapings to demonstrate mites under the microscope?",
+    "options": [
+      "10% Hydrochloric acid",
+      "10% Potassium hydroxide",
+      "95% Ethanol",
+      "Normal saline"
+    ],
+    "answer": "10% Potassium hydroxide",
+    "explanation": {
+      "correct": {
+        "en": "10% Potassium hydroxide (KOH) acts as a keratolytic agent to dissolve hair and debris, making mites visible.",
+        "ar": "هيدروكسيد البوتاسيوم 10% (KOH) بيذوب القشور والشعر عشان المايتس (الحشرات) تبان تحت الميكروسكوب."
+      },
+      "wrong_1": {
+        "en": "Hydrochloric acid is too corrosive and not used for skin scrapings.",
+        "ar": "حمض الهيدروكلوريك ملوش علاقة بفحص الجلد."
+      },
+      "wrong_2": {
+        "en": "Ethanol is a fixative/disinfectant and does not dissolve keratin.",
+        "ar": "الإيثانول مطهر مش بيذوب طبقات الجلد عشان نشوف الحشرات."
+      },
+      "wrong_3": {
+        "en": "Normal saline is used for wet mounts but doesn't clear the sample like KOH.",
+        "ar": "المحلول الملح مش هيوضح العينة زي الـ KOH."
+      }
+    }
+  },
+  {
+    "question": "For flea infestation, which concentration of Lindane dust with talc is recommended?",
+    "options": [
+      "0.05%",
+      "0.5%",
+      "5.0%",
+      "25%"
+    ],
+    "answer": "0.5%",
+    "explanation": {
+      "correct": {
+        "en": "A 0.5% Lindane dust with talc powder is used for treating flea infestation.",
+        "ar": "بودرة الليندان بتركيز 0.5% مع بودرة التلك بتستخدم لعلاج البراغيث."
+      },
+      "wrong_1": {
+        "en": "0.05% is the concentration for Lindane used specifically for Ticks.",
+        "ar": "0.05% ده تركيز الليندان المستخدم للقراد."
+      },
+      "wrong_2": {
+        "en": "5.0% is the concentration for DDT or Malathion dust.",
+        "ar": "5% ده تركيز الـ DDT أو المالاثيون."
+      },
+      "wrong_3": {
+        "en": "25% is the concentration for Benzyl benzoate emulsion.",
+        "ar": "25% ده تركيز البنزيل بنزوات."
+      }
+    }
+  },
+  {
+    "question": "How often should Benzyl benzoate 25% emulsion be applied to affected mange parts?",
+    "options": [
+      "Daily",
+      "Every third day",
+      "Once weekly",
+      "Every 12 hours"
+    ],
+    "answer": "Every third day",
+    "explanation": {
+      "correct": {
+        "en": "Benzyl benzoate 25% should be applied thoroughly every third day on the affected parts.",
+        "ar": "البنزيل بنزوات 25% بيتحط على الأماكن المصابة كل تالت يوم."
+      },
+      "wrong_1": {
+        "en": "Daily application could lead to skin irritation or toxicity.",
+        "ar": "الاستخدام اليومي ممكن يعمل تهيج شديد للجلد أو تسمم."
+      },
+      "wrong_2": {
+        "en": "Once weekly is less frequent than the recommended protocol.",
+        "ar": "مرة في الأسبوع مش كفاية حسب البروتوكول المذكور."
+      },
+      "wrong_3": {
+        "en": "Every 12 hours is much too frequent for this compound.",
+        "ar": "كل 12 ساعة كتير جداً وممكن يعمل تسمم."
+      }
+    }
+  },
+  {
+    "question": "What is a characteristic lab finding in the blood of an animal with Haemobartonellosis?",
+    "options": [
+      "Elevated RBC count (10 million)",
+      "Reduced RBC count to 2.4-3.0 million",
+      "Normal hemoglobin levels",
+      "Absence of reticulocytes"
+    ],
+    "answer": "Reduced RBC count to 2.4-3.0 million",
+    "explanation": {
+      "correct": {
+        "en": "A hallmark of the disease is a significant reduction in the erythrocytic count, often to 2.4-3.0 million.",
+        "ar": "من أهم علامات المرض إن عدد كرات الدم الحمراء بيقل جداً ويوصل لـ 2.4 لـ 3 مليون بس."
+      },
+      "wrong_1": {
+        "en": "Elevated RBC count would indicate polycythemia, not hemolytic anemia.",
+        "ar": "زيادة عدد كرات الدم ده عكس اللي بيحصل في الأنيميا التحللية."
+      },
+      "wrong_2": {
+        "en": "Hemoglobin would be reduced due to the destruction of erythrocytes.",
+        "ar": "الهيموجلوبين لازم يقل لأن كرات الدم بتتكسر."
+      },
+      "wrong_3": {
+        "en": "Reticulocytes are usually present as the body attempts to compensate for the anemia.",
+        "ar": "الجسم بيحاول يعوض فبيطلع خلايا دم حمراء غير ناضجة (Reticulocytes)."
+      }
+    }
+  }
+]
