@@ -1,0 +1,563 @@
+
+[
+{
+"question": "Which scientist performed the first successful artificial insemination in a bitch in 1780?",
+"options": [
+"Ivanov",
+"Hoffman",
+"Heape",
+"Spallanzani"
+],
+"answer": "Spallanzani",
+"explanation": {
+"correct": "Spallanzani was an Italian physiologist who got puppies from AI back in 1780 - ده أول واحد عمل تجربة علمية وطلع جراوي بالتلقيح الصناعي",
+"wrong_1": "Ivanov is known for AI in cattle and sheep in Russia - ده بتاع روسيا اللي اشتغل على البقر والغنم",
+"wrong_2": "Hoffman performed the first AI in horses in 1890 - ده بتاع الخيل وسنة 1890 يعني متأخر شوية",
+"wrong_3": "Heape is not mentioned as the 1780 pioneer in the text - ده اسم مش مذكور في تاريخ سنة 1780 اللي في النص"
+}
+},
+{
+"question": "What is the ideal internal temperature of the artificial vagina (AV) for a bull just before collection?",
+"options": [
+"35-37 °C",
+"38-40 °C",
+"48-50 °C",
+"42-45 °C"
+],
+"answer": "42-45 °C",
+"explanation": {
+"correct": "The temperature must be 42-45 °C to simulate natural heat - لازم الحرارة تكون في الرينج ده عشان تحاكي المهبل الطبيعي وتعمل تحفيز",
+"wrong_1": "35-37 °C is too low and will cause failure of ejaculation - الحرارة دي واطية خالص وهتخلي الطلوقة ميعرفش يقذف",
+"wrong_2": "38-40 °C is slightly lower than the required threshold for bull stimulation - لسه باردة شوية على تحفيز القضيب بتاع الثور",
+"wrong_3": "48-50 °C is too high and may cause penile inflammation or kill sperm - الحرارة دي عالية وممكن تعمل التهاب وتموت الحيوانات المنوية"
+}
+},
+{
+"question": "In the artificial vagina, how much pressure should be applied using air inflation?",
+"options": [
+"No air inflation is needed",
+"To the level where 4 fingers can pass",
+"Until the inner sleeve is completely blocked",
+"To the level where 1-2 fingers pass under pressure"
+],
+"answer": "To the level where 1-2 fingers pass under pressure",
+"explanation": {
+"correct": "Pressure should allow 1-2 fingers to pass to ensure proper stimulation - الضغط لازم يسمح بمرور صباعين بالعافية عشان يدي إحساس الضيق بتاع الطبيعي",
+"wrong_1": "Without air inflation, there is no pressure and the bull will refuse - من غير هوا مش هيبقى فيه ضغط والطلوقة هيرفض يكمل",
+"wrong_2": "4 fingers indicates the pressure is too low for ejaculation - كدا واسعة خالص والضغط قليل مش هيحفز القذف",
+"wrong_3": "Blocking the sleeve would prevent the penis from entering and cause injury - كدا مقفولة خالص وممكن تعور القضيب أو تفرقع البطانة"
+}
+},
+{
+"question": "Which part of the bull's reproductive tract is manually massaged in the stripping technique?",
+"options": [
+"Testes and Epididymis",
+"Glans penis and Prepuce",
+"Sigmoid flexure",
+"Ampulla and Seminal vesicles"
+],
+"answer": "Ampulla and Seminal vesicles",
+"explanation": {
+"correct": "Manual massage targets the ampulla and seminal vesicles rectally - المساج بيتعمل للأمبولا والحويصلات المنوية عن طريق الركتوم",
+"wrong_1": "Testes massage does not induce ejaculation in bulls - مساج الخصية ملوش علاقة بجمع السائل المنوي بالطريقة دي",
+"wrong_2": "Massaging the glans is masturbation, not the stripping technique - مساج الحشفة ده حاجة تانية خالص مش هي الستريبنج",
+"wrong_3": "Sigmoid flexure is a structural curve, not a secretory gland - دي مجرد ثنية في القضيب مش هي اللي بتتمسج عشان نطلع سائل"
+}
+},
+{
+"question": "Why is the electroejaculator generally avoided or difficult to use in boars?",
+"options": [
+"Boars have a very short penis",
+"Boars are too aggressive for the probe",
+"Boars have very low sperm concentration",
+"High body fat provides insulation against voltage"
+],
+"answer": "High body fat provides insulation against voltage",
+"explanation": {
+"correct": "Body fat acts as an insulator, requiring dangerously high voltage - دهون جسم الخنزير بتعزل الكهرباء فبنحتاج فولت عالي وده خطر",
+"wrong_1": "Length of the penis is not the primary reason for avoiding electroejaculation - طول القضيب مش هو السبب التقني لمنع استخدام الجهاز هنا",
+"wrong_2": "Aggression can be managed, but the electrical insulation is physiological - العصبية ممكن نسيطر عليها بس العزل بتاع الدهون ده طبيعة جسمه",
+"wrong_3": "Sperm concentration does not affect the use of electrical stimulation - تركيز الحيوانات المنوية ملوش دخل بمرور التيار الكهربي"
+}
+},
+{
+"question": "Which method is considered the most common for semen collection in the boar?",
+"options": [
+"Artificial Vagina (AV)",
+"Electroejaculator",
+"Vaginal recovery",
+"Gloved hand technique"
+],
+"answer": "Gloved hand technique",
+"explanation": {
+"correct": "The gloved hand technique is most common and requires no special equipment - دي أشهر طريقة في الخنازير ومش محتاجة أدوات معقدة غير الإيد",
+"wrong_1": "AV is used but is less common than the gloved hand technique - الـ AV بتستخدم بس مش هي الأكثر شيوعاً زي الإيد",
+"wrong_2": "Electroejaculator is not suitable for boars due to fat insulation - الجهاز ده ماينفعش في الخنازير عشان الدهون بتعزل الكهرباء",
+"wrong_3": "Vaginal recovery is inefficient and risks high contamination - إنك تاخده من المهبل ده صعب وبيلوث العينة جداً"
+}
+},
+{
+"question": "What is the primary function of the filter used in stallion and boar semen collection?",
+"options": [
+"To remove bacteria and debris",
+"To separate the sperm from the urine",
+"To concentrate the spermatozoa",
+"To separate the jelly viscous portion"
+],
+"answer": "To separate the jelly viscous portion",
+"explanation": {
+"correct": "The filter separates the non-spermic jelly part from the fluid - الفلتر وظيفته يشيل الجزء الجيلاتيني اللي مفيهوش حيوانات منوية",
+"wrong_1": "Bacteria are too small to be removed by standard filters - الفلتر ده مش بكتيري عشان يشيل الميكروبات الصغيرة دي",
+"wrong_2": "Urine contamination cannot be fixed by simple filtration - لو فيه بول الفلتر مش هيفصله عن السائل المنوي",
+"wrong_3": "Filters do not concentrate sperm; they remove bulk material - الفلتر مش بيزود التركيز ده بس بيشيل الزيادات الجيلاتينية"
+}
+},
+{
+"question": "Intrauterine insemination of a pregnant animal will likely result in which complication?",
+"options": [
+"Twining",
+"Increased milk production",
+"Prolonged gestation",
+"Abortion"
+],
+"answer": "Abortion",
+"explanation": {
+"correct": "Entering the uterus during pregnancy breaks the seal and causes abortion - لو دخلت الرحم وهي عشار هتسقط الجنين فوراً",
+"wrong_1": "Twinning is a result of multiple ovulations, not AI during pregnancy - التوأم ملوش علاقة بأنك تلقح واحدة حامل أصلاً",
+"wrong_2": "Milk production is unrelated to the traumatic induction of abortion - إنتاج اللبن ملوش دخل باللي هيحصل في الرحم وقتها",
+"wrong_3": "Trauma to the pregnant uterus causes termination, not prolongation - الصدمة للرحم العشار بتنهي الحمل مش بتطوله"
+}
+},
+{
+"question": "When collecting from a bull using an AV, where should the operator's left hand be placed?",
+"options": [
+"Directly on the glans penis",
+"On the base of the scrotum",
+"On the tail of the teaser",
+"On the preputial skin"
+],
+"answer": "On the preputial skin",
+"explanation": {
+"correct": "The hand should only touch the prepuce to avoid pain and premature ejaculation - لازم تمسك الجلد بتاع الجراب بس عشان الطلوقة ميتوجعش أو يقذف بره",
+"wrong_1": "Touching the glans causes pain and the bull may refuse future collection - لو لمست الحشفة الثور هيتوجع وممكن ميرضاش يتجمع منه تاني",
+"wrong_2": "The scrotum is not involved in directing the penis into the AV - كيس الصفن ملوش دور في إنك توجه القضيب لداخل الجهاز",
+"wrong_3": "Holding the teaser's tail does not help in directing the bull's penis - ديل البقرة مش هو اللي هيخليك تتحكم في عملية التوجيه"
+}
+},
+{
+"question": "What is the standard length and diameter of a bull's artificial vagina cylinder?",
+"options": [
+"10-15 cm long, 3 cm diameter",
+"50-60 cm long, 10 cm diameter",
+"15-20 cm long, 5 cm diameter",
+"25-40 cm long, 7 cm diameter"
+],
+"answer": "25-40 cm long, 7 cm diameter",
+"explanation": {
+"correct": "These dimensions (25-40cm length) are standard for bovine AVs - دي المقاسات القياسية للجهاز في البقر عشان يناسب حجم القضيب",
+"wrong_1": "10-15 cm is too short for a bull and more suitable for small species - المقاس ده صغير جداً ميكفيش ثور",
+"wrong_2": "50-60 cm is too large and resembles the size for stallions - الطول ده كبير وبتاع الخيل مش البقر",
+"wrong_3": "15-20 cm long is the size used for rams - المقاس ده بتاع الكباش (الأغنام) مش العجول"
+}
+},
+{
+"question": "What is the recommended temperature for the water bath where semen is kept in the lab before evaluation?",
+"options": [
+"4 °C",
+"37 °C",
+"15 °C",
+"25 °C"
+],
+"answer": "25 °C",
+"explanation": {
+"correct": "Semen is typically placed in a 25 °C water bath to stabilize - بنحطه في حمام مائي حرارته 25 عشان يستقر قبل الفحص",
+"wrong_1": "4 °C is for cold storage and would cause cold shock if immediate - دي حرارة التلاجة وهتعمل صدمة حرارية للسائل لو لسه متجمع",
+"wrong_2": "37 °C is body temperature, but 25 °C is the lab standard for bull processing - 37 دي حرارة الجسم بس المعمل بيفضل 25 للتقييم الأولي",
+"wrong_3": "15 °C is too cool for initial stabilization of fresh semen - حرارة باردة شوية وممكن تأثر على حركة الحيوانات المنوية"
+}
+},
+{
+"question": "In the massage technique, why is the preputial orifice douched with saline before collection?",
+"options": [
+"To stimulate the penis to erect",
+"To act as a lubricant for the hand",
+"To cool down the internal temperature",
+"To remove dirt, smegma, and epithelial cells"
+],
+"answer": "To remove dirt, smegma, and epithelial cells",
+"explanation": {
+"correct": "Cleaning prevents contamination of the watery semen sample - بنغسل عشان نشيل القرف والخلايا الميتة عشان العينة ماتتلوثش",
+"wrong_1": "Saline douching does not induce erection in the massage method - الغسيل بمحلول ملح مش هو اللي هيعمل انتصاب",
+"wrong_2": "Lubrication is for the rectum, not the preputial orifice - التزييت ده بيبقى لإيد الدكتور وهي داخلة الركتوم مش للجراب",
+"wrong_3": "Cooling is unnecessary and might inhibit the bull's response - التبريد مش مطلوب وممكن يخلي الطلوقة ميرضاش يستجيب للمساج"
+}
+},
+{
+"question": "Which stimulation parameter is most crucial for successful semen collection in the boar?",
+"options": [
+"Visual stimulation",
+"Temperature",
+"Lubrication volume",
+"Pressure"
+],
+"answer": "Pressure",
+"explanation": {
+"correct": "Pressure is vital due to the locking mechanism of the boar's glans penis - الضغط هو أهم حاجة عشان قضيب الخنزير محتاج حاجة تمسك فيه زي عنق الرحم",
+"wrong_1": "Visual stimulation helps but pressure is the physical requirement - الرؤية بتساعد بس الضغط هو العامل الجسدي الأساسي للقذف",
+"wrong_2": "Temperature is important but boars respond more to pressure - الحرارة مهمة بس الخنزير 'Pressure dependent' أكتر",
+"wrong_3": "Excessive lubrication can actually reduce the necessary friction/pressure - الزيوت الكتير ممكن تضيع الضغط المطلوب للقذف"
+}
+},
+{
+"question": "What is the voltage required to induce ejaculation in a bull after initial stimulation?",
+"options": [
+"1-2 Volts",
+"5 Volts",
+"50 Volts",
+"15 Volts"
+],
+"answer": "15 Volts",
+"explanation": {
+"correct": "15 Volts is the standard level to trigger ejaculation in bulls - 15 فولت ده المستوى اللي بيخلي الطلوقة يقذف فعلياً",
+"wrong_1": "1-2 Volts is too weak to produce any significant response - فولت ضعيف جداً مش هيعمل أي حاجة",
+"wrong_2": "5 Volts is used for initial stimulation (erection/dribbling), not ejaculation - 5 فولت ده في الأول عشان يعمل انتصاب وينزل سوائل بسيطة",
+"wrong_3": "50 Volts is dangerously high and can cause muscle tetany or injury - ده فولت عالي جداً وممكن يتعب الحيوان أو يكهربه جامد"
+}
+},
+{
+"question": "How much of the inner sleeve of the AV should be lubricated for a bull?",
+"options": [
+"The entire sleeve",
+"The posterior half",
+"Only the valve area",
+"The first third"
+],
+"answer": "The first third",
+"explanation": {
+"correct": "Only the first third is lubricated to avoid contaminating the semen - بنزيت أول تلت بس عشان الزيت ميوصلش للسائل المنوي ويبوظ الفحص",
+"wrong_1": "Lubricating the entire sleeve will contaminate the semen sample - لو زيتنا كله الزيت هيختلط بالسائل المنوي وهيبقى صعب فحصه",
+"wrong_2": "Lubricating the posterior half is useless and causes contamination - تزييت النص الوراني هيخلي الزيت ينزل في أنبوبة الجمع",
+"wrong_3": "Lubricating only the valve area provides no friction reduction for entry - منطقة المحبس دي بره أصلاً مش هتساعد في دخول القضيب"
+}
+},
+{
+"question": "Which fraction of the boar's ejaculate is known as the 'sperm-rich' fraction?",
+"options": [
+"The 1st fraction",
+"The 3rd fraction",
+"The jelly plug",
+"The 2nd fraction"
+],
+"answer": "The 2nd fraction",
+"explanation": {
+"correct": "The 2nd fraction is creamy white and contains the highest concentration of sperm - الجزء التاني هو اللي فيه الخلاصة والحيوانات المنوية كتير",
+"wrong_1": "The 1st fraction is clear fluid with some gel and is usually discarded - الجزء الأول ده مية وشوية جيلاتين وبنرميه غالباً",
+"wrong_2": "The 3rd fraction is clear and contains a high percentage of gel - الجزء التالت بيبقى خفيف ومعظمه جيلاتين",
+"wrong_3": "The jelly plug (gel) contains no sperm and is filtered out - الجيلاتين ده مادة سادة مفيهاش حيوانات منوية خالص"
+}
+},
+{
+"question": "What is 'False Mount' in the context of bull preparation for AI?",
+"options": [
+"Mounting a pregnant cow",
+"Ejaculating into a dummy",
+"Natural mating with a teaser",
+"Mounting without ejaculation"
+],
+"answer": "Mounting without ejaculation",
+"explanation": {
+"correct": "False mount is letting the bull mount but preventing ejaculation to increase libido - إنك تخليه ينط من غير ما يقذف عشان تسخنه وتزود كمية السائل",
+"wrong_1": "Mounting a pregnant cow is irrelevant to the 'false mount' technique - ملهاش علاقة بحمل البقرة دي طريقة تحضير جنسي",
+"wrong_2": "Ejaculating into a dummy is the actual collection process - ده الجمع الفعلي مش مجرد تحضير أو 'تسرية'",
+"wrong_3": "Natural mating is the opposite of what we want in AI preparation - إحنا مش عايزينه يلقح طبيعي إحنا بنجهزه للجمع"
+}
+},
+{
+"question": "What is a major disadvantage of using the massage (stripping) technique in bulls?",
+"options": [
+"It causes immediate permanent infertility",
+"The bull requires general anesthesia",
+"It takes over 2 hours to perform",
+"Semen is watery with low concentration"
+],
+"answer": "Semen is watery with low concentration",
+"explanation": {
+"correct": "Semen from massage is less concentrated because it lacks the full thrust reflex - السائل اللي بيجي بالمساج بيبقى خفيف وتركيزه قليل",
+"wrong_1": "Massage does not cause infertility; it's just a collection method - المساج مش بيبوظ الخصوبة ده مجرد وسيلة جمع",
+"wrong_2": "No anesthesia is needed; it's a simple rectal procedure - مش محتاج بنج ده بيتعمل والحيوان واقف عادي",
+"wrong_3": "The process is relatively quick, not 2 hours - العملية مش بتاخد وقت طويل كدا دي دقايق"
+}
+},
+{
+"question": "Which animal requires a collection bottle equipped with a filter to separate the jelly part?",
+"options": [
+"Ram",
+"Bull",
+"Dog",
+"Stallion"
+],
+"answer": "Stallion",
+"explanation": {
+"correct": "Stallions produce a viscous jelly portion that must be filtered - الحصان بينزل جزء جيلاتيني لازم يتفصل بالفلتر",
+"wrong_1": "Rams have very concentrated, low-volume semen without a jelly fraction - الكباش سائلها مركز وقليل ومفهوش جيلاتين",
+"wrong_2": "Bulls produce a watery/creamy ejaculate without a significant jelly plug - الطلوقة السائل بتاعه ميهوش كتلة جيلاتينية محتاجة فلتر",
+"wrong_3": "Dog semen is collected in fractions but doesn't use the stallion-type filter - الكلب السائل بتاعه مختلف ومش بنستخدم معاه فلتر الخيل"
+}
+},
+{
+"question": "How many cows can typically be inseminated with a single ejaculate from a high-quality bull?",
+"options": [
+"1-2 cows",
+"10-20 cows",
+"1000-2000 cows",
+"100-500 cows"
+],
+"answer": "100-500 cows",
+"explanation": {
+"correct": "One bull ejaculate can be divided into 100-500 doses - القذفة الواحدة ممكن تتقسم وتكفي من 100 لـ 500 بقرة",
+"wrong_1": "1-2 cows is the limit for natural mating, not AI - ده في التلقيح الطبيعي بس لكن الصناعي بنقسم العينة",
+"wrong_2": "10-20 cows is a very low efficiency for modern AI standards - ده عدد قليل جداً بالنسبة لإمكانيات التخفيف في المعمل",
+"wrong_3": "1000-2000 cows from a single ejaculate is biologically over-stretching it - صعب جداً قذفة واحدة تكفي ألفين بقرة إلا في حالات نادرة جداً"
+}
+},
+{
+"question": "In the stallion, from which side should the operator collect semen using an AV?",
+"options": [
+"Right side",
+"Directly from behind",
+"Underneath the belly",
+"Left side"
+],
+"answer": "Left side",
+"explanation": {
+"correct": "Semen is standardly collected from the left side of the mare - العرف والتدريب إن الجمع بيبقى من الناحية الشمال للفرسة",
+"wrong_1": "The right side is not the standard position for stallion collection - الناحية اليمين مش هي المعتادة في تدريب الخيل والجمع",
+"wrong_2": "Standing directly behind is extremely dangerous due to kicking - الوقوف ورا الحصان خطر جداً وممكن ينطرك",
+"wrong_3": "Collecting from underneath is physically impractical and dangerous - وضع مش عملي وبيعرض اللي بيجمع للخطر"
+}
+},
+{
+"question": "What is the simplest and cheapest method for semen collection in dogs?",
+"options": [
+"Artificial Vagina (AV)",
+"Electroejaculator",
+"Condom",
+"Manual Massage (Masturbation)"
+],
+"answer": "Manual Massage (Masturbation)",
+"explanation": {
+"correct": "Manual massage is the most straightforward and cost-effective for dogs - المساج بالإيد (العادة السرية) هي أسهل وأرخص طريقة في الكلاب",
+"wrong_1": "AV can be used but requires specific equipment unlike massage - الجهاز بيستخدم بس محتاج أدوات وتجهيز أكتر",
+"wrong_2": "Electroejaculator is invasive and unnecessary for most dogs - ده جهاز معقد ومش بنحتاجه في الكلاب إلا للضرورة",
+"wrong_3": "Condoms are not a standard or simple method for canine collection - الكوندوم مش هو الوسيلة الأساسية ولا الأسهل في الكلاب"
+}
+},
+{
+"question": "Which of the following is a disadvantage of AI mentioned in the text?",
+"options": [
+"Decreased life span of the bull",
+"Increased risk of coital diseases",
+"Prevention of cross-breeding",
+"Dissemination of genetic abnormalities"
+],
+"answer": "Dissemination of genetic abnormalities",
+"explanation": {
+"correct": "Uncontrolled use of a sire can spread bad genes rapidly - لو الطلوقة فيه عيب وراطي هيتوزع على آلاف الأبقار بسرعة",
+"wrong_1": "AI actually increases the 'useful' life span via frozen semen - التلقيح الصناعي بيخلينا نستخدم السائل حتى بعد ذبح الطلوقة",
+"wrong_2": "AI reduces the risk of coital diseases by adding antibiotics - بالعكس التلقيح الصناعي بيقلل الأمراض التناسلية عشان بنضيف مضادات",
+"wrong_3": "AI allows for rapid dissemination of breeds, not prevention - التلقيح الصناعي بيسهل جداً خلط السلالات وتحسينها"
+}
+},
+{
+"question": "What happens if the water temperature in the bull's AV is too low during collection?",
+"options": [
+"High volume ejaculation",
+"Rupture of the inner sleeve",
+"Contamination with urine",
+"Failure of ejaculation"
+],
+"answer": "Failure of ejaculation",
+"explanation": {
+"correct": "Low temperature fails to stimulate the sensory nerves, causing no ejaculation - الحرارة الواطية مش هتحفز الأعصاب فمش هيحصل قذف",
+"wrong_1": "High volume is achieved with optimal, not low, temperature - الحجم الكويس بيجي لما كل الظروف تكون مثالية",
+"wrong_2": "Rupture is caused by high pressure, not low temperature - القطع بيحصل لو الضغط عالي مش عشان المية باردة",
+"wrong_3": "Urine contamination is more common with electroejaculation or massage - تلوث البول مرتبط أكتر بالكهرباء أو المساج مش بالحرارة"
+}
+},
+{
+"question": "What is the recommended hot water temperature to pour into the AV jacket in winter?",
+"options": [
+"42 °C",
+"45 °C",
+"60 °C",
+"70 °C"
+],
+"answer": "70 °C",
+"explanation": {
+"correct": "In winter, water at 70 °C is used to compensate for heat loss - في الشتا بنحط مية 70 درجة عشان بتبرد بسرعة عبال ما نوصل للـ 45 المطلوبة",
+"wrong_1": "42 °C is the target internal temp, not the starting water temp - دي الحرارة اللي عايزين نوصلها جوا مش اللي بنصبها في الجهاز",
+"wrong_2": "45 °C is the summer starting temperature or target internal temp - دي ممكن تنفع في الصيف لكن في الشتا هتبرد بسرعة جداً",
+"wrong_3": "60 °C is the recommended starting temperature for summer - دي حرارة المية اللي بنصبها في الصيف"
+}
+},
+{
+"question": "In bulls, the AV should be held at what angle to the ground during the mount?",
+"options": [
+"Perfectly horizontal",
+"Vertical (90 degrees)",
+"Varies randomly",
+"45-degree angle with the free end downward"
+],
+"answer": "45-degree angle with the free end downward",
+"explanation": {
+"correct": "Holding it at 45 degrees with the end down facilitates entry and collection - بتمسكها بزاوية 45 والناحية المفتوحة لتحت عشان تسهل الدخول",
+"wrong_1": "Horizontal holding makes it harder for the semen to flow into the tube - لو أفقية السائل مش هيتجمع بسهولة في أنبوبة الجمع",
+"wrong_2": "Vertical is impossible for the bull to mount into - مش هيعرف يدخل القضيب فيها وهي واقفة كدا",
+"wrong_3": "Consistency is key; random angles can cause injury or refusal - الزوايا العشوائية ممكن تكسر القضيب أو توجع الطلوقة"
+}
+},
+{
+"question": "Why is it important to avoid catching the penis directly with the hand during AI collection?",
+"options": [
+"It makes the penis cold",
+"It causes the bull to become too aggressive",
+"It increases the volume of the jelly fraction",
+"It causes pain and rapid retraction"
+],
+"answer": "It causes pain and rapid retraction",
+"explanation": {
+"correct": "Touching the penis directly causes pain and the bull will retract it - لو لمست العضو نفسه هيتوجع وهيكشه لجوا ويرفض يكمل",
+"wrong_1": "Hand contact doesn't significantly change the temperature of the penis - حرارة الإيد مش هي اللي هتسقعه ده الوجع هو المشكلة",
+"wrong_2": "It usually causes refusal or fear rather than increased aggression - غالباً بيخاف أو بيرفض مش بيبقى شرس",
+"wrong_3": "The jelly fraction is a stallion/boar issue, not related to bull handling - موضوع الجيلي ده مش في البقر أصلاً"
+}
+},
+{
+"question": "Which animal species' AV is roughly 20 cm long and 5 cm in diameter?",
+"options": [
+"Bull",
+"Stallion",
+"Boar",
+"Ram"
+],
+"answer": "Ram",
+"explanation": {
+"correct": "The ram's AV is smaller, matching its anatomy (20cm long) - الكبش جهازه صغير عشان يناسب حجمه (20 سم)",
+"wrong_1": "Bull AV is much longer (25-40 cm) - جهاز التور أطول بكتير من كدا",
+"wrong_2": "Stallion AV is very large (40-80 cm) - جهاز الحصان ضخم جداً مقارنة بالمقاس ده",
+"wrong_3": "Boar AV requirements focus more on pressure and have different dimensions - الخنزير جهازه بيبقى ليه مواصفات ضغط خاصة"
+}
+},
+{
+"question": "What is the primary risk of using an electroejaculator on a bull?",
+"options": [
+"Permanent blindness",
+"Increased milk production in female offspring",
+"Reduction in testes size",
+"Animal may lay down or experience muscle tetany"
+],
+"answer": "Animal may lay down or experience muscle tetany",
+"explanation": {
+"correct": "Electrical stimulation can cause the bull to lose balance and fall - الكهرباء ممكن تخلي الطلوقة يقع من طوله أو عضلاته تتشنج",
+"wrong_1": "Blindness is not a side effect of proper electroejaculation - ملهاش علاقة بالنظر خالص",
+"wrong_2": "AI methods don't change the genetic potential for milk production - وسيلة الجمع مش هي اللي بتزود اللبن في البنات",
+"wrong_3": "Testes size is not affected by occasional electrical stimulation - حجم الخصية مش بيتأثر بالجهاز ده"
+}
+},
+{
+"question": "The historical discovery of AI is attributed to an accident involving which animal?",
+"options": [
+"A Russian sheep",
+"An Italian dog",
+"A royal bull",
+"An Arabian horse"
+],
+"answer": "An Arabian horse",
+"explanation": {
+"correct": "Legend says an Arabian woman used a cloth from a served mare to inseminate her own - القصة بتقول إنها بدأت بفرسة عربية من 700 سنة",
+"wrong_1": "Sheep were used by Ivanov later, not in the original 700-year legend - الغنم كان في تجارب تانية متأخرة مش في البداية",
+"wrong_2": "Dogs were used by Spallanzani for the first scientific research - الكلاب كانت أول تجربة علمية موثقة بس مش هي 'الاكتشاف الصدفي'",
+"wrong_3": "Bulls are the main focus today, but the 'accident' story involves horses - البقر هو الأساس دلوقتي بس القصة القديمة كانت على الخيل"
+}
+},
+{
+"question": "What is the purpose of the 'dummy' (phantom) used in AI collection centers?",
+"options": [
+"To provide milk for the bull",
+"To keep the collection site warm",
+"To treat impotence",
+"To act as a safe and stable mounting object"
+],
+"answer": "To act as a safe and stable mounting object",
+"explanation": {
+"correct": "The dummy replaces a live female for safer and more controlled collection - الدامي أو 'التمثال' ده بديل آمن للبقرة عشان الطلوقة ينط عليه",
+"wrong_1": "Bulls don't drink milk from dummies; they are there for mating - الدامي مش مصدر أكل ده وسيلة جمع",
+"wrong_2": "The AV provides the warmth, not the dummy itself - الدامي ملوش علاقة بالتدفئة الجهاز هو اللي دافي",
+"wrong_3": "A dummy is a tool for collection, not a medical treatment for impotence - ده أداة جمع مش علاج للعجز الجنسي"
+}
+},
+{
+"question": "Which of the following is an advantage of AI regarding 'economic use' of bulls?",
+"options": [
+"It makes the bull grow faster",
+"It eliminates the need for any housing",
+"It prevents bulls from needing vaccination",
+"Valuable bulls can be used even after injury or slaughter"
+],
+"answer": "Valuable bulls can be used even after injury or slaughter",
+"explanation": {
+"correct": "Sperm banks allow use of superior genetics long after the bull is gone - بنقدر نستخدم السائل حتى لو الطلوقة اتصاب أو مات",
+"wrong_1": "AI doesn't affect the growth rate of the bull itself - التلقيح الصناعي ملوش دعوة بمعدل نمو الطلوقة",
+"wrong_2": "Housing is still needed for the sires used in AI centers - لسه محتاجين زريبة بس لعدد قليل من الطلائق",
+"wrong_3": "All bulls in AI centers must be strictly vaccinated and healthy - بالعكس الطلائق دي لازم تتحصن كويس جداً"
+}
+},
+{
+"question": "What is the result of using too much lubricant in the bull's AV?",
+"options": [
+"Faster ejaculation",
+"Higher sperm concentration",
+"Better sperm motility",
+"Contamination and difficult examination"
+],
+"answer": "Contamination and difficult examination",
+"explanation": {
+"correct": "Excess lubricant mixes with semen and interferes with lab analysis - الزيت الكتير بيلوث العينة ويخلي فحصها تحت الميكروسكوب صعب",
+"wrong_1": "Lubricant does not speed up the physiological process of ejaculation - الزيت مش بيسرع القذف ده بس بيسهل الدخول",
+"wrong_2": "Concentration is determined by the bull, not the amount of lube - التركيز بيعتمد على الحيوان نفسه مش الزيت",
+"wrong_3": "Lubricants can sometimes be spermicidal or physically block motility - الزيت الكتير ممكن أصلاً يموت الحيوانات أو يعيق حركتها"
+}
+},
+{
+"question": "Why must the collecting tube of an AV be covered with a heavy cloth?",
+"options": [
+"To keep the operator's hands clean",
+"To hide the semen from the bull",
+"To increase the weight of the AV",
+"To protect from breakage, sunrays, and cold shock"
+],
+"answer": "To protect from breakage, sunrays, and cold shock",
+"explanation": {
+"correct": "Protection from light and cold is vital to maintain sperm viability - بنغطيها عشان نحمي السائل من الشمس والبرد والكسر",
+"wrong_1": "The cloth is for the semen's safety, not the operator's hygiene - القماشة عشان الحيوانات المنوية مش عشان إيد الدكتور",
+"wrong_2": "The bull doesn't care about seeing the semen; he's focused on the mount - الطلوقة مش فارق معاه يشوف السائل المنوي",
+"wrong_3": "Weight is not the objective; insulation and protection are - الهدف هو العزل والحماية مش إننا نثقل الجهاز"
+}
+},
+{
+"question": "Which technique is most suitable for a bull that has lost sexual desire (impotentia coeundi)?",
+"options": [
+"Natural Mating",
+"Artificial Vagina (AV)",
+"False Mount",
+"Electroejaculator or Massage"
+],
+"answer": "Electroejaculator or Massage",
+"explanation": {
+"correct": "These methods don't require libido as they stimulate nerves directly - الطرق دي بتنفع لما الطلوقة ميكونش عنده رغبة أو مش قادر ينط",
+"wrong_1": "Natural mating requires high libido and physical ability - التلقيح الطبيعي محتاج رغبة وقدرة جسدية",
+"wrong_2": "AV requires the bull to actively mount and seek the opening - الـ AV محتاجة إن الطلوقة يكون عايز ينط فعلاً",
+"wrong_3": "False mount is a preparation for bulls that ALREADY have libido - التسرية بتتعمل للي عنده رغبة عشان نزودها مش للي فاقدها خالص"
+}
+}
+]
