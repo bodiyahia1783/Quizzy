@@ -1,0 +1,564 @@
+
+[
+{
+"question": "What is the normal duration of the puerperium period in dairy cows?",
+"options": [
+"21-30 days",
+"42-60 days",
+"70-90 days",
+"10-15 days"
+],
+"answer": "42-60 days",
+"explanation": {
+"correct": "In dairy cows, physiological and histological recovery takes 42-60 days - الفترة الطبيعية لرجوع الرحم لحالته الأصلية بتاخد من 42 ل 60 يوم",
+"wrong_1": "21-30 days is too short for complete histological involution - المدة دي غير كافية للرجوع النسيجي والوظيفي الكامل",
+"wrong_2": "70-90 days is an abnormally prolonged period - المدة دي طويلة جدا وتعتبر تأخير في دورة الإنتاج",
+"wrong_3": "10-15 days is only the early lochia phase - دي مجرد مرحلة نزول السوائل الأولى مش نهاية الـ Puerperium"
+}
+},
+{
+"question": "Which of the following is considered a 'Descending Infection' in puerperal affections?",
+"options": [
+"Unhygienic interference during dystocia",
+"Metastasis from mastitis or claw lesions",
+"Contaminated utensils in the stable",
+"Ascending bacteria from the vagina"
+],
+"answer": "Metastasis from mastitis or claw lesions",
+"explanation": {
+"correct": "Descending infection occurs via blood or lymph from focal lesions like mastitis - العدوى النازلة بتيجي عن طريق الدم من مكان تاني مصاب زي الضرع",
+"wrong_1": "Interference during dystocia is an ascending infection - التدخل وقت الولادة بيعتبر عدوى صاعدة من برة لجوة",
+"wrong_2": "Contaminated utensils cause ascending infections - الأدوات الملوثة بتدخل الميكروب من فتحة الحيا يعني عدوى صاعدة",
+"wrong_3": "Ascending bacteria enter through the cervix from the outside - الميكروبات اللي طالعة من المهبل دي صاعدة مش نازلة"
+}
+},
+{
+"question": "Puerperal Intoxication due to saprophytic multiplication is often triggered by:",
+"options": [
+"Uterine inertia and retained lochia",
+"Rapid uterine involution",
+"Immediate closure of the cervix",
+"High systemic resistance"
+],
+"answer": "Uterine inertia and retained lochia",
+"explanation": {
+"correct": "Uterine inertia leads to lochia retention which allows saprophytes to multiply - خمول الرحم بيخلي السوائل تتحبس والميكروبات الرمية تزيد وتعمل سموم",
+"wrong_1": "Rapid involution prevents bacterial growth - الانكماش السريع بيحمي الرحم من نمو البكتيريا",
+"wrong_2": "Closure of the cervix is normal unless lochia is trapped inside - قفل عنق الرحم طبيعي بس المشكلة لو قفل على سوائل ملوثة",
+"wrong_3": "High resistance prevents the onset of intoxication - المناعة العالية بتمنع الميكروبات الرمية إنها تنشط"
+}
+},
+{
+"question": "A vaginal discharge score of '5' in a postpartum cow indicates:",
+"options": [
+"Clear or translucent mucus",
+"Mucopurulent material less than 50%",
+"Watery, reddish-brown color with foul smell",
+"Mucus with flecks of white pus"
+],
+"answer": "Watery, reddish-brown color with foul smell",
+"explanation": {
+"correct": "Score 5 is the most severe, showing fetid watery reddish discharge - رقم 5 يعني الحالة متأخرة جدا والافرازات مائية وريحتها وحشة جدا",
+"wrong_1": "Clear mucus is score 1 - الافرازات الشفافة دي رقم 1 ودي الحالة الطبيعية",
+"wrong_2": "Less than 50% mucopurulent material is score 3 - لو الصديد أقل من 50 في المية يبقى السكور 3",
+"wrong_3": "Mucus with white flecks is score 2 - وجود فتافيت صديد بيضاء ده سكور 2"
+}
+},
+{
+"question": "What clinical sign distinguishes 'General Intoxication' from 'Local Intoxication'?",
+"options": [
+"Presence of lochia",
+"Slight fever only",
+"High fever (40-41 C) and reduced milk yield",
+"Vaginal redness"
+],
+"answer": "High fever (40-41 C) and reduced milk yield",
+"explanation": {
+"correct": "General intoxication involves systemic G.H.D signs like high fever and anorexia - التسمم العام بيبان على الجسم كله بحرارة عالية ونقص لبن واضح",
+"wrong_1": "Lochia is present in both local and general cases - السوائل موجودة في الحالتين مش فرق جوهري",
+"wrong_2": "Slight fever is characteristic of local intoxication - الحرارة البسيطة دي بتاعة الحالة الموضعية بس",
+"wrong_3": "Vaginal redness is a local sign and doesn't indicate systemic toxemia - احمرار المهبل عرض موضعي مش كفاية لتشخيص التسمم العام"
+}
+},
+{
+"question": "In cases of 'Lochiometra' with a closed cervix, what is the recommended treatment to open it?",
+"options": [
+"Oxytocin 100 IU",
+"Stilbesterol 25-50 mg",
+"Calcium Borogluconate 500 ml only",
+"Antibiotics intravenously"
+],
+"answer": "Stilbesterol 25-50 mg",
+"explanation": {
+"correct": "Stilbesterol is used to help open the cervix and stimulate contractions - الاستيلبوستيرول بيستخدم عشان يفتح عنق الرحم المقفول ويحفز الانقباض",
+"wrong_1": "Oxytocin is better used when the cervix is already open - الاكسيتوسين مفعوله ضعيف لو عنق الرحم مقفول تماما",
+"wrong_2": "Calcium helps contraction but doesn't specifically open the cervix like estrogen - الكالسيوم بيقوي العضلة بس مش بيفتح العنق زي الاستروجين",
+"wrong_3": "Antibiotics treat the infection but don't address the physical closure - المضاد الحيوي بيموت البكتيريا بس مش هيفتح الباب المقفول"
+}
+},
+{
+"question": "Which pathogen is specifically associated with 'Puerperal Malignant Gas Edema'?",
+"options": [
+"Bacillus necrophorus",
+"Clostridium septicum",
+"Corynebacterium pyogenes",
+"Streptococcus pyogenes"
+],
+"answer": "Clostridium septicum",
+"explanation": {
+"correct": "Clostridium septicum is an anaerobic gas-forming bacteria causing malignant edema - الميكروب ده لا هوائي وهو اللي بيعمل الوذمة الخبيثة والغازات",
+"wrong_1": "Bacillus necrophorus causes necrosis and diphtheritic inflammation - الميكروب ده بتاع التنكرز والالتهاب الدفتيري",
+"wrong_2": "Corynebacterium pyogenes causes typical purulent metritis - الميكروب ده بيعمل صديد عادي مش وذمة غازية خبيثة",
+"wrong_3": "Streptococcus pyogenes causes general puerperal fever - الاستربت بتعمل حمى نفاس بس مش النوع الغازي"
+}
+},
+{
+"question": "The 'Sawhorse stance' in a postpartum mare is a clinical pathognomonic sign of:",
+"options": [
+"Puerperal Fever",
+"Puerperal Tetanus",
+"Malignant Edema",
+"Puerperal Necrosis",
+"Metritis"
+],
+"answer": "Puerperal Tetanus",
+"explanation": {
+"correct": "Tetanus causes muscle stiffness leading to the characteristic sawhorse stance - التيتانوس بيعمل تيبس في العضلات بيخلي الفرسة واقفة زي خشب النشارة",
+"wrong_1": "Puerperal fever causes exhaustion but not stiff stance - حمى النفاس بتعمل هزال وتعب بس مش تيبس خشب",
+"wrong_2": "Malignant edema causes swelling and gas under the skin - الوذمة الخبيثة بتعمل ورم تحت الجلد مش تيبس مفاصل",
+"wrong_3": "Puerperal necrosis causes localized tissue death and jaundice - التنكرز بيعمل موت في الأنسجة وصفراء مش الوقفة دي"
+}
+},
+{
+"question": "Which of these is a contraindication for administering Calcium during metritis treatment?",
+"options": [
+"Presence of retained placenta",
+"Presence of high fever",
+"Reduced milk yield",
+"Vaginal discharge score 3"
+],
+"answer": "Presence of high fever",
+"explanation": {
+"correct": "Calcium should not be given in cases of fever to avoid cardiac complications - الكالسيوم خطر لو الحرارة عالية عشان ممكن يوقف القلب",
+"wrong_1": "Calcium is actually beneficial for retained placenta to improve tone - الكالسيوم مفيد في حالة احتباس المشيمة عشان يقوي انقباض الرحم",
+"wrong_2": "Reduced milk yield often requires Ca and tonics - نقص اللبن بيحتاج تعويض بالكالسيوم والمقويات",
+"wrong_3": "Score 3 discharge is an indication for treatment including Ca - سكور 3 بيحتاج علاج متكامل والكالسيوم جزء منه لو مفيش سخونية"
+}
+},
+{
+"question": "Bacillus necrophorus (Necrobacillus) infection in the uterus is characterized by:",
+"options": [
+"Clear translucent mucus",
+"Diphtheritic inflammation and characteristic odor",
+"Gas formation and crackling skin",
+"Stiffness of the jaw joints"
+],
+"answer": "Diphtheritic inflammation and characteristic odor",
+"explanation": {
+"correct": "Necrobacillus causes tissue necrosis, diphtheritic membranes, and a foul smell - الميكروب ده بيعمل التهاب دفتيري وريحة وحشة جدا ومميزة",
+"wrong_1": "Clear mucus indicates a healthy recovery - المخاط الشفاف ده علامة صحة مش عدوى تنكرز",
+"wrong_2": "Gas formation is typical for Clostridial malignant edema - الغازات دي بتاعة الكلوستريديا مش النيكروباسيلس",
+"wrong_3": "Jaw stiffness is the main sign of Tetanus - تيبس الفك ده تيتانوس ملوش علاقة بالنيكروباسيلس"
+}
+},
+{
+"question": "What is the recommended dose of Stilbesterol for a cow with a closed cervix and lochia retention?",
+"options": [
+"5-10 mg",
+"25-50 mg",
+"100-200 mg",
+"1-2 mg"
+],
+"answer": "25-50 mg",
+"explanation": {
+"correct": "The standard dose mentioned for inducing cervical opening is 25-50 mg - الجرعة المذكورة لفتح عنق الرحم هي من 25 ل 50 مليجرام",
+"wrong_1": "5-10 mg is too low for a systemic effect on the bovine cervix - الجرعة دي ضعيفة جدا مش هتأثر على عنق رحم البقرة",
+"wrong_2": "100-200 mg is an overdose that may cause cystic ovaries - الجرعة دي عالية جدا وممكن تعمل مشاكل ومبايض متكيسة",
+"wrong_3": "1-2 mg is a dosage for small animals, not cows - دي جرعة قطط وكلاب مش بتاعة أبقار خالص"
+}
+},
+{
+"question": "General Puerperal Fever can progress to formation of metastatic abscesses, a condition known as:",
+"options": [
+"Septicemia",
+"Pyemia",
+"Toxemia",
+"Sapremia"
+],
+"answer": "Pyemia",
+"explanation": {
+"correct": "Pyemia involves bacteria in the blood causing abscesses in different organs - البايميا يعني الميكروب في الدم وعامل خاريج في أماكن تانية في الجسم",
+"wrong_1": "Septicemia is a massive systemic bacterial infection without focal abscesses - السبتيسيميا تسمم دموي عام بس مش شرط تعمل خاريج منتشرة",
+"wrong_2": "Toxemia is the presence of toxins in the blood, not the bacteria itself - التوكسيميا يعني سموم في الدم بس مش بكتيريا حية بتعمل خاريج",
+"wrong_3": "Sapremia is the absorption of products from putrefaction - السابريميا هي امتصاص نواتج التعفن مش خاريج بكتيرية"
+}
+},
+{
+"question": "Which of these is a characteristic of vaginal discharge score '3'?",
+"options": [
+"More than 50% purulent material",
+"Exactly 100% white pus",
+"Less than or equal to 50% mucopurulent material",
+"Clear mucus only"
+],
+"answer": "Less than or equal to 50% mucopurulent material",
+"explanation": {
+"correct": "Score 3 is defined as having 50% or less mucopurulent content - سكور 3 يعني نص الافرازات أو أقل صديدية",
+"wrong_1": "More than 50% is score 4 - لو أكتر من 50 في المية يبقى دخلنا في سكور 4",
+"wrong_2": "100% white pus would definitely be score 4 - الصديد الكامل ده سكور 4 مش 3",
+"wrong_3": "Clear mucus is score 1 - الشفاف ده رقم 1"
+}
+},
+{
+"question": "What is the primary action of Tonophosphan in treating puerperal affections?",
+"options": [
+"Killing anaerobic bacteria",
+"General tonic and phosphorus supplement",
+"Opening the cervix",
+"Local uterine disinfectant"
+],
+"answer": "General tonic and phosphorus supplement",
+"explanation": {
+"correct": "Tonophosphan acts as a tonic to improve metabolism and recovery - التوتوفوسفان ده مقوي عام ومصدر فسفور بيساعد الحيوان يشد حيله",
+"wrong_1": "It has no direct antimicrobial effect - ملوش أي تأثير مباشر على قتل البكتيريا",
+"wrong_2": "Stilbesterol or Estrogens are used to open the cervix - اللي بيفتح العنق هو الاستروجين مش الفسفور",
+"wrong_3": "It is an injectable tonic, not a local disinfectant - ده حقن مقوي مش مطهر موضعي للرحم"
+}
+},
+{
+"question": "Puerperal Tetanus usually occurs within which timeframe after birth?",
+"options": [
+"1-2 days",
+"2-3 weeks",
+"2 months",
+"During labor"
+],
+"answer": "2-3 weeks",
+"explanation": {
+"correct": "Tetanus typically appears 2-3 weeks postpartum due to the incubation period - التيتانوس بيظهر بعد أسبوعين لـ 3 من الولادة عشان فترة الحضانة",
+"wrong_1": "1-2 days is too early for Clostridium tetani - يومين دي مدة قصيرة جدا على ظهور أعراض التيتانوس",
+"wrong_2": "2 months is beyond the typical puerperal danger zone for tetanus - شهرين دي فترة بعيدة جدا والرحم غالبا بيبقى قفل والعدوى انتهت",
+"wrong_3": "Clostridium tetani needs an anaerobic wound environment to produce toxin over time - الميكروب محتاج وقت يفرز سمومه مش بيظهر وقت الولادة"
+}
+},
+{
+"question": "In the treatment of Puerperal Necrosis, which sign indicates liver involvement?",
+"options": [
+"Severe straining",
+"Jaundice",
+"Stiffness of joints",
+"Redness of genitalia"
+],
+"answer": "Jaundice",
+"explanation": {
+"correct": "Liver damage in puerperal necrosis leads to jaundice (yellowing) - إصابة الكبد في حالات التنكرز بتعمل صفراء وده عرض خطير",
+"wrong_1": "Straining is common in all metritis cases - الحزق موجود في كل حالات التهاب الرحم مش الكبد بس",
+"wrong_2": "Joint stiffness is for Tetanus - تيبس المفاصل ده تيتانوس ملوش دعوة بالكبد",
+"wrong_3": "Genitalia redness is a local inflammatory sign - احمرار الحيا ده التهاب موضعي عادي"
+}
+},
+{
+"question": "What is 'Lotagen' used for in puerperal care?",
+"options": [
+"Intravenous electrolyte replacement",
+"Local uterine treatment (external/intrauterine)",
+"Systemic antibiotic injection",
+"Hormonal stimulation of ovaries"
+],
+"answer": "Local uterine treatment (external/intrauterine)",
+"explanation": {
+"correct": "Lotagen is used as a local disinfectant or intrauterine wash - اللوتاجين مطهر موضعي قوي بيستخدم غسول للرحم",
+"wrong_1": "It is not an electrolyte solution - ده مش محلول معالجة جفاف أو أملاح",
+"wrong_2": "Lotagen is for local use, not systemic injection - اللوتاجين موضعي مش حقن في العضل أو الوريد",
+"wrong_3": "It has no hormonal properties - ملوش علاقة بالهرمونات ولا تنشيط المبيض"
+}
+},
+{
+"question": "Malignant gas edema (Cl. septicum) typically enters the uterus through:",
+"options": [
+"Inhalation of spores",
+"Ingestion of contaminated feed",
+"Wounds in the uterus or birth canal",
+"Semen during artificial insemination"
+],
+"answer": "Wounds in the uterus or birth canal",
+"explanation": {
+"correct": "Anaerobic bacteria enter through injuries or wounds during or after birth - الميكروبات اللا هوائية بتدخل عن طريق الجروح اللي بتحصل وقت الولادة",
+"wrong_1": "Puerperal infections are not typically respiratory - عدوى النفاس مش بتيجي عن طريق التنفس",
+"wrong_2": "While spores are in the environment, the uterine entry is direct - حتى لو السبورز في الأكل، دخولها للرحم لازم يكون من جرح",
+"wrong_3": "AI can cause infection, but malignant edema is specifically linked to birth trauma - التلقيح بيعمل عدوى بس الوذمة الخبيثة مرتبطة أكتر بجروح الولادة"
+}
+},
+{
+"question": "Which drug is used specifically to enhance uterine contractions and is mentioned as 'Methergin'?",
+"options": [
+"Methylergometrine",
+"Flunixin Meglumine",
+"Calcium Borogluconate",
+"Oxytocin only"
+],
+"answer": "Methylergometrine",
+"explanation": {
+"correct": "Methergin (Methylergometrine) is a potent drug to enhance uterine tone - الميثيرجين ده دواء قوي جدا عشان يخلي الرحم ينقبض ويطرد اللي فيه",
+"wrong_1": "Flunixin is an anti-inflammatory and analgesic - الفلونيجين ده مسكن ومضاد التهاب مش بتاع انقباضات",
+"wrong_2": "Calcium supports contraction but isn't Methergin - الكالسيوم بيساعد بس مش هو المادة الفعالة للميثيرجين",
+"wrong_3": "Oxytocin is another drug, but Methergin is the specific name for Methylergometrine - الاكسيتوسين حاجة والميثيرجين حاجة تانية خالص"
+}
+},
+{
+"question": "What is the primary cause of Puerperal Intoxication?",
+"options": [
+"Bacterial Septicemia",
+"Saprophytic decomposition of uterine contents",
+"Viral infection of the placenta",
+"Vitamin A deficiency"
+],
+"answer": "Saprophytic decomposition of uterine contents",
+"explanation": {
+"correct": "Toxins are produced by saprophytes multiplying in retained lochia - السموم بتنتج من تعفن محتويات الرحم بواسطة البكتيريا الرمية",
+"wrong_1": "Septicemia is the presence of bacteria in blood, intoxication is about toxins - السبتيسيميا بكتيريا في الدم بس التسمم هنا سببه سموم نواتج التعفن",
+"wrong_2": "Viruses are not the primary cause of puerperal intoxication - الفيروسات مش السبب الرئيسي في تعفن الرحم بعد الولادة",
+"wrong_3": "Deficiency may predispose, but decomposition is the direct cause - النقص ممكن يضعف المناعة بس السبب المباشر هو التعفن"
+}
+},
+{
+"question": "Vaginal discharge score '2' is described as:",
+"options": [
+"Mucus containing flecks of white pus",
+"Pure blood",
+"Clear translucent mucus",
+"Watery brown liquid"
+],
+"answer": "Mucus containing flecks of white pus",
+"explanation": {
+"correct": "Score 2 indicates early infection with visible flecks of pus - سكور 2 يعني بداية صديد بيبان كفتافيت بيضاء في المخاط",
+"wrong_1": "Pure blood is not a specific score in this system - الدم الصافي ملوش رقم محدد في التقسيمة دي",
+"wrong_2": "Clear mucus is score 1 - الشفاف ده سكور 1 يعني سليم",
+"wrong_3": "Watery brown liquid is score 5 - السائل البني المائي ده أخطر حاجة سكور 5"
+}
+},
+{
+"question": "High doses of 'Anti-Tetanic Serum (A.T.S)' are indicated for:",
+"options": [
+"Cows with retained placenta",
+"Mares showing body stiffness and jaw tension",
+"Treatment of simple metritis",
+"Prevention of milk fever"
+],
+"answer": "Mares showing body stiffness and jaw tension",
+"explanation": {
+"correct": "A.T.S is the specific treatment for Tetanus infections - مصل التيتانوس هو العلاج النوعي لحالات التيبس والقفل اللي بيعملها التيتانوس",
+"wrong_1": "Retained placenta needs Oxytocin and antibiotics, not A.T.S - احتباس المشيمة علاجه منشطات رحم ومضادات مش مصل تيتانوس",
+"wrong_2": "Simple metritis is treated with antibiotics - الالتهاب البسيط بيعوز مضاد حيوي بس",
+"wrong_3": "Milk fever requires Calcium - حمى اللبن علاجها كالسيوم ملوش علاقة بمصل التيتانوس"
+}
+},
+{
+"question": "The presence of 'Metastatic abscesses' in organs during puerperal fever is a sign of:",
+"options": [
+"Local infection",
+"General infection (Pyemia)",
+"Sapremia",
+"Normal involution"
+],
+"answer": "General infection (Pyemia)",
+"explanation": {
+"correct": "General infection can lead to bacteria spreading and forming abscesses (Pyemia) - العدوى العامة لما تعمل خاريج في الجسم بنسميها بايميا",
+"wrong_1": "Local infection stays within the genitalia - العدوى الموضعية بتفضل في مكانها في الرحم أو المهبل",
+"wrong_2": "Sapremia is about absorbed toxins from decay, not bacterial abscesses - السابريميا سموم تعفن مش خاريج بكتيرية منتشرة",
+"wrong_3": "Abscesses are never part of normal involution - الخاريج دي مرض مش جزء من رجوع الرحم لطبيعته"
+}
+},
+{
+"question": "In 'General Intoxication', toxins are absorbed from where into the maternal circulation?",
+"options": [
+"Only the ovaries",
+"Endometrial wounds, lacerations, or injuries",
+"The udder only",
+"The digestive tract"
+],
+"answer": "Endometrial wounds, lacerations, or injuries",
+"explanation": {
+"correct": "Absorption occurs through damaged uterine lining or wounds - السموم بتدخل الدم عن طريق الجروح والتهتكات اللي في بطانة الرحم",
+"wrong_1": "Ovaries are not the primary absorption site for these toxins - المبايض مش هي اللي بتمتص السموم دي",
+"wrong_2": "Udder infection (mastitis) is different from puerperal intoxication - التهاب الضرع حاجة وتسمم الرحم حاجة تانية خالص",
+"wrong_3": "The digestive tract absorbs nutrients, not uterine saprophytic toxins - الجهاز الهضمي ملوش دعوة بسموم الرحم المتعفن"
+}
+},
+{
+"question": "What happens to 'Milk Yield' during General Puerperal Intoxication?",
+"options": [
+"Increases significantly",
+"Stays the same",
+"Reduced milk yield",
+"Milk becomes thicker and yellow"
+],
+"answer": "Reduced milk yield",
+"explanation": {
+"correct": "Systemic illness and toxemia lead to a sharp drop in milk production - التسمم العام بيخلي البقرة تقطع لبن أو يقل جدا بسبب المرض",
+"wrong_1": "Illness never increases milk yield - مفيش مرض بيزود اللبن أبدا",
+"wrong_2": "Toxemia always affects production - التسمم لازم يقلل الإنتاج مستحيل يفضل ثابت",
+"wrong_3": "Thick yellow milk is a sign of mastitis, not necessarily puerperal toxemia - اللبن التخين ده علامة التهاب ضرع مش شرط تسمم نفاس"
+}
+},
+{
+"question": "Which of these is a 'Prophylactic measure' to avoid puerperal disturbances?",
+"options": [
+"Wait for infection to appear before acting",
+"Right balanced enriched feeding during pregnancy",
+"Reducing water intake after birth",
+"Using dirty utensils for birth interference"
+],
+"answer": "Right balanced enriched feeding during pregnancy",
+"explanation": {
+"correct": "Proper nutrition ensures high resistance and better uterine health - التغذية المتوازنة وقت العشار بتخلي المناعة قوية وبتحمي من المشاكل",
+"wrong_1": "Waiting for infection is not prophylaxis - الانتظار لحدوث المرض ده مش وقاية خالص",
+"wrong_2": "Water intake should not be reduced - تقليل المية ملوش علاقة بالوقاية وممكن يضر",
+"wrong_3": "Dirty utensils cause infection - الأدوات الملوثة هي اللي بتجيب المرض مش بتمنعه"
+}
+},
+{
+"question": "Which bacteria are mentioned as a 'Predisposing' cause for puerperal infection?",
+"options": [
+"Staph, Strept, E-Coli, and C. pyogens",
+"Brucella abortus only",
+"Listeria monocytogenes only",
+"Salmonella Dublin"
+],
+"answer": "Staph, Strept, E-Coli, and C. pyogens",
+"explanation": {
+"correct": "These are common opportunistic and pathogenic bacteria in the puerperal uterus - دي أشهر الميكروبات اللي بتنتهز الفرصة وتعمل التهاب في الرحم",
+"wrong_1": "Brucella causes abortion but many others cause puerperal metritis - البروسيلا بتسقط بس فيه ميكروبات تانية كتير بتعمل التهاب نفاس",
+"wrong_2": "Listeria is one cause but not the main group mentioned - الليستيريا سبب بس مش هي المجموعة الأساسية المذكورة",
+"wrong_3": "Salmonella is a cause of systemic disease, not the primary puerperal metritis agent - السالمونيلا بتعمل مرض عام مش هي الميكروب الرئيسي في الرحم هنا"
+}
+},
+{
+"question": "Vaginal discharge score '4' is characterized by:",
+"options": [
+"Clear mucus",
+"Less than 50% white pus",
+"More than 50% purulent material",
+"Reddish watery foul smell"
+],
+"answer": "More than 50% purulent material",
+"explanation": {
+"correct": "Score 4 means the majority of the discharge is pus - سكور 4 يعني أكتر من نص الافرازات عبارة عن صديد",
+"wrong_1": "Clear mucus is score 1 - الشفاف سكور 1",
+"wrong_2": "Less than 50% is score 3 - أقل من 50 في المية يبقى سكور 3",
+"wrong_3": "Reddish watery foul smell is score 5 - الريحة الوحشة واللون المحمر ده سكور 5"
+}
+},
+{
+"question": "Clinical metritis is typically diagnosed around which day postpartum?",
+"options": [
+"Day 1",
+"Day 28",
+"Day 60",
+"Day 90"
+],
+"answer": "Day 28",
+"explanation": {
+"correct": "Evaluation of clinical endometritis is often standardized around 28 days postpartum - تشخيص التهاب الرحم الكلينيكي بيتم غالبا عند يوم 28 بعد الولادة",
+"wrong_1": "Day 1 is too early to define clinical endometritis - أول يوم ده لسه لوكيا عادية مش التهاب رحم مزمن",
+"wrong_2": "Day 60 is the end of puerperium - يوم 60 ده نهاية الفترة المفروض يكون خف أصلا",
+"wrong_3": "Day 90 is very late for initial diagnosis - يوم 90 ده تأخير كبير جدا في التشخيص"
+}
+},
+{
+"question": "Metricure is an example of:",
+"options": [
+"Intravenous calcium",
+"Intrauterine antibiotic suspension",
+"Hormonal injection",
+"Oral tonic"
+],
+"answer": "Intrauterine antibiotic suspension",
+"explanation": {
+"correct": "Metricure is a 500 mg intrauterine suspension for treating metritis - المتريكيور ده حقن صديدي بيتحقن جوه الرحم نفسه",
+"wrong_1": "It is not a calcium product - ده مش كالسيوم خالص",
+"wrong_2": "It is an antibiotic, not a hormone - ده مضاد حيوي مش هرمون",
+"wrong_3": "It is for intrauterine use, not oral - ده للرحم مش للشرب"
+}
+},
+{
+"question": "What is the typical body temperature range in a cow with General Puerperal Intoxication?",
+"options": [
+"37-38 C",
+"38.5-39 C",
+"40-41 C",
+"42-45 C"
+],
+"answer": "40-41 C",
+"explanation": {
+"correct": "High fever between 40-41 C is a hallmark of systemic toxemia - الحرارة بتعلى وتوصل ل 40 أو 41 في حالات التسمم العام",
+"wrong_1": "37-38 C is subnormal or low - دي حرارة قليلة أو تحت الطبيعي",
+"wrong_2": "38.5-39 C is the normal range for a cow - دي الحرارة الطبيعية للأبقار مش حالة مرضية",
+"wrong_3": "42-45 C is usually fatal or extremely rare - دي حرارة مميتة وصعب الحيوان يوصل لها ويعيش"
+}
+},
+{
+"question": "Which drug is used as an anti-inflammatory and analgesic in puerperal metritis (Finadyne)?",
+"options": [
+"Flunixin Meglumine",
+"Oxytocin",
+"Penicillin",
+"Stilbesterol"
+],
+"answer": "Flunixin Meglumine",
+"explanation": {
+"correct": "Finadyne (Flunixin Meglumine) is used to reduce inflammation and pain - الفينادين ده مضاد التهاب ومسكن ممتاز في حالات التهاب الرحم",
+"wrong_1": "Oxytocin is for uterine contraction - الاكسيتوسين للانقباض مش للالتهاب",
+"wrong_2": "Penicillin is an antibiotic - البنسلين مضاد حيوي بيموت البكتيريا بس ملوش دعوة بالوجع",
+"wrong_3": "Stilbesterol is an estrogen for cervical opening - الاستيلبوستيرول هرمون مش مسكن آلام"
+}
+},
+{
+"question": "The term 'Lochiometra' refers to:",
+"options": [
+"Normal lochia expulsion",
+"Retention of abnormal lochia due to a closed cervix",
+"Absence of lochia after birth",
+"Infection of the ovaries"
+],
+"answer": "Retention of abnormal lochia due to a closed cervix",
+"explanation": {
+"correct": "Lochiometra is the accumulation of lochia inside the uterus because the cervix closed too early - اللوكيميترا يعني السوائل اتحبست جوه عشان الرحم قفل بدري",
+"wrong_1": "Normal expulsion is what we want, not lochiometra - الخروج الطبيعي ده هو الصح مش المرض",
+"wrong_2": "It is about retention, not total absence of production - هي سوائل موجودة بس محبوسة مش مش موجودة خالص",
+"wrong_3": "It specifically refers to the uterine content, not ovaries - المصطلح ده خاص بمحتوى الرحم ملوش دعوة بالمبايض"
+}
+},
+{
+"question": "Which condition is caused by anaerobic bacteria and leads to edema of the genitalia and udder 2-3 days after birth?",
+"options": [
+"Puerperal Tetanus",
+"Puerperal Malignant Gas Edema",
+"Local Intoxication",
+"Normal Puerperium"
+],
+"answer": "Puerperal Malignant Gas Edema",
+"explanation": {
+"correct": "Malignant gas edema causes rapid swelling/edema due to anaerobic infection - الوذمة الخبيثة بتعمل تورم وغازات في الحيا والضرع بعد الولادة بيومين تلاتة",
+"wrong_1": "Tetanus doesn't cause edema; it causes muscle spasms - التيتانوس بيعمل تشنج مش ورم ووذمة",
+"wrong_2": "Local intoxication has slight fever but not severe malignant edema - التسمم الموضعي بيبقى بسيط مبيعملش ورم خبيث وغازات",
+"wrong_3": "Edema and gas are never normal postpartum - الورم والغازات دي حالة مرضية خطيرة مش طبيعية"
+}
+},
+{
+"question": "What is the recommended treatment for General Puerperal Intoxication?",
+"options": [
+"Local treatment only",
+"Massive doses of antibiotics, tonics, electrolytes, and lochia drainage",
+"Only Stilbesterol without antibiotics",
+"Slaughter the animal immediately"
+],
+"answer": "Massive doses of antibiotics, tonics, electrolytes, and lochia drainage",
+"explanation": {
+"correct": "General intoxication requires aggressive systemic and local support - التسمم العام محتاج علاج مكثف ومحاليل ومضادات وتنظيف للرحم",
+"wrong_1": "Local treatment alone is insufficient for systemic toxemia - العلاج الموضعي مش كفاية لأن السموم وصلت للدم خلاص",
+"wrong_2": "Antibiotics are crucial to stop bacterial multiplication - المضاد الحيوي أساسي عشان يوقف نمو البكتيريا اللي بتفرز سموم",
+"wrong_3": "Many cases can be saved with proper treatment - حالات كتير بتخف بالعلاج الصح فمش لازم تندبح فورا"
+}
+}
+]
