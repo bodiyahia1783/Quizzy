@@ -1,0 +1,563 @@
+
+[
+{
+"question": "What is the normal sperm concentration range for a Ram per ml?",
+"options": [
+"800-1200 Million",
+"150-300 Million",
+"2000-4000 Million",
+"500-600 Million"
+],
+"answer": "2000-4000 Million",
+"explanation": {
+"correct": "Ram has the highest concentration among farm animals - الكبش أعلى تركيز حيوانات المزرعة بيوصل لـ 4000 مليون",
+"wrong_1": "This is the range for a Bull - ده رينج الطلوقة البقري مش الكبش",
+"wrong_2": "This range is for Boars or Stallions - ده تركيز قليل بتاع الخنزير أو الحصان",
+"wrong_3": "This is the concentration for a Camel - ده تركيز الجمل مش الكبش"
+}
+},
+{
+"question": "Which dilution rate is used for counting Bull or Ram sperm in a Hemocytometer?",
+"options": [
+"1:10 to 1:20",
+"1:100 to 1:200",
+"1:500 to 1:1000",
+"1:5 to 1:10"
+],
+"answer": "1:100 to 1:200",
+"explanation": {
+"correct": "High concentration species require higher dilution - عشان تركيزهم عالي بنخففهم كتير من 100 لـ 200 مرة",
+"wrong_1": "This is used for Boar and Stallion semen - التخفيف ده للقليل زي الحصان والخنزير",
+"wrong_2": "This is excessively high and not standard - تخفيف مبالغ فيه ومش موجود في البروتوكول",
+"wrong_3": "This dilution is too low for counting - تخفيف قليل جدا مش هتعرف تعد من الزحمة"
+}
+},
+{
+"question": "The formula for sperm concentration per cubic millimeter using 5 large squares is:",
+"options": [
+"Concentration = 100 ND",
+"Concentration = 50 ND",
+"Concentration = 5 ND / 10",
+"Concentration = N x D"
+],
+"answer": "50 ND",
+"explanation": {
+"correct": "Standard formula where N is count in 80 small squares - دي المعادلة الصح حيث ن هو العدد المباشر في 80 مربع صغير",
+"wrong_1": "Incorrect multiplier - الرقم ده غلط والمعادلة مش هتطلع صح",
+"wrong_2": "Confusing the derivation with the final formula - ده جزء من استنتاج القانون مش القانون النهائي",
+"wrong_3": "Missing the volume factor - ناسي معامل الحجم اللي هو 50"
+}
+},
+{
+"question": "What is the primary origin of sperm abnormalities like 'Pyriform heads'?",
+"options": [
+"Epididymis",
+"Testis",
+"Excurrent ducts",
+"Handling and Freezing"
+],
+"answer": "Testis",
+"explanation": {
+"correct": "Primary abnormalities occur during spermatogenesis in the testis - التشوهات الأولية بتحصل وقت تكوين الحيوان المنوي جوه الخصية",
+"wrong_1": "Epididymis produces secondary abnormalities - البربخ بيعمل تشوهات ثانوية مش أولية",
+"wrong_2": "Secondary abnormalities originate here - القنوات دي مكان التشوهات الثانوية",
+"wrong_3": "This results in tertiary abnormalities - التعامل والتجميد بيعمل تشوهات تالتية"
+}
+},
+{
+"question": "The presence of 'Medusa cells' in a semen sample indicates which condition?",
+"options": [
+"Orchitis",
+"Epididymitis",
+"Normal maturation",
+"Testicular hypoplasia"
+],
+"answer": "Epididymitis",
+"explanation": {
+"correct": "Medusa cells are ciliated epithelial cells indicating epididymal inflammation - خلايا مديوسا بتظهر لما يكون فيه التهاب في البربخ",
+"wrong_1": "Orchitis usually shows high WBCs/RBCs - التهاب الخصية بيظهر فيه خلايا دم أكتر",
+"wrong_2": "Normal semen should be free from pathological cells - العينة الطبيعية لازم تكون خالية من الخلايا دي",
+"wrong_3": "Hypoplasia reduces count but doesn't specifically produce Medusa cells - الضمور بيقلل العدد بس مش بيطلع مديوسا"
+}
+},
+{
+"question": "Which stain is specifically used to examine protoplasmic droplets?",
+"options": [
+"Giemsa stain",
+"Feulgen stain",
+"Opal blue stain",
+"Alkaline methyl violet"
+],
+"answer": "Opal blue stain",
+"explanation": {
+"correct": "Also known as Indian Ink, used for droplets - ده صبغة الأوبال بلو أو الحبر الهندي وعشان النقط البروتوبلازمية",
+"wrong_1": "Giemsa is for the Acrosome - جيمسا عشان الأكروسوم",
+"wrong_2": "Feulgen is for the nucleus - فلوجين عشان النواة",
+"wrong_3": "Used for general morphology - دي للمورفولوجي العام مش مخصصة للدروبلتس"
+}
+},
+{
+"question": "A Catalase number of 450 in a bull semen sample indicates:",
+"options": [
+"Good quality semen",
+"Suspicious sample",
+"Polluted or bad sample",
+"Highly fertile sample"
+],
+"answer": "Polluted or bad sample",
+"explanation": {
+"correct": "Anything above 400 is rejected due to pollution or infection - أي رقم فوق 400 مرفوض عشان تلوث أو صديد",
+"wrong_1": "Good semen has a number less than 300 - الكويس بيبقى أقل من 300",
+"wrong_2": "Suspicious samples are between 300-400 - الشك بيبقى من 300 لـ 400",
+"wrong_3": "High catalase indicates infection, not fertility - الكاتاليز العالي يعني عدوى مش خصوبة"
+}
+},
+{
+"question": "In the Methylene Blue Reduction Test, a shorter reduction time means:",
+"options": [
+"Low metabolic activity",
+"High sperm concentration and activity",
+"Presence of dead spermatozoa",
+"Low dehydrogenase enzyme"
+],
+"answer": "High sperm concentration and activity",
+"explanation": {
+"correct": "Faster decolorization indicates vigorous metabolism - كل ما اللون يختفي أسرع يبقى النشاط عالي والعدد كبير",
+"wrong_1": "Low activity would increase the time - النشاط القليل بيطول الوقت مش بيقصره",
+"wrong_2": "Dead sperm do not reduce methylene blue - الحيوانات الميتة مش بتغير اللون أصلا",
+"wrong_3": "Dehydrogenase is high in active samples - الإنزيم بيبقى عالي في العينات النشطة"
+}
+},
+{
+"question": "What is the normal sperm concentration for a Stallion?",
+"options": [
+"800-1000 Million/ml",
+"150-300 Million/ml",
+"500-600 Million/ml",
+"200-300 Million/ml"
+],
+"answer": "150-300 Million/ml",
+"explanation": {
+"correct": "Stallions have relatively low concentration - الحصان تركيزه قليل مقارنة بالبقر",
+"wrong_1": "This is for Buffalo-bulls - ده تركيز الجاموسي",
+"wrong_2": "This is for Camels - ده تركيز الجمال",
+"wrong_3": "Boar concentration is 200-300, Stallion is 150-300 - الخنزير بيبدأ من 200 لكن الحصان من 150"
+}
+},
+{
+"question": "Secondary sperm abnormalities originate from which site?",
+"options": [
+"Seminal vesicles",
+"Testis",
+"Excurrent ducts like the Epididymis",
+"The collection vial"
+],
+"answer": "Excurrent ducts like the Epididymis",
+"explanation": {
+"correct": "Secondary defects occur after the sperm leaves the testis - التشوهات الثانوية بتحصل في البربخ والقنوات",
+"wrong_1": "Seminal vesicles contribute fluid, not morphology - الحويصلات المنوية بتفرز سوائل مش بتشوه الحيوان",
+"wrong_2": "Testis is the site for primary defects - الخصية بتاعة التشوهات الأولية",
+"wrong_3": "Vial issues cause tertiary defects - تلوث الوعاء بيعمل تشوهات تالتية"
+}
+},
+{
+"question": "Which condition results in low sperm concentration in a healthy animal?",
+"options": [
+"Overuse (bull exhaustion)",
+"High protein feeding",
+"Excessive teasing",
+"Large testicular size"
+],
+"answer": "Overuse (bull exhaustion)",
+"explanation": {
+"correct": "Frequent ejaculation depletes the sperm reserve - كتر الاستخدام بيجهد الحيوان ويقلل التركيز",
+"wrong_1": "High feeding usually improves quality - التغذية الكويسة بتحسن السائل",
+"wrong_2": "Teasing actually increases concentration - التحرش الجنسي بيزود التركيز مش بيقلله",
+"wrong_3": "Large testes usually produce more sperm - الخصية الكبيرة بتنتج حيوانات أكتر"
+}
+},
+{
+"question": "Which stain is used to visualize the sperm nucleus?",
+"options": [
+"Giemsa stain",
+"Basic Fuchsin",
+"Feulgen stain",
+"Bromothymol blue"
+],
+"answer": "Feulgen stain",
+"explanation": {
+"correct": "Feulgen specifically reacts with DNA in the nucleus - فلوجين صبغة مخصصة للمادة الوراثية في النواة",
+"wrong_1": "Giemsa is better for the acrosome - جيمسا للأكروسوم",
+"wrong_2": "Basic Fuchsin stains the whole cell red - الفوكسين بيصبغ الخلية كلها أحمر",
+"wrong_3": "This is a pH indicator/diluent component - ده كاشف حموضة أو في التخفيف"
+}
+},
+{
+"question": "What does a 'Bent tail' usually signify in terms of classification?",
+"options": [
+"Primary abnormality",
+"Secondary abnormality",
+"Tertiary abnormality",
+"Normal physiological variation"
+],
+"answer": "Secondary abnormality",
+"explanation": {
+"correct": "Bent or wavy tails originate in the excurrent ducts - الديل المتني تشوه ثانوي بيحصل في القنوات",
+"wrong_1": "Primary head defects are more common - التشوهات الأولية غالبا في الرأس",
+"wrong_2": "Tertiary would be coiled due to cold shock - التالتية بتبقى ملفوفة بسبب صدمة البرد",
+"wrong_3": "Abnormalities are not normal - أي تشوه مش طبيعي لو زاد عن حد"
+}
+},
+{
+"question": "The presence of many WBCs in semen (Leukocytospermia) indicates:",
+"options": [
+"Acute penile lesion",
+"Chronic inflammation or seminal gland infection",
+"High fertility status",
+"Normal collection by electroejaculator"
+],
+"answer": "Chronic inflammation or seminal gland infection",
+"explanation": {
+"correct": "WBCs indicate chronic purulent processes - كرات الدم البيضاء دليل التهاب مزمن وصديد",
+"wrong_1": "RBCs indicate acute lesions - كرات الدم الحمراء هي اللي بتاعت الجروح الحادة",
+"wrong_2": "Infection reduces fertility - العدوى بتقلل الخصوبة جدا",
+"wrong_3": "Electroejaculation doesn't cause WBCs normally - الجهاز ملوش علاقة بخروج خلايا صديدية"
+}
+},
+{
+"question": "Bull semen is considered 'Fair' in the MBR test if it reduces in:",
+"options": [
+"3-10 minutes",
+"11-30 minutes",
+"More than 30 minutes",
+"Less than 3 minutes"
+],
+"answer": "11-30 minutes",
+"explanation": {
+"correct": "11-30 mins is the range for Fair quality in bulls - من 11 لـ 30 دقيقة يعتبر مقبول أو متوسط في البقر",
+"wrong_1": "This is Good quality - ده الوقت بتاع العينة الممتازة",
+"wrong_2": "This is Poor quality - ده الوقت بتاع العينة الضعيفة",
+"wrong_3": "Too fast, usually indicates bacterial contamination - السرعة الزيادة دي شك في بكتيريا"
+}
+},
+{
+"question": "Which chemical is added to distilled water to kill sperm for counting?",
+"options": [
+"Methylene blue",
+"NaOH",
+"Sodium carbonate",
+"Mineral oil"
+],
+"answer": "NaOH",
+"explanation": {
+"correct": "NaOH kills sperm and facilitates counting - الصودا الكاوية بتموت الحيوانات عشان نعرف نعدها",
+"wrong_1": "Methylene blue is for metabolism tests - ده بتاع اختبار النشاط مش العد",
+"wrong_2": "Sodium carbonate is part of the methyl violet stain - ده تبع الصبغة مش محلول العد",
+"wrong_3": "Mineral oil is to prevent O2 in MBR test - الزيت عشان يعزل الأكسجين بس"
+}
+},
+{
+"question": "Tertiary abnormalities are caused by:",
+"options": [
+"Genetic defects",
+"Testicular infection",
+"Improper handling or cold shock",
+"Epididymal blockage"
+],
+"answer": "Improper handling or cold shock",
+"explanation": {
+"correct": "They occur outside the body during processing - دي تشوهات بتحصل بره الجسم بسبب سوء التداول",
+"wrong_1": "Genetic causes lead to primary defects - الوراثة بتعمل عيوب أولية",
+"wrong_2": "Infection leads to secondary defects - العدوى جوه الجسم بتعمل ثانوي",
+"wrong_3": "Blockage leads to low count or secondary defects - الانسداد ملوش علاقة بالتالتية"
+}
+},
+{
+"question": "Normal semen should have a sperm abnormality percentage not exceeding:",
+"options": [
+"50%",
+"10-15%",
+"5-8%",
+"30-40%"
+],
+"answer": "10-15%",
+"explanation": {
+"correct": "Normal samples have 80% plus normal sperm - العينة الطبيعية لازم التشوهات فيها متعديش 15%",
+"wrong_1": "Too high, would indicate infertility - نسبة عالية جدا وتعمل عقم",
+"wrong_2": "Unrealistically low for field samples - نسبة مثالية زيادة عن اللزوم",
+"wrong_3": "Indicates a poor quality ejaculate - دي عينة جودتها وحشة"
+}
+},
+{
+"question": "The Catalase test measures the enzyme produced by:",
+"options": [
+"Healthy spermatozoa",
+"Pus cells, blood, and bacteria",
+"The seminal vesicles only",
+"Sertoli cells"
+],
+"answer": "Pus cells, blood, and bacteria",
+"explanation": {
+"correct": "Catalase comes from contamination or inflammation - إنزيم الكاتاليز بيجي من الصديد والدم والبكتيريا",
+"wrong_1": "Healthy sperm produce very little catalase - الحيوانات السليمة مفهاش كاتاليز كتير",
+"wrong_2": "It's not a normal secretion of these glands - مش إفراز طبيعي من الغدد دي",
+"wrong_3": "Sertoli cells are in the testis and not the source - خلايا سرتولي ملهاش دعوة بالاختبار ده"
+}
+},
+{
+"question": "What is the specific temperature for the Methylene Blue Reduction test?",
+"options": [
+"37.0 C",
+"46.5 C",
+"25.0 C",
+"40.0 C"
+],
+"answer": "46.5 C",
+"explanation": {
+"correct": "This high temperature kills bacteria to ensure reduction is by sperm - درجة الحرارة دي بتموت البكتيريا عشان نضمن إن الحيوان المنوي هو اللي شغال",
+"wrong_1": "Body temperature, bacteria would still be active - حرارة الجسم هتخلي البكتيريا تشتغل وتلخبط النتيجة",
+"wrong_2": "Room temperature, too slow - حرارة الغرفة باردة جدا على التفاعل",
+"wrong_3": "Not the standard protocol temp - درجة مش ماشية مع البروتوكول"
+}
+},
+{
+"question": "A pyriform head is classified as which type of abnormality?",
+"options": [
+"Secondary",
+"Primary",
+"Tertiary",
+"Mechanical"
+],
+"answer": "Primary",
+"explanation": {
+"correct": "Head shape defects originate in the testis - شكل الرأس لما يتغير ده عيب أولي من الخصية",
+"wrong_1": "Secondary defects usually involve the tail or droplets - الثانوي بيبقى ديل أو نقط بروتوبلازمية",
+"wrong_2": "Tertiary is caused by handling - التالتي سببه المعاملة بره",
+"wrong_3": "Mechanical is not a standard classification - مفيش تصنيف اسمه ميكانيكي هنا"
+}
+},
+{
+"question": "In the Catalase test, which animal normally has considerable catalase levels?",
+"options": [
+"Bull",
+"Stallion",
+"Ram",
+"Boar"
+],
+"answer": "Stallion",
+"explanation": {
+"correct": "Stallion semen naturally contains catalase - الحصان طبيعي سائل المنوي فيه كاتاليز كتير",
+"wrong_1": "Bull semen should have very low levels - التور لازم يكون مستواه قليل جدا",
+"wrong_2": "Ram semen follows the same rule as bulls - الكبش زي التور لازم يكون قليل",
+"wrong_3": "Boar is not mentioned as a natural high producer - الخنزير مش من الاستثناءات دي"
+}
+},
+{
+"question": "The consistency method is used for:",
+"options": [
+"Precise laboratory counting",
+"Rapid field assessment of concentration",
+"Detecting acrosome defects",
+"Measuring pH"
+],
+"answer": "Rapid field assessment of concentration",
+"explanation": {
+"correct": "Thick consistency correlates with higher concentration - القوام التخين معناه حيوانات أكتر وده فحص سريع في الحقل",
+"wrong_1": "Hemocytometer is for precise counting - العد الدقيق بالهيموسيتوميتر مش بالنظر",
+"wrong_2": "Consistency doesn't show acrosome health - القوام ملوش دعوة بالأكروسوم",
+"wrong_3": "pH is measured with paper or meters - الحموضة ليها أجهزة تانية"
+}
+},
+{
+"question": "What does 'Decapitated' sperm mean?",
+"options": [
+"Sperm with double tails",
+"Sperm with a detached head",
+"Sperm with coiled middle piece",
+"Sperm with two heads"
+],
+"answer": "Sperm with a detached head",
+"explanation": {
+"correct": "Decapitated literally means the head is separated - يعني حيوان منوي رأسه مفصولة",
+"wrong_1": "That is a double tail defect - ده عيب الديل المزدوج",
+"wrong_2": "That is a corkscrew or coiled defect - ده عيب في القطعة الوسطى",
+"wrong_3": "That is a bicephalic defect - ده حيوان براسين"
+}
+},
+{
+"question": "Which stain is best for evaluating the Acrosome?",
+"options": [
+"Feulgen",
+"Giemsa",
+"Opal Blue",
+"Alkaline Methyl Violet"
+],
+"answer": "Giemsa",
+"explanation": {
+"correct": "Giemsa is the standard for acrosomal integrity - جيمسا هي أحسن صبغة للأكروسوم",
+"wrong_1": "Feulgen is for the nucleus - فلوجين للنواة",
+"wrong_2": "Opal blue is for droplets - أوبال بلو للنقط",
+"wrong_3": "Alkaline methyl violet is for general morphology - دي للمورفولوجي العام"
+}
+},
+{
+"question": "Normal Ram semen reduces Methylene blue in how many minutes?",
+"options": [
+"3-7 minutes",
+"8-10 minutes",
+"More than 12 minutes",
+"15-20 minutes"
+],
+"answer": "3-7 minutes",
+"explanation": {
+"correct": "Ram semen is very active and reduces quickly - الكبش نشاطه عالي جدا بيغير اللون في أقل من 7 دقائق",
+"wrong_1": "This is Fair quality for a Ram - ده تقدير متوسط للكبش",
+"wrong_2": "This is Poor quality for a Ram - ده تقدير وحش للكبش",
+"wrong_3": "Exceeds the normal 'Good' range - وقت طويل جدا بالنسبة لكبش سليم"
+}
+},
+{
+"question": "Which of the following is a tertiary abnormality?",
+"options": [
+"Proximal protoplasmic droplet",
+"Pyriform head",
+"Coiled tail due to cold shock",
+"Medusa cells"
+],
+"answer": "Coiled tail due to cold shock",
+"explanation": {
+"correct": "Coiling after collection is a typical tertiary defect - الديل اللي بيلف بعد الجمع بسبب البرد ده تشوه تالتي",
+"wrong_1": "This is a secondary abnormality - النقطة القريبة دي تشوه ثانوي",
+"wrong_2": "This is a primary abnormality - الرأس الكمثرية تشوه أولي",
+"wrong_3": "These are pathological cells, not sperm defects - دي خلايا مرضية مش عيب في الحيوان نفسه"
+}
+},
+{
+"question": "What is the significance of 'Proximal protoplasmic droplets'?",
+"options": [
+"Sperm maturation in the epididymis",
+"High fertility indicator",
+"Tertiary cold shock",
+"Testicular hypoplasia"
+],
+"answer": "Sperm maturation in the epididymis",
+"explanation": {
+"correct": "Droplets indicate the sperm is still 'unripe' or immature - النقط دي معناها إن الحيوان لسه منضجش كويس في البربخ",
+"wrong_1": "It usually indicates poor maturation/quality - وجودها كتير يعني جودة وحشة",
+"wrong_2": "Droplets are secondary, not tertiary - دي عيوب ثانوية مش تالتية",
+"wrong_3": "Not a direct indicator of hypoplasia - ملهاش علاقة مباشرة بضمور الخصية"
+}
+},
+{
+"question": "Which method uses a counting chamber and cover glass?",
+"options": [
+"Catalase test",
+"Hemocytometer",
+"Methylene blue reduction",
+"Visual examination"
+],
+"answer": "Hemocytometer",
+"explanation": {
+"correct": "The Neubauer hemocytometer is the chamber used for counting - الهيموسيتوميتر هو الجهاز اللي فيه شريحة العد",
+"wrong_1": "Catalase test uses a graduated tube - اختبار الكاتاليز بيستخدم أنبوبة مدرجة",
+"wrong_2": "MBR uses test tubes and a water bath - الميثيلين بلو بيستخدم أنابيب اختبار وحمام مائي",
+"wrong_3": "Visual exam uses the naked eye or vials - الفحص بالنظر مش محتاج شرايح عد"
+}
+},
+{
+"question": "How many small squares are typically counted in the hemocytometer for sperm?",
+"options": [
+"16 squares",
+"25 squares",
+"80 squares",
+"400 squares"
+],
+"answer": "80 squares",
+"explanation": {
+"correct": "We count 5 large squares, each containing 16 small ones (5x16=80) - بنعد 5 مربعات كبيرة وكل واحد فيه 16 صغير يعني 80 مربع",
+"wrong_1": "This is just one large square - ده مربع واحد بس مش كفاية",
+"wrong_2": "This is the total number of large squares - ده إجمالي المربعات الكبيرة المتاحة للعد",
+"wrong_3": "This is the total small squares in the grid - ده إجمالي كل المربعات الصغيرة في الشبكة"
+}
+},
+{
+"question": "A 'Corkscrew midpiece' is classified as a:",
+"options": [
+"Primary abnormality",
+"Secondary abnormality",
+"Tertiary abnormality",
+"Normal variant"
+],
+"answer": "Primary abnormality",
+"explanation": {
+"correct": "Midpiece structural defects often originate in the testis - عيوب القطعة الوسطى الهيكلية بتعتبر أولية من الخصية",
+"wrong_1": "Secondary defects are more likely to be droplets or bent tails - الثانوي بيبقى تنيات أو نقط بروتوبلازمية",
+"wrong_2": "Handling doesn't usually cause corkscrew shapes - المعاملة بره مش بتعمل شكل البريمة ده",
+"wrong_3": "This is a serious defect, not normal - ده تشوه واضح مش طبيعي"
+}
+},
+{
+"question": "Sperm concentration for a Boar is usually:",
+"options": [
+"800-1200 Million/ml",
+"200-300 Million/ml",
+"2000-4000 Million/ml",
+"150-200 Million/ml"
+],
+"answer": "200-300 Million/ml",
+"explanation": {
+"correct": "Boars produce a high volume but lower concentration - الخنزير كميته كبيرة بس تركيزه قليل من 200 لـ 300 مليون",
+"wrong_1": "This is Bull concentration - ده بتاع الطلوقة البقري",
+"wrong_2": "This is Ram concentration - ده بتاع الكبش",
+"wrong_3": "This is Dog concentration - ده بتاع الكلاب"
+}
+},
+{
+"question": "What does a double ring mark on a catalase tube represent?",
+"options": [
+"300 units",
+"2000 units",
+"0 units",
+"1000 units"
+],
+"answer": "2000 units",
+"explanation": {
+"correct": "The top mark on the special catalase tube is 2000 - العلامة اللي فوق خالص في أنبوبة الكاتاليز هي 2000",
+"wrong_1": "300 is the limit for good semen - 300 ده حد العينة الكويسة بس مش العلامة دي",
+"wrong_2": "0 is at the bottom - الصفر بيبقى تحت خالص",
+"wrong_3": "1000 is usually the single ring or middle - الـ 1000 بتبقى في النص"
+}
+},
+{
+"question": "Basic Fuchsin stain colors all cells and sperm:",
+"options": [
+"Blue",
+"Green",
+"Red",
+"Black"
+],
+"answer": "Red",
+"explanation": {
+"correct": "Basic Fuchsin is a red dye used for general cell staining - صبغة الفوكسين بتصبغ كل حاجة باللون الأحمر",
+"wrong_1": "Methylene blue or Opal blue would be blue - الميثيلين بلو هو اللي بيصبغ أزرق",
+"wrong_2": "Not a standard sperm stain color - مفيش صبغة مشهورة هنا بتدي أخضر",
+"wrong_3": "Indian ink provides a black background - الحبر الهندي بيدي خلفية سودة مش صبغة للخلية"
+}
+},
+{
+"question": "Unilateral testicular aplasia causes:",
+"options": [
+"High sperm concentration",
+"Low sperm concentration",
+"Increased semen volume",
+"Bloody semen"
+],
+"answer": "Low sperm concentration",
+"explanation": {
+"correct": "Only one testis is working, leading to half the potential concentration - غياب خصية واحدة هيخلي الحيوانات قليلة لأن المصنع شغال بالنص",
+"wrong_1": "Aplasia can never increase concentration - غياب العضو مستحيل يزود الإنتاج",
+"wrong_2": "Volume is mostly from accessory glands - الحجم بيعتمد على الغدد الملحقة مش الخصية بس",
+"wrong_3": "Aplasia doesn't cause bleeding - غياب التكوين مش بيسبب نزيف"
+}
+}
+]
