@@ -1,0 +1,563 @@
+
+[
+{
+"question": "What is the average volume of a single bull ejaculate?",
+"options": [
+"50-150 ml",
+"0.5-1.5 ml",
+"150-250 ml",
+"2-8 ml"
+],
+"answer": "2-8 ml",
+"explanation": {
+"correct": "Bull ejaculate volume averages around 5 ml with a range of 2 to 8 ml - المتوسط في التور ٥ ملي والرينج من ٢ لـ ٨",
+"wrong_1": "This volume is specific to the stallion - ده حجم القذفة في الحصان مش التور",
+"wrong_2": "This is the small volume characteristic of the ram - ده حجم قليل جدا بتاع الكبش",
+"wrong_3": "This is the very large volume found in boars - ده الحجم الكبير بتاع الخنزير"
+}
+},
+{
+"question": "Which species produces the largest volume of semen per ejaculate?",
+"options": [
+"Stallion",
+"Bull",
+"Camel",
+"Boar"
+],
+"answer": "Boar",
+"explanation": {
+"correct": "Boars produce the highest volume ranging from 150 to 250 ml - الخنزير هو أكتر واحد بيجيب كمية بتوصل لـ ٢٥٠ ملي",
+"wrong_1": "Stallions produce 50-150 ml which is less than boars - الحصان بيجيب كتير بس أقل من الخنزير",
+"wrong_2": "Bulls only produce about 5 ml - التور كميته قليلة مقارنة بالخنزير",
+"wrong_3": "Camel volume is between 2-12 ml - الجمل كميته بسيطة من ٢ لـ ١٢ ملي"
+}
+},
+{
+"question": "The yellow color of some bull semen is primarily due to which pigment?",
+"options": [
+"Hemoglobin",
+"Pseudomonas",
+"Bilirubin",
+"Riboflavin"
+],
+"answer": "Riboflavin",
+"explanation": {
+"correct": "Yellow color is normal in some bulls due to riboflavin and lipochrome - اللون الأصفر طبيعي في بعض الطلائق بسبب الريبوفلافين",
+"wrong_1": "Hemoglobin would color the semen red or brown - الهيموجلوبين ده بتاع الدم وهيخلي اللون أحمر",
+"wrong_2": "Pseudomonas causes a green discoloration - السودوموناس دي بتعمل لون أخضر عشان بكتيريا",
+"wrong_3": "Bilirubin is related to jaundice not normal semen yellowing - البيليروبين بتاع الصفراء مش الصبغة الطبيعية للسائل"
+}
+},
+{
+"question": "A green discoloration in a semen sample most likely indicates what?",
+"options": [
+"Urine contamination",
+"Fresh blood",
+"Dust contamination",
+"Pseudomonas infection"
+],
+"answer": "Pseudomonas infection",
+"explanation": {
+"correct": "Green color indicates fecal contamination or Pseudomonas infection - اللون الأخضر معناه تلوث براز أو عدوى ميكروبية",
+"wrong_1": "Urine contamination (urospermia) turns semen yellow - البول بيخلي السائل لونه أصفر",
+"wrong_2": "Fresh blood causes a red or brown color - الدم بيخلي اللون محمر أو بني",
+"wrong_3": "Dust contamination leads to a dark gray or black color - التراب بيخلي اللون رمادي غامق أو أسود"
+}
+},
+{
+"question": "What is the normal pH range for healthy bull semen?",
+"options": [
+"7.2 to 7.6",
+"7.5 to 8.0",
+"5.5 to 6.0",
+"6.6 to 6.8"
+],
+"answer": "6.6 to 6.8",
+"explanation": {
+"correct": "Bull semen is slightly acidic with a normal pH of 6.6 to 6.8 - سائل التور بيبقى حمضي بسيط في الرينج ده",
+"wrong_1": "This range is too alkaline for a normal bull - المدى ده قاعدي زيادة عن اللزوم للتور الطبيعي",
+"wrong_2": "This is very alkaline and usually pathological - ده قلوي جدا وبنشوفه في الحالات المرضية",
+"wrong_3": "This is too acidic and would harm the sperm - ده حمضي بزيادة وممكن يموت الحيوانات المنوية"
+}
+},
+{
+"question": "In cases of bilateral acute seminal vesiculitis in bulls, the pH becomes:",
+"options": [
+"6.0",
+"6.6",
+"7.0",
+"7.5"
+],
+"answer": "7.5",
+"explanation": {
+"correct": "Bilateral vesiculitis shifts the pH significantly to the alkaline side (7.5) - الالتهاب المزدوج في الحويصلات بيخلي الوسط قلوي جدا",
+"wrong_1": "6.0 is yellow on bromothymol test and very acidic - ده حمضي جدا والالتهاب بيعلي الـ pH",
+"wrong_2": "6.6 is the normal acidic pH - ده الطبيعي بتاع التور مش بتاع الالتهاب",
+"wrong_3": "7.0 is seen in unilateral cases of vesiculitis - ده بنشوفه لما يكون الالتهاب في ناحية واحدة بس"
+}
+},
+{
+"question": "Which species typically lacks mass activity (wave motion) in undiluted semen?",
+"options": [
+"Bull",
+"Ram",
+"Buffalo Bull",
+"Stallion"
+],
+"answer": "Stallion",
+"explanation": {
+"correct": "Stallions have watery semen with lower concentration, so wave motion is absent - الحصان سائلة خفيف فمش بيبان فيه حركة الأمواج",
+"wrong_1": "Bulls show strong mass activity due to high concentration - التور تركيزه عالي فبنشوف حركة الأمواج بوضوح",
+"wrong_2": "Rams have the highest concentration and strongest wave motion - الكبش أعلى واحد في التركيز وأقوى حركة أمواج",
+"wrong_3": "Buffalo bulls show mass activity similar to cattle - الجاموس برضه فيه حركة أمواج واضحة"
+}
+},
+{
+"question": "Using Bromothymol blue, what color indicates a pH of 7.6 or higher?",
+"options": [
+"Yellow",
+"Grass green",
+"Yellow-green",
+"Blue"
+],
+"answer": "Blue",
+"explanation": {
+"correct": "A blue color indicates an alkaline pH of 7.6 or higher - اللون الأزرق معناه الوسط قلوي عالي",
+"wrong_1": "Yellow indicates an acidic pH of 6.0 or lower - الأصفر يعني الوسط حمضي قوي",
+"wrong_2": "Grass green represents a pH around 6.8 - الأخضر الزرعي يعني الـ pH حوالي ٦.٨",
+"wrong_3": "Yellow-green represents a pH of 6.4 - الأصفر المخضر ده بتاع ٦.٤"
+}
+},
+{
+"question": "What is the primary cause of acidity in Bull and Ram semen?",
+"options": [
+"Carbonate formation",
+"Urine contamination",
+"Bicarbonate formation",
+"Lactic acid production"
+],
+"answer": "Lactic acid production",
+"explanation": {
+"correct": "Anaerobic metabolism in concentrated semen produces lactic acid, lowering pH - التمثيل الغذائي اللا هوائي بيطلع حمض لاكتيك فبيزود الحموضة",
+"wrong_1": "Carbonate formation leads to alkalinity in boars - الكربونات دي بتخلي الوسط قلوي زي في الخنزير",
+"wrong_2": "Urine contamination typically shifts pH but is not the normal source - البول تلوث مش هو السبب الطبيعي للحموضة",
+"wrong_3": "Bicarbonates are associated with aerobic metabolism and alkalinity - البيكربونات بتبقى في الوسط القلوي"
+}
+},
+{
+"question": "Which consistency is associated with a sperm concentration of less than 200,000 per mm3 in bulls?",
+"options": [
+"Creamy",
+"Thick creamy",
+"Milky",
+"Watery"
+],
+"answer": "Watery",
+"explanation": {
+"correct": "Low sperm concentration (less than 200k) results in a watery appearance - التركيز لما يقل عن ٢٠٠ ألف بيبقى السائل زي المايه",
+"wrong_1": "Creamy consistency requires more than 1,000,000 sperm per mm3 - القوام الكريمي محتاج أكتر من مليون حيوان منوي",
+"wrong_2": "Thick creamy is associated with 500k to 1 million sperm - الكريمي التقيل بين نص مليون ومليون",
+"wrong_3": "Milky consistency correlates with 200k to 500k sperm - القوام اللبني بيبقى من ٢٠٠ لـ ٥٠٠ ألف"
+}
+},
+{
+"question": "In the Eosin-Nigrosin stain, why do dead spermatozoa appear red or pink?",
+"options": [
+"They absorb Nigrosin",
+"They react with Sodium Citrate",
+"They have intact membranes",
+"Eosin penetrates damaged membranes"
+],
+"answer": "Eosin penetrates damaged membranes",
+"explanation": {
+"correct": "Dead sperm have permeable membranes that allow Eosin to enter and stain them - الميت غشاؤه بايز فبيدخل صبغة الإيوسين وتلونه أحمر",
+"wrong_1": "Nigrosin provides the dark background, it doesn't stain the sperm red - النيجروزين ده الصبغة السودة اللي بتعمل الخلفية بس",
+"wrong_2": "Sodium citrate is a buffer, not a stain - سترات الصوديوم دي منظمة للوسط مش صبغة",
+"wrong_3": "Intact membranes in live sperm actually exclude the Eosin stain - الغشاء السليم في الحي بيطرد الصبغة وما بيتشربهاش"
+}
+},
+{
+"question": "What is the minimum standard percentage of progressively motile sperm for a bull?",
+"options": [
+"20 percent",
+"40 percent",
+"80 percent",
+"60 percent"
+],
+"answer": "60 percent",
+"explanation": {
+"correct": "The minimum acceptable standard for individual motility is 60 percent - أقل نسبة مقبولة للحركة هي ٦٠ في المية",
+"wrong_1": "20 percent is considered very poor and infertile - ٢٠ في المية دي نسبة ضايعة خالص وتعتبر عقم",
+"wrong_2": "40 percent is still considered poor to fair - ٤٠ في المية لسه قليل مش كفاية للطلائق",
+"wrong_3": "80 percent is very good, but the minimum standard is lower - ٨٠ في المية ده ممتاز بس المينيمم هو ٦٠"
+}
+},
+{
+"question": "A sperm moving in a circle in a backward direction is showing which type of motility?",
+"options": [
+"Circling",
+"Oscillatory",
+"Rotating",
+"Reverse circling"
+],
+"answer": "Reverse circling",
+"explanation": {
+"correct": "Reverse circling is an abnormal motility where the sperm moves backward in circles - دي حركة غير طبيعية بيلف فيها لورا",
+"wrong_1": "Circling motility involves moving forward along the edge of a circle - السيركلنج بيبقى حركة لقدام بس في دايرة",
+"wrong_2": "Oscillatory motility is vibration without changing place - الحركة الاهتزازية بتهز في مكانها من غير مشي",
+"wrong_3": "Rotating motility involves the head spinning around its axis - الروتيشن يعني الراس بتلف حوالين محورها"
+}
+},
+{
+"question": "What is the normal speed of a bull spermatozoon in seminal plasma?",
+"options": [
+"1 mm per minute",
+"10 mm per minute",
+"20 mm per minute",
+"4 mm per minute"
+],
+"answer": "4 mm per minute",
+"explanation": {
+"correct": "Normal bull sperm move at a speed of approximately 4 to 5 mm per minute - السرعة الطبيعية في التور حوالي ٤ لـ ٥ ملي في الدقيقة",
+"wrong_1": "1 mm per minute is too slow and indicates poor vigor - ١ ملي دي بطيئة جدا",
+"wrong_2": "10 mm per minute is the upper range of average speed - ١٠ ملي دي السرعة القصوى في الرينج العام",
+"wrong_3": "20 mm per minute is biologically improbable for sperm - ٢٠ ملي دي سرعة خيالية مش موجودة"
+}
+},
+{
+"question": "Which species has a semen volume of approximately 10 ml?",
+"options": [
+"Cat",
+"Ram",
+"Boar",
+"Dog"
+],
+"answer": "Dog",
+"explanation": {
+"correct": "The dog typically produces an ejaculate volume of about 10 ml - الكلب بيجيب حوالي ١٠ ملي",
+"wrong_1": "The cat produces a very tiny volume of 0.3 ml - القطة بتجيب كمية صغيرة جدا يا دوب ٠.٣ ملي",
+"wrong_2": "The ram produces about 0.5 to 1.5 ml - الكبش كميته صغيرة من نص لواحد ونص ملي",
+"wrong_3": "The boar produces the largest volume (up to 250 ml) - الخنزير هو اللي بيجيب الكميات الكبيرة"
+}
+},
+{
+"question": "How does the frequency of collection affect bull semen volume?",
+"options": [
+"Increases volume",
+"No effect on volume",
+"Increases concentration",
+"Decreases volume"
+],
+"answer": "Decreases volume",
+"explanation": {
+"correct": "Increased frequency of collection per unit time decreases the ejaculate volume - كتر الجمع ورا بعض بيقلل حجم القذفة الواحدة",
+"wrong_1": "Increasing collection frequency never increases volume - الجمع الكتير مستحيل يزود الكمية بالعكس بيهد الحيوان",
+"wrong_2": "Frequency has a direct significant effect on volume - التكرار بيأثر جدا مش ملوش لازمة",
+"wrong_3": "Frequent collection actually decreases sperm concentration as well - الجمع الكتير برضه بيقلل التركيز مش بيزوده"
+}
+},
+{
+"question": "In Eosin-Nigrosin staining, 'weakly alive' sperm are identified by color where?",
+"options": [
+"Entire head is red",
+"Tail is red",
+"Midpiece is red",
+"Post-nuclear cap region is red"
+],
+"answer": "Post-nuclear cap region is red",
+"explanation": {
+"correct": "Weakly alive sperm only show red color in the post-nuclear cap region - الحيوانات الضعيفة بتصبغ بس منطقة خلف النواة",
+"wrong_1": "A completely red head indicates a dead sperm - لو الراس كلها حمراء يبقى الحيوان ده ميت خلاص",
+"wrong_2": "The stain is used for head membrane integrity not the tail - الصبغة بنركز بيها على غشاء الراس مش الديل",
+"wrong_3": "Red midpiece is not the diagnostic sign for weakly alive sperm - منطقة الميدبيس مش هي العلامة هنا"
+}
+},
+{
+"question": "Which factor causes dairy bulls to produce larger ejaculates than beef bulls?",
+"options": [
+"Age",
+"Nutrition",
+"Teasing",
+"Breed"
+],
+"answer": "Breed",
+"explanation": {
+"correct": "Dairy breeds tend to produce larger volumes than beef breeds due to genetics - نوع السلالة بيفرق الحلاب بيجيب كمية أكبر من بقر اللحم",
+"wrong_1": "Age affects volume but the comparison between dairy and beef is a breed factor - السن بيأثر بس هنا المقارنة بين أنواع",
+"wrong_2": "Nutrition affects all bulls but breed is the underlying difference here - التغذية مهمة بس الفرق بين الحلاب واللحم وراثي",
+"wrong_3": "Teasing increases volume in any bull but doesn't explain breed differences - التحييز بيزود الكمية بس مش هو سبب فرق السلالات"
+}
+},
+{
+"question": "What happens to semen volume in bulls after 8 years of age?",
+"options": [
+"Increases significantly",
+"Stays constant",
+"Becomes more concentrated",
+"Begins to decline"
+],
+"answer": "Begins to decline",
+"explanation": {
+"correct": "Semen volume begins to decline after about 8 years of age in bulls - بعد ٨ سنين الكمية بتبدأ تقل في الطلائق",
+"wrong_1": "Volume increases until 2 years post-maturity, not after 8 years - الزيادة بتبقى في الأول بس",
+"wrong_2": "It is not constant; it is affected by the aging process - الحجم مش ثابت وبيتأثر بالعمر والضعف",
+"wrong_3": "Concentration also usually declines with volume in older age - التركيز برضه بيقع مع السن مش بيزيد"
+}
+},
+{
+"question": "What is the primary reason for 'Mass Activity' assessment in bulls?",
+"options": [
+"To check for blood",
+"To measure pH",
+"To count dead sperm",
+"To evaluate concentration and individual motility"
+],
+"answer": "To evaluate concentration and individual motility",
+"explanation": {
+"correct": "Mass activity is a result of both high sperm concentration and good individual motility - حركة الأمواج دي محصلة التركيز مع الحركة الفردية",
+"wrong_1": "Blood is checked via color (gross evaluation) - الدم بنعرفه من اللون مش من حركة الأمواج",
+"wrong_2": "pH is measured with indicators or meters, not motility - الـ pH له اختبارات كيميائية ملوش دعوة بالحركة",
+"wrong_3": "Dead sperm are counted using vital stains like Eosin - الميت بيتعرف بالصبغة مش بالماكروسكوبيك ويف"
+}
+},
+{
+"question": "A Grade 4 (Very strong) mass activity is characterized by what?",
+"options": [
+"No swirls",
+"Slow swirls",
+"Rapid swirls",
+"Very rapid swirls"
+],
+"answer": "Very rapid swirls",
+"explanation": {
+"correct": "Grade 4 mass activity shows very rapid swirls and strong movement - درجة ٤ دي أعلى حاجة وبتبقى أمواج سريعة جدا",
+"wrong_1": "No swirls means a grade of 0 (dead) - مفيش أمواج يعني درجة صفر أو ميت",
+"wrong_2": "Slow swirls correspond to a grade of 2 (Fair) - الأمواج البطيئة دي درجة ٢ يعني مقبولة بالعافية",
+"wrong_3": "Rapid swirls (without 'very') correspond to grade 3 - الأمواج السريعة بس دي درجة ٣"
+}
+},
+{
+"question": "Which objective is used to examine 'Mass Motility' on a warm slide?",
+"options": [
+"High power (X40)",
+"Oil immersion (X100)",
+"Scanning power (X4)",
+"Low power (X10)"
+],
+"answer": "Low power (X10)",
+"explanation": {
+"correct": "Mass motility is observed at low power to see the overall wave motion - حركة الأمواج بنشوفها بالعدسة الصغرى عشان نشوف المنظر العام",
+"wrong_1": "High power is used for individual motility, not mass waves - العدسة ٤٠ دي للحركة الفردية مش للأمواج",
+"wrong_2": "Oil immersion is used for morphology, not motility - عدسة الزيت دي للأشكال والتشوهات مش للحركة",
+"wrong_3": "Scanning power is too low for accurate swirl grading - العدسة ٤ مش بتبين تفاصيل الأمواج كويس"
+}
+},
+{
+"question": "What is the significance of 'Gray' semen in a gross evaluation?",
+"options": [
+"Healthy high concentration",
+"Urine contamination",
+"Dust contamination",
+"Degeneration and low sperm count"
+],
+"answer": "Degeneration and low sperm count",
+"explanation": {
+"correct": "Gray semen often indicates degeneration with giant cells and few sperm - اللون الرمادي علامة وحشة على تدهور الخصية وقلة الحيوانات",
+"wrong_1": "High concentration semen should be creamy or milky white - التركيز العالي بيبقى لونه كريمي أو أبيض لبني",
+"wrong_2": "Urine contamination turns the sample yellow - تلوث البول بيصفر العينة",
+"wrong_3": "Dust contamination leads to a dark gray or black appearance - التراب بيخلي الرمادي غامق جدا أو مسود"
+}
+},
+{
+"question": "In Eosin-Nigrosin staining, what color is the background?",
+"options": [
+"White",
+"Pink",
+"Red",
+"Black"
+],
+"answer": "Black",
+"explanation": {
+"correct": "Nigrosin provides a dark/black background to contrast with live sperm - النيجروزين بيعمل خلفية سودة عشان الحيوانات الحية تبان بيضاء",
+"wrong_1": "White is the color of the live sperm, not the background - الأبيض ده لون الحيوانات الحية نفسها",
+"wrong_2": "Pink is the color of dead sperm - الوردي ده لون الخلايا الميتة",
+"wrong_3": "Red is also associated with dead or stained sperm - الأحمر ده بتاع الصبغة اللي دخلت جوه الميت"
+}
+},
+{
+"question": "Individual sperm motility is best assessed using which medium for dilution?",
+"options": [
+"Distilled water",
+"Bromothymol blue",
+"Eosin-Nigrosin",
+"2.9 percent Sodium Citrate"
+],
+"answer": "2.9 percent Sodium Citrate",
+"explanation": {
+"correct": "Sodium citrate 2.9% or 0.9% NaCl is used to dilute semen for motility - بنستخدم سترات الصوديوم عشان نخفف العينة ونشوف الحركة الفردية",
+"wrong_1": "Distilled water will cause osmotic shock and kill sperm - المايه المقطرة هتموت الحيوانات المنوية فورا",
+"wrong_2": "Bromothymol blue is a pH indicator, not a motility diluent - ده كاشف للـ pH ملوش دعوة بالحركة",
+"wrong_3": "Eosin-Nigrosin is a vital stain that kills sperm for counting - الصبغة دي بنموت بيها الحيوانات عشان نعد الحي والميت"
+}
+},
+{
+"question": "What is the effect of 'False Mount' and teasing on bull semen collection?",
+"options": [
+"Decreases volume",
+"Changes color to red",
+"Lowers pH significantly",
+"Increases ejaculate volume"
+],
+"answer": "Increases ejaculate volume",
+"explanation": {
+"correct": "Teasing and false mounts stimulate more secretion and increase volume - التحييز والقفز الوهمي بيزود إفرازات الغدد وبيزود كمية القذفة",
+"wrong_1": "It increases volume, it doesn't decrease it - العملية دي بتنشط مش بتقلل",
+"wrong_2": "Color change to red is pathological (trauma), not from teasing - اللون الأحمر ده إصابة مش نتيجة تحييز",
+"wrong_3": "pH might slightly change but the main effect is on volume - الـ pH مش هو التأثير الأساسي هنا"
+}
+},
+{
+"question": "Which species has the most acidic semen due to anaerobic metabolism?",
+"options": [
+"Boar",
+"Stallion",
+"Dog",
+"Ram"
+],
+"answer": "Ram",
+"explanation": {
+"correct": "Rams have highly concentrated semen which produces more lactic acid - الكبش سائلة مركز جدا فبيطلع لاكتيك كتير ويبقى حمضي",
+"wrong_1": "Boars have more alkaline semen - الخنزير سائلة بيميل للقلوي",
+"wrong_2": "Stallions have more alkaline semen due to bicarbonates - الحصان برضه قلوي بسبب البيكربونات",
+"wrong_3": "Dog semen is generally closer to neutral or slightly viscous - الكلب سائلة لزوجته مختلفة ومش مشهور بالحموضة العالية"
+}
+},
+{
+"question": "The term 'Urospermia' refers to contamination with what?",
+"options": [
+"Pus",
+"Blood",
+"Feces",
+"Urine"
+],
+"answer": "Urine",
+"explanation": {
+"correct": "Urospermia is the presence of urine in the semen sample - اليوروسبرميا يعني السائل منجمد بالبول",
+"wrong_1": "Pus in semen is called pyospermia - الصديد اسمه بايوسبرميا",
+"wrong_2": "Blood in semen is called hemospermia - الدم اسمه هيموسبرميا",
+"wrong_3": "Fecal contamination is just called fecal contamination - تلوث البراز ملوش مصطلح لاتيني شهير زيهم"
+}
+},
+{
+"question": "What is the normal consistency of Ram semen?",
+"options": [
+"Watery",
+"Viscous",
+"Milky",
+"Creamy"
+],
+"answer": "Creamy",
+"explanation": {
+"correct": "Ram semen is typically creamy due to very high sperm concentration - سائل الكبش بيبقى قوامه كريمي عشان تركيزه عالي جدا",
+"wrong_1": "Watery consistency in rams is abnormal and suggests low count - لو سائل الكبش مائي يبقى فيه مشكلة في التركيز",
+"wrong_2": "Viscous is more characteristic of dog semen - اللزوجة العالية دي بتاعة الكلاب",
+"wrong_3": "Milky is the normal consistency for a standard bull ejaculate - القوام اللبني ده بتاع التور الطبيعي"
+}
+},
+{
+"question": "Which equipment is used to maintain temperature during motility assessment?",
+"options": [
+"Centrifuge",
+"Autoclave",
+"Refrigerator",
+"Warm stage microscope"
+],
+"answer": "Warm stage microscope",
+"explanation": {
+"correct": "A warm stage (37 C) is essential to keep sperm motile during examination - لازم الميكروسكوب يكون فيه سخان عشان الحيوانات تفضل تتحرك",
+"wrong_1": "A centrifuge is used for separation, not for motility - الطرد المركزي بيستخدم للفصل مش للفحص",
+"wrong_2": "Autoclave is for sterilization - الأوتوكلاف ده للتعقيم",
+"wrong_3": "A refrigerator would cold-shock and stop sperm motility - الثلاجة هتعمل صدمة برد وتموت الحيوانات"
+}
+},
+{
+"question": "Sperm tail moves without changing the place of the sperm is called:",
+"options": [
+"Progressive",
+"Circling",
+"Rotating",
+"Oscillatory"
+],
+"answer": "Oscillatory",
+"explanation": {
+"correct": "Oscillatory motility involves vibration in place without forward progress - الاهتزاز يعني الحيوان بيلعب في مكانه مش بيتقدم",
+"wrong_1": "Progressive motility is a forward rectilinear movement - البروجريسيف يعني ماشي لقدام في خط مستقيم",
+"wrong_2": "Circling involves moving in a circular path - السيركلنج يعني بيلف في دوائر",
+"wrong_3": "Rotating involves spinning around the longitudinal axis - الروتيشن يعني بيلف حول نفسه"
+}
+},
+{
+"question": "Which of the following describes 'Weakly alive' sperm in vital staining?",
+"options": [
+"Counted as live",
+"Entirely white",
+"Entirely purple",
+"Counted with dead ones"
+],
+"answer": "Counted with dead ones",
+"explanation": {
+"correct": "Weakly alive sperm are grouped with dead sperm for evaluation purposes - الحيوانات الضعيفة بنحسبها مع الميتة عشان الدقة",
+"wrong_1": "They are not healthy enough to be counted as live - مقدرش أعتبرهم أحياء لأن جودتهم ضايعة",
+"wrong_2": "Entirely white sperm are the truly live and healthy ones - الأبيض بالكامل هو ده اللي حي وسليم",
+"wrong_3": "Entirely purple or red sperm are completely dead - الموف أو الأحمر بالكامل ده ميت وش"
+}
+},
+{
+"question": "What is the volume of a cat's ejaculate?",
+"options": [
+"2-5 ml",
+"10 ml",
+"1.5 ml",
+"0.3 ml"
+],
+"answer": "0.3 ml",
+"explanation": {
+"correct": "The cat has a very small semen volume, averaging 0.3 ml - القطة بتجيب كمية ضئيلة جدا يا دوب ٠.٣ ملي",
+"wrong_1": "2-5 ml is the range for humans - من ٢ لـ ٥ ملي ده في الإنسان",
+"wrong_2": "10 ml is the average for a dog - ١٠ ملي ده في الكلب",
+"wrong_3": "1.5 ml is the upper range for a ram - ١.٥ ملي ده آخر رينج الكبش"
+}
+},
+{
+"question": "Normal semen of stallion and boar is described as:",
+"options": [
+"Creamy and thick",
+"Milky and opaque",
+"Yellow and viscous",
+"Watery and viscous"
+],
+"answer": "Watery and viscous",
+"explanation": {
+"correct": "Stallion and boar semen are naturally more watery compared to ruminants - سائل الحصان والخنزير بيبقى خفيف وزي المايه",
+"wrong_1": "Creamy and thick is characteristic of the ram - الكريمي والتقيل ده بتاع الكبش",
+"wrong_2": "Milky and opaque is characteristic of the bull - اللبني ده بتاع التور",
+"wrong_3": "Yellow is only normal in specific bulls with riboflavin - الأصفر ده حالات خاصة في التيران مش في الخيل"
+}
+},
+{
+"question": "Which concentration grade corresponds to 'Milky' consistency in bull semen?",
+"options": [
+"Grade 3",
+"Grade 2",
+"Grade 0",
+"Grade 1"
+],
+"answer": "Grade 1",
+"explanation": {
+"correct": "Milky consistency is Grade 1, representing 200,000 to 500,000 sperm per mm3 - القوام اللبني ده درجة ١ وتركيزه متوسط",
+"wrong_1": "Grade 3 is Creamy consistency - درجة ٣ دي يعني كريمي وتقيل",
+"wrong_2": "Grade 2 is Thick Creamy consistency - درجة ٢ دي يعني كريمي سميك",
+"wrong_3": "Grade 0 is Watery consistency - درجة صفر يعني مائي خالص"
+}
+}
+]
