@@ -1,643 +1,642 @@
-
 [
-{
-"question": "What is the typical water content percentage in the chemical composition of fish?",
-"options": [
-"15-24%",
-"66-84%",
-"0.1-22%",
-"0.8-2%"
-],
-"answer": "66-84%",
-"explanation": {
-"correct": "Water is the primary constituent of fish muscle - المية هي المكون الأساسي للسمك وبتمثل من 66 لحد 84 في المية من وزنه",
-"wrong_1": "This is the range for protein content - دي نسبة البروتين مش المية وركز عشان ميتلخبطوش",
-"wrong_2": "This range represents the lipid or fat content - دي نسبة الدهون اللي بتختلف جدا حسب نوع السمكة",
-"wrong_3": "This represents the mineral content - دي نسبة المعادن ودي أقل حاجة في المكونات الأساسية"
-}
-},
-{
-"question": "Which substance acts as a specific indicator of fish decomposition when converted by bacteria?",
-"options": [
-"Trimethylamine",
-"Histidine",
-"Carnosine",
-"Anserine"
-],
-"answer": "Trimethylamine",
-"explanation": {
-"correct": "TMA is formed from TMAO by bacteria during spoilage - الـ تريميثيل أمين هو اللي بيعرفنا إن السمك بدأ يفسد وريحته بتبان",
-"wrong_1": "Histidine is an amino acid converted to histamine - الهستيدين ده حمض أميني بيتحول لهستامين في سمك التونة مش مؤشر فساد كلي",
-"wrong_2": "Carnosine is a nitrogenous extractable compound - الكارنوزين ده مركب نيتروجيني طبيعي موجود في العضلات ملوش علاقة مباشرة بالفساد",
-"wrong_3": "Anserine is a natural muscle constituent - الأنشرين موجود طبيعي في السمك كجزء من المركبات النيتروجينية"
-}
-},
-{
-"question": "How is a fish classified if its oil content is measured at 12%?",
-"options": [
-"Low oil content",
-"Medium oil content",
-"High oil content",
-"Very high oil content",
-],
-"answer": "Medium oil content",
-"explanation": {
-"correct": "Medium oil content ranges between 5% and 15% - السمك متوسط الدهون نسبته من 5 لـ 15 في المية زي سمك القرش",
-"wrong_1": "Low oil content is defined as being under 5% - السمك قليل الدهون نسبته لازم تكون أقل من 5 في المية",
-"wrong_2": "High oil content is defined as more than 15% - السمك عالي الدهون زي الرنجة والسلمون بيبقى فوق الـ 15 في المية",
-"wrong_3": "This category is not part of the standard fat classification - مفيش تصنيف رسمي اسمه عالي جدا في الدهون في المنهج بتاعنا"
-}
-},
-{
-"question": "In which anatomical direction does the oil content of fish muscle generally increase?",
-"options": [
-"From the head towards the tail",
-"From the tail towards the head",
-"Uniform distribution throughout",
-"From the skin towards the bone"
-],
-"answer": "From the tail towards the head",
-"explanation": {
-"correct": "Fat distribution increases as we move towards the head - نسبة الدهون بتزيد كل ما قربنا من ناحية الراس وبتقل ناحية الديل",
-"wrong_1": "This is the opposite of the actual fat distribution - العكس هو اللي صح الدهون بتقل ناحية الديل مش بتزيد",
-"wrong_2": "Oil content varies significantly by body part - الدهون مش متوزعة بالتساوي والتركيز الأكبر قدام",
-"wrong_3": "This is not a recognized anatomical variation in the text - التقسيمة دي مش موجودة في المنهج بخصوص توزيع الدهون"
-}
-},
-{
-"question": "Why is spoilage in fish more rapid compared to mammalian meat?",
-"options": [
-"Higher muscle acidity",
-"Slow autolytic enzyme activity",
-"Less acid reaction favoring microbes",
-"Longer duration of rigor mortis"
-],
-"answer": "Less acid reaction favoring microbes",
-"explanation": {
-"correct": "Low acidity (high pH) in fish promotes fast microbial growth - الحموضة القليلة في السمك بتخلي البكتيريا تنمو بسرعة جدا عكس اللحمة",
-"wrong_1": "Fish muscle has lower acidity than meat - السمك حموضته أقل مش أعلى وده بيسرع الفساد",
-"wrong_2": "Fish undergo very rapid autolysis - السمك إنزيماته قوية جدا وبتدمر الأنسجة بسرعة مش ببطء",
-"wrong_3": "Fish rigor mortis is shorter than in mammals - تيبس الرمة في السمك مدته قصيرة وده بيخلي الفساد يبدأ بدري"
-}
-},
-{
-"question": "What is the typical onset time for Rigor Mortis in fish after death?",
-"options": [
-"10-15 hours",
-"1-7 hours",
-"24-48 hours",
-"Immediately within minutes"
-],
-"answer": "1-7 hours",
-"explanation": {
-"correct": "Rigor mortis in fish starts relatively quickly, between 1 to 7 hours - التيبس الرمي في السمك بيبدأ من ساعة لـ 7 ساعات بعد الوفاة",
-"wrong_1": "This is too late for fish rigor mortis - المدة دي طويلة جدا السمك بيكون بدأ يفسد أصلا",
-"wrong_2": "This duration is more typical for large mammals - المواعيد دي بتاعة الحيوانات الكبيرة مش السمك",
-"wrong_3": "While it starts soon, it usually takes at least an hour - هو بيبدأ بسرعة بس مش في دقايق لازم ياخد وقته"
-}
-},
-{
-"question": "Which factor will significantly shorten the duration of Rigor Mortis in fish?",
-"options": [
-"Immediate refrigeration",
-"Struggling before death",
-"Slaughtering the fish",
-"Low environmental temperature"
-],
-"answer": "Struggling before death",
-"explanation": {
-"correct": "Muscular activity and struggling deplete glycogen and shorten rigor - المقاومة والرفرفة كتير قبل الموت بتخلص الطاقة وتخلي التيبس يخلص بسرعة",
-"wrong_1": "Refrigeration actually prolongs the duration of rigor mortis - التبريد بيخلي التيبس يقعد فترة أطول وده أحسن للحفظ",
-"wrong_2": "Slaughtering is recommended to prolong the rigor period - الدبح بيطول فترة التيبس الرمي مش بيقصرها",
-"wrong_3": "Low temperatures delay the onset and prolong the course - الحرارة الواطية بتطول مدة التيبس مش بتقصرها"
-}
-},
-{
-"question": "Autolysis in fish is primarily characterized by which process?",
-"options": [
-"Bacterial production of ammonia",
-"Self-degradation by body enzymes",
-"Oxidation of unsaturated fatty acids",
-"Contamination from mud and water"
-],
-"answer": "Self-degradation by body enzymes",
-"explanation": {
-"correct": "Autolysis is the breakdown of tissues by the fish's own enzymes - التحلل الذاتي يعني إنزيمات السمكة هي اللي بتهضم أنسجتها بنفسها",
-"wrong_1": "This describes bacterial decomposition - ده وصف للتحلل البكتيري مش التحلل الذاتي بالإنزيمات",
-"wrong_2": "This describes fat rancidity - ده وصف لزرنخة الدهون وتأكسدها ملوش دعوة بالتحلل الذاتي للبروتين",
-"wrong_3": "This is a source of external contamination - ده مصدر خارجي للتلوث مش عملية كيميائية حيوية جوه السمكة"
-}
-},
-{
-"question": "Why do flat fish decompose more rapidly than round fish?",
-"options": [
-"They have higher fat content",
-"They pass into rigor mortis faster",
-"They have more skin slime",
-"They are resistant to autolysis"
-],
-"answer": "They pass into rigor mortis faster",
-"explanation": {
-"correct": "Faster rigor mortis leads to earlier onset of spoilage - السمك المفلطح بيدخل في التيبس بسرعة وبالتالي بيفسد أسرع من المستدير",
-"wrong_1": "Shape does not strictly dictate fat content in this context - الشكل ملوش علاقة مباشرة بنسبة الدهون في القاعدة دي",
-"wrong_2": "Slime is a factor for all fish, not specific to flat fish speed - المخاط موجود في كله بس السرعة هنا مرتبطة بالتيبس الرمي",
-"wrong_3": "No fish is resistant to autolysis - مفيش سمك مقاوم للتحلل الذاتي ده بيحصل في الكل"
-}
-},
-{
-"question": "What is the primary route of bacterial contamination from the environment to the fish flesh?",
-"options": [
-"Directly through the scales",
-"Gills to vascular system",
-"Through the tail fins",
-"From the gallbladder"
-],
-"answer": "Gills to vascular system",
-"explanation": {
-"correct": "Bacteria enter via the gills and spread through the blood vessels - البكتيريا بتدخل من الخياشيم ومنها للدم وتنتشر في كل اللحم",
-"wrong_1": "The skin and scales act as a barrier unless damaged - الجلد والقشور بيحموا السمكة وصعب البكتيريا تخترقهم وهما سلام",
-"wrong_2": "Fins are not the primary gateway for internal contamination - الزعانف مش هي المدخل الرئيسي للميكروبات",
-"wrong_3": "The gallbladder is internal and not a primary entry route - المرارة جوه أصلا مش مصدر دخول خارجي"
-}
-},
-{
-"question": "Which bacterial species is a major producer of histamine in scombroid poisoning?",
-"options": [
-"Salmonella typhi",
-"Morganella morganii",
-"Staphylococcus aureus",
-"Clostridium botulinum"
-],
-"answer": "Morganella morganii",
-"explanation": {
-"correct": "Morganella morganii is a potent decaboxylator of histidine - المورجانيلا هي أشهر بكتيريا بتحول الهستيدين لهستامين وتعمل تسمم",
-"wrong_1": "Salmonella causes infection, not scombroid poisoning - السالمونيلا بتعمل عدوى بكتيرية مش تسمم هستامين",
-"wrong_2": "Staph causes intoxication via enterotoxins - الاستاف بتعمل تسمم عن طريق سمومها المعوية مش الهستامين",
-"wrong_3": "Clostridium causes botulism, a neuroparalytic disease - الكلوستريديوم بتعمل التسمم الممباري ملوش علاقة بالسمك السكمبرويد"
-}
-},
-{
-"question": "What is the permissible limit of histamine in fish to avoid poisoning?",
-"options": [
-"20 mg %",
-"500 ppm",
-"1000 ppm",
-"50 ppm"
-],
-"answer": "50 ppm",
-"explanation": {
-"correct": "The safe limit is generally set at 50 parts per million - الحد المسموح به هو 50 جزء في المليون عشان نضمن السلامة",
-"wrong_1": "20 mg % is the level at which symptoms often start - الرقم ده هو اللي بيبدأ عنده ظهور الأعراض المرضية",
-"wrong_2": "500 ppm is way above the safety threshold - ده رقم عالي جدا وخطير جدا يسبب تسمم فوري",
-"wrong_3": "1000 ppm is extremely toxic - الرقم ده كارثي ومستحيل يكون حد مسموح بيه"
-}
-},
-{
-"question": "Scombroid poisoning is most commonly associated with which fish family?",
-"options": [
-"Cyprinidae (Carp)",
-"Scombridae (Tuna/Mackerel)",
-"Gadidae (Cod)",
-"Siluridae (Catfish)"
-],
-"answer": "Scombridae (Tuna/Mackerel)",
-"explanation": {
-"correct": "Scombridae family fish are rich in histidine - عيلة السكمبرويد زي التونة والماكريل هي اللي فيها هستيدين كتير وبيسبب التسمم ده",
-"wrong_1": "Carp belongs to Cyprinidae and isn't a typical scombroid source - الكارب ملوش علاقة بتسمم الهستامين بتاع السكمبرويد",
-"wrong_2": "Cod is a low-fat fish not typically associated with histamine - الكود سمك أبيض مش مشهور بقصة الهستامين دي",
-"wrong_3": "Catfish are not part of the scombroid group - القرموط مش من العيلة اللي بتعمل التسمم ده"
-}
-},
-{
-"question": "Which of the following symptoms is characteristic of scombroid (histamine) poisoning?",
-"options": [
-"Flushing and rash of the face",
-"Motor paralysis and convulsions",
-"Jaundice and liver failure",
-"Bone marrow suppression"
-],
-"answer": "Flushing and rash of the face",
-"explanation": {
-"correct": "Histamine causes an allergic-like reaction with flushing - الهستامين بيعمل حساسية ووش المريض بيحمر ويظهر فيه طفح جلدي",
-"wrong_1": "These are symptoms of neurotoxins like tetrodotoxin - دي أعراض سموم الأعصاب زي اللي في سمك القراض مش الهستامين",
-"wrong_2": "Histamine poisoning is acute and rarely involves the liver - تسمم الهستامين سريع جدا ومالوش دعوة بفشل الكبد",
-"wrong_3": "This is a chronic toxic effect, not an acute fish poisoning symptom - ده تأثير مزمن لبعض الكيماويات مش تسمم سمك سريع"
-}
-},
-{
-"question": "Which biotoxin is found in the puffer fish (Tetraodontidae)?",
-"options": [
-"Saxitoxin",
-"Tetrodotoxin",
-"Ciguatoxin",
-"Aflatoxin"
-],
-"answer": "Tetrodotoxin",
-"explanation": {
-"correct": "Tetrodotoxin is the lethal neurotoxin found in puffer fish - سم التيترودوتوكسين هو السم القاتل الموجود في سمكة القراض",
-"wrong_1": "Saxitoxin is associated with Paralytic Shellfish Poisoning - الساكسيتوكسين ده بتاع القواقع والمحار مش القراض",
-"wrong_2": "Ciguatoxin is produced by algae in reef fish - السيجواتوكسين بيجي من الطحالب في سمك الشعاب المرجانية",
-"wrong_3": "Aflatoxin is a fungal toxin found in grains - الأفلاتوكسين ده سم فطري ملوش علاقة بالسمك خالص"
-}
-},
-{
-"question": "What is 'Ichthyo-o-toxism' specifically related to in fish?",
-"options": [
-"Toxic blood",
-"Toxic skin and muscle",
-"Toxic gonads or eggs",
-"Toxic venomous spines"
-],
-"answer": "Toxic gonads or eggs",
-"explanation": {
-"correct": "Ichthyo-o-toxism refers to toxicity of the reproductive organs - ده تسمم بيحصل بسبب أكل بيض السمك أو المناسل بتاعته وقت التبويض",
-"wrong_1": "Toxicity from blood is called Ichthyohaemotoxism - تسمم الدم اسمه إيكثيو-هيمو-توكسيزم",
-"wrong_2": "Toxicity from flesh is called Ichthyosarcotoxism - تسمم اللحم نفسه اسمه إيكثيو-ساركو-توكسيزم",
-"wrong_3": "Toxicity from spines is called Ichthyoacanthotoxism - تسمم الأشواك والزعانف اسمه إيكثيو-أكانثو-توكسيزم"
-}
-},
-{
-"question": "Ingestion of raw eel blood can cause which type of poisoning?",
-"options": [
-"Ichthyohaemotoxism",
-"Ichthyosarcotoxism",
-"Scombroid poisoning",
-"Ciguatera poisoning"
-],
-"answer": "Ichthyohaemotoxism",
-"explanation": {
-"correct": "Eel blood contains toxins that are destroyed by heat - دم الثعابين فيه سموم بتعمل تسمم دموي لو اتأكل ناي بس الطبيخ بيكسرها",
-"wrong_1": "This refers to muscle/flesh toxicity - الساركو ده يعني لحم والسم هنا في الدم مش اللحم",
-"wrong_2": "Eels are not scombroid fish - الثعابين مش من عيلة السكمبرويد ولا بتعمل تسمم هستامين",
-"wrong_3": "Ciguatera comes from algae, not eel blood - السيجواتيرا سببها طحالب مش دم سمك التعبان"
-}
-},
-{
-"question": "Which organism produces the saxitoxin responsible for Paralytic Shellfish Poisoning (PSP)?",
-"options": [
-"Bacteria",
-"Viruses",
-"Dinoflagellates",
-"Fungi"
-],
-"answer": "Dinoflagellates",
-"explanation": {
-"correct": "Dinoflagellates are plant-like protozoa that bloom during red tides - الداينوفلاجيلات دي طحالب وحيدة الخلية بتعمل ظاهرة المد الأحمر وتنتج السم",
-"wrong_1": "While bacteria cause spoilage, they don't produce saxitoxin - البكتيريا بتفسد السمك بس مش هي اللي بتطلع الساكسيتوكسين",
-"wrong_2": "Viruses like Hepatitis A contaminate shellfish but don't produce toxins - الفيروسات بتلوث المحار بس مش بتفرز سموم كيميائية",
-"wrong_3": "Fungi are not involved in PSP - الفطريات ملهاش دور في قصة تسمم المحار الشللي"
-}
-},
-{
-"question": "What is the primary cause of 'Red Tides' in the ocean?",
-"options": [
-"Industrial chemical pollution",
-"Massive bloom of dinoflagellates",
-"High concentration of fish blood",
-"Accumulation of iron oxide"
-],
-"answer": "Massive bloom of dinoflagellates",
-"explanation": {
-"correct": "Red tides are caused by a rapid increase in toxic algae population - المد الأحمر ده عبارة عن انفجار في عدد الطحالب السامة اللي بتلون المية",
-"wrong_1": "Pollution can trigger blooms but isn't the definition of red tide - التلوث ممكن يساعد بس المد الأحمر نفسه كائنات حية",
-"wrong_2": "Fish blood does not color entire oceans on this scale - دم السمك مستحيل يلون البحر كله بالشكل ده",
-"wrong_3": "Iron oxide is an inorganic cause, not biological - أكاسيد الحديد ملهاش علاقة بالظاهرة الحيوية دي"
-}
-},
-{
-"question": "In fish preservation, what is the maximum recommended storage time for chilling in ice?",
-"options": [
-"2 days",
-"10 days",
-"30 days",
-"6 months"
-],
-"answer": "10 days",
-"explanation": {
-"correct": "Chilling in ice is only effective for short-term preservation up to 10 days - التبريد في التلج اخره 10 أيام وبعد كدة السمك يبدأ يبوظ",
-"wrong_1": "This is too short; chilling can last longer - يومين قليل جدا السمك بيعيش أكتر من كدة في التلج",
-"wrong_2": "Chilling cannot preserve fish for a full month - شهر كتير جدا على التبريد السمك هيهري ويفسد",
-"wrong_3": "Six months requires deep freezing, not just chilling - ست شهور دي محتاجة تجميد مش مجرد شوية تلج"
-}
-},
-{
-"question": "Which bacteria typically appear and increase in number after 10 days of ice chilling?",
-"options": [
-"Salmonella",
-"Flavobacterium",
-"Staphylococcus",
-"Brucella"
-],
-"answer": "Flavobacterium",
-"explanation": {
-"correct": "After 10 days, Pseudomonas decreases and Flavobacterium increases - بعد 10 أيام بكتيريا السيدوموناس بتقل والفلافوباكتيريوم بتزيد",
-"wrong_1": "Salmonella is a contaminant, not a standard chilling microflora - السالمونيلا تلوث خارجي مش هي اللي بتظهر طبيعي مع طول مدة التبريد",
-"wrong_2": "Staph usually comes from human handling - الاستاف بتيجي من إيد العمال مش من بيئة التبريد نفسها",
-"wrong_3": "Brucella is not a fish-related spoilage bacterium - البروسيللا بتاعة مواشي ولبن ملهاش دعوة بفساد السمك"
-}
-},
-{
-"question": "What is a major disadvantage of using solar salt instead of rock salt for fish preservation?",
-"options": [
-"It is too expensive",
-"It contains Pseudomonas salinaris",
-"It does not dissolve in water",
-"It has zero mineral content"
-],
-"answer": "It contains Pseudomonas salinaris",
-"explanation": {
-"correct": "Solar salt is often contaminated, leading to red discoloration - الملح الشمسي بيبقى فيه بكتيريا بتعمل لون أحمر وفساد في السمك المملح",
-"wrong_1": "Solar salt is generally cheaper, not more expensive - الملح الشمسي أرخص بس مشاكله كتير",
-"wrong_2": "All salts used for fish are soluble - أي ملح هيتحط على السمك لازم هيدوب مع الوقت",
-"wrong_3": "Solar salt actually has MORE impurities (minerals) - الملح الشمسي فيه شوائب ومعادن كتير مش صفر"
-}
-},
-{
-"question": "How do impurities like calcium and magnesium affect the salting process of fish?",
-"options": [
-"They accelerate salt penetration",
-"They retard salt penetration",
-"They have no effect on quality",
-"They kill all bacteria instantly"
-],
-"answer": "They retard salt penetration",
-"explanation": {
-"correct": "Impurities slow down the movement of salt into the fish tissues - وجود كالسيوم وماغنسيوم في الملح بيعطل دخول الملح جوه السمكة",
-"wrong_1": "On the contrary, they slow it down - بالعكس دول بيعطلوا العملية مش بيسرعوها",
-"wrong_2": "They affect color, firmness, and preservation rate - بيأثروا جدا على جودة السمكة ولونها وتماسكها",
-"wrong_3": "Minerals are not disinfectants - المعادن دي مش مطهرات عشان تموت البكتيريا"
-}
-},
-{
-"question": "Which preservation method involves 'Brining' followed by 'Drying' and then 'Smoking'?",
-"options": [
-"Canning",
-"Freezing",
-"Smoking",
-"Chilling"
-],
-"answer": "Smoking",
-"explanation": {
-"correct": "Smoking is a multi-step process involving brining and drying - التدخين بيمر بمراحل التمليح الخفيف والتجفيف وبعدين الدخان",
-"wrong_1": "Canning involves sealing in containers and heat sterilization - التعليب عبارة عن غلي وقفل علب مش تدخين",
-"wrong_2": "Freezing only involves reducing temperature - التجميد درجة حرارة بس ملوش دعوة بالملح والدخان",
-"wrong_3": "Chilling only uses ice - التبريد تلج وبس"
-}
-},
-{
-"question": "At what temperature range should freezing be maintained to stop enzymes and bacteria?",
-"options": [
-"0°C to 5°C",
-"Below 0°C to -5°C",
-"10°C to 15°C",
-"Strictly 100°C"
-],
-"answer": "Below 0°C to -5°C",
-"explanation": {
-"correct": "Freezing below 0°C is necessary to halt biological activity - التجميد لازم ينزل تحت الصفر عشان يوقف الإنزيمات والبكتيريا",
-"wrong_1": "This is the chilling range, which only slows activity - ده مدى التبريد مش التجميد وده بيقلل النشاط بس مش بيوقفه",
-"wrong_2": "This is room temperature range, which encourages spoilage - دي درجة حرارة تخلي السمك يفسد في ساعات",
-"wrong_3": "This is boiling temperature, used for canning/cooking - دي درجة الغليان ملهاش علاقة بالتجميد خالص"
-}
-},
-{
-"question": "What is the incubation period for ciguatera poisoning?",
-"options": [
-"Few hours",
-"10-14 days",
-"Exactly 24 hours",
-"3-5 minutes"
-],
-"answer": "Few hours",
-"explanation": {
-"correct": "Ciguatera symptoms usually appear within a few hours of ingestion - تسمم السيجواتيرا بيظهر بسرعة في خلال ساعات قليلة من الأكل",
-"wrong_1": "This is too long for a biotoxin - المدة دي بتاعة أمراض ميكروبية تانية مش سموم طحالب",
-"wrong_2": "It is not fixed at 24 hours; it is usually faster - هو أسرع من يوم كامل بكتير",
-"wrong_3": "While fast, it usually takes more than a couple of minutes - دقايق دي قليلة جدا لازم السم يمتص الأول"
-}
-},
-{
-"question": "Which toxin is associated with Diarrhetic Shellfish Poisoning (DSP)?",
-"options": [
-"Heat stable toxin",
-"Heat labile toxin",
-"Volatile oil",
-"Formaldehyde"
-],
-"answer": "Heat stable toxin",
-"explanation": {
-"correct": "DSP toxins are heat stable and not destroyed by cooking - سموم الـ DSP مش بتكسر بالحرارة يعني الطبيخ مش هيحمي منها",
-"wrong_1": "Heat labile means it would be destroyed by cooking, which is false here - لو بتتكسر بالحرارة كان زمان السلق نفع معاها بس هي ثابتة",
-"wrong_2": "Volatile oils are not the cause of DSP - الزيوت الطيارة ملهاش علاقة بتسمم المحار",
-"wrong_3": "Formaldehyde is a preservative, not a shellfish toxin - الفورمالدهيد ده مادة حفظ مش سم طحالب"
-}
-},
-{
-"question": "Which specific algae is the source of Ciguatoxin in reef fish?",
-"options": [
-"Gambierdiscus toxicus",
-"Pseudomonas salinaris",
-"Morganella morganii",
-"Salmonella"
-],
-"answer": "Gambierdiscus toxicus",
-"explanation": {
-"correct": "Gambierdiscus toxicus is the primary algae producing ciguatoxin - طحلب الجامبيرديسكوس هو المصدر الأساسي لسم السيجواتيرا",
-"wrong_1": "This is a salt-loving bacterium found in solar salt - دي بكتيريا الملح مش طحالب سمك الشعاب",
-"wrong_2": "This is a bacterium that produces histamine - دي بكتيريا بتعمل هستامين ملهاش دعوة بالسيجواتيرا",
-"wrong_3": "Salmonella is a pathogen causing food infection - السالمونيلا عدوى بكتيرية مش سم طحالب"
-}
-},
-{
-"question": "Why is it advised to avoid consuming large reef fish to prevent Ciguatera?",
-"options": [
-"Large fish have more bones",
-"Toxins accumulate more in larger, older fish",
-"Small fish taste better",
-"Large fish are harder to cook"
-],
-"answer": "Toxins accumulate more in larger, older fish",
-"explanation": {
-"correct": "Ciguatoxin bioaccumulates up the food chain - السم بيتراكم في جسم السمك الكبير عشان بياكل سمك صغير ملوث فتركيز السم بيزيد",
-"wrong_1": "Bone content is irrelevant to toxicity - العضم ملوش علاقة بموضوع السموم ده خالص",
-"wrong_2": "Flavor is not the safety concern here - الطعم مش هو السبب اللي بيخلينا نخاف من السمك الكبير",
-"wrong_3": "Cooking difficulty is not the reason for avoiding large fish - الصعوبة في السوا ملهاش علاقة بالتسمم"
-}
-},
-{
-"question": "Which of these is a miscellaneous nitrogenous compound found in fish?",
-"options": [
-"Glycogen",
-"Anserine",
-"Vitamin D",
-"Calcium"
-],
-"answer": "Anserine",
-"explanation": {
-"correct": "Anserine is a specific nitrogenous extractable compound in fish - الأنشرين من المركبات النيتروجينية اللي بتميز عضلات السمك",
-"wrong_1": "Glycogen is a carbohydrate - الجليكوجين ده نشا حيواني مش مركب نيتروجيني",
-"wrong_2": "Vitamin D is a fat-soluble vitamin - فيتامين د ده فيتامينات مش مركبات نيتروجينية مستخلصة",
-"wrong_3": "Calcium is a mineral - الكالسيوم ده معدن مش مركب عضوي نيتروجيني"
-}
-},
-{
-"question": "What happens to the fat and protein content in female Mackerel after spawning?",
-"options": [
-"Fat increases and protein decreases",
-"Protein in male becomes less than female",
-"Reverse occur (Protein in male > female)",
-"Chemical composition remains static"
-],
-"answer": "Reverse occur (Protein in male > female)",
-"explanation": {
-"correct": "Post-spawning, the protein ratio between sexes can reverse - بعد وضع البيض في سمك الماكريل النسب بتتعكس والذكر بيبقى بروتينه أعلى",
-"wrong_1": "This is not the specific change mentioned for spawning - التغيير المذكور في المنهج متعلق بالفرق بين الذكر والأنثى مش بس زيادة دهون",
-"wrong_2": "This describes the state BEFORE the reverse occurs - ده الوضع العادي بس بعد التبويض بيحصل العكس",
-"wrong_3": "Chemical composition is highly dynamic in fish - كيميا السمك متغيرة جدا مش ثابتة"
-}
-},
-{
-"question": "Which tissue type in fish is generally higher in oil and lower in protein?",
-"options": [
-"Light muscle",
-"Dark muscle",
-"Connective tissue",
-"Bone marrow"
-],
-"answer": "Dark muscle",
-"explanation": {
-"correct": "Dark muscle contains more lipids and fewer proteins than light muscle - العضلات الغامقة في السمك فيها دهون أكتر وبروتين أقل من الفاتحة",
-"wrong_1": "Light muscle is higher in protein and lower in oil - العضلات الفاتحة هي اللي فيها بروتين كتير ودهون قليلة",
-"wrong_2": "Connective tissue is primarily collagen - النسيج الضام ده كولاجين ملوش علاقة بتصنيف الفاتح والغامق ده",
-"wrong_3": "Bone marrow is not a primary muscle tissue type in fish - نخاع العضم ملوش علاقة بكلامنا عن لحم السمك"
-}
-},
-{
-"question": "Atlantic Salmon in spring contains 2% fat, while in autumn it contains:",
-"options": [
-"0.5% fat",
-"8.6% fat",
-"25% fat",
-"2% fat"
-],
-"answer": "8.6% fat",
-"explanation": {
-"correct": "Seasonal variation significantly increases fat content in autumn - السلمون في الخريف دهونه بتزيد جدا وبتبقى حوالي 8.6 في المية",
-"wrong_1": "Fat increases in autumn, not decreases - الدهون بتزيد في الخريف مش بتقل لـ نص في المية",
-"wrong_2": "25% is too high for salmon in any season - نسبة 25 في المية دي مبالغ فيها جدا",
-"wrong_3": "2% is the spring level; it changes by autumn - الـ 2 في المية دي بتاعة الربيع مش الخريف"
-}
-},
-{
-"question": "What is the primary effect of fish oils having high unsaturated fatty acids?",
-"options": [
-"Resistance to spoilage",
-"Susceptibility to oxidative deterioration",
-"High boiling point",
-"Prevention of bacterial growth"
-],
-"answer": "Susceptibility to oxidative deterioration",
-"explanation": {
-"correct": "Unsaturated fats react quickly with oxygen, causing rancidity - الدهون غير المشبعة بتتفاعل مع الأكسجين وتزنخ بسرعة جدا",
-"wrong_1": "On the contrary, they make fish spoil faster - بالعكس دي بتخلي السمك يبوظ أسرع",
-"wrong_2": "Unsaturation doesn't define the boiling point in this context - ملهاش علاقة بنقطة الغليان هنا خالص",
-"wrong_3": "Fats do not prevent bacterial growth - الدهون مش مادة حافظة ضد البكتيريا"
-}
-},
-{
-"question": "Rigor mortis in fish proceeds in which direction?",
-"options": [
-"From tail to head",
-"From head to tail",
-"From belly to back",
-"Simultaneously everywhere"
-],
-"answer": "From head to tail",
-"explanation": {
-"correct": "Rigor mortis starts at the head and moves toward the tail - التيبس الرمي بيبدأ من الراس وينزل لتحت لحد الديل",
-"wrong_1": "This is the reverse of the actual biological sequence - العكس هو اللي بيحصل الراس بتبدأ الأول",
-"wrong_2": "This is not the recognized clinical direction - مفيش اتجاه من البطن للضهر في المنهج",
-"wrong_3": "It follows a specific anatomical wave - هو بيمشي بالترتيب مش مرة واحدة في الجسم كله"
-}
-},
-{
-"question": "Which of these nitrogenous compounds is found in shark and sturgeon muscle?",
-"options": [
-"High levels of Urea",
-"Lactic acid only",
-"Glucose",
-"Aflatoxin"
-],
-"answer": "High levels of Urea",
-"explanation": {
-"correct": "Sharks and sturgeons naturally have urea in their muscles - سمك القرش والستيرجون في عضلاتهم يوريا بشكل طبيعي",
-"wrong_1": "Lactic acid forms after death but isn't the primary NPN here - حمض اللاكتيك بيطلع بعد الوفاة بس مش هو اللي بيميز عضلات القرش",
-"wrong_2": "Glucose is a sugar, not a nitrogenous compound - الجلوكوز سكر ملوش دعوة بالمركبات النيتروجينية",
-"wrong_3": "Aflatoxin is a fungal poison - الأفلاتوكسين سم فطري ملوش علاقة بتركيب السمك الطبيعي"
-}
-},
-{
-"question": "What happens if fish are stored at the bottom of a container without ice?",
-"options": [
-"They stay fresher due to pressure",
-"Anaerobic bacterial growth occurs",
-"Enzymes are completely destroyed",
-"They develop a better flavor"
-],
-"answer": "Anaerobic bacterial growth occurs",
-"explanation": {
-"correct": "Lack of ice and air at the bottom favors anaerobic spoilage - لو السمك اترص تحت من غير تلج هيتخنق وتنمو فيه بكتيريا لا هوائية",
-"wrong_1": "Pressure actually damages fish tissue - الضغط بيهري السمك مش بيخليه طازة",
-"wrong_2": "Chilling only retards enzymes, doesn't destroy them - التبريد بيبطأ الإنزيمات بس مش بيموتها",
-"wrong_3": "Anaerobic growth produces foul odors, not better flavor - البكتيريا اللا هوائية بتطلع ريحة وحشة جدا"
-}
-},
-{
-"question": "Which of these is a symptom of neurotoxic shellfish poisoning (NSP)?",
-"options": [
-"Similar to PSP but less severe",
-"Identical to Salmonellosis",
-"Instant death within seconds",
-"Liver cirrhosis"
-],
-"answer": "Similar to PSP but less severe",
-"explanation": {
-"correct": "NSP is caused by similar toxins as PSP but results in milder symptoms - الـ NSP زي الـ PSP بس أعراضه أخف شوية ومش بتموت بسرعة زيه",
-"wrong_1": "Salmonellosis is a bacterial infection with fever - السالمونيلا عدوى بكتيرية حرارة وإسهال ملهاش علاقة بتسمم الأعصاب",
-"wrong_2": "Shellfish toxins take time to act; not instant - السموم دي بتاخد وقت عشان تظهر مش في ثواني",
-"wrong_3": "Liver cirrhosis is a chronic condition - تليف الكبد ده مرض مزمن مش تسمم حاد من محار"
-}
-},
-{
-"question": "What can be done to reduce the incidence of Diarrhetic Shellfish Poisoning (DSP)?",
-"options": [
-"Cooking at high temperature",
-"Removing the digestive organs",
-"Washing with fresh water",
-"Adding vinegar to the fish"
-],
-"answer": "Removing the digestive organs",
-"explanation": {
-"correct": "Most DSP toxins accumulate in the digestive organs of shellfish - أغلب السموم بتاعة الـ DSP بتبقى متركزة في الجهاز الهضمي للمحار فلو شلناه بنقلل الخطر",
-"wrong_1": "DSP toxins are heat stable and survive cooking - السموم دي مبتموتش بالحرارة فالسلق مش هينفع",
-"wrong_2": "Washing does not remove internal toxins - الغسيل بينضف من بره بس السم بيبقى جوه الأنسجة",
-"wrong_3": "Vinegar does not neutralize DSP toxins - الخل مش هينفع مع نوع السموم ده"
-}
-},
-{
-"question": "What is the primary rule for fish preservation regarding the quality of the raw material?",
-"options": [
-"Any fish can be made good by salting",
-"Freezing improves bad quality fish",
-"Cannot convert bad fish to good one",
-"Smoking masks all spoilage signs"
-],
-"answer": "Cannot convert bad fish to good one",
-"explanation": {
-"correct": "Preservation only maintains existing quality; it doesn't improve it - القاعدة بتقول إن الحفظ بيحافظ على الحالة اللي السمك عليها لكن مش هيصلح سمك بايظ",
-"wrong_1": "Salting can only preserve what is already fresh - الملح مش هيخلي السمكة المعفنة ترجع طازة",
-"wrong_2": "Freezing bad fish just results in bad frozen fish - التجميد بيوقف الفساد بس مش بيلغيه",
-"wrong_3": "Smoking might hide odor but the toxins remain - التدخين ممكن يداري الريحة بس السمك هيفضل مضر"
-}
-}
+  {
+    "question": "What is the typical water content percentage in the chemical composition of fish?",
+    "options": [
+      "15-24%",
+      "66-84%",
+      "0.1-22%",
+      "0.8-2%"
+    ],
+    "answer": "66-84%",
+    "explanation": {
+      "correct": "Water is the primary constituent of fish muscle - المية هي المكون الأساسي للسمك وبتمثل من 66 لحد 84 في المية من وزنه",
+      "wrong_1": "This is the range for protein content - دي نسبة البروتين مش المية وركز عشان ميتلخبطوش",
+      "wrong_2": "This range represents the lipid or fat content - دي نسبة الدهون اللي بتختلف جدا حسب نوع السمكة",
+      "wrong_3": "This represents the mineral content - دي نسبة المعادن ودي أقل حاجة في المكونات الأساسية"
+    }
+  },
+  {
+    "question": "Which substance acts as a specific indicator of fish decomposition when converted by bacteria?",
+    "options": [
+      "Trimethylamine",
+      "Histidine",
+      "Carnosine",
+      "Anserine"
+    ],
+    "answer": "Trimethylamine",
+    "explanation": {
+      "correct": "TMA is formed from TMAO by bacteria during spoilage - الـ تريميثيل أمين هو اللي بيعرفنا إن السمك بدأ يفسد وريحته بتبان",
+      "wrong_1": "Histidine is an amino acid converted to histamine - الهستيدين ده حمض أميني بيتحول لهستامين في سمك التونة مش مؤشر فساد كلي",
+      "wrong_2": "Carnosine is a nitrogenous extractable compound - الكارنوزين ده مركب نيتروجيني طبيعي موجود في العضلات ملوش علاقة مباشرة بالفساد",
+      "wrong_3": "Anserine is a natural muscle constituent - الأنشرين موجود طبيعي في السمك كجزء من المركبات النيتروجينية"
+    }
+  },
+  {
+    "question": "How is a fish classified if its oil content is measured at 12%?",
+    "options": [
+      "Low oil content",
+      "Medium oil content",
+      "High oil content",
+      "Very high oil content"
+    ],
+    "answer": "Medium oil content",
+    "explanation": {
+      "correct": "Medium oil content ranges between 5% and 15% - السمك متوسط الدهون نسبته من 5 لـ 15 في المية زي سمك القرش",
+      "wrong_1": "Low oil content is defined as being under 5% - السمك قليل الدهون نسبته لازم تكون أقل من 5 في المية",
+      "wrong_2": "High oil content is defined as more than 15% - السمك عالي الدهون زي الرنجة والسلمون بيبقى فوق الـ 15 في المية",
+      "wrong_3": "This category is not part of the standard fat classification - مفيش تصنيف رسمي اسمه عالي جدا في الدهون في المنهج بتاعنا"
+    }
+  },
+  {
+    "question": "In which anatomical direction does the oil content of fish muscle generally increase?",
+    "options": [
+      "From the head towards the tail",
+      "From the tail towards the head",
+      "Uniform distribution throughout",
+      "From the skin towards the bone"
+    ],
+    "answer": "From the tail towards the head",
+    "explanation": {
+      "correct": "Fat distribution increases as we move towards the head - نسبة الدهون بتزيد كل ما قربنا من ناحية الراس وبتقل ناحية الديل",
+      "wrong_1": "This is the opposite of the actual fat distribution - العكس هو اللي صح الدهون بتقل ناحية الديل مش بتزيد",
+      "wrong_2": "Oil content varies significantly by body part - الدهون مش متوزعة بالتساوي والتركيز الأكبر قدام",
+      "wrong_3": "This is not a recognized anatomical variation in the text - التقسيمة دي مش موجودة في المنهج بخصوص توزيع الدهون"
+    }
+  },
+  {
+    "question": "Why is spoilage in fish more rapid compared to mammalian meat?",
+    "options": [
+      "Higher muscle acidity",
+      "Slow autolytic enzyme activity",
+      "Less acid reaction favoring microbes",
+      "Longer duration of rigor mortis"
+    ],
+    "answer": "Less acid reaction favoring microbes",
+    "explanation": {
+      "correct": "Low acidity (high pH) in fish promotes fast microbial growth - الحموضة القليلة في السمك بتخلي البكتيريا تنمو بسرعة جدا عكس اللحمة",
+      "wrong_1": "Fish muscle has lower acidity than meat - السمك حموضته أقل مش أعلى وده بيسرع الفساد",
+      "wrong_2": "Fish undergo very rapid autolysis - السمك إنزيماته قوية جدا وبتدمر الأنسجة بسرعة مش ببطء",
+      "wrong_3": "Fish rigor mortis is shorter than in mammals - تيبس الرمة في السمك مدته قصيرة وده بيخلي الفساد يبدأ بدري"
+    }
+  },
+  {
+    "question": "What is the typical onset time for Rigor Mortis in fish after death?",
+    "options": [
+      "10-15 hours",
+      "1-7 hours",
+      "24-48 hours",
+      "Immediately within minutes"
+    ],
+    "answer": "1-7 hours",
+    "explanation": {
+      "correct": "Rigor mortis in fish starts relatively quickly, between 1 to 7 hours - التيبس الرمي في السمك بيبدأ من ساعة لـ 7 ساعات بعد الوفاة",
+      "wrong_1": "This is too late for fish rigor mortis - المدة دي طويلة جدا السمك بيكون بدأ يفسد أصلا",
+      "wrong_2": "This duration is more typical for large mammals - المواعيد دي بتاعة الحيوانات الكبيرة مش السمك",
+      "wrong_3": "While it starts soon, it usually takes at least an hour - هو بيبدأ بسرعة بس مش في دقايق لازم ياخد وقته"
+    }
+  },
+  {
+    "question": "Which factor will significantly shorten the duration of Rigor Mortis in fish?",
+    "options": [
+      "Immediate refrigeration",
+      "Struggling before death",
+      "Slaughtering the fish",
+      "Low environmental temperature"
+    ],
+    "answer": "Struggling before death",
+    "explanation": {
+      "correct": "Muscular activity and struggling deplete glycogen and shorten rigor - المقاومة والرفرفة كتير قبل الموت بتخلص الطاقة وتخلي التيبس يخلص بسرعة",
+      "wrong_1": "Refrigeration actually prolongs the duration of rigor mortis - التبريد بيخلي التيبس يقعد فترة أطول وده أحسن للحفظ",
+      "wrong_2": "Slaughtering is recommended to prolong the rigor period - الدبح بيطول فترة التيبس الرمي مش بيقصرها",
+      "wrong_3": "Low temperatures delay the onset and prolong the course - الحرارة الواطية بتطول مدة التيبس مش بتقصرها"
+    }
+  },
+  {
+    "question": "Autolysis in fish is primarily characterized by which process?",
+    "options": [
+      "Bacterial production of ammonia",
+      "Self-degradation by body enzymes",
+      "Oxidation of unsaturated fatty acids",
+      "Contamination from mud and water"
+    ],
+    "answer": "Self-degradation by body enzymes",
+    "explanation": {
+      "correct": "Autolysis is the breakdown of tissues by the fish's own enzymes - التحلل الذاتي يعني إنزيمات السمكة هي اللي بتهضم أنسجتها بنفسها",
+      "wrong_1": "This describes bacterial decomposition - ده وصف للتحلل البكتيري مش التحلل الذاتي بالإنزيمات",
+      "wrong_2": "This describes fat rancidity - ده وصف لزرنخة الدهون وتأكسدها ملوش دعوة بالتحلل الذاتي للبروتين",
+      "wrong_3": "This is a source of external contamination - ده مصدر خارجي للتلوث مش عملية كيميائية حيوية جوه السمكة"
+    }
+  },
+  {
+    "question": "Why do flat fish decompose more rapidly than round fish?",
+    "options": [
+      "They have higher fat content",
+      "They pass into rigor mortis faster",
+      "They have more skin slime",
+      "They are resistant to autolysis"
+    ],
+    "answer": "They pass into rigor mortis faster",
+    "explanation": {
+      "correct": "Faster rigor mortis leads to earlier onset of spoilage - السمك المفلطح بيدخل في التيبس بسرعة وبالتالي بيفسد أسرع من المستدير",
+      "wrong_1": "Shape does not strictly dictate fat content in this context - الشكل ملوش علاقة مباشرة بنسبة الدهون في القاعدة دي",
+      "wrong_2": "Slime is a factor for all fish, not specific to flat fish speed - المخاط موجود في كله بس السرعة هنا مرتبطة بالتيبس الرمي",
+      "wrong_3": "No fish is resistant to autolysis - مفيش سمك مقاوم للتحلل الذاتي ده بيحصل في الكل"
+    }
+  },
+  {
+    "question": "What is the primary route of bacterial contamination from the environment to the fish flesh?",
+    "options": [
+      "Directly through the scales",
+      "Gills to vascular system",
+      "Through the tail fins",
+      "From the gallbladder"
+    ],
+    "answer": "Gills to vascular system",
+    "explanation": {
+      "correct": "Bacteria enter via the gills and spread through the blood vessels - البكتيريا بتدخل من الخياشيم ومنها للدم وتنتشر في كل اللحم",
+      "wrong_1": "The skin and scales act as a barrier unless damaged - الجلد والقشور بيحموا السمكة وصعب البكتيريا تخترقهم وهما سلام",
+      "wrong_2": "Fins are not the primary gateway for internal contamination - الزعانف مش هي المدخل الرئيسي للميكروبات",
+      "wrong_3": "The gallbladder is internal and not a primary entry route - المرارة جوه أصلا مش مصدر دخول خارجي"
+    }
+  },
+  {
+    "question": "Which bacterial species is a major producer of histamine in scombroid poisoning?",
+    "options": [
+      "Salmonella typhi",
+      "Morganella morganii",
+      "Staphylococcus aureus",
+      "Clostridium botulinum"
+    ],
+    "answer": "Morganella morganii",
+    "explanation": {
+      "correct": "Morganella morganii is a potent decarboxylator of histidine - المورجانيلا هي أشهر بكتيريا بتحول الهستيدين لهستامين وتعمل تسمم",
+      "wrong_1": "Salmonella causes infection, not scombroid poisoning - السالمونيلا بتعمل عدوى بكتيرية مش تسمم هستامين",
+      "wrong_2": "Staph causes intoxication via enterotoxins - الاستاف بتعمل تسمم عن طريق سمومها المعوية مش الهستامين",
+      "wrong_3": "Clostridium causes botulism, a neuroparalytic disease - الكلوستريديوم بتعمل التسمم الممباري ملوش علاقة بالسمك السكمبرويد"
+    }
+  },
+  {
+    "question": "What is the permissible limit of histamine in fish to avoid poisoning?",
+    "options": [
+      "20 mg %",
+      "500 ppm",
+      "1000 ppm",
+      "50 ppm"
+    ],
+    "answer": "50 ppm",
+    "explanation": {
+      "correct": "The safe limit is generally set at 50 parts per million - الحد المسموح به هو 50 جزء في المليون عشان نضمن السلامة",
+      "wrong_1": "20 mg % is the level at which symptoms often start - الرقم ده هو اللي بيبدأ عنده ظهور الأعراض المرضية",
+      "wrong_2": "500 ppm is way above the safety threshold - ده رقم عالي جدا وخطير جدا يسبب تسمم فوري",
+      "wrong_3": "1000 ppm is extremely toxic - الرقم ده كارثي ومستحيل يكون حد مسموح بيه"
+    }
+  },
+  {
+    "question": "Scombroid poisoning is most commonly associated with which fish family?",
+    "options": [
+      "Cyprinidae (Carp)",
+      "Scombridae (Tuna/Mackerel)",
+      "Gadidae (Cod)",
+      "Siluridae (Catfish)"
+    ],
+    "answer": "Scombridae (Tuna/Mackerel)",
+    "explanation": {
+      "correct": "Scombridae family fish are rich in histidine - عيلة السكمبرويد زي التونة والماكريل هي اللي فيها هستيدين كتير وبيسبب التسمم ده",
+      "wrong_1": "Carp belongs to Cyprinidae and isn't a typical scombroid source - الكارب ملوش علاقة بتسمم الهستامين بتاع السكمبرويد",
+      "wrong_2": "Cod is a low-fat fish not typically associated with histamine - الكود سمك أبيض مش مشهور بقصة الهستامين دي",
+      "wrong_3": "Catfish are not part of the scombroid group - القرموط مش من العيلة اللي بتعمل التسمم ده"
+    }
+  },
+  {
+    "question": "Which of the following symptoms is characteristic of scombroid (histamine) poisoning?",
+    "options": [
+      "Flushing and rash of the face",
+      "Motor paralysis and convulsions",
+      "Jaundice and liver failure",
+      "Bone marrow suppression"
+    ],
+    "answer": "Flushing and rash of the face",
+    "explanation": {
+      "correct": "Histamine causes an allergic-like reaction with flushing - الهستامين بيعمل حساسية ووش المريض بيحمر ويظهر فيه طفح جلدي",
+      "wrong_1": "These are symptoms of neurotoxins like tetrodotoxin - دي أعراض سموم الأعصاب زي اللي في سمك القراض مش الهستامين",
+      "wrong_2": "Histamine poisoning is acute and rarely involves the liver - تسمم الهستامين سريع جدا ومالوش دعوة بفشل الكبد",
+      "wrong_3": "This is a chronic toxic effect, not an acute fish poisoning symptom - ده تأثير مزمن لبعض الكيماويات مش تسمم سمك سريع"
+    }
+  },
+  {
+    "question": "Which biotoxin is found in the puffer fish (Tetraodontidae)?",
+    "options": [
+      "Saxitoxin",
+      "Tetrodotoxin",
+      "Ciguatoxin",
+      "Aflatoxin"
+    ],
+    "answer": "Tetrodotoxin",
+    "explanation": {
+      "correct": "Tetrodotoxin is the lethal neurotoxin found in puffer fish - سم التيترودوتوكسين هو السم القاتل الموجود في سمكة القراض",
+      "wrong_1": "Saxitoxin is associated with Paralytic Shellfish Poisoning - الساكسيتوكسين ده بتاع القواقع والمحار مش القراض",
+      "wrong_2": "Ciguatoxin is produced by algae in reef fish - السيجواتوكسين بيجي من الطحالب في سمك الشعاب المرجانية",
+      "wrong_3": "Aflatoxin is a fungal toxin found in grains - الأفلاتوكسين ده سم فطري ملوش علاقة بالسمك خالص"
+    }
+  },
+  {
+    "question": "What is 'Ichthyo-o-toxism' specifically related to in fish?",
+    "options": [
+      "Toxic blood",
+      "Toxic skin and muscle",
+      "Toxic gonads or eggs",
+      "Toxic venomous spines"
+    ],
+    "answer": "Toxic gonads or eggs",
+    "explanation": {
+      "correct": "Ichthyo-o-toxism refers to toxicity of the reproductive organs - ده تسمم بيحصل بسبب أكل بيض السمك أو المناسل بتاعته وقت التبويض",
+      "wrong_1": "Toxicity from blood is called Ichthyohaemotoxism - تسمم الدم اسمه إيكثيو-هيمو-توكسيزم",
+      "wrong_2": "Toxicity from flesh is called Ichthyosarcotoxism - تسمم اللحم نفسه اسمه إيكثيو-ساركو-توكسيزم",
+      "wrong_3": "Toxicity from spines is called Ichthyoacanthotoxism - تسمم الأشواك والزعانف اسمه إيكثيو-أكانثو-توكسيزم"
+    }
+  },
+  {
+    "question": "Ingestion of raw eel blood can cause which type of poisoning?",
+    "options": [
+      "Ichthyohaemotoxism",
+      "Ichthyosarcotoxism",
+      "Scombroid poisoning",
+      "Ciguatera poisoning"
+    ],
+    "answer": "Ichthyohaemotoxism",
+    "explanation": {
+      "correct": "Eel blood contains toxins that are destroyed by heat - دم الثعابين فيه سموم بتعمل تسمم دموي لو اتأكل ناي بس الطبيخ بيكسرها",
+      "wrong_1": "This refers to muscle/flesh toxicity - الساركو ده يعني لحم والسم هنا في الدم مش اللحم",
+      "wrong_2": "Eels are not scombroid fish - الثعابين مش من عيلة السكمبرويد ولا بتعمل تسمم هستامين",
+      "wrong_3": "Ciguatera comes from algae, not eel blood - السيجواتيرا سببها طحالب مش دم سمك التعبان"
+    }
+  },
+  {
+    "question": "Which organism produces the saxitoxin responsible for Paralytic Shellfish Poisoning (PSP)?",
+    "options": [
+      "Bacteria",
+      "Viruses",
+      "Dinoflagellates",
+      "Fungi"
+    ],
+    "answer": "Dinoflagellates",
+    "explanation": {
+      "correct": "Dinoflagellates are plant-like protozoa that bloom during red tides - الداينوفلاجيلات دي طحالب وحيدة الخلية بتعمل ظاهرة المد الأحمر وتنتج السم",
+      "wrong_1": "While bacteria cause spoilage, they don't produce saxitoxin - البكتيريا بتفسد السمك بس مش هي اللي بتطلع الساكسيتوكسين",
+      "wrong_2": "Viruses like Hepatitis A contaminate shellfish but don't produce toxins - الفيروسات بتلوث المحار بس مش بتفرز سموم كيميائية",
+      "wrong_3": "Fungi are not involved in PSP - الفطريات ملهاش دور في قصة تسمم المحار الشللي"
+    }
+  },
+  {
+    "question": "What is the primary cause of 'Red Tides' in the ocean?",
+    "options": [
+      "Industrial chemical pollution",
+      "Massive bloom of dinoflagellates",
+      "High concentration of fish blood",
+      "Accumulation of iron oxide"
+    ],
+    "answer": "Massive bloom of dinoflagellates",
+    "explanation": {
+      "correct": "Red tides are caused by a rapid increase in toxic algae population - المد الأحمر ده عبارة عن انفجار في عدد الطحالب السامة اللي بتلون المية",
+      "wrong_1": "Pollification can trigger blooms but isn't the definition of red tide - التلوث ممكن يساعد بس المد الأحمر نفسه كائنات حية",
+      "wrong_2": "Fish blood does not color entire oceans on this scale - دم السمك مستحيل يلون البحر كله بالشكل ده",
+      "wrong_3": "Iron oxide is an inorganic cause, not biological - أكاسيد الحديد ملهاش علاقة بالظاهرة الحيوية دي"
+    }
+  },
+  {
+    "question": "In fish preservation, what is the maximum recommended storage time for chilling in ice?",
+    "options": [
+      "2 days",
+      "10 days",
+      "30 days",
+      "6 months"
+    ],
+    "answer": "10 days",
+    "explanation": {
+      "correct": "Chilling in ice is only effective for short-term preservation up to 10 days - التبريد في التلج اخره 10 أيام وبعد كدة السمك يبدأ يبوظ",
+      "wrong_1": "This is too short; chilling can last longer - يومين قليل جدا السمك بيعيش أكتر من كدة في التلج",
+      "wrong_2": "Chilling cannot preserve fish for a full month - شهر كتير جدا على التبريد السمك هيهري ويفسد",
+      "wrong_3": "Six months requires deep freezing, not just chilling - ست شهور دي محتاجة تجميد مش مجرد شوية تلج"
+    }
+  },
+  {
+    "question": "Which bacteria typically appear and increase in number after 10 days of ice chilling?",
+    "options": [
+      "Salmonella",
+      "Flavobacterium",
+      "Staphylococcus",
+      "Brucella"
+    ],
+    "answer": "Flavobacterium",
+    "explanation": {
+      "correct": "After 10 days, Pseudomonas decreases and Flavobacterium increases - بعد 10 أيام بكتيريا السيدوموناس بتقل والفلافوباكتيريوم بتزيد",
+      "wrong_1": "Salmonella is a contaminant, not a standard chilling microflora - السالمونيلا تلوث خارجي مش هي اللي بتظهر طبيعي مع طول مدة التبريد",
+      "wrong_2": "Staph usually comes from human handling - الاستاف بتيجي من إيد العمال مش من بيئة التبريد نفسها",
+      "wrong_3": "Brucella is not a fish-related spoilage bacterium - البروسيللا بتاعة مواشي ولبن ملهاش دعوة بفساد السمك"
+    }
+  },
+  {
+    "question": "What is a major disadvantage of using solar salt instead of rock salt for fish preservation?",
+    "options": [
+      "It is too expensive",
+      "It contains Pseudomonas salinaris",
+      "It does not dissolve in water",
+      "It has zero mineral content"
+    ],
+    "answer": "It contains Pseudomonas salinaris",
+    "explanation": {
+      "correct": "Solar salt is often contaminated, leading to red discoloration - الملح الشمسي بيبقى فيه بكتيريا بتعمل لون أحمر وفساد في السمك المملح",
+      "wrong_1": "Solar salt is generally cheaper, not more expensive - الملح الشمسي أرخص بس مشاكله كتير",
+      "wrong_2": "All salts used for fish are soluble - أي ملح هيتحط على السمك لازم هيدوب مع الوقت",
+      "wrong_3": "Solar salt actually has MORE impurities (minerals) - الملح الشمسي فيه شوائب ومعادن كتير مش صفر"
+    }
+  },
+  {
+    "question": "How do impurities like calcium and magnesium affect the salting process of fish?",
+    "options": [
+      "They accelerate salt penetration",
+      "They retard salt penetration",
+      "They have no effect on quality",
+      "They kill all bacteria instantly"
+    ],
+    "answer": "They retard salt penetration",
+    "explanation": {
+      "correct": "Impurities slow down the movement of salt into the fish tissues - وجود كالسيوم وماغنسيوم في الملح بيعطل دخول الملح جوه السمكة",
+      "wrong_1": "On the contrary, they slow it down - بالعكس دول بيعطلوا العملية مش بيسرعوها",
+      "wrong_2": "They affect color, firmness, and preservation rate - بيأثروا جدا على جودة السمكة ولونها وتماسكها",
+      "wrong_3": "Minerals are not disinfectants - المعادن دي مش مطهرات عشان تموت البكتيريا"
+    }
+  },
+  {
+    "question": "Which preservation method involves 'Brining' followed by 'Drying' and then 'Smoking'?",
+    "options": [
+      "Canning",
+      "Freezing",
+      "Smoking",
+      "Chilling"
+    ],
+    "answer": "Smoking",
+    "explanation": {
+      "correct": "Smoking is a multi-step process involving brining and drying - التدخين بيمر بمراحل التمليح الخفيف والتجفيف وبعدين الدخان",
+      "wrong_1": "Canning involves sealing in containers and heat sterilization - التعليب عبارة عن غلي وقفل علب مش تدخين",
+      "wrong_2": "Freezing only involves reducing temperature - التجميد درجة حرارة بس ملوش دعوة بالملح والدخان",
+      "wrong_3": "Chilling only uses ice - التبريد تلج وبس"
+    }
+  },
+  {
+    "question": "At what temperature range should freezing be maintained to stop enzymes and bacteria?",
+    "options": [
+      "0°C to 5°C",
+      "Below 0°C to -5°C",
+      "10°C to 15°C",
+      "Strictly 100°C"
+    ],
+    "answer": "Below 0°C to -5°C",
+    "explanation": {
+      "correct": "Freezing below 0°C is necessary to halt biological activity - التجميد لازم ينزل تحت الصفر عشان يوقف الإنزيمات والبكتيريا",
+      "wrong_1": "This is the chilling range, which only slows activity - ده مدى التبريد مش التجميد وده بيقلل النشاط بس مش بيوقفه",
+      "wrong_2": "This is room temperature range, which encourages spoilage - دي درجة حرارة تخلي السمك يفسد في ساعات",
+      "wrong_3": "This is boiling temperature, used for canning/cooking - دي درجة الغليان ملهاش علاقة بالتجميد خالص"
+    }
+  },
+  {
+    "question": "What is the incubation period for ciguatera poisoning?",
+    "options": [
+      "Few hours",
+      "10-14 days",
+      "Exactly 24 hours",
+      "3-5 minutes"
+    ],
+    "answer": "Few hours",
+    "explanation": {
+      "correct": "Ciguatera symptoms usually appear within a few hours of ingestion - تسمم السيجواتيرا بيظهر بسرعة في خلال ساعات قليلة من الأكل",
+      "wrong_1": "This is too long for a biotoxin - المدة دي بتاعة أمراض ميكروبية تانية مش سموم طحالب",
+      "wrong_2": "It is not fixed at 24 hours; it is usually faster - هو أسرع من يوم كامل بكتير",
+      "wrong_3": "While fast, it usually takes more than a couple of minutes - دقايق دي قليلة جدا لازم السم يمتص الأول"
+    }
+  },
+  {
+    "question": "Which toxin is associated with Diarrhetic Shellfish Poisoning (DSP)?",
+    "options": [
+      "Heat stable toxin",
+      "Heat labile toxin",
+      "Volatile oil",
+      "Formaldehyde"
+    ],
+    "answer": "Heat stable toxin",
+    "explanation": {
+      "correct": "DSP toxins are heat stable and not destroyed by cooking - سموم الـ DSP مش بتكسر بالحرارة يعني الطبيخ مش هيحمي منها",
+      "wrong_1": "Heat labile means it would be destroyed by cooking, which is false here - لو بتتكسر بالحرارة كان زمان السلق نفع معاها بس هي ثابتة",
+      "wrong_2": "Volatile oils are not the cause of DSP - الزيوت الطيارة ملهاش علاقة بتسمم المحار",
+      "wrong_3": "Formaldehyde is a preservative, not a shellfish toxin - الفورمالدهيد ده مادة حفظ مش سم طحالب"
+    }
+  },
+  {
+    "question": "Which specific algae is the source of Ciguatoxin in reef fish?",
+    "options": [
+      "Gambierdiscus toxicus",
+      "Pseudomonas salinaris",
+      "Morganella morganii",
+      "Salmonella"
+    ],
+    "answer": "Gambierdiscus toxicus",
+    "explanation": {
+      "correct": "Gambierdiscus toxicus is the primary algae producing ciguatoxin - طحلب الجامبيرديسكوس هو المصدر الأساسي لسم السيجواتيرا",
+      "wrong_1": "This is a salt-loving bacterium found in solar salt - دي بكتيريا الملح مش طحالب سمك الشعاب",
+      "wrong_2": "This is a bacterium that produces histamine - دي بكتيريا بتعمل هستامين ملهاش دعوة بالسيجواتيرا",
+      "wrong_3": "Salmonella is a pathogen causing food infection - السالمونيلا عدوى بكتيرية مش سم طحالب"
+    }
+  },
+  {
+    "question": "Why is it advised to avoid consuming large reef fish to prevent Ciguatera?",
+    "options": [
+      "Large fish have more bones",
+      "Toxins accumulate more in larger, older fish",
+      "Small fish taste better",
+      "Large fish are harder to cook"
+    ],
+    "answer": "Toxins accumulate more in larger, older fish",
+    "explanation": {
+      "correct": "Ciguatoxin bioaccumulates up the food chain - السم بيتراكم in جسم السمك الكبير عشان بياكل سمك صغير ملوث فتركيز السم بيزيد",
+      "wrong_1": "Bone content is irrelevant to toxicity - العضم ملوش علاقة بموضوع السموم ده خالص",
+      "wrong_2": "Flavor is not the safety concern here - الطعم مش هو السبب اللي بيخلينا نخاف من السمك الكبير",
+      "wrong_3": "Cooking difficulty is not the reason for avoiding large fish - الصعوبة في السوا ملهاش علاقة بالتسمم"
+    }
+  },
+  {
+    "question": "Which of these is a miscellaneous nitrogenous compound found in fish?",
+    "options": [
+      "Glycogen",
+      "Anserine",
+      "Vitamin D",
+      "Calcium"
+    ],
+    "answer": "Anserine",
+    "explanation": {
+      "correct": "Anserine is a specific nitrogenous extractable compound in fish - الأنشرين من المركبات النيتروجينية اللي بتميز عضلات السمك",
+      "wrong_1": "Glycogen is a carbohydrate - الجليكوجين ده نشا حيواني مش مركب نيتروجيني",
+      "wrong_2": "Vitamin D is a fat-soluble vitamin - فيتامين د ده فيتامينات مش مركبات نيتروجينية مستخلصة",
+      "wrong_3": "Calcium is a mineral - الكالسيوم ده معدن مش مركب عضوي نيتروجيني"
+    }
+  },
+  {
+    "question": "What happens to the fat and protein content in female Mackerel after spawning?",
+    "options": [
+      "Fat increases and protein decreases",
+      "Protein in male becomes less than female",
+      "Reverse occur (Protein in male > female)",
+      "Chemical composition remains static"
+    ],
+    "answer": "Reverse occur (Protein in male > female)",
+    "explanation": {
+      "correct": "Post-spawning, the protein ratio between sexes can reverse - بعد وضع البيض في سمك الماكريل النسب بتتعكس والذكر بيبقى بروتينه أعلى",
+      "wrong_1": "This is not the specific change mentioned for spawning - التغيير المذكور في المنهج متعلق بالفرق بين الذكر والأنثى مش بس زيادة دهون",
+      "wrong_2": "This describes the state BEFORE the reverse occurs - ده الوضع العادي بس بعد التبويض بيحصل العكس",
+      "wrong_3": "Chemical composition is highly dynamic in fish - كيميا السمك متغيرة جدا مش ثابتة"
+    }
+  },
+  {
+    "question": "Which tissue type in fish is generally higher in oil and lower in protein?",
+    "options": [
+      "Light muscle",
+      "Dark muscle",
+      "Connective tissue",
+      "Bone marrow"
+    ],
+    "answer": "Dark muscle",
+    "explanation": {
+      "correct": "Dark muscle contains more lipids and fewer proteins than light muscle - العضلات الغامقة في السمك فيها دهون أكتر وبروتين أقل من الفاتحة",
+      "wrong_1": "Light muscle is higher in protein and lower in oil - العضلات الفاتحة هي اللي فيها بروتين كتير ودهون قليلة",
+      "wrong_2": "Connective tissue is primarily collagen - النسيج الضام ده كولاجين ملوش علاقة بتصنيف الفاتح والغامق ده",
+      "wrong_3": "Bone marrow is not a primary muscle tissue type in fish - نخاع العضم ملوش علاقة بكلامنا عن لحم السمك"
+    }
+  },
+  {
+    "question": "Atlantic Salmon in spring contains 2% fat, while in autumn it contains:",
+    "options": [
+      "0.5% fat",
+      "8.6% fat",
+      "25% fat",
+      "2% fat"
+    ],
+    "answer": "8.6% fat",
+    "explanation": {
+      "correct": "Seasonal variation significantly increases fat content in autumn - السلمون في الخريف دهونه بتزيد جدا وبتبقى حوالي 8.6 في المية",
+      "wrong_1": "Fat increases in autumn, not decreases - الدهون بتزيد في الخريف مش بتقل لـ نص في المية",
+      "wrong_2": "25% is too high for salmon in any season - نسبة 25 في المية دي مبالغ فيها جدا",
+      "wrong_3": "2% is the spring level; it changes by autumn - الـ 2 في المية دي بتاعة الربيع مش الخريف"
+    }
+  },
+  {
+    "question": "What is the primary effect of fish oils having high unsaturated fatty acids?",
+    "options": [
+      "Resistance to spoilage",
+      "Susceptibility to oxidative deterioration",
+      "High boiling point",
+      "Prevention of bacterial growth"
+    ],
+    "answer": "Susceptibility to oxidative deterioration",
+    "explanation": {
+      "correct": "Unsaturated fats react quickly with oxygen, causing rancidity - الدهون غير المشبعة بتتفاعل مع الأكسجين وتزنخ بسرعة جدا",
+      "wrong_1": "On the contrary, they make fish spoil faster - بالعكس دي بتخلي السمك يبوظ أسرع",
+      "wrong_2": "Unsaturation doesn't define the boiling point in this context - ملهاش علاقة بنقطة الغليان هنا خالص",
+      "wrong_3": "Fats do not prevent bacterial growth - الدهون مش مادة حفظ ضد البكتيريا"
+    }
+  },
+  {
+    "question": "Rigor mortis in fish proceeds in which direction?",
+    "options": [
+      "From tail to head",
+      "From head to tail",
+      "From belly to back",
+      "Simultaneously everywhere"
+    ],
+    "answer": "From head to tail",
+    "explanation": {
+      "correct": "Rigor mortis starts at the head and moves toward the tail - التيبس الرمي بيبدأ من الراس وينزل لتحت لحد الديل",
+      "wrong_1": "This is the reverse of the actual biological sequence - العكس هو اللي بيحصل الراس بتبدأ الأول",
+      "wrong_2": "This is not the recognized clinical direction - مفيش اتجاه من البطن للضهر في المنهج",
+      "wrong_3": "It follows a specific anatomical wave - هو بيمشي بالترتيب مش مرة واحدة في الجسم كله"
+    }
+  },
+  {
+    "question": "Which of these nitrogenous compounds is found in shark and sturgeon muscle?",
+    "options": [
+      "High levels of Urea",
+      "Lactic acid only",
+      "Glucose",
+      "Aflatoxin"
+    ],
+    "answer": "High levels of Urea",
+    "explanation": {
+      "correct": "Sharks and sturgeons naturally have urea in their muscles - سمك القرش والستيرجون في عضلاتهم يوريا بشكل طبيعي",
+      "wrong_1": "Lactic acid forms after death but isn't the primary NPN here - حمض اللاكتيك بيطلع بعد الوفاة بس مش هو اللي بيميز عضلات القرش",
+      "wrong_2": "Glucose is a sugar, not a nitrogenous compound - الجلوكوز سكر ملوش دعوة بالمركبات النيتروجينية",
+      "wrong_3": "Aflatoxin is a fungal poison - الأفلاتوكسين سم فطري ملوش علاقة بتركيب السمك الطبيعي"
+    }
+  },
+  {
+    "question": "What happens if fish are stored at the bottom of a container without ice?",
+    "options": [
+      "They stay fresher due to pressure",
+      "Anaerobic bacterial growth occurs",
+      "Enzymes are completely destroyed",
+      "They develop a better flavor"
+    ],
+    "answer": "Anaerobic bacterial growth occurs",
+    "explanation": {
+      "correct": "Lack of ice and air at the bottom favors anaerobic spoilage - لو السمك اترص تحت من غير تلج هيتخنق وتنمو فيه بكتيريا لا هوائية",
+      "wrong_1": "Pressure actually damages fish tissue - الضغط بيهري السمك مش بيخليه طازة",
+      "wrong_2": "Chilling only retards enzymes, doesn't destroy them - التبريد بيبطأ الإنزيمات بس مش بيموتها",
+      "wrong_3": "Anaerobic growth produces foul odors, not better flavor - البكتيريا اللا هوائية بتطلع ريحة وحشة جدا"
+    }
+  },
+  {
+    "question": "Which of these is a symptom of neurotoxic shellfish poisoning (NSP)?",
+    "options": [
+      "Similar to PSP but less severe",
+      "Identical to Salmonellosis",
+      "Instant death within seconds",
+      "Liver cirrhosis"
+    ],
+    "answer": "Similar to PSP but less severe",
+    "explanation": {
+      "correct": "NSP is caused by similar toxins as PSP but results in milder symptoms - الـ NSP زي الـ PSP بس أعراضه أخف شوية ومش بتموت بسرعة زيه",
+      "wrong_1": "Salmonellosis is a bacterial infection with fever - السالمونيلا عدوى بكتيرية حرارة وإسهال ملهاش علاقة بتسمم الأعصاب",
+      "wrong_2": "Shellfish toxins take time to act; not instant - السموم دي بتاخد وقت عشان تظهر مش في ثواني",
+      "wrong_3": "Liver cirrhosis is a chronic condition - تليف الكبد ده مرض مزمن مش تسمم حاد من محار"
+    }
+  },
+  {
+    "question": "What can be done to reduce the incidence of Diarrhetic Shellfish Poisoning (DSP)?",
+    "options": [
+      "Cooking at high temperature",
+      "Removing the digestive organs",
+      "Washing with fresh water",
+      "Adding vinegar to the fish"
+    ],
+    "answer": "Removing the digestive organs",
+    "explanation": {
+      "correct": "Most DSP toxins accumulate in the digestive organs of shellfish - أغلب السموم بتاعة الـ DSP بتبقى متركزة في الجهاز الهضمي للمحار فلو شلناه بنقلل الخطر",
+      "wrong_1": "DSP toxins are heat stable and survive cooking - السموم دي مبتموتش بالحرارة فالسلق مش هينفع",
+      "wrong_2": "Washing does not remove internal toxins - الغسيل بينضف من بره بس السم بيبقى جوه الأنسجة",
+      "wrong_3": "Vinegar does not neutralize DSP toxins - الخل مش هينفع مع نوع السموم ده"
+    }
+  },
+  {
+    "question": "What is the primary rule for fish preservation regarding the quality of the raw material?",
+    "options": [
+      "Any fish can be made good by salting",
+      "Freezing improves bad quality fish",
+      "Cannot convert bad fish to good one",
+      "Smoking masks all spoilage signs"
+    ],
+    "answer": "Cannot convert bad fish to good one",
+    "explanation": {
+      "correct": "Preservation only maintains existing quality; it doesn't improve it - القاعدة بتقول إن الحفظ بيحافظ على الحالة اللي السمك عليها لكن مش هيصلح سمك بايظ",
+      "wrong_1": "Salting can only preserve what is already fresh - الملح مش هيخلي السمكة المعفنة ترجع طازة",
+      "wrong_2": "Freezing bad fish just results in bad frozen fish - التجميد بيوقف الفساد بس مش بيلغيه",
+      "wrong_3": "Smoking might hide odor but the toxins remain - التدخين ممكن يداري الريحة بس السمك هيفضل مضر"
+    }
+  }
 ]
