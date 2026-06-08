@@ -1,0 +1,642 @@
+[
+{
+"question": "What is the calorie content of broiler meat per 100 grams?",
+"options": [
+"300 cal",
+"185 cal",
+"175 cal",
+"160 cal"
+],
+"answer": "160 cal",
+"explanation": {
+"correct": "Broiler meat contains approximately 160 calories per 100g - ال ١٦٠ سعرة دي بتاعة الفراخ البيضا الصغيرة البرويلر وهي أقلهم دهون",
+"wrong_1": "300 calories is characteristic of hen meat - ال ٣٠٠ سعرة دول بتوع الفراخ الأمهات أو الـ Hens عشان دهونها عالية",
+"wrong_2": "185 calories is the energy content of duck meat - ال ١٨٥ سعرة دول بتوع البط يا دكتور ركز",
+"wrong_3": "175 calories represents the energy value of turkey meat - ال ١٧٥ سعرة دول بتوع الديك الرومي مش البرويلر"
+}
+},
+{
+"question": "What is the required bleeding time for poultry to minimize aerial contamination?",
+"options": [
+"1 minute",
+"5 minutes",
+"10 minutes",
+"3 minutes"
+],
+"answer": "3 minutes",
+"explanation": {
+"correct": "A 3-minute bleeding time is required to ensure proper drainage - لازم نستنى ٣ دقائق نزيف عشان نضمن الدم نزل كويس ونقلل التلوث",
+"wrong_1": "1 minute is insufficient for complete bleeding - دقيقة واحدة مش كفاية والدم هيفضل محبوس في الذبيحة",
+"wrong_2": "5 minutes is longer than the standard requirement - ٥ دقائق كتير زيادة عن المطلوب في خط الإنتاج",
+"wrong_3": "10 minutes would cause unnecessary delays in the processing line - ١٠ دقائق وقت مبالغ فيه جدا وهيعطل الشغل"
+}
+},
+{
+"question": "What is the standard temperature range for the scalding tank?",
+"options": [
+"45-50°C",
+"65-70°C",
+"75-80°C",
+"56-60°C"
+],
+"answer": "56-60°C",
+"explanation": {
+"correct": "The range of 56-60°C is ideal for loosening feathers without cooking the skin - الحرارة دي هي المظبوطة عشان الريش يطلع بسهولة من غير ما الجلد يتسلق",
+"wrong_1": "45-50°C is too low to facilitate effective plucking - الحرارة دي باردة والريش هيفضل ماسك وهيعمل ريش دبابيس",
+"wrong_2": "65-70°C is too high and will lead to over-scalding - الحرارة دي عالية وهتخلي الجلد يتهري ويبدأ يتسلق",
+"wrong_3": "75-80°C will cook the muscle tissue and damage the carcass - دي حرارة غليان تقريبا وهتبوظ اللحم والجلد خالص"
+}
+},
+{
+"question": "Which defect is associated with under-scalding of poultry?",
+"options": [
+"Macerated skin",
+"Yellow patches",
+"Cooked appearance",
+"Pin feather"
+],
+"answer": "Pin feather",
+"explanation": {
+"correct": "Under-scalding fails to loosen small feathers, resulting in pin feathers - لما الحرارة تكون قليلة الريش الصغير بيفضل محشور وده بنسميه ريش دبابيس",
+"wrong_1": "Macerated skin is a sign of over-scalding - الجلد المهري ده بيحصل لما الحرارة تزيد مش تقل",
+"wrong_2": "Yellow patches occur due to excessive heat during scalding - البقع الصفراء دي علامة ان الماية كانت سخنة زيادة",
+"wrong_3": "A cooked appearance indicates the temperature was far above 60°C - المنظر المسلوق ده معناه الحرارة زادت عن الحد المسموح"
+}
+},
+{
+"question": "What is the primary method for plucking large birds like ducks and geese?",
+"options": [
+"Benzene flame",
+"Hand plucking only",
+"Mechanical friction only",
+"Wax plucking"
+],
+"answer": "Wax plucking",
+"explanation": {
+"correct": "Wax plucking is specifically used for water fowl to remove fine feathers - البط والوز لازم شمع عشان الريش الصغير والشعر اللي فيهم يطلع",
+"wrong_1": "Benzene flame is used for removing hairs, not primary plucking - لهب البنزين ده بنشيط بيه الريش الرفيع في الآخر بس",
+"wrong_2": "Hand plucking is inefficient for large-scale commercial plants - النتف بالإيد ده ينفع في البيت مش في مجزر آلي كبير",
+"wrong_3": "Mechanical friction alone often leaves fine feathers on water fowl - المكن لوحده مش بيقدر يشيل الريش الناعم بتاع البط"
+}
+},
+{
+"question": "During evisceration, how many fingers are used to guide the colocal incision?",
+"options": [
+"5 fingers",
+"1 finger",
+"Whole hand",
+"2 fingers"
+],
+"answer": "2 fingers",
+"explanation": {
+"correct": "An incision is made above the cloaca using two fingers as a guide - بنفتح فتحة فوق المجمع بصباعين عشان نسحب الأحشاء بأمان",
+"wrong_1": "Using five fingers is impossible for such a small incision - مش هتعرف تدخل إيدك كلها في الفتحة دي",
+"wrong_2": "One finger does not provide enough stability or spacing - صباع واحد مش كفاية عشان تتحكم في الفتحة",
+"wrong_3": "The whole hand is used later during drawing, not for the initial incision - الإيد كلها دي لما نيجي نطلع الأحشاء مش واحنا بنفتح"
+}
+},
+{
+"question": "What is the target internal muscle temperature after cooling?",
+"options": [
+"10°C",
+"0°C",
+"-18°C",
+"+5°C"
+],
+"answer": "+5°C",
+"explanation": {
+"correct": "The carcass must reach +5°C to inhibit microbial growth - لازم نوصل لدرجة ٥ مئوية عشان نوقف نشاط البكتيريا ونبرد اللحم",
+"wrong_1": "10°C is too warm and allows for rapid bacterial multiplication - درجة ١٠ دي دافية واللحمة ممكن تبوظ وتنشط فيها البكتيريا",
+"wrong_2": "0°C is the storage temperature for chilled poultry, not the immediate target - الصفر ده درجة التبريد في الثلاجة مش الهدف بتاع تانك التبريد",
+"wrong_3": "-18°C is the temperature for long-term frozen storage - دي درجة التجميد مش التبريد المائي"
+}
+},
+{
+"question": "What is the maximum allowed water retention in the carcass after cooling?",
+"options": [
+"2%",
+"5%",
+"20%",
+"10%"
+],
+"answer": "10%",
+"explanation": {
+"correct": "Water retention during tank cooling should not exceed 10% - القانون بيسمح بـ ١٠٪ مية زيادة بس من وزن الذبيحة بعد التبريد",
+"wrong_1": "2% is too low and hard to achieve in water immersion cooling - نسبة ٢٪ دي قليلة جدا وصعب تحصل في تبريد التانكات",
+"wrong_2": "5% is a strict internal limit but not the maximum regulatory limit - ٥٪ دي نسبة كويسة بس القانون سامح لحد ١٠٪",
+"wrong_3": "20% would be considered illegal adulteration with water - ٢٠٪ دي تعتبر غش تجاري بالماية والوزن كدة مش حقيقي"
+}
+},
+{
+"question": "How long can chilled poultry be stored at 0°C if the giblets are removed?",
+"options": [
+"3 days",
+"1 day",
+"14 days",
+"7 days"
+],
+"answer": "7 days",
+"explanation": {
+"correct": "Without giblets, chilled poultry lasts up to 7 days at 0°C - الفراخ المبردة من غير أحشاء بتعيش أسبوع كامل في درجة صفر",
+"wrong_1": "3 days is the limit for poultry that still contains giblets - ٣ أيام دي لو الأحشاء (الكبد والقناصة) لسه جواها",
+"wrong_2": "1 day is the limit for room temperature storage - يوم واحد دي لو حاططها في المطبخ مش في الثلاجة",
+"wrong_3": "14 days is too long for chilling; spoilage would likely occur - أسبوعين كتير جدا على التبريد واللحمة هتبدأ تعفن"
+}
+},
+{
+"question": "What is the storage duration for frozen poultry with giblets at -18°C?",
+"options": [
+"1 year",
+"6 months",
+"1 month",
+"3 months"
+],
+"answer": "3 months",
+"explanation": {
+"correct": "Frozen poultry with giblets must be consumed within 3 months - لو جمدت الفراخ بأحشائها آخرها ٣ شهور عشان الدهون بتزرنخ",
+"wrong_1": "1 year is the storage limit for frozen poultry WITHOUT giblets - السنة دي للفراخ المتجمدة اللي متشال منها الكبد والقناصة",
+"wrong_2": "6 months is a mid-range but not the specific limit mentioned - ٦ شهور دي مدة عايمة مش هي اللي في المواصفة",
+"wrong_3": "1 month is the typical limit for home freezers but not industrial - شهر واحد ده في ثلاجة البيت مش التجميد الصناعي"
+}
+},
+{
+"question": "When should Ante-Mortem inspection ideally be performed?",
+"options": [
+"48 hours before slaughter",
+"Immediately after bleeding",
+"Only after plucking",
+"24 hours before slaughter"
+],
+"answer": "24 hours before slaughter",
+"explanation": {
+"correct": "A.M. inspection must be done within 24 hours of slaughtering - الكشف قبل الذبح لازم يكون خلال ٢٤ ساعة من العملية",
+"wrong_1": "48 hours is too early; new clinical signs may appear - ٤٨ ساعة كتير وممكن الفرخة تتعب في النص",
+"wrong_2": "After bleeding is for Post-Mortem, not Ante-Mortem - بعد النزيف ده يبقى كشف بعد الذبح يا دكتور ركز",
+"wrong_3": "After plucking is for carcass inspection - بعد الريش ده كشف ذبيحة مش كشف حي"
+}
+},
+{
+"question": "Which disease requires total condemnation during P.M. inspection?",
+"options": [
+"Localized tumors",
+"Mild Coryza",
+"Green muscle disease",
+"Marek's disease"
+],
+"answer": "Marek's disease",
+"explanation": {
+"correct": "Marek's disease and Avian Leukosis Complex require total condemnation - ماريك واللوكوزيس إعدام كلي للذبيحة فورا",
+"wrong_1": "Localized tumors only require trimming of the affected part - الأورام الحميدة الموضعية بنشيل الورم بس",
+"wrong_2": "Mild Coryza may only lead to partial condemnation - الكوريزا البسيطة ممكن نعدم الأجزاء المصابة بس",
+"wrong_3": "Green muscle disease only requires trimming of the pectoral muscle - عضلة الأوريجون بنشيل الحتة الخضرا بس ونمشي الباقي"
+}
+},
+{
+"question": "What is the required inspection rate per bird during P.M.?",
+"options": [
+"1 second per bird",
+"10 seconds per bird",
+"5 seconds per bird",
+"3.5 seconds per bird"
+],
+"answer": "3.5 seconds per bird",
+"explanation": {
+"correct": "The standard inspection rate is 3.5 seconds per bird on the line - المفتش بياخد ٣ ثواني ونص في كل فرخة على الخط وده وقت قياسي",
+"wrong_1": "1 second is too fast to detect any pathological lesions - ثانية واحدة مش هتلحق تشوف فيها حاجة خالص",
+"wrong_2": "10 seconds would significantly slow down the commercial line - ١٠ ثواني هتعطل الخط والمجزر هيخسر",
+"wrong_3": "5 seconds is slower than the required industrial standard - ٥ ثواني كتير برضه والمواصفة حددت ٣.٥"
+}
+},
+{
+"question": "In the Left Hand Technique (LHT), which organ is inspected first?",
+"options": [
+"Liver",
+"Gizzard",
+"Intestine",
+"Spleen"
+],
+"answer": "Spleen",
+"explanation": {
+"correct": "LHT starts with the spleen to check for size and congestion - الإيد الشمال بتبدأ بالطحال عشان نشوف فيه تضخم ولا لا",
+"wrong_1": "Liver is inspected after the spleen in LHT - الكبد بيتشاف بعد الطحال مش قبله",
+"wrong_2": "Gizzard is further down the inspection sequence - القناصة ترتيبها التالت في الإيد الشمال",
+"wrong_3": "Intestine is the last step in the LHT sequence - الأمعاء دي آخر حاجة بنبص عليها بالإيد الشمال"
+}
+},
+{
+"question": "What is the judgment for a carcass showing signs of Septicemia?",
+"options": [
+"Trimming of internal organs",
+"Partial condemnation",
+"Pass for low-price sale",
+"Total condemnation"
+],
+"answer": "Total condemnation",
+"explanation": {
+"correct": "Septicemia involves systemic infection and requires total condemnation - تسمم الدم يعني العدوى في الجسم كله ولازم إعدام كلي",
+"wrong_1": "Trimming is insufficient as the bacteria/toxins are in the blood - التشفي مش هينفع لأن السموم في الدم كله",
+"wrong_2": "Partial condemnation is not safe for systemic infections - إعدام جزئي في حالة التسمم الدموي خطر جدا",
+"wrong_3": "Septicemic meat is unfit for consumption at any price - اللحمة دي مسمومة ومينفعش تتباع أصلا"
+}
+},
+{
+"question": "What judgment is given for 'Breast Blisters' in poultry?",
+"options": [
+"Total condemnation",
+"Total approval",
+"Boil and pass",
+"Trimming"
+],
+"answer": "Trimming",
+"explanation": {
+"correct": "Breast blisters are localized and can be removed by trimming - قرح الصدر دي حاجة موضعية بنشيلها ونعدي الباقي عادي",
+"wrong_1": "Total condemnation is excessive for a localized lesion - إعدام كلي عشان حتة في الجلد كتير جدا",
+"wrong_2": "Total approval is impossible as the lesion must be removed - مينفعش نعديها وهي فيها القرحة لازم تتشال",
+"wrong_3": "Boiling is not a standard treatment for localized skin lesions - مفيش حاجة اسمها نسلقها ونعديها دي"
+}
+},
+{
+"question": "What is the cause of 'Oregon disease' or green muscle disease?",
+"options": [
+"Salmonella infection",
+"Vitamin E deficiency",
+"Fungal toxins",
+"Unknown hereditary factor"
+],
+"answer": "Unknown hereditary factor",
+"explanation": {
+"correct": "Oregon disease is attributed to unknown factors, possibly hereditary - مرض العضلة الخضرا سببه مش معروف تماما بس غالبا وراثي",
+"wrong_1": "Salmonella causes septicemia and enteritis, not green muscle - السالمونيلا بتعمل تسمم معوي مش لون أخضر في العضل",
+"wrong_2": "Vitamin E deficiency causes encephalomalacia, not this - نقص فيتامين هـ بيعمل مشاكل في المخ مش العضلات",
+"wrong_3": "Fungal toxins cause liver damage and cancers - سموم الفطريات بتضرب الكبد مش عضلة الصدر"
+}
+},
+{
+"question": "Which sign is typical for a 'Dead Carcass' during P.M. inspection?",
+"options": [
+"Pale muscle color",
+"Pin feathers",
+"Green pectoral muscle",
+"Engorged blood vessels"
+],
+"answer": "Engorged blood vessels",
+"explanation": {
+"correct": "Dead birds don't bleed out, so blood vessels remain engorged - الطيور اللي ماتت قبل الذبح بتلاقي عروقها مليانة دم ومحتقنة",
+"wrong_1": "Pale muscle is seen in over-scalding or anemia - اللحم الباهت ده بيحصل في السلق الزيادة أو الأنيميا",
+"wrong_2": "Pin feathers are a plucking fault, not a sign of death - ريش الدبابيس ده عيب نتف ملوش دعوة الفرخة ميتة ولا لا",
+"wrong_3": "Green muscle is specific to Oregon disease - العضلة الخضرا دي حالة وراثية معينة مش علامة موت"
+}
+},
+{
+"question": "Judgment for deep over-scalding that reaches abdominal viscera?",
+"options": [
+"Low price approval",
+"Trimming of skin",
+"Partial condemnation",
+"Total condemnation"
+],
+"answer": "Total condemnation",
+"explanation": {
+"correct": "If cooking reaches internal organs, the carcass is totally condemned - لو السلق وصل للأحشاء واللحم العميق يبقى إعدام كلي فورا",
+"wrong_1": "Low price is only for superficial over-scalding - السعر المنخفض ده لو السلق سطحي بس",
+"wrong_2": "Trimming skin is not enough if internal tissues are cooked - تشيل الجلد مش هيفيد لأن اللحم والأحشاء جوه اتسلقوا",
+"wrong_3": "Partial condemnation doesn't apply when the core is affected - إعدام جزئي مينفعش والحرارة بوظت قلب الذبيحة"
+}
+},
+{
+"question": "What is the judgment for emaciation due to chronic diseases?",
+"options": [
+"Partial condemnation",
+"Approved after cooling",
+"Low price approval",
+"Total condemnation"
+],
+"answer": "Total condemnation",
+"explanation": {
+"correct": "Emaciated carcasses are nutritionally poor and unfit - الفرخة المسلولة أو الهزيلة إعدام كلي عشان قيمتها الغذائية ضايعة",
+"wrong_1": "Partial condemnation is not applicable for systemic wasting - الهزال ده في الجسم كله مينفعش نعدم حتة ونسيب حتة",
+"wrong_2": "Cooling does not restore muscle mass or quality - التبريد مش هيرجع اللحمة اللي ضاعت ولا هيشيل المرض",
+"wrong_3": "Emaciated meat is rejected, not sold for lower prices - اللحمة دي تترفض خالص مش تتباع رخيص"
+}
+},
+{
+"question": "Which of these is considered a 'Giblet'?",
+"options": [
+"Spleen",
+"Lungs",
+"Intestines",
+"Gizzard"
+],
+"answer": "Gizzard",
+"explanation": {
+"correct": "Giblets include the heart, liver, and gizzard - الـ Giblets هما الكبد والقناصة والقلب",
+"wrong_1": "Spleen is not part of the edible giblet set - الطحال مش تبع الحلويات أو الأحشاء اللي بتؤكل",
+"wrong_2": "Lungs are usually discarded and not part of giblets - الرئة بتترمي ومش تبع الـ giblets",
+"wrong_3": "Intestines are not included in the standard giblet pack - الأمعاء دي أحشاء غير صالحة للأكل المباشر كـ giblets"
+}
+},
+{
+"question": "What is the result of 'missing viscera' with a bad inspection history?",
+"options": [
+"Partial condemnation",
+"Trimming",
+"Approved",
+"Total condemnation"
+],
+"answer": "Total condemnation",
+"explanation": {
+"correct": "Missing viscera without a clear health history requires total condemnation - لو الأحشاء ناقصة والتقرير القديم وحش بنعدمها كلها احتياطي",
+"wrong_1": "Partial condemnation is impossible if the main organs are absent - مش هتعرف تطلع إعدام جزئي وأنت مش شايف الأعضاء",
+"wrong_2": "Trimming cannot be performed without knowing the pathology - هتشفي إيه وأنت مش عارف المرض كان فين؟",
+"wrong_3": "Approval is risky without inspecting the internal organs - خطر جدا توافق عليها وأنت مشفتش الكبد والطحال"
+}
+},
+{
+"question": "What happens to the carcass if it is contaminated with bile?",
+"options": [
+"Total condemnation",
+"Wash with hot water",
+"Approved if no smell",
+"Trimming of affected part"
+],
+"answer": "Trimming of affected part",
+"explanation": {
+"correct": "Bile contamination is localized; trim the affected bitter parts - المرارة لو فرقعت بنشيل الجزء المصبوغ بالأخضر بس ونعدي الباقي",
+"wrong_1": "Total condemnation is too severe for local bile staining - حرام نعدم الفرخة كلها عشان نقطة مرارة",
+"wrong_2": "Hot water won't remove the bitter taste or green stain - الماية السخنة مش هتضيع الطعم المر",
+"wrong_3": "Approval without trimming leaves a bitter, unpalatable taste - مينفعش نعديها كدة والناس هتدعي علينا من مرارة الطعم"
+}
+},
+{
+"question": "Which bacterial infection is a major cause of poultry-borne intoxication?",
+"options": [
+"Brucella",
+"Mycobacterium",
+"Lactobacillus",
+"Staphylococcus aureus"
+],
+"answer": "Staphylococcus aureus",
+"explanation": {
+"correct": "Staph. aureus is a leading cause of food poisoning in poultry - الاستاف ده ملك التسمم الغذائي في الفراخ",
+"wrong_1": "Brucella is not common in poultry meat hygiene context - البروسيلات دي بتاعة الجاموس والبقر يا دكتور",
+"wrong_2": "Mycobacterium causes TB, which is an infection, not intoxication - المايكوبكتيريوم بتعمل سل وده مرض مزمن مش تسمم سريع",
+"wrong_3": "Lactobacillus is a beneficial bacteria used in yogurt - اللاكتوباسيلس دي بكتيريا نافعة مش ممرضة"
+}
+},
+{
+"question": "Where is the 'Wing Drummette' located?",
+"options": [
+"Between elbow and tip",
+"Between shoulder and wrist",
+"Between knee and hock",
+"Between shoulder and elbow"
+],
+"answer": "Between shoulder and elbow",
+"explanation": {
+"correct": "The drummette is the first wing section between shoulder and elbow - الدبوس بتاع الجناح هو الحتة اللي بين الكتف والكوع",
+"wrong_1": "Between elbow and tip is the mid-section or flat - اللي بين الكوع والطرف دي الحتة الفلات",
+"wrong_2": "Wrist is not a standard term used for this cut - الرسغ مش مصطلح مستخدم في تقطيع الجناح",
+"wrong_3": "Knee and hock are parts of the leg, not the wing - الركبة والعرقوب دول في الرجل يا دكتور مش في الجناح"
+}
+},
+{
+"question": "What does a 'Whole Chicken Leg' consist of?",
+"options": [
+"Thigh and back portion",
+"Drumstick and hock",
+"Thigh and breast",
+"Drumstick and thigh"
+],
+"answer": "Drumstick and thigh",
+"explanation": {
+"correct": "A whole leg is the combination of the drumstick and the thigh - الورك الكامل عبارة عن الدبوس والفخذ مع بعض",
+"wrong_1": "Back portion is included in 'Leg Quarters', not 'Whole Leg' - حتة الظهر دي بتبقى في الربع الورك مش الورك بس",
+"wrong_2": "Hock is the joint, not a muscle cut - العرقوب ده مفصل مش حتة لحمة في التقطيع",
+"wrong_3": "Thigh and breast are from different parts of the bird - الفخذ والصدر دول في ناحيتين عكس بعض"
+}
+},
+{
+"question": "Which of these is a decision of Ante-Mortem inspection?",
+"options": [
+"Total condemnation",
+"Trimming",
+"Partial condemnation",
+"Suspect for special P.M.I."
+],
+"answer": "Suspect for special P.M.I.",
+"explanation": {
+"correct": "Birds showing vague signs are marked as 'Suspect' for closer exam - لو الفرخة شكلها مش مظبوط بنعلمها 'مشتبه فيها' عشان تتفحص بدقة بعد الذبح",
+"wrong_1": "Total condemnation is usually a P.M. judgment after seeing lesions - الإعدام الكلي ده غالبا بنقرره بعد ما نفتح ونشوف اللي جوه",
+"wrong_2": "Trimming is only possible after slaughter and evisceration - التشفي ده بيحصل في الذبيحة مش في الفرخة الصاحية",
+"wrong_3": "Partial condemnation requires seeing the organs during P.M. - الإعدام الجزئي محتاج نبص على الأحشاء الأول"
+}
+},
+{
+"question": "What sign indicates 'severe' Ascites during inspection?",
+"options": [
+"Dry skin",
+"Localized cyst",
+"Mild redness",
+"Total condemnation"
+],
+"answer": "Total condemnation",
+"explanation": {
+"correct": "Severe ascites (fluid in abdomen) leads to total condemnation - الاستسقاء الشديد يعني مية كتير في البطن وده إعدام كلي",
+"wrong_1": "Dry skin is the opposite of ascites - الجلد الناشف ده جفاف مش استسقاء",
+"wrong_2": "Localized cyst is a different condition than systemic ascites - الحويصلة الموضعية حاجة والاستسقاء حاجة تانية خالص",
+"wrong_3": "Mild redness is not a sign of severe ascites - الاحمرار البسيط ملوش علاقة بمية البطن"
+}
+},
+{
+"question": "What is the judgment for localized bone fractures and hemorrhages in the legs?",
+"options": [
+"Total condemnation",
+"Approved with full price",
+"Condemn the whole wing",
+"Remove at the nearest joint"
+],
+"answer": "Remove at the nearest joint",
+"explanation": {
+"correct": "Fractured legs should be removed at the nearest healthy joint - لو الرجل مكسورة بنشيلها من عند أقرب مفصل سليم",
+"wrong_1": "Total condemnation is unnecessary for a simple broken leg - حرام نعدم الفرخة كلها عشان رجل مكسورة",
+"wrong_2": "Full price approval is impossible with visible fractures - مينفعش تتباع سليمة وهي مكسورة ومنزفة",
+"wrong_3": "Condemning the wing doesn't solve a leg problem - نعدم الجناح ليه والمشكلة في الرجل؟"
+}
+},
+{
+"question": "The 'dripping' process lasts for how long?",
+"options": [
+"1 minute",
+"10 minutes",
+"30 minutes",
+"5 minutes"
+],
+"answer": "5 minutes",
+"explanation": {
+"correct": "Dripping takes about 5 minutes to remove excess chilling water - بنسيبها تتصفى ٥ دقائق عشان الماية الزيادة تنزل",
+"wrong_1": "1 minute is too short to drain the carcass effectively - دقيقة واحدة مش هتلحق تصفي الماية اللي شربتها",
+"wrong_2": "10 minutes is longer than necessary for industrial speed - ١٠ دقائق كتير وهتعطل سير التعبئة",
+"wrong_3": "30 minutes would cause the carcass to warm up again - نص ساعة كتير واللحمة هتسخن وتلوث"
+}
+},
+{
+"question": "What is the judgment for poultry affected by acute Salmonellosis?",
+"options": [
+"Partial condemnation",
+"Trimming of liver",
+"Local condemnation",
+"Total condemnation"
+],
+"answer": "Total condemnation",
+"explanation": {
+"correct": "Acute Salmonellosis is a systemic risk and requires total condemnation - السالمونيلا الحادة خطر جدا ولازم إعدام كلي للذبيحة",
+"wrong_1": "Partial condemnation is unsafe for salmonella carriers - إعدام جزئي مش كفاية لأن الميكروب في كل حتة",
+"wrong_2": "Trimming the liver doesn't remove the bacteria from the blood - شيل الكبد مش هيشيل السالمونيلا اللي في العضلات",
+"wrong_3": "Local condemnation is not enough for an acute infectious disease - المرض الحاد ده بينتشر في الجسم كله مش موضعي"
+}
+},
+{
+"question": "What quality factors are used for 'Grading' (A, B, C)?",
+"options": [
+"Color of eyes",
+"Breed and sex",
+"Weight only",
+"Body conformation and fat"
+],
+"answer": "Body conformation and fat",
+"explanation": {
+"correct": "Grading is based on body build, fat distribution, and defects - الدرجات (أ، ب، ج) بتعتمد على شكل الجسم وتوزيعه الدهون",
+"wrong_1": "Color of eyes is irrelevant for a dressed carcass - لون العين مش مهم في الذبيحة المذبوحة",
+"wrong_2": "Breed and sex are less important than carcass quality - السلالة والنوع مش هما الأساس في جودة اللحم",
+"wrong_3": "Weight is used for 'Sorting', not necessarily 'Grading' - الوزن بنستخدمه في التصنيف مش في تحديد الجودة"
+}
+},
+{
+"question": "What is the judgment for Erysipelas in poultry?",
+"options": [
+"Partial condemnation",
+"Trimming",
+"Low price approval",
+"Total condemnation"
+],
+"answer": "Total condemnation",
+"explanation": {
+"correct": "Erysipelas is a serious zoonotic disease requiring total condemnation - مرض الحمرة ده مرض مشترك خطير ولازم إعدام كلي",
+"wrong_1": "Partial condemnation doesn't eliminate the risk of zoonosis - إعدام جزئي خطر لأن المرض بيتنقل للإنسان",
+"wrong_2": "Trimming cannot remove systemic bacterial pathogens - التشفي مش هينفع مع بكتيريا ماشية في الدم",
+"wrong_3": "This disease is unfit for any human consumption - المرض ده مينفعش يتاكل خالص تحت أي مسمى"
+}
+},
+{
+"question": "What causes the skin to be 'macerated' with 'yellow patches'?",
+"options": [
+"Under-scalding",
+"Poor plucking",
+"Cold water washing",
+"Over-scalding"
+],
+"answer": "Over-scalding",
+"explanation": {
+"correct": "Excessive heat (over 60°C) macerates the skin and creates yellow patches - لما الماية تسخن زيادة الجلد بيتهري ويصفر",
+"wrong_1": "Under-scalding leaves feathers but doesn't macerate skin - الحرارة القليلة بتسيب ريش مش بتهري الجلد",
+"wrong_2": "Poor plucking causes skin tears, not yellow patches - النتف الوحش بيقطع الجلد مش بيغير لونه",
+"wrong_3": "Cold water doesn't affect skin texture or color this way - الماية الباردة مش هتعمل بقع صفراء"
+}
+},
+{
+"question": "Which temperature is used for long-term storage of frozen poultry?",
+"options": [
+"0°C",
+"-5°C",
+"-10°C",
+"-18°C"
+],
+"answer": "-18°C",
+"explanation": {
+"correct": "-18°C is the international standard for frozen meat storage - درجة -١٨ هي المعتمدة للتجميد لفترات طويلة",
+"wrong_1": "0°C is for chilling, not freezing - صفر دي تبريد مش تجميد يا دكتور",
+"wrong_2": "-5°C is not cold enough to prevent enzymatic spoilage - درجة -٥ مش كافية توقف التفاعلات اللي بتبوظ اللحمة",
+"wrong_3": "-10°C is insufficient for 1-year storage duration - درجة -١٠ متخلكش تخزن لمدة سنة"
+}
+},
+{
+"question": "In P.M. inspection, what does 'RHT' stand for?",
+"options": [
+"Rapid Heat Treatment",
+"Random Health Test",
+"Root Hair Tissue",
+"Right Hand Technique"
+],
+"answer": "Right Hand Technique",
+"explanation": {
+"correct": "RHT refers to the inspection steps performed with the right hand - تكنيك الإيد اليمين ده خطوات فحص معينة في المجزر",
+"wrong_1": "Rapid Heat Treatment is a processing method, not inspection - ده علاج حراري ملوش دعوة بالكشف",
+"wrong_2": "Random Health Test is not a standard acronym here - مفيش مصطلح كدة في فحص الدواجن",
+"wrong_3": "Root Hair Tissue is a botanical term - ده كلام بتاع نبات مش بتاعنا خالص"
+}
+},
+{
+"question": "What is the judgment for 'localized' benign tumors?",
+"options": [
+"Total condemnation",
+"Partial condemnation",
+"Approved",
+"Trimming"
+],
+"answer": "Trimming",
+"explanation": {
+"correct": "Benign, localized tumors can be safely trimmed away - الأورام الحميدة بنشفيها ونرميها ونعدي الباقي",
+"wrong_1": "Total condemnation is only for malignant or systemic tumors - الإعدام الكلي للأورام السرطانية المنتشرة بس",
+"wrong_2": "Partial condemnation usually refers to whole limbs or organs - الإعدام الجزئي بيبقى لعضو كامل مش مجرد دمل أو ورم صغير",
+"wrong_3": "Approval without trimming is not allowed - مينفعش تبيع الفرخة بورمها لازم يتشال"
+}
+},
+{
+"question": "Which of these is a factor in diffusing poultry meat-borne infections?",
+"options": [
+"Excessive cooking",
+"Over-packaging",
+"Rapid cooling",
+"Inadequate thawing"
+],
+"answer": "Inadequate thawing",
+"explanation": {
+"correct": "Improper thawing allows bacteria to multiply on the surface - فك التجميد الغلط بيخلي البكتيريا تنمو وتزيد",
+"wrong_1": "Excessive cooking kills bacteria rather than diffusing them - الطبخ الزيادة بيموت البكتيريا مش بينشرها",
+"wrong_2": "Over-packaging might affect quality but not infection spread - التغليف الزيادة ملوش دعوة بنشر العدوى",
+"wrong_3": "Rapid cooling is a control measure, not a risk factor - التبريد السريع ده بيحمي اللحمة مش بيبوظها"
+}
+},
+{
+"question": "The dispatching platform should be located where?",
+"options": [
+"Near the receiving platform",
+"Inside the by-product unit",
+"Next to the scalding tank",
+"Far away from receiving platform"
+],
+"answer": "Far away from receiving platform",
+"explanation": {
+"correct": "Dispatching must be separate from receiving to prevent cross-contamination - مكان الخروج لازم يكون بعيد عن مكان الدخول عشان الميكروبات متنطش",
+"wrong_1": "Placing it near receiving increases the risk of contamination - لو جنب بعض الفراخ الصاحية هتعدي المذبوحة",
+"wrong_2": "The by-product unit handles waste and is unsuitable - وحدة المخلفات دي قذرة مينفعش نطلع منها المنتج النهائي",
+"wrong_3": "The scalding area is hot and humid, not for final dispatch - منطقة السلق دي زحمة وقرف مينفعش نطلع منها المنتج"
+}
+},
+{
+"question": "What is a 'Split Breast without Back'?",
+"options": [
+"Half chicken",
+"Breast with wing",
+"Breast with skin only",
+"Breast quarter minus wing and back"
+],
+"answer": "Breast quarter minus wing and back",
+"explanation": {
+"correct": "This cut is a breast quarter with both wing and back portions removed - ده صدر مخلي من الجناح ومن حتة الظهر",
+"wrong_1": "A half chicken includes the leg and wing - نص الفرخة بيبقى فيه ورك وصدر",
+"wrong_2": "Breast with wing is a 'Breast Quarter' - الصدر بالجناح اسمه ربع صدر",
+"wrong_3": "Skin presence is a different classification (skinless vs skin-on) - وجود الجلد ده تصنيف تاني ملوش دعوة بالعظم"
+}
+}
+]
