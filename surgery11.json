@@ -1,0 +1,643 @@
+
+[
+{
+"question": "At which cervical vertebra does the esophagus typically shift to the left of the trachea?",
+"options": [
+"2nd cervical vertebra",
+"4th cervical vertebra",
+"6th cervical vertebra",
+"1st thoracic vertebra"
+],
+"answer": "4th cervical vertebra",
+"explanation": {
+"correct": "The esophagus starts dorsal to the trachea and moves left at the 4th cervical vertebra - المريء بيبدأ فوق القصبة الهوائية وبالظبط عند الفقرة العنقية الرابعة بيميل ناحية الشمال.",
+"wrong_1": "At the 2nd cervical, it is still dorsal to the trachea - عند الفقرة التانية لسه بيكون في النص فوق القصبة الهوائية.",
+"wrong_2": "The shift happens earlier than the 6th cervical - التحويلة بتحصل بدري عن كدة عند الرابعة مش السادسة.",
+"wrong_3": "The thoracic vertebra is too distal for the initial left shift - الفقرات الصدرية دي خلاص المريء دخل الصدر أصلا والتحويلة حصلت في الرقبة."
+}
+},
+{
+"question": "What is the primary surgical risk of complete esophageal obstruction in ruminants?",
+"options": [
+"Severe bloat (tympany)",
+"Aspiration pneumonia",
+"Esophageal diverticulum",
+"Muscle atrophy"
+],
+"answer": "Severe bloat (tympany)",
+"explanation": {
+"correct": "Obstruction prevents eructation of gas, leading to life-threatening bloat - الانسداد الكامل بيمنع خروج الغازات (التجشؤ) فبيعمل انتفاخ شديد وممكن يموت الحيوان.",
+"wrong_1": "Aspiration pneumonia is a risk of achalasia or chronic reflux - دي بتحصل أكتر في حالات الارتجاع أو مشاكل البلع المزمنة مش الانسداد الحاد.",
+"wrong_2": "Diverticulum is a chronic structural change - ده تغير مزمن في جدار المريء مش خطر حاد وقت السدة.",
+"wrong_3": "Muscle atrophy is a chronic condition - ضمور العضلات محتاج وقت طويل جدا مش حالة طوارئ جراحية."
+}
+},
+{
+"question": "Which anatomical site is a predilection seat for choke due to the limitation by the aorta and trachea?",
+"options": [
+"Pharyngeal entrance",
+"Thoracic entrance",
+"Level of the aortic arch",
+"Cardia"
+],
+"answer": "Level of the aortic arch",
+"explanation": {
+"correct": "The aorta and trachea physically limit the esophagus's ability to distend - المنطقة دي المريء مبيعرفش يتمدد فيها عشان محشور بين الأورطى والقصبة الهوائية.",
+"wrong_1": "Pharyngeal entrance is wide but stones lodge because the lumen narrows thereafter - مدخل البلعوم واسع بس المريء نفسه بيضيق بعده.",
+"wrong_2": "Thoracic entrance is a site but not specifically limited by the aorta - مدخل الصدر مكان مشهور بس مش هو ده اللي بيتحكم فيه الأورطى.",
+"wrong_3": "Cardia is limited by sphincter tone - الفؤاد بيضيق بسبب قوة العضلة العاصرة مش بسبب الأورطى."
+}
+},
+{
+"question": "What is the first mandatory step in treating complete esophageal choke in cattle?",
+"options": [
+"Esophagotomy",
+"Trocarization of the rumen",
+"Administration of Rompun",
+"Manual taxis"
+],
+"answer": "Trocarization of the rumen",
+"explanation": {
+"correct": "Immediate decompression of the rumen via cannula is essential to prevent death from bloat - لازم تفرغ الغازات من الكرش فورا عشان الحيوان ميموتش من الفطسة قبل ما تعالج السدة.",
+"wrong_1": "Esophagotomy is a last resort surgical option - دي عملية جراحية بنخليها لما الحلول التانية تفشل.",
+"wrong_2": "Rompun helps with spasm but doesn't solve the emergency bloat - الرومبون بيهدي التقلصات بس مش هيطلع الغازات اللي هتموت الحيوان.",
+"wrong_3": "Manual taxis is attempted after the animal is stabilized - التدليك والزق بالايد بنعمله بعد ما نأمن تنفس الحيوان ونفرغ الهوا."
+}
+},
+{
+"question": "Which drug is specifically recommended to reduce esophageal muscular spasm during manipulation?",
+"options": [
+"Atropine",
+"Xylazine (Rompun)",
+"Adrenaline",
+"Furosemide"
+],
+"answer": "Xylazine (Rompun)",
+"explanation": {
+"correct": "Rompun at 0.05-0.17 mg/kg is the drug of choice for its muscle relaxant effect - الرومبون هو أحسن حاجة بتهدي عضلات المريء وتفك التقلصات عشان نعرف نحرك الحصوة.",
+"wrong_1": "Atropine reduces saliva but doesn't relax the esophagus effectively for taxis - الأتروبين بينشف الريق بس مش ده اللي هيفك العضلات عشان نعدي السدة.",
+"wrong_2": "Adrenaline is a stimulant and would worsen the situation - الأدرينالين منبه وهيزيد من توتر الحيوان وتقلصاته.",
+"wrong_3": "Furosemide is a diuretic - ده مدر للبول ملوش أي علاقة بتقلصات المريء."
+}
+},
+{
+"question": "Where is the lateral surgical approach performed for the lower third of the cervical esophagus?",
+"options": [
+"Between sternocephalic muscle and trachea",
+"Between jugular vein and brachiocephalic muscle",
+"On the right side of the neck",
+"Midline ventral incision"
+],
+"answer": "Between jugular vein and brachiocephalic muscle",
+"explanation": {
+"correct": "The lateral exposure for the lower neck involves the jugular and brachiocephalic muscles - في التلت الأخير من الرقبة بنفتح بين الوريد الوداجي وعضلة البريكيوسيفاليك.",
+"wrong_1": "Sternocephalic/trachea approach is for the upper two-thirds - الفتحة دي بنعملها في التلتين اللي فوق من الرقبة.",
+"wrong_2": "The esophagus is on the left; the right side is incorrect - المريء في الرقبة بيميل شمال فمينفعش نفتح يمين.",
+"wrong_3": "Midline ventral is not the standard approach for esophageal exposure - الفتح في النص من تحت مش هو الطريقة المثالية للوصول للمريء."
+}
+},
+{
+"question": "When performing an esophagotomy, how should the mucosa and submucosa be sutured?",
+"options": [
+"Simple interrupted apposing",
+"Inverting technique with absorbable material",
+"Everting mattress with silk",
+"Left unsutured for second intention"
+],
+"answer": "Inverting technique with absorbable material",
+"explanation": {
+"correct": "Inverting the mucosa ensures a leak-proof seal and prevents strictures - لازم الخياطة تكون مقلوبة لجوه وبخيط بيمتص عشان نمنع تسريب الأكل ونمنع الضيق.",
+"wrong_1": "Apposing is used for outer layers, not typically the mucosa - الخياطة العادية الحافة في الحافة بنعملها في الطبقات البرانية.",
+"wrong_2": "Silk is non-absorbable and causes irritation in the lumen - الحرير مش بيمتص وهيعمل التهاب وتجمع بكتيريا جوه المريء.",
+"wrong_3": "Leaving it unsutured leads to fistula and cellulitis - لو سبتها مفتوحة هيحصل ناصور والتهاب خلوي في الرقبة."
+}
+},
+{
+"question": "How are the muscularis and adventitia layers of the esophagus sutured after esophagotomy?",
+"options": [
+"Inverting Lembert",
+"Simple interrupted or continuous",
+"Purse-string suture",
+"Stapled only"
+],
+"answer": "Simple interrupted or continuous",
+"explanation": {
+"correct": "Outer layers are closed with simple interrupted or continuous patterns to provide strength - الطبقات البرانية (العضلات والبريتون) بتتقفل خياطة عادية متقطعة أو مستمرة.",
+"wrong_1": "Inverting is specific to the mucosal seal - القلب لجوه ده بنخليه للمخاطية عشان التسريب.",
+"wrong_2": "Purse-string is for circular openings like tubes - خياطة السرة دي بنعملها حوالين الأنابيب مش في جرح طولي.",
+"wrong_3": "Stapling alone is not the standard veterinary teaching for this procedure - الدبابيس لوحدها مش هي الطريقة الأساسية اللي بنعلمها في الجراحة التقليدية."
+}
+},
+{
+"question": "Which surgical operation is indicated for a foreign body lodged near the cardia?",
+"options": [
+"Cervical esophagotomy",
+"Presternal esophagotomy",
+"Rumenotomy",
+"Tracheotomy"
+],
+"answer": "Rumenotomy",
+"explanation": {
+"correct": "A rumenotomy allows the surgeon to reach the cardia and pull the object into the rumen - لو الحصوة عند الفؤاد بنفتح الكرش وندخل إيدنا نسحبها من جوه.",
+"wrong_1": "Cervical esophagotomy is too far from the cardia - فتح المريء في الرقبة بعيد جدا عن مدخل المعدة.",
+"wrong_2": "Presternal is for thoracic choke but not ideal for the cardia itself - الفتح قدام الصدر بيبقى للمريء الصدري بس الكارديا أحسن لها من الكرش.",
+"wrong_3": "Tracheotomy is for breathing, not esophageal surgery - دي فتحة في القصبة الهوائية ملهاش دعوة خالص بسدة المريء."
+}
+},
+{
+"question": "A buffalo calf presents with ptyalism and bloat. What is a critical differential diagnosis related to dysphagia?",
+"options": [
+"Rabies",
+"Milk fever",
+"Laminitis",
+"Urolithiasis"
+],
+"answer": "Rabies",
+"explanation": {
+"correct": "Rabies causes dysphagia and salivation, mimicking choke - لازم تشك في السعار لأن الحيوان مبيعرفش يبلع وريقه بيجري زيه زي السدة.",
+"wrong_1": "Milk fever causes recumbency and paralysis but not primary dysphagia - حمى اللبن بتنيم الحيوان بس مش بتعمل ريالة وسدة مريء واضحة.",
+"wrong_2": "Laminitis is a foot condition - ده التهاب في الحوافر ملوش علاقة بالبلع.",
+"wrong_3": "Urolithiasis is a urinary condition - دي حصوات بولية ملهاش علاقة بالريالة والمريء."
+}
+},
+{
+"question": "What is the hallmark sign of thoracic esophageal perforation?",
+"options": [
+"Ptyalorrhea only",
+"Doughy swelling in the neck",
+"Mediastinitis and fever",
+"Nasal discharge of milk"
+],
+"answer": "Mediastinitis and fever",
+"explanation": {
+"correct": "Thoracic perforation leads to contamination of the mediastinum - لو المريء اتخرم جوه الصدر هيعمل التهاب في المنصف (الصدر) وحرارة عالية.",
+"wrong_1": "Ptyalorrhea occurs in all esophageal issues - الريالة بتحصل في أي مشكلة في المريء مش علامة مميزة للخرم الصدري.",
+"wrong_2": "Doughy swelling in the neck is for cervical perforation - الورم العجيني في الرقبة ده لو الخرم في الرقبة مش في الصدر.",
+"wrong_3": "Nasal discharge of milk is common in cleft palate - لبن من المناخير ده بيبقى في سقف الحلق المشقوق في العجول الصغيرة."
+}
+},
+{
+"question": "What defines 'Obstructive Stenosis' of the esophagus?",
+"options": [
+"Scar tissue formation post-surgery",
+"Pressure from a mediastinal tumor",
+"Goiter pressing on the neck",
+"Thymic lymphosarcoma"
+],
+"answer": "Scar tissue formation post-surgery",
+"explanation": {
+"correct": "Obstructive stenosis is internal, often from scars or mucosal damage - الضيق الانسدادي بيكون من جوه المريء زي التليف اللي بيحصل بعد الجراحة.",
+"wrong_1": "Mediastinal tumor causes compression stenosis - الورم بيضغط من برة فده بنسميه ضيق ضغطي (Compression).",
+"wrong_2": "Goiter is an external compression factor - الغدة الدرقية لما تكبر بتضغط من برة المريء.",
+"wrong_3": "Thymic lymphosarcoma is an external compression - ده ورم بره المريء بيضغط عليه مش تليف في جداره."
+}
+},
+{
+"question": "Which diagnostic method is best to confirm 'Congenital Achalasia' in young dogs?",
+"options": [
+"Plain X-ray",
+"Fluoroscopic examination during swallowing",
+"Palpation",
+"Percussion"
+],
+"answer": "Fluoroscopic examination during swallowing",
+"explanation": {
+"correct": "Fluoroscopy shows the lack of peristalsis and failure of cardia relaxation - الأشعة التلفزيونية بتبين حركة المريء وهي واقفة ومدخل المعدة وهو مش بيفتح.",
+"wrong_1": "Plain X-ray may show dilation but not the dynamic failure - الأشعة العادية ممكن توري المريء واسع بس مش هتوريك الحركة وهي متعطلة.",
+"wrong_2": "Palpation cannot assess the cardia inside the thorax - مش هتعرف تحس مدخل المعدة بإيدك لأنه جوه الصدر.",
+"wrong_3": "Percussion is used for lungs and rumen, not esophageal motility - النقر ده للرئة والكرش ملوش علاقة بحركة المريء."
+}
+},
+{
+"question": "What is the surgical management for an esophageal fistula?",
+"options": [
+"Healing by second intention only",
+"Surgical exploration, debridement, and suturing of all layers",
+"Permanent gastric tube placement",
+"Esophageal bypass"
+],
+"answer": "Surgical exploration, debridement, and suturing of all layers",
+"explanation": {
+"correct": "Fistulas require cleaning of the tract and surgical closure - الناصور لازم يتنظف كويس جراحيا وتتخيط كل الطبقات عشان يقفل صح.",
+"wrong_1": "Second intention rarely closes a high-output esophageal fistula - الناصور اللي بيطلع أكل وريق صعب يقفل لوحده من غير جراحة.",
+"wrong_2": "Gastric tube is for feeding, not for repairing the fistula itself - خرطوم المعدة للتغذية بس مش هيصلح الخرم اللي في الرقبة.",
+"wrong_3": "Bypass is an extreme human procedure, not standard in farm animals - تحويل المسار دي عملية معقدة مش بنعملها في حيوانات المزرعة."
+}
+},
+{
+"question": "Where are 'Foreign Body Abscesses' most commonly recorded in cattle?",
+"options": [
+"Left side more than right",
+"Right side more than left",
+"Always on the dorsal midline",
+"Only inside the pelvic cavity"
+],
+"answer": "Right side more than left",
+"explanation": {
+"correct": "Foreign body abscesses from objects like wires are recorded more on the right - الخراريج اللي بسبب الأجسام الغريبة بتظهر في الناحية اليمين أكتر من الشمال.",
+"wrong_1": "The text explicitly states right is more common - النص بيقول إن اليمين أشهر رغم إن المريء في الشمال.",
+"wrong_2": "Midline is rare for these migrating objects - الأجسام دي بتمشي وتروح في الجوانب مش في النص بالظبط.",
+"wrong_3": "The pelvic cavity is far from the esophagus and reticulum - الحوض بعيد جدا عن مكان دخول الأجسام الغريبة في المريء والشبكية."
+}
+},
+{
+"question": "What is the recommended dietary management after esophageal surgery?",
+"options": [
+"Dry hay for 7 days",
+"Food withheld for 1-3 days with IV fluids",
+"Immediate return to grazing",
+"Only cold water allowed"
+],
+"answer": "Food withheld for 1-3 days with IV fluids",
+"explanation": {
+"correct": "Resting the esophagus allows the suture line to begin healing - لازم نمنع الأكل كام يوم ونعوض بمحاليل عشان جرح المريء يبدأ يلم من غير احتكاك.",
+"wrong_1": "Dry hay is too abrasive for a fresh esophageal suture - الدريس الناشف هيجرح الخياطة ويبوظ العملية.",
+"wrong_2": "Immediate grazing will lead to suture dehiscence - المرعى والأكل فورا هيخلي الغرز تفك.",
+"wrong_3": "Cold water alone is insufficient nutrition post-surgery - المية الساقعة مش كفاية والحيوان محتاج محاليل وتغذية وريدية."
+}
+},
+{
+"question": "Which complication is most likely if esophageal suture tension is too high?",
+"options": [
+"Wound dehiscence and fistula",
+"Hypertrophy of the muscle",
+"Immediate rabies infection",
+"Vaginal prolapse"
+],
+"answer": "Wound dehiscence and fistula",
+"explanation": {
+"correct": "High tension or infection leads to suture failure and leakage - لو الشد على الغرز كبير هتفك وتعمل ناصور يسرب أكل.",
+"wrong_1": "Tension leads to atrophy or necrosis, not hypertrophy - الشد بيموت الأنسجة مش بيكبرها.",
+"wrong_2": "Rabies is a virus, not caused by surgical tension - السعار فيروس ملوش علاقة بغرز المريء.",
+"wrong_3": "Vaginal prolapse is a reproductive issue - ده سقوط مهبل ملوش أي علاقة بجراحة الرقبة."
+}
+},
+{
+"question": "A 'doughy painful swelling' at the neck after a choke incident suggests:",
+"options": [
+"Cervical esophageal perforation",
+"Laryngitis",
+"Normal healing",
+"Thyroid cyst"
+],
+"answer": "Cervical esophageal perforation",
+"explanation": {
+"correct": "Leakage of saliva and food into periesophageal tissues causes this swelling - لما المريء يتخرم الأكل والريق بيتجمعوا تحت الجلد ويعملوا ورم زي العجين.",
+"wrong_1": "Laryngitis is inflammation of the larynx, no doughy swelling - التهاب الحنجرة بيعمل كحة وتغير صوت مش ورم عجيني في الرقبة.",
+"wrong_2": "Doughy swelling is never normal post-trauma - الورم ده علامة خطر وعمره ما كان طبيعي.",
+"wrong_3": "Thyroid cysts are usually firm or fluctuant but not 'doughy' from food - أكياس الغدة بيبقى ليها ملمس تاني خالص غير تجمع الأكل والريق."
+}
+},
+{
+"question": "What is the 'Cork-screw' method used for in manipulative choke treatment?",
+"options": [
+"To puncture the rumen",
+"To grasp and retrieve a foreign body",
+"To dilate a stenosis",
+"To suture the skin"
+],
+"answer": "To grasp and retrieve a foreign body",
+"explanation": {
+"correct": "A cork-screw probe can engage a soft object to pull it out - أداة شبه الفتاحة بتدخل تمسك في الحصوة عشان نعرف نشدها لبرة.",
+"wrong_1": "Rumen puncture is done with a trocar - خرم الكرش بنعمله بالتروكار مش بالفتاحة.",
+"wrong_2": "Dilation requires balloons or bougies - توسيع الضيق محتاج قساطر معينة مش فتاحة.",
+"wrong_3": "Suturing is done with needles and holders - الخياطة ليها أدواتها الجراحية المعروفة."
+}
+},
+{
+"question": "Why is 'Barium Sulphate' used in esophageal radiography?",
+"options": [
+"To kill parasites",
+"As a contrast meal to highlight obstructions",
+"To reduce inflammation",
+"To provide essential minerals"
+],
+"answer": "As a contrast meal to highlight obstructions",
+"explanation": {
+"correct": "Barium is radiopaque and outlines the esophageal lumen on X-rays - صبغة الباريوم بتبان بيضا في الأشعة فبتحدد مكان السدة بالظبط.",
+"wrong_1": "Barium is not an anthelmintic - الباريوم صبغة مش دواء ديدان.",
+"wrong_2": "Barium has no anti-inflammatory properties - الباريوم ملوش أي علاقة بعلاج الالتهاب.",
+"wrong_3": "It is not used for nutrition - الباريوم مش مكمل غذائي ده مادة للأشعة بس."
+}
+},
+{
+"question": "What happens if a foreign body penetrates the reticulum towards the thoracic wall?",
+"options": [
+"Foreign body abscess behind the elbow",
+"Hypospadias",
+"Atresia ani",
+"Corneal ulcer"
+],
+"answer": "Foreign body abscess behind the elbow",
+"explanation": {
+"correct": "Objects often migrate from the reticulum to form an abscess near the elbow - الأجسام الغريبة لما بتخرم الشبكية بتمشي وتعمل خراج ورا الكوع.",
+"wrong_1": "Hypospadias is a urethral defect - ده عيب خلقي في مجرى البول.",
+"wrong_2": "Atresia ani is a congenital absence of the anus - ده عيب خلقي (انسداد شرج) ملوش علاقة بالأجسام الغريبة.",
+"wrong_3": "Corneal ulcer is an eye condition - قرحة العين بعيدة تماما عن الشبكية والمريء."
+}
+},
+{
+"question": "In 'Achalasia', why is the animal fed while standing on its hind legs?",
+"options": [
+"To use gravity to assist food passage through the cardia",
+"To strengthen the abdominal muscles",
+"To prevent hoof overgrowth",
+"To induce vomiting"
+],
+"answer": "To use gravity to assist food passage through the cardia",
+"explanation": {
+"correct": "Gravity helps push food through the non-relaxing cardia - بنخلي الحيوان يقف على رجليه اللي ورا عشان الجاذبية تساعد الأكل ينزل للمعدة.",
+"wrong_1": "Muscle strength doesn't solve the cardia's failure to relax - عضلات البطن مش هي اللي هتفتح بوابة المعدة المقفولة.",
+"wrong_2": "Positioning has no effect on hoof growth - الوقفة دي ملهاش دعوة بظوافر الحيوان.",
+"wrong_3": "This position is actually intended to prevent regurgitation - الوضع ده عشان الأكل ينزل مش عشان يرجع ويستفرغ."
+}
+},
+{
+"question": "What surgical approach is preferred for an obstruction in the thoracic esophagus?",
+"options": [
+"Cervical esophagotomy",
+"Presternal esophagotomy",
+"Laparotomy",
+"Enterotomy"
+],
+"answer": "Presternal esophagotomy",
+"explanation": {
+"correct": "Presternal esophagotomy allows extraction from the thoracic segment - الفتح قدام عظمة القص بيخلينا نوصل للجزء اللي جوه الصدر ونطلع الحصوة.",
+"wrong_1": "Cervical approach cannot reach deep thoracic obstructions - فتح الرقبة مش هيوصلك للحصوات اللي دخلت جوه الصدر.",
+"wrong_2": "Laparotomy is for abdominal organs - فتح البطن بعيد عن المريء الصدري.",
+"wrong_3": "Enterotomy is an incision into the intestines - دي فتحة في الأمعاء ملهاش علاقة بالمريء."
+}
+},
+{
+"question": "What is the common cause of 'compression stenosis' in the esophagus?",
+"options": [
+"Mucosal ulcers",
+"Enlarged mediastinal lymph nodes",
+"Faulty intubation",
+"Swallowing a potato"
+],
+"answer": "Enlarged mediastinal lymph nodes",
+"explanation": {
+"correct": "External pressure from lymph nodes narrows the esophageal lumen - الغدد الليمفاوية لما تكبر بتضغط على المريء من برة وتضيقه.",
+"wrong_1": "Mucosal ulcers cause obstructive (internal) stenosis - القرح بتعمل تليف من جوه فده ضيق انسدادي.",
+"wrong_2": "Faulty intubation causes trauma, leading to obstructive scars - الخرطوم لو دخل غلط بيعور ويعمل تليف داخلي.",
+"wrong_3": "Swallowing a potato causes acute obstruction (choke), not chronic stenosis - البطاطس بتعمل سدة مفاجئة مش ضيق مزمن."
+}
+},
+{
+"question": "Which condition shows 'chronic regurgitation and aspiration pneumonia' in puppies?",
+"options": [
+"Esophageal choke",
+"Congenital achalasia",
+"Foreign body abscess",
+"Pharyngitis"
+],
+"answer": "Congenital achalasia",
+"explanation": {
+"correct": "Achalasia prevents food from entering the stomach, leading to regurgitation - الأكالازيا بتخلي الجرو يرجع الأكل لأنه مش عارف يدخل المعدة.",
+"wrong_1": "Choke is usually an acute event, not a chronic congenital syndrome - السدة حالة مفاجئة مش عيب خلقي مزمن بيبان عند الفطام.",
+"wrong_2": "FB abscess is an infection, not a motility disorder - الخراج ده تلوث مش مشكلة في حركة المريء.",
+"wrong_3": "Pharyngitis is inflammation of the throat - التهاب الزور بيعمل وجع في البلع بس مش ارتجاع مزمن وموت."
+}
+},
+{
+"question": "How should a foreign body abscess be managed once it matures?",
+"options": [
+"Wait for it to resolve with antibiotics",
+"Opening, evacuation, and removal of the foreign body",
+"Suturing the abscess closed",
+"Injection of formalin into the cavity"
+],
+"answer": "Opening, evacuation, and removal of the foreign body",
+"explanation": {
+"correct": "The source of infection (foreign body) must be removed for healing - لازم نفتح ونفضي الصديد ونطلع الجسم الغريب عشان الجرح يخف.",
+"wrong_1": "Antibiotics alone won't work if the foreign body remains - المضاد الحيوي مش هيعمل حاجة طول ما الإبرة أو السلك لسه جوه.",
+"wrong_2": "Abscesses must be left open to drain (second intention) - الخراريج مابتتقفلش بغرز لازم تفضل مفتوحة تنظف.",
+"wrong_3": "Formalin causes severe tissue necrosis - الفورمالين بيموت الأنسجة ومينفعش يتحقن في خراج."
+}
+},
+{
+"question": "What is the consequence of 'mucosal ulcers' in the esophagus?",
+"options": [
+"Esophageal spasms and stricture",
+"Increased appetite",
+"Improved peristalsis",
+"Faster gastric emptying"
+],
+"answer": "Esophageal spasms and stricture",
+"explanation": {
+"correct": "Healing of ulcers can lead to scar tissue and narrowing - القرح لما بتلم بتعمل تليف وضيق في المريء وتشنجات.",
+"wrong_1": "Ulcers cause pain, leading to anorexia - القرح بتوجع فالحيوان بيبطل أكل مش نفسه بتتفتح.",
+"wrong_2": "Peristalsis is disrupted by ulcers - الحركة الدودية بتبوظ بسبب الالتهاب والقرح.",
+"wrong_3": "Gastric emptying is unrelated to esophageal mucosal health - تفريغ المعدة ملوش علاقة بقرح المريء."
+}
+},
+{
+"question": "Which nerve failure is often associated with acquired achalasia?",
+"options": [
+"Lack of afferent innervations",
+"Optic nerve damage",
+"Radial nerve paralysis",
+"Sciatic nerve injury"
+],
+"answer": "Lack of afferent innervations",
+"explanation": {
+"correct": "The loss of nerve signaling prevents coordinated relaxation of the cardia - نقص التوصيل العصبي بيخلي بوابة المعدة متعرفش تفتح في الوقت الصح.",
+"wrong_1": "Optic nerve is for vision - العصب البصري ده بتاع العين ملوش دعوة بالبلع.",
+"wrong_2": "Radial nerve is for the front leg - العصب الكعبري ده بتاع الرجل القدامية.",
+"wrong_3": "Sciatic nerve is for the hind leg - العصب الوركي ده بتاع الرجل اللي ورا."
+}
+},
+{
+"question": "In manipulative treatment of choke, why is a probang used cautiously?",
+"options": [
+"Risk of shifting obstruction from cervical to thoracic esophagus",
+"It may cause immediate rabies",
+"It always causes bloat",
+"It is only for liquid diets"
+],
+"answer": "Risk of shifting obstruction from cervical to thoracic esophagus",
+"explanation": {
+"correct": "Pushing a foreign body may lodge it deeper where surgery is harder - لو زقيت الحصوة ممكن تنزل من الرقبة للصدر وتصعب العملية أكتر.",
+"wrong_1": "Probangs do not transmit rabies - البروبانج أداة جراحية مش بتجيب سعار.",
+"wrong_2": "It is used to relieve bloat eventually - بالعكس ده إحنا بنستخدمه عشان نعدي السدة ونفك الانتفاخ.",
+"wrong_3": "Probangs are used for solid obstructions - الأداة دي معمولة مخصوص للأجسام الصلبة مش السوائل."
+}
+},
+{
+"question": "Which chemical can cause severe esophagitis in ruminants?",
+"options": [
+"Caustic anthelmintics",
+"Isotonic saline",
+"Distilled water",
+"Vitamin B complex"
+],
+"answer": "Caustic anthelmintics",
+"explanation": {
+"correct": "Certain harsh dewormers can burn the esophageal mucosa if given improperly - بعض أدوية الديدان الكاوية ممكن تحرق المريء لو اتعطت غلط.",
+"wrong_1": "Saline is physiological and safe - المحلول الملح مفيهوش أي خطورة على الأنسجة.",
+"wrong_2": "Distilled water is harmless to the mucosa - المية المقطرة مش كاوية.",
+"wrong_3": "Vitamin B is injectable or oral and not caustic - فيتامين ب مش بيحرق المريء."
+}
+},
+{
+"question": "What is the 'predilection site' for choke located at the entrance of the chest?",
+"options": [
+"Pharyngeal entrance",
+"Thoracic entrance",
+"Aortic arch",
+"Cardia"
+],
+"answer": "Thoracic entrance",
+"explanation": {
+"correct": "The thoracic entrance is a narrow point where foreign bodies often lodge - مدخل الصدر حتة ضيقة ومشهورة جدا بوقوف الحصوات فيها.",
+"wrong_1": "Pharyngeal is at the throat - ده عند الزور فوق مش عند الصدر.",
+"wrong_2": "Aortic arch is deeper inside the chest - ده جوه الصدر نفسه مش عند المدخل.",
+"wrong_3": "Cardia is the end of the esophagus - ده في أخر المريء خالص عند المعدة."
+}
+},
+{
+"question": "What happens if an esophageal perforation connects with the skin surface?",
+"options": [
+"Esophageal fistula",
+"Internal bloat only",
+"Intussusception",
+"Retinal detachment"
+],
+"answer": "Esophageal fistula",
+"explanation": {
+"correct": "A tract forming between the esophagus and skin is a fistula - لو الخرم وصل للجلد برة بيبقى اسمه ناصور مريئي.",
+"wrong_1": "Internal bloat is a sign of obstruction, not necessarily fistula - الانتفاخ بيحصل لما السكة تتسد مش لما تتفتح لبرة.",
+"wrong_2": "Intussusception is a bowel condition - ده تداخل أمعاء ملوش علاقة بالمريء والجلد.",
+"wrong_3": "Retinal detachment is an eye disease - ده انفصال شبكية في العين."
+}
+},
+{
+"question": "Which antiseptic is mentioned for washing an evacuated foreign body abscess cavity?",
+"options": [
+"Hydrogen peroxide",
+"Concentrated sulfuric acid",
+"Pure alcohol",
+"Boiling oil"
+],
+"answer": "Hydrogen peroxide",
+"explanation": {
+"correct": "Hydrogen peroxide is used to cleanse infected cavities - مية الأكسجين بننظف بيها مكان الصديد عشان نقتل البكتيريا اللاهوائية.",
+"wrong_1": "Sulfuric acid is highly destructive to living tissue - حمض الكبريتيك ده مادة حارقة هتموت الحيوان.",
+"wrong_2": "Pure alcohol is painful and can damage healthy tissue in deep wounds - الكحول المركز بيوجع جدا وممكن يبوظ الأنسجة جوه الجرح.",
+"wrong_3": "Boiling oil is a medieval torture, not a veterinary treatment - الزيت المغلي ده مش علاج جراحي خالص."
+}
+},
+{
+"question": "What does 'External Taxis' refer to in choke management?",
+"options": [
+"Using a stomach tube to push the object",
+"Manual manipulation of the object through the skin",
+"Surgical incision into the rumen",
+"Giving intravenous fluids"
+],
+"answer": "Manual manipulation of the object through the skin",
+"explanation": {
+"correct": "External taxis involves forcing the object upward or downward by hand - التدليك الخارجي يعني تحاول تزق الحصوة بإيدك من برة الجلد.",
+"wrong_1": "Using a tube is called manipulative treatment/probing - الخرطوم ده وسيلة تانية خالص مش اسمها تاكسيس.",
+"wrong_2": "Rumen incision is a rumenotomy - فتح الكرش دي عملية لوحدها.",
+"wrong_3": "Fluids are supportive care - المحاليل علاج تكميلي مش تحريك للحصوة."
+}
+},
+{
+"question": "Why is 'sodium bicarbonate' added to fluid therapy in choke cases?",
+"options": [
+"To combat acidosis from saliva loss",
+"To make the urine alkaline",
+"To dissolve the foreign body",
+"To increase heart rate"
+],
+"answer": "To combat acidosis from saliva loss",
+"explanation": {
+"correct": "Saliva is rich in bicarbonate; losing it leads to metabolic acidosis - الريق فيه بيكربونات كتير، ولما الحيوان يريله كله بيحصله حموضة في الدم.",
+"wrong_1": "Alkalizing urine is not the primary goal here - إحنا بنعالج الدم مش بنغير حموضة البول.",
+"wrong_2": "Bicarbonate does not dissolve solid foreign bodies - البيكربونات مش هتدوب البرتقالة أو البطاطس اللي سادة المريء.",
+"wrong_3": "Bicarbonate is not a cardiac stimulant - هي مش منشط لضربات القلب."
+}
+},
+{
+"question": "In 'Presternal Esophagotomy', how is the foreign body often removed?",
+"options": [
+"By hand from the mouth",
+"Using a foreign body extractor or pushing to the rumen",
+"Through the ear",
+"It is left to dissolve"
+],
+"answer": "Using a foreign body extractor or pushing to the rumen",
+"explanation": {
+"correct": "Specific extractors help retrieve objects from the thoracic esophagus - بنستخدم ملاقط طويلة أو بنزق الحصوة للكرش من الفتحة دي.",
+"wrong_1": "Hand from mouth cannot reach the thoracic segment - إيدك من بوقه مش هتجيب حاجة في أخر صدره.",
+"wrong_2": "The ear has no connection to the esophagus - الودن ملهاش علاقة بالمريء.",
+"wrong_3": "Foreign bodies like stones or leather won't dissolve - الأجسام الصلبة مش بتدوب لوحدها لازم تطلع."
+}
+},
+{
+"question": "Which layer of the esophagus is described as musculo-membranous?",
+"options": [
+"The entire organ",
+"Only the mucosa",
+"Only the adventitia",
+"The trachea"
+],
+"answer": "The entire organ",
+"explanation": {
+"correct": "The esophagus is a musculo-membranous tube composed of four layers - المريء كله على بعضه عبارة عن أنبوبة عضلية غشائية.",
+"wrong_1": "Mucosa is just one of the four layers - المخاطية دي طبقة واحدة بس مش العضو كله.",
+"wrong_2": "Adventitia is the outermost connective tissue layer - دي الطبقة الخارجية بس.",
+"wrong_3": "The trachea is the windpipe, not the esophagus - القصبة الهوائية دي بتاعة النفس مش البلع."
+}
+},
+{
+"question": "What clinical sign is common in 'Incomplete Obstruction'?",
+"options": [
+"Sudden death in minutes",
+"Bloat that may resolve spontaneously",
+"Complete inability to drink liquids",
+"Absence of saliva"
+],
+"answer": "Bloat that may resolve spontaneously",
+"explanation": {
+"correct": "Incomplete choke allows some gas to pass, so bloat is intermittent - السدة الناقصة بتعدي شوية هوا فالتنفيس بيبقى موجود والكرش بيفش ويرجع.",
+"wrong_1": "Choke is rarely fatal in minutes - السدة مش بتموت في دقايق بتاخد وقت.",
+"wrong_2": "Liquid can often pass in incomplete choke - السوائل ممكن تعدي لو السدة مش كاملة.",
+"wrong_3": "Salivation (ptyalism) is still present due to pain - الريالة بتفضل موجودة عشان الوجع والتهيج."
+}
+},
+{
+"question": "Diagnosis of esophageal fistula is best confirmed by:",
+"options": [
+"Ingestion of dye solution (e.g. Methylene blue)",
+"Skin biopsy",
+"Listening to heart sounds",
+"Checking the animal's temperature"
+],
+"answer": "Ingestion of dye solution (e.g. Methylene blue)",
+"explanation": {
+"correct": "Seeing the dye leak from the neck wound confirms the connection - لما تشرب الحيوان صبغة وتخرج من خرم الرقبة تتأكد إن في ناصور.",
+"wrong_1": "Skin biopsy won't show the internal tract connection - عينة الجلد مش هتقولك المريء مفتوح ولا لأ.",
+"wrong_2": "Heart sounds are unrelated to esophageal tracts - ضربات القلب ملهاش دعوة بخرير المريء.",
+"wrong_3": "Temperature indicates infection but not the presence of a fistula - الحرارة بتقول في التهاب بس مش بتشخص مكان الناصور."
+}
+},
+{
+"question": "Which muscle is involved in the ventrolateral exposure of the upper cervical esophagus?",
+"options": [
+"Sternocephalic muscle",
+"Gluteal muscle",
+"Masseter muscle",
+"Gastrocnemius muscle"
+],
+"answer": "Sternocephalic muscle",
+"explanation": {
+"correct": "The approach is between the sternocephalic muscle and the trachea - الفتحة بتكون بين عضلة الاستيرنوسيفاليك والقصبة الهوائية.",
+"wrong_1": "Gluteal muscle is in the rump - دي عضلة الكفل ورا عند المؤخرة.",
+"wrong_2": "Masseter is a jaw muscle - دي عضلة الفك بتاعة المضغ.",
+"wrong_3": "Gastrocnemius is in the hind leg - دي عضلة في الرجل اللي ورا."
+}
+}
+]
